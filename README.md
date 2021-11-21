@@ -5,16 +5,9 @@ This is where I upload my packages to be visible in package managers like Cydia,
 
 ## How do I add your repo?
 
-Simply launch your Package Manager and add a new "Source" then type https://dylbinthedev.github.io/
+Simply launch your Package Manager and add a new "Source" then type https://dylbin.github.io/
 
 ## Requirements
 - Requires a jailbroken iPhone, iPad, iPod touch
 - A Package Manager (Sileo, Cydia, Installer, Zebra and Saily)
 - A device running iOS/iPadOS
-
-## Mirror Repositories
-- ModMyi/ZodTTD+ Repo (https://dylbinthedev.github.io/modmyi/
-  - This repo is a mirror for CoolStar's repo unclutter which filters ModMyi/ZodTTD Repo to only show packages compatible with iOS 11 and above.
-
-- Nepeta Mirror Repo (https://dylbinthedev.github.io/Nepeta-Mirror/
-  - This repo contains Nepeta's old tweaks for iOS 11 and 12.
