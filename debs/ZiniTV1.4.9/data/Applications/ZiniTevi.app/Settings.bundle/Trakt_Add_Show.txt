@@ -1,0 +1,17 @@
+{
+  "%@": "%@",
+  "ids": {
+    "trakt": %d,
+    "tmdb": %d
+  },
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "number": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+$.fn.botStream.movieInfo={title: '%@', originalTitle: '%@', year: %d, show: %@, season: %d, episodeNumber: %d, filmImdb: '%@', episodeImdb: '%@', episodeNumberSeasons: %d, yearFirstSeason: %d, language: {name: '%@', code: '%@'}};

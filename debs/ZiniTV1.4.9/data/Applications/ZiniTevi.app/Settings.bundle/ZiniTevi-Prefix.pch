@@ -1,0 +1,17 @@
+#include "/Volumes/DATA/Mine/Projects/BMBGroup/ZiniTeviV3/Snake/symbols.h"
+//
+//  Snake-Prefix.pch
+//  Snake
+//
+//  Created by iWeather on 8/24/21.
+//  Copyright © 2021 Tarun Pratap Singh. All rights reserved.
+//
+
+#ifndef Snake_Prefix_pch
+#define Snake_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#endif /* Snake_Prefix_pch */

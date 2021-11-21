@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appearanceAware</key>
+	<true/>
+	<key>darkImage</key>
+	<string>Dark.PNG</string>
+	<key>darkVideo</key>
+	<string></string>
+	<key>defaultImage</key>
+	<string>Light.PNG</string>
+	<key>defaultVideo</key>
+	<string></string>
+	<key>thumbnailImage</key>
+	<string>Light.PNG</string>
+	<key>wallpaperType</key>
+	<integer>1</integer>
+</dict>
+</plist>
