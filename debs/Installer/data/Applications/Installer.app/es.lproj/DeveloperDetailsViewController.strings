@@ -1,0 +1,17 @@
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec ultricies risus, sit amet pharetra massa. Duis interdum pretium ipsum, sed vehicula felis convallis sit amet. Donec sed semper sapien. "; ObjectID = "4a7-md-l27"; */
+"4a7-md-l27.text" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec ultricies risus, sit amet pharetra massa. Duis interdum pretium ipsum, sed vehicula felis convallis sit amet. Donec sed semper sapien. ";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "VCn-K4-qk3"; */
+"VCn-K4-qk3.normalTitle" = "Más";
+
+/* Class = "UILabel"; text = "The developer has no packages"; ObjectID = "gj7-Fo-gfI"; */
+"gj7-Fo-gfI.text" = "El desarrollador no tiene paquetes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pMt-2f-bIA"; */
+"pMt-2f-bIA.text" = "Etiqueta";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "qJ3-lT-V7c"; */
+"qJ3-lT-V7c.text" = "Información";
+
+/* Class = "UILabel"; text = "Packages by this developer"; ObjectID = "uG6-Ik-YXu"; */
+"uG6-Ik-YXu.text" = "Paquetes de este desarrollador";

@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "Welcome To \nInstaller!"; ObjectID = "U0j-Av-J8d"; */
+"U0j-Av-J8d.text" = "Installer'a
+Hoş Geldiniz!";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "rJG-xQ-NlZ"; */
+"rJG-xQ-NlZ.normalTitle" = "Devam Et";

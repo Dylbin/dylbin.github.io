@@ -1,0 +1,26 @@
+/* Class = "UILabel"; text = "Installer 5"; ObjectID = "0S7-un-VPn"; */
+"0S7-un-VPn.text" = "Installer 5";
+
+/* Class = "UILabel"; text = "AppTapp Research"; ObjectID = "1dx-f8-jLr"; */
+"1dx-f8-jLr.text" = "AppTapp Research";
+
+/* Class = "UIButton"; normalTitle = "GET"; ObjectID = "7VI-aw-jHm"; */
+"7VI-aw-jHm.normalTitle" = "获取";
+
+/* Class = "UILabel"; text = "1.2.0"; ObjectID = "B3c-nh-ZRl"; */
+"B3c-nh-ZRl.text" = "1.2.0";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "Lzc-CK-Lcc"; */
+"Lzc-CK-Lcc.text" = "\U7248\U672c";
+
+/* Class = "UILabel"; text = "1Mb"; ObjectID = "ccH-t8-aSm"; */
+"ccH-t8-aSm.text" = "1Mb";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "d4b-Js-VBG"; */
+"d4b-Js-VBG.text" = "分类";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "h00-la-Pkx"; */
+"h00-la-Pkx.text" = "文本大小";
+
+/* Class = "UILabel"; text = "Apps"; ObjectID = "uZR-NV-ypD"; */
+"uZR-NV-ypD.text" = "应用";

@@ -1,0 +1,53 @@
+/* Class = "UILabel"; text = "Changelog"; ObjectID = "4AY-R6-mCu"; */
+"4AY-R6-mCu.text" = "Historial de cambios";
+
+/* Class = "UIButton"; normalTitle = "GET"; ObjectID = "7xC-Op-5Q4"; */
+"7xC-Op-5Q4.normalTitle" = "OBTENER";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "8RZ-ZM-K42"; */
+"8RZ-ZM-K42.normalTitle" = "Ver todos";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "HQv-cs-nGk"; */
+"HQv-cs-nGk.text" = "Versión ";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "JmN-mY-PL6"; */
+"JmN-mY-PL6.text" = "Categoría";
+
+/* Class = "UILabel"; text = "Reponame"; ObjectID = "Yxq-dk-J6Q"; */
+"Yxq-dk-J6Q.text" = "Nombre de Repositorio";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "eQO-g1-ld0"; */
+"eQO-g1-ld0.text" = "Detalles";
+
+/* Class = "UILabel"; text = "V.1.2.5"; ObjectID = "fjt-cJ-HZL"; */
+"fjt-cJ-HZL.text" = "V.1.2.5";
+
+/* Class = "UILabel"; text = "local"; ObjectID = "hGJ-dS-aCC"; */
+"hGJ-dS-aCC.text" = "Local";
+
+/* Class = "UILabel"; text = "repodescriptionhere"; ObjectID = "ijR-7H-KF1"; */
+"ijR-7H-KF1.text" = "Descripción de repositorio aquí ";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "kOy-ug-nKM"; */
+"kOy-ug-nKM.text" = "4.5";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "kka-nv-ooP"; */
+"kka-nv-ooP.text" = "Repositorio";
+
+/* Class = "UILabel"; text = "Depends:"; ObjectID = "nJa-vA-B3c"; */
+"nJa-vA-B3c.text" = "Depende de:";
+
+/* Class = "UILabel"; text = "tweakname"; ObjectID = "nOd-kz-MWa"; */
+"nOd-kz-MWa.text" = "Nombre del paquete";
+
+/* Class = "UILabel"; text = "devname"; ObjectID = "qJG-al-gAB"; */
+"qJG-al-gAB.text" = "Desarrollador";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "sub-u3-9c9"; */
+"sub-u3-9c9.text" = "Repositorio";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "uva-Kg-EN0"; */
+"uva-Kg-EN0.normalTitle" = "Más";
+
+/* Class = "UILabel"; text = "More by this Developer"; ObjectID = "yIS-I5-4VM"; */
+"yIS-I5-4VM.text" = "Más de este desarrollador";

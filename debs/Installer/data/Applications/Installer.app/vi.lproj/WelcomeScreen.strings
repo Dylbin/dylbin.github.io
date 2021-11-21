@@ -1,0 +1,23 @@
+/* Class = "UILabel"; text = "Whats New In Installer!"; ObjectID = "U0j-Av-J8d"; */
+"U0j-Av-J8d.text" = "Có gì mới trong Installer!";
+
+/* Class = "UILabel"; text = "No one likes waiting, and now you don’t have to.  We revamped our networking and now offer unparalleled source refresh speeds, so you can spend less time waiting and more time tweaking your device."; ObjectID = "glm-j1-8Dt"; */
+"glm-j1-8Dt.text" = "Không ai thích chờ đợi, và bạn cũng thế. Chúng tôi đã tân trang lại mạng của mình và hiện cung cấp tốc độ làm mới nguồn nhanh hơn, vì vậy bạn có thể dành ít thời gian chờ đợi và nhiều thời gian hơn để điều chỉnh thiết bị của mình.";
+
+/* Class = "UILabel"; text = "Super Fast Refresh Speeds"; ObjectID = "gxb-vY-iD8"; */
+"gxb-vY-iD8.text" = "Tốc độ làm mới siêu nhanh";
+
+/* Class = "UILabel"; text = "Installer Meets APT"; ObjectID = "k2v-xv-mew"; */
+"k2v-xv-mew.text" = "Installer đáp ứng APT";
+
+/* Class = "UILabel"; text = "Installer now offers full iOS 13 support, taking advantage of several new features & optimizations introduced in iOS 13."; ObjectID = "p0G-Rk-a84"; */
+"p0G-Rk-a84.text" = "Installer hiện cung cấp hỗ trợ iOS 13 đầy đủ, tận hưởng một số tính năng mới và tối ưu hóa được giới thiệu trong iOS 13.";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "rJG-xQ-NlZ"; */
+"rJG-xQ-NlZ.normalTitle" = "Tiếp tục";
+
+/* Class = "UILabel"; text = "iOS 13 Support"; ObjectID = "tC0-Ha-WJg"; */
+"tC0-Ha-WJg.text" = "Hỗ trợ iOS 13";
+
+/* Class = "UILabel"; text = "We’ve performed a major overhaul of Installers backend utilizing the unmatched reliability of APT. We put great care into pushing it beyond its limits to bring the fastest APT package manager to date."; ObjectID = "wkS-7L-S9B"; */
+"wkS-7L-S9B.text" = "Chúng tôi đã thực hiện một số thay đổi lớn về phụ trợ của Installer, sử dụng độ tin cậy chưa từng có của APT. Chúng tôi rất quan tâm đến việc đẩy nó vượt quá giới hạn của để mang đến trình quản lý gói APT nhanh nhất cho đến nay.";

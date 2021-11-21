@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "Pure Black Mode"; ObjectID = "IBA-YO-4fX"; */
+"IBA-YO-4fX.text" = "Chế độ đen thuần";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Ibm-7y-8Lg"; */
+"Ibm-7y-8Lg.normalTitle" = "Tiếp tục";
+
+/* Class = "UILabel"; text = "Light Mode"; ObjectID = "K92-Gf-h7g"; */
+"K92-Gf-h7g.text" = "Chế độ sáng";
+
+/* Class = "UILabel"; text = "Blue-Black Mode"; ObjectID = "Qaz-ZL-Oc6"; */
+"Qaz-ZL-Oc6.text" = "Chế độ đen xanh";
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "Uqd-Q5-BCk"; */
+"Uqd-Q5-BCk.text" = "Chế độ tối";

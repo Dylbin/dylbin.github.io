@@ -1,0 +1,62 @@
+/* Class = "UILabel"; text = "AppTapp"; ObjectID = "1AG-Ii-Cme"; */
+"1AG-Ii-Cme.text" = "AppTapp";
+
+/* Class = "UILabel"; text = "AppTapp"; ObjectID = "1Ba-0o-KF3"; */
+"1Ba-0o-KF3.text" = "AppTapp";
+
+/* Class = "UILabel"; text = "Installed Packages"; ObjectID = "5It-Fr-dMO"; */
+"5It-Fr-dMO.text" = "Paket Terpasang";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "7h2-M0-t35"; */
+"7h2-M0-t35.text" = "Kategori";
+
+/* Class = "UILabel"; text = "The main default repository, brought to you by AppTapp and Infinidev. This repository hosts the majority of tweaks and tools jailbreakers use."; ObjectID = "8aR-iT-7XZ"; */
+"8aR-iT-7XZ.text" = "Repositori asali utama, dipersembahkan oleh AppTapp dan Infinidev. Repositori ini menampung sebagian besar tweak dan alat yang digunakan para pecinta jailbreak.";
+
+/* Class = "UIButton"; normalTitle = "Email"; ObjectID = "HlM-7a-sgo"; */
+"HlM-7a-sgo.normalTitle" = "Email";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "IBp-sa-tbT"; */
+"IBp-sa-tbT.text" = "XXX";
+
+/* Class = "UIButton"; normalTitle = "Donate"; ObjectID = "Iyo-Kj-Wbz"; */
+"Iyo-Kj-Wbz.normalTitle" = "Donasi";
+
+/* Class = "UITextField"; text = "https://i.apptapp.me"; ObjectID = "OmA-Vs-WzH"; */
+"OmA-Vs-WzH.text" = "https://i.apptapp.me";
+
+/* Class = "UILabel"; text = "Follow this repository"; ObjectID = "OoK-OJ-RRD"; */
+"OoK-OJ-RRD.text" = "Ikuti repositori ini";
+
+/* Class = "UILabel"; text = "Updated"; ObjectID = "SrK-rj-QWY"; */
+"SrK-rj-QWY.text" = "Diperbaharui";
+
+/* Class = "UILabel"; text = "XX/XX/XXXX"; ObjectID = "Vi3-eH-ILb"; */
+"Vi3-eH-ILb.text" = "XX/XX/XXXX";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "cIL-ld-zDR"; */
+"cIL-ld-zDR.text" = "XXX";
+
+/* Class = "UILabel"; text = "Organisation"; ObjectID = "d60-NH-BRZ"; */
+"d60-NH-BRZ.text" = "Organisasi";
+
+/* Class = "UILabel"; text = "Default Repository"; ObjectID = "eJ1-I4-rzp"; */
+"eJ1-I4-rzp.text" = "Sumber Asali";
+
+/* Class = "UIButton"; normalTitle = "Twitter"; ObjectID = "gxQ-jZ-3Nc"; */
+"gxQ-jZ-3Nc.normalTitle" = "Twitter";
+
+/* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "l4d-rA-39S"; */
+"l4d-rA-39S.normalTitle" = "Dibeli";
+
+/* Class = "UILabel"; text = "CYDIA REPOSITORY"; ObjectID = "m5E-42-80e"; */
+"m5E-42-80e.text" = "SUMBER CYDIA";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "ppt-Tp-LNo"; */
+"ppt-Tp-LNo.normalTitle" = "Keluar";
+
+/* Class = "UILabel"; text = "Show original depictions"; ObjectID = "q7P-M3-gSw"; */
+"q7P-M3-gSw.text" = "Tampilkan deskripsi asli";
+
+/* Class = "UILabel"; text = "Total Packages"; ObjectID = "zhF-S6-ePT"; */
+"zhF-S6-ePT.text" = "Jumlah Paket";

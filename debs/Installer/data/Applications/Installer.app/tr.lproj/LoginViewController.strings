@@ -1,0 +1,17 @@
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "1Pp-PW-M5d"; */
+"1Pp-PW-M5d.normalTitle" = "Giriş Yap";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "HPn-xR-4r5"; */
+"HPn-xR-4r5.placeholder" = "Kullanıcı Adı";
+
+/* Class = "UILabel"; text = "Login To Your AppTapp\nAccount"; ObjectID = "XWs-bZ-QN3"; */
+"XWs-bZ-QN3.text" = "AppTapp Hesabına\nGiriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Sign Up."; ObjectID = "bxT-lu-42q"; */
+"bxT-lu-42q.normalTitle" = "Hesabınız yok mu? Kaydolun.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dWM-zh-7OG"; */
+"dWM-zh-7OG.placeholder" = "Şifre";
+
+/* Class = "UIButton"; normalTitle = "I want to use Installer logged out"; ObjectID = "owS-4f-gAy"; */
+"owS-4f-gAy.normalTitle" = "Installer'ı hesap olmadan kullanmak istiyorum";

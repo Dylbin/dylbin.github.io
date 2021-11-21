@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "Cydia"; ObjectID = "OnH-ck-nFp"; */
+"OnH-ck-nFp.text" = "سيديا";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "RiL-32-3L3"; */
+"RiL-32-3L3.normalTitle" = "إستمرار";
+
+/* Class = "UILabel"; text = "Zebra"; ObjectID = "Vy5-fN-zfT"; */
+"Vy5-fN-zfT.text" = "زيبرا";
+
+/* Class = "UILabel"; text = "Sileo"; ObjectID = "ZJP-o3-rxT"; */
+"ZJP-o3-rxT.text" = "سيليو";
+
+/* Class = "UILabel"; text = "Import Sources"; ObjectID = "tUH-in-fpG"; */
+"tUH-in-fpG.text" = "استراد المصادر";

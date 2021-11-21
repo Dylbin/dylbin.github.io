@@ -1,0 +1,53 @@
+/* Class = "UILabel"; text = "Changelog"; ObjectID = "4AY-R6-mCu"; */
+"4AY-R6-mCu.text" = "更新日志";
+
+/* Class = "UIButton"; normalTitle = "GET"; ObjectID = "7xC-Op-5Q4"; */
+"7xC-Op-5Q4.normalTitle" = "获取";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "8RZ-ZM-K42"; */
+"8RZ-ZM-K42.normalTitle" = "\U663e\U793a\U6240\U6709";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "HQv-cs-nGk"; */
+"HQv-cs-nGk.text" = "\U7248\U672c";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "JmN-mY-PL6"; */
+"JmN-mY-PL6.text" = "分类";
+
+/* Class = "UILabel"; text = "Reponame"; ObjectID = "Yxq-dk-J6Q"; */
+"Yxq-dk-J6Q.text" = "\U522b\U540d";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "eQO-g1-ld0"; */
+"eQO-g1-ld0.text" = "\U8be6\U60c5";
+
+/* Class = "UILabel"; text = "V.1.2.5"; ObjectID = "fjt-cJ-HZL"; */
+"fjt-cJ-HZL.text" = "V.1.2.5";
+
+/* Class = "UILabel"; text = "local"; ObjectID = "hGJ-dS-aCC"; */
+"hGJ-dS-aCC.text" = "\U672c\U5730";
+
+/* Class = "UILabel"; text = "repodescriptionhere"; ObjectID = "ijR-7H-KF1"; */
+"ijR-7H-KF1.text" = "\U6e90\U5730\U5740\U63cf\U8ff0";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "kOy-ug-nKM"; */
+"kOy-ug-nKM.text" = "4.5";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "kka-nv-ooP"; */
+"kka-nv-ooP.text" = "\U8f6f\U4ef6\U6e90";
+
+/* Class = "UILabel"; text = "Depends:"; ObjectID = "nJa-vA-B3c"; */
+"nJa-vA-B3c.text" = "\U4f9d\U8d56\Uff1a";
+
+/* Class = "UILabel"; text = "tweakname"; ObjectID = "nOd-kz-MWa"; */
+"nOd-kz-MWa.text" = "\U63d2\U4ef6\U540d\U79f0";
+
+/* Class = "UILabel"; text = "devname"; ObjectID = "qJG-al-gAB"; */
+"qJG-al-gAB.text" = "开发者";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "sub-u3-9c9"; */
+"sub-u3-9c9.text" = "\U8f6f\U4ef6\U6e90";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "uva-Kg-EN0"; */
+"uva-Kg-EN0.normalTitle" = "\U66f4\U591a";
+
+/* Class = "UILabel"; text = "More by this Developer"; ObjectID = "yIS-I5-4VM"; */
+"yIS-I5-4VM.text" = "\U6b64\U5f00\U53d1\U8005\U7684\U66f4\U591a\U8f6f\U4ef6\U5305";

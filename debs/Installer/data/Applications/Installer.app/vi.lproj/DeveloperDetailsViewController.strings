@@ -1,0 +1,17 @@
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec ultricies risus, sit amet pharetra massa. Duis interdum pretium ipsum, sed vehicula felis convallis sit amet. Donec sed semper sapien. "; ObjectID = "4a7-md-l27"; */
+"4a7-md-l27.text" = "lorem ipsum là một cử nhân của súp cà chua, một quy trình giám sát được cải thiện. Trình bày tốt với một risus, ngồi, và quần chúng. Bài tập về nhà đôi khi mệt mỏi nhưng với chi phí riêng, có nhiều phương tiện trong thung lũng xăng. Nhưng nó luôn luôn đến.";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "VCn-K4-qk3"; */
+"VCn-K4-qk3.normalTitle" = "Thêm";
+
+/* Class = "UILabel"; text = "The developer has no packages"; ObjectID = "gj7-Fo-gfI"; */
+"gj7-Fo-gfI.text" = "Nhà phát triển không có gói nào";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pMt-2f-bIA"; */
+"pMt-2f-bIA.text" = "Tiêu đề";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "qJ3-lT-V7c"; */
+"qJ3-lT-V7c.text" = "Thông tin";
+
+/* Class = "UILabel"; text = "Packages by this developer"; ObjectID = "uG6-Ik-YXu"; */
+"uG6-Ik-YXu.text" = "Gói bởi Nhà phát triển này";

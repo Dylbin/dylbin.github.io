@@ -1,0 +1,18 @@
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "1Pp-PW-M5d"; */
+"1Pp-PW-M5d.normalTitle" = "Đăng Nhập";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "HPn-xR-4r5"; */
+"HPn-xR-4r5.placeholder" = "Tên người dùng";
+
+/* Class = "UILabel"; text = "Login To Your AppTapp\nAccount"; ObjectID = "XWs-bZ-QN3"; */
+"XWs-bZ-QN3.text" = "Đăng nhập tài khoản của bạn vào AppTapp";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account? Sign Up."; ObjectID = "bxT-lu-42q"; */
+"bxT-lu-42q.normalTitle" = "Không có tài khoản? Đăng ký.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "dWM-zh-7OG"; */
+"dWM-zh-7OG.placeholder" = "Mật khẩu";
+
+/* Class = "UIButton"; normalTitle = "I want to use Installer logged out"; ObjectID = "owS-4f-gAy"; */
+"owS-4f-gAy.normalTitle" = "Tôi muốn sử dụng Installer đã đăng xuất
+";

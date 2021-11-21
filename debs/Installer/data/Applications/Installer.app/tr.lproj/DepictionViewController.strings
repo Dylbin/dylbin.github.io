@@ -1,0 +1,53 @@
+/* Class = "UILabel"; text = "Changelog"; ObjectID = "4AY-R6-mCu"; */
+"4AY-R6-mCu.text" = "Değişiklik Notları";
+
+/* Class = "UIButton"; normalTitle = "GET"; ObjectID = "7xC-Op-5Q4"; */
+"7xC-Op-5Q4.normalTitle" = "YÜKLE";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "8RZ-ZM-K42"; */
+"8RZ-ZM-K42.normalTitle" = "Tümünü Göster";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "HQv-cs-nGk"; */
+"HQv-cs-nGk.text" = "Sürüm";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "JmN-mY-PL6"; */
+"JmN-mY-PL6.text" = "Kategori";
+
+/* Class = "UILabel"; text = "Reponame"; ObjectID = "Yxq-dk-J6Q"; */
+"Yxq-dk-J6Q.text" = "Kaynak Adı";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "eQO-g1-ld0"; */
+"eQO-g1-ld0.text" = "Ayrıntılar";
+
+/* Class = "UILabel"; text = "V.1.2.5"; ObjectID = "fjt-cJ-HZL"; */
+"fjt-cJ-HZL.text" = "V.1.2.5";
+
+/* Class = "UILabel"; text = "local"; ObjectID = "hGJ-dS-aCC"; */
+"hGJ-dS-aCC.text" = "yerel";
+
+/* Class = "UILabel"; text = "repodescriptionhere"; ObjectID = "ijR-7H-KF1"; */
+"ijR-7H-KF1.text" = "repoaçıklamasıburaya";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "kOy-ug-nKM"; */
+"kOy-ug-nKM.text" = "4.5";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "kka-nv-ooP"; */
+"kka-nv-ooP.text" = "Kaynak";
+
+/* Class = "UILabel"; text = "Depends:"; ObjectID = "nJa-vA-B3c"; */
+"nJa-vA-B3c.text" = "Bağımlılıklar:";
+
+/* Class = "UILabel"; text = "tweakname"; ObjectID = "nOd-kz-MWa"; */
+"nOd-kz-MWa.text" = "tweakadı";
+
+/* Class = "UILabel"; text = "devname"; ObjectID = "qJG-al-gAB"; */
+"qJG-al-gAB.text" = "geliştiriciadı";
+
+/* Class = "UILabel"; text = "Repo"; ObjectID = "sub-u3-9c9"; */
+"sub-u3-9c9.text" = "Kaynak";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "uva-Kg-EN0"; */
+"uva-Kg-EN0.normalTitle" = "Daha Fazla";
+
+/* Class = "UILabel"; text = "More by this Developer"; ObjectID = "yIS-I5-4VM"; */
+"yIS-I5-4VM.text" = "Bu geliştiriciden daha fazla";

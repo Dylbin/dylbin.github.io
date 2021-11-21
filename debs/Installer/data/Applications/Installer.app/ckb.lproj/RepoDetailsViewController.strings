@@ -1,0 +1,62 @@
+/* Class = "UILabel"; text = "AppTapp"; ObjectID = "1AG-Ii-Cme"; */
+"1AG-Ii-Cme.text" = "AppTapp";
+
+/* Class = "UILabel"; text = "AppTapp"; ObjectID = "1Ba-0o-KF3"; */
+"1Ba-0o-KF3.text" = "AppTapp";
+
+/* Class = "UILabel"; text = "Installed Packages"; ObjectID = "5It-Fr-dMO"; */
+"5It-Fr-dMO.text" = "پاكێجه‌ دامه‌زراوه‌كان";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "7h2-M0-t35"; */
+"7h2-M0-t35.text" = "جۆر";
+
+/* Class = "UILabel"; text = "The main default repository, brought to you by AppTapp and Infinidev. This repository hosts the majority of tweaks and tools jailbreakers use."; ObjectID = "8aR-iT-7XZ"; */
+"8aR-iT-7XZ.text" = "کۆگای سەرەکی دانراو، بە سپۆنسەری AppTapp و Infinidev. ئەم کۆگایە شوێنێکە بۆ زۆرینەی تویکەکان و بەکارھێنەرانی جەیلبرەیک خوازانن.";
+
+/* Class = "UIButton"; normalTitle = "Email"; ObjectID = "HlM-7a-sgo"; */
+"HlM-7a-sgo.normalTitle" = "ئیمەیڵ";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "IBp-sa-tbT"; */
+"IBp-sa-tbT.text" = "XXX";
+
+/* Class = "UIButton"; normalTitle = "Donate"; ObjectID = "Iyo-Kj-Wbz"; */
+"Iyo-Kj-Wbz.normalTitle" = "بەخشینی پارە";
+
+/* Class = "UITextField"; text = "https://i.apptapp.me"; ObjectID = "OmA-Vs-WzH"; */
+"OmA-Vs-WzH.text" = "https://i.apptapp.me";
+
+/* Class = "UILabel"; text = "Follow this repository"; ObjectID = "OoK-OJ-RRD"; */
+"OoK-OJ-RRD.text" = "فۆڵۆوی ئه‌م كۆگایه‌ بكه‌";
+
+/* Class = "UILabel"; text = "Updated"; ObjectID = "SrK-rj-QWY"; */
+"SrK-rj-QWY.text" = "نوێکراوەتەوە";
+
+/* Class = "UILabel"; text = "XX/XX/XXXX"; ObjectID = "Vi3-eH-ILb"; */
+"Vi3-eH-ILb.text" = "XX/XX/XXXX";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "cIL-ld-zDR"; */
+"cIL-ld-zDR.text" = "XXX";
+
+/* Class = "UILabel"; text = "Organisation"; ObjectID = "d60-NH-BRZ"; */
+"d60-NH-BRZ.text" = "ڕێکخراو";
+
+/* Class = "UILabel"; text = "Default Repository"; ObjectID = "eJ1-I4-rzp"; */
+"eJ1-I4-rzp.text" = "كۆگا بنەڕەتیەکان";
+
+/* Class = "UIButton"; normalTitle = "Twitter"; ObjectID = "gxQ-jZ-3Nc"; */
+"gxQ-jZ-3Nc.normalTitle" = "تویتەر";
+
+/* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "l4d-rA-39S"; */
+"l4d-rA-39S.normalTitle" = "كڕدراوەکان";
+
+/* Class = "UILabel"; text = "CYDIA REPOSITORY"; ObjectID = "m5E-42-80e"; */
+"m5E-42-80e.text" = "کۆگای سیدیا";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "ppt-Tp-LNo"; */
+"ppt-Tp-LNo.normalTitle" = "چوونەدەرەوە";
+
+/* Class = "UILabel"; text = "Show original depictions"; ObjectID = "q7P-M3-gSw"; */
+"q7P-M3-gSw.text" = "بینینی وێنە بنەڕەتیەکان";
+
+/* Class = "UILabel"; text = "Total Packages"; ObjectID = "zhF-S6-ePT"; */
+"zhF-S6-ePT.text" = "کۆی پاکێجەکان";

@@ -1,0 +1,74 @@
+/* Class = "UILabel"; text = "UDID: ef6dadf9s8g9d8f98fs9fds89dfs"; ObjectID = "0es-jm-K6T"; */
+"0es-jm-K6T.text" = "UDID: ef6dadf9s8g9d8f98fs9fds89dfs";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "1Ms-wQ-8qO"; */
+"1Ms-wQ-8qO.title" = "الصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "iPhone 10,4 ~ iOS 13.3 ~ Installer 5.1 b1"; ObjectID = "1kr-0X-b18"; */
+"1kr-0X-b18.text" = "أيفون 10,4 ~ iOS 13.3 ~ المثبت 5.1 b1";
+
+/* Class = "UISegmentedControl"; 4rZ-ru-gan.segmentTitles[0] = "First"; ObjectID = "4rZ-ru-gan"; */
+"4rZ-ru-gan.segmentTitles[0]" = "الأول";
+
+/* Class = "UISegmentedControl"; 4rZ-ru-gan.segmentTitles[1] = "Second"; ObjectID = "4rZ-ru-gan"; */
+"4rZ-ru-gan.segmentTitles[1]" = "ثانية";
+
+/* Class = "UITabBarItem"; title = "Sources"; ObjectID = "5eu-6S-DDw"; */
+"5eu-6S-DDw.title" = "المصادر";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "86O-8P-2x7"; */
+"86O-8P-2x7.text" = "٠";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "BH2-Zg-XAS"; */
+"BH2-Zg-XAS.title" = "الصفحة الرئيسية";
+
+/* Class = "UITabBarItem"; title = "Installed"; ObjectID = "GCs-BJ-PLs"; */
+"GCs-BJ-PLs.title" = "مثبت";
+
+/* Class = "UILabel"; text = "Recent Searches"; ObjectID = "H6C-Vr-H03"; */
+"H6C-Vr-H03.text" = "عمليات البحث الأخيرة";
+
+/* Class = "UIButton"; normalTitle = "See older packages"; ObjectID = "Hoo-OT-T1e"; */
+"Hoo-OT-T1e.normalTitle" = "مشاهدة الحزم القديمة";
+
+/* Class = "UIButton"; normalTitle = "Queue All"; ObjectID = "JCX-Dw-KrM"; */
+"JCX-Dw-KrM.normalTitle" = "قائمة الإنتظار";
+
+/* Class = "UILabel"; text = "never"; ObjectID = "RUS-Se-ZX5"; */
+"RUS-Se-ZX5.text" = "أبداً";
+
+/* Class = "UINavigationItem"; title = "Changes"; ObjectID = "Tcy-sG-fQX"; */
+"Tcy-sG-fQX.title" = "التغييرات";
+
+/* Class = "UINavigationItem"; title = "Sources"; ObjectID = "WMv-t6-WIw"; */
+"WMv-t6-WIw.title" = "المصادر";
+
+/* Class = "UILabel"; text = "Recent Packages"; ObjectID = "Wt6-vd-ucy"; */
+"Wt6-vd-ucy.text" = "حزم جديدة";
+
+/* Class = "UINavigationItem"; title = "Repo"; ObjectID = "ZDv-eb-Aty"; */
+"ZDv-eb-Aty.title" = "المصدر";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "ZYH-Na-VN0"; */
+"ZYH-Na-VN0.normalTitle" = "مسح";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "d8O-AU-nV3"; */
+"d8O-AU-nV3.title" = "بحث";
+
+/* Class = "UILabel"; text = "Most Popular"; ObjectID = "euD-kM-iVz"; */
+"euD-kM-iVz.text" = "الأكثر شعبية";
+
+/* Class = "UINavigationItem"; title = "Installed"; ObjectID = "fIQ-42-eZE"; */
+"fIQ-42-eZE.title" = "مثبت";
+
+/* Class = "UITabBarItem"; title = "Changes"; ObjectID = "iH0-ec-f3F"; */
+"iH0-ec-f3F.title" = "التغييرات";
+
+/* Class = "UILabel"; text = "New Updates"; ObjectID = "ikC-ip-cZX"; */
+"ikC-ip-cZX.text" = "تحديثات جديدة";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "xmK-ih-FBQ"; */
+"xmK-ih-FBQ.text" = "٠";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "zeX-Jo-vcc"; */
+"zeX-Jo-vcc.title" = "بحث";

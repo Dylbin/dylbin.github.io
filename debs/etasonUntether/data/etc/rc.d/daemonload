@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/orphan_commander -w syslogd 'launchctl load /Library/LaunchDaemons'

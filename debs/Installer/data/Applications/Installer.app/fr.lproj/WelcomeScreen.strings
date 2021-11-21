@@ -1,0 +1,23 @@
+/* Class = "UILabel"; text = "Whats New In Installer!"; ObjectID = "U0j-Av-J8d"; */
+"U0j-Av-J8d.text" = "Quoi de neuf !";
+
+/* Class = "UILabel"; text = "No one likes waiting, and now you don’t have to.  We revamped our networking and now offer unparalleled source refresh speeds, so you can spend less time waiting and more time tweaking your device."; ObjectID = "glm-j1-8Dt"; */
+"glm-j1-8Dt.text" = "Personne n'aime attendre, et maintenant vous n'avez plus à le faire. Nous avons remanié notre réseau et vous offrons maintenant des vitesses de rafraîchissement de sources incomparables, de sorte que vous pouvez passer moins de temps à attendre et plus de temps à modifier votre appareil.";
+
+/* Class = "UILabel"; text = "Super Fast Refresh Speeds"; ObjectID = "gxb-vY-iD8"; */
+"gxb-vY-iD8.text" = "Vitesse d'actualisation Super Rapide";
+
+/* Class = "UILabel"; text = "Installer Meets APT"; ObjectID = "k2v-xv-mew"; */
+"k2v-xv-mew.text" = "Installer rencontre APT";
+
+/* Class = "UILabel"; text = "Installer now offers full iOS 13 support, taking advantage of several new features & optimizations introduced in iOS 13."; ObjectID = "p0G-Rk-a84"; */
+"p0G-Rk-a84.text" = "Installer offre maintenant le support complet d’iOS 13, tout en profitant de plusieurs nouvelles fonctionnalités et optimisations introduites dans iOS 13.";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "rJG-xQ-NlZ"; */
+"rJG-xQ-NlZ.normalTitle" = "Continuer";
+
+/* Class = "UILabel"; text = "iOS 13 Support"; ObjectID = "tC0-Ha-WJg"; */
+"tC0-Ha-WJg.text" = "Support d’iOS 13";
+
+/* Class = "UILabel"; text = "We’ve performed a major overhaul of Installers backend utilizing the unmatched reliability of APT. We put great care into pushing it beyond its limits to bring the fastest APT package manager to date."; ObjectID = "wkS-7L-S9B"; */
+"wkS-7L-S9B.text" = "Nous avons procédé à une refonte majeure du backend d’Installer en utilisant la fiabilité inégalée d'APT. Nous nous efforçons de le pousser au-delà de ses limites pour amener le gestionnaire de paquets APT le plus rapide à ce jour.";

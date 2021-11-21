@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "This feature is experimental and still under development. Installer might freeze or become unresponsive during this initial import process, this is to be expected and does not need to be reported as a bug. If for any reason Installer crashes during this process, simply relaunch installer and refresh your sources for the process to complete. Remember, this is beta software, and issues such as this will be fixed before the final release. Depending on the amount of sources being imported, and your current network speed, this process might take upwards of a minute or more.\n"; ObjectID = "6p3-J4-7h7"; */
+"6p3-J4-7h7.text" = "ئه‌م تایبه‌تمه‌ندیه‌ له‌ژێر تاقیكردنه‌وه‌ و گه‌شه‌پێدانه‌. Installer له‌وانه‌یه‌ جام ببێت یان هیچ كاردانه‌وه‌یه‌كی نه‌مێنێت له‌ كاتی كرداری گواستنه‌وه‌. ئه‌مه‌ش وا دانراوه‌ و پێویست ناكات وه‌ك كێشه‌ ئاگادارمان بكه‌نه‌وه‌. ئه‌گه‌ر به‌ هه‌ر هۆكارێك Installer جام بوو له‌ كاتی ئه‌نجامدانی كردار، به‌ ئاسانی دوباره‌ Installer بكه‌ره‌وه‌ وه‌ دووباره‌ سه‌رچاوه‌كان نوێبكه‌وه‌ تا كرداره‌كه‌ ته‌واو ده‌بێت. بیرت بێت، ئه‌وه‌ ئه‌پڵیكه‌یشنی تاقیكاریه‌ و كێشه‌كان و هاوشێوه‌كانی ده‌كرێ چابكرێته‌وه‌ پێش وه‌شانی كۆتایی. به‌پشتبه‌ستنی بڕی سه‌رچاوه‌ی گوازراوه‌ و خێرایی هێڵه‌كه‌ت، ئه‌م كرداره‌ش له‌وانه‌یه‌ چه‌ند خوله‌كێك یان زیاتری بوێت.\n";
+
+/* Class = "UIButton"; normalTitle = "Continue to Installer"; ObjectID = "HfJ-aJ-Oj8"; */
+"HfJ-aJ-Oj8.normalTitle" = "بەردەوام بە بۆ Installer";
+
+/* Class = "UILabel"; text = "Importing Sources"; ObjectID = "u47-V5-1Ac"; */
+"u47-V5-1Ac.text" = "گواستنەوەی سەرچاوەکان";

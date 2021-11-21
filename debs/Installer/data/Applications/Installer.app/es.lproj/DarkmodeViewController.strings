@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "Pure Black Mode"; ObjectID = "IBA-YO-4fX"; */
+"IBA-YO-4fX.text" = "Modo negro puro";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Ibm-7y-8Lg"; */
+"Ibm-7y-8Lg.normalTitle" = "Continuar";
+
+/* Class = "UILabel"; text = "Light Mode"; ObjectID = "K92-Gf-h7g"; */
+"K92-Gf-h7g.text" = "Modo Claro";
+
+/* Class = "UILabel"; text = "Blue-Black Mode"; ObjectID = "Qaz-ZL-Oc6"; */
+"Qaz-ZL-Oc6.text" = "Modo azul-negro";
+
+/* Class = "UILabel"; text = "Dark Mode"; ObjectID = "Uqd-Q5-BCk"; */
+"Uqd-Q5-BCk.text" = "Modo Oscuro";

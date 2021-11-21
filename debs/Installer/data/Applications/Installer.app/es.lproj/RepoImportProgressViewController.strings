@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "This feature is experimental and still under development. Installer might freeze or become unresponsive during this initial import process, this is to be expected and does not need to be reported as a bug. If for any reason Installer crashes during this process, simply relaunch installer and refresh your sources for the process to complete. Remember, this is beta software, and issues such as this will be fixed before the final release. Depending on the amount of sources being imported, and your current network speed, this process might take upwards of a minute or more.\n"; ObjectID = "6p3-J4-7h7"; */
+"6p3-J4-7h7.text" = "Esta característica es experimental y todavía está en desarrollo. Installer se podría congelar o dejar de responder durante este proceso inicial de importación. Esto es de esperar y no necesita ser reportado como un error. Si por alguna razón Installer se bloquea durante este proceso, simplemente reinicie Installer y actualice sus fuentes para que el proceso se complete. Recuerde que se trata de software beta, y problemas como este se solucionarán antes de la versión final. Dependiendo de la cantidad de fuentes que se estén importando, y de su velocidad de red actual, este proceso puede tardar un minuto o más.\n";
+
+/* Class = "UIButton"; normalTitle = "Continue to Installer"; ObjectID = "HfJ-aJ-Oj8"; */
+"HfJ-aJ-Oj8.normalTitle" = "Continuar a Installer";
+
+/* Class = "UILabel"; text = "Importing Sources"; ObjectID = "u47-V5-1Ac"; */
+"u47-V5-1Ac.text" = "Importando fuentes";

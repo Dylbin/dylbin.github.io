@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "This feature is experimental and still under development. Installer might freeze or become unresponsive during this initial import process, this is to be expected and does not need to be reported as a bug. If for any reason Installer crashes during this process, simply relaunch installer and refresh your sources for the process to complete. Remember, this is beta software, and issues such as this will be fixed before the final release. Depending on the amount of sources being imported, and your current network speed, this process might take upwards of a minute or more.\n"; ObjectID = "6p3-J4-7h7"; */
+"6p3-J4-7h7.text" = "Bu özellik deneyseldir ve hala geliştirilme aşamasındadır. Installer ilk içe aktarma işlemi sırasında donabilir veya yanıt vermeyebilir, bu beklenen bir durumdur ve bir hata olarak bildirilmesine gerek yoktur. Herhangi bir nedenle Installer, bu işlem sırasında çökerse, Installer'ı yeniden başlatın ve işlemin tamamlanması için kaynaklarınızı yenileyin. Unutmayın, bu beta yazılımdır ve bunun gibi sorunlar son sürümden önce düzeltilecektir. İçe aktarılan kaynakların miktarına ve mevcut ağ hızınıza bağlı olarak, bu işlem bir dakika veya daha fazla sürebilir.";
+
+/* Class = "UIButton"; normalTitle = "Continue to Installer"; ObjectID = "HfJ-aJ-Oj8"; */
+"HfJ-aJ-Oj8.normalTitle" = "Installer'a Devam Et";
+
+/* Class = "UILabel"; text = "Importing Sources"; ObjectID = "u47-V5-1Ac"; */
+"u47-V5-1Ac.text" = "Kaynakları İçeri Aktarma";

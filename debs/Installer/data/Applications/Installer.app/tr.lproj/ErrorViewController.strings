@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "5MC-7A-oHC"; */
+"5MC-7A-oHC.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Forgot"; ObjectID = "CtQ-UZ-xoN"; */
+"CtQ-UZ-xoN.normalTitle" = "Forgot";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fCZ-Sx-vSr"; */
+"fCZ-Sx-vSr.text" = "Label";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "tgp-is-nFo"; */
+"tgp-is-nFo.text" = "Error";
