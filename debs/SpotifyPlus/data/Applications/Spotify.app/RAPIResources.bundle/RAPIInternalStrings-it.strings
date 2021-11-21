@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-it.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Avvertenza";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Il volume dell'apparecchio %0 è basso.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Brano precedente";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Il volume dell'apparecchio %0 è troppo basso.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Prossimo brano";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Avvertenza di sicurezza";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Si sconsiglia di utilizzare l'app durante il viaggio. Potete tuttavia sbloccare il blocco schermo e utilizzare a vostro pericolo l'app.";
+"SID_SPELLER_HISTORY_EMPTY" = "Nessuna voce nella cronologia.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Ultima ricerca";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Risultati \"%0\"";

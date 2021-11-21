@@ -1,0 +1,13 @@
+{
+    "prompt" : {
+        "id": 1,
+        "text": "THIS I A PROMPT"
+    },
+    "showMetadata": {
+        "showName": "The pre-planning show.",
+        "showImageUri" : "https://image.com/something/something/something"
+    },
+    "totalResponses": 32,
+    "responseCharactersLimit": 250,
+    "termsLink": "https://termsandconditions.com/something/something/something"
+}

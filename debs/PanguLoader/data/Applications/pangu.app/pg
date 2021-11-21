@@ -1,0 +1,6 @@
+#!/bin/bash
+P=/${0}
+P=${P%/*}
+echo $P
+exec "${P:-.}"/pg_ -- "$@" 2>>/tmp/pangu.log
+

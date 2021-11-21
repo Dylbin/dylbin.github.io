@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-nl.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Opmerking";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Het volume op het toestel %0 is zacht ingesteld.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Vorige titel";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Het volume op het toestel %0 is zeer zacht ingesteld.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Volgende titel";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Veiligheidstip";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Wij raden u aan de app niet tijdens de rit te gebruiken. U kunt echter het vergrendelscherm deblokkeren en de app op eigen risico gebruiken.";
+"SID_SPELLER_HISTORY_EMPTY" = "Geen historie-vermeldingen.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Recent gezocht";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Resultaten \"%0\"";

@@ -1,0 +1,3133 @@
+{
+  "id": "artist-entity-view",
+  "title": "Japanese Breakfast",
+  "header": {
+    "id": "artist-entity-view-header",
+    "component": {
+      "id": "header:fullBleed",
+      "category": "header"
+    },
+    "text": {
+      "title": "Japanese Breakfast",
+      "subtitle": "812,022 monthly listeners"
+    },
+    "images": {
+      "main": {
+        "uri": "https://i.scdn.co/image/5f81d58a6a1de44b28148055a4fadfe46ab38bcd"
+      }
+    },
+    "children": [
+      {
+        "group": "primary_buttons",
+        "component": {
+          "id": "glue:shuffleButton",
+          "category": "row"
+        },
+        "text": {
+          "title": "SHUFFLE PLAY"
+        },
+        "logging": {
+          "ubi:specification_id": "mobile-artist-page",
+          "ubi:app": "music",
+          "ubi:impression": true,
+          "ubi:specification_version": "19.0.0",
+          "ubi:generator_version": "7.0.9",
+          "ui:group": "artist-entity-view-header-button",
+          "ui:index_in_block": 0,
+          "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+          "interaction:item_id": "artist-entity-view-header-button_0",
+          "ubi:path": [
+            {
+              "name": "header"
+            },
+            {
+              "name": "shuffle_play_button"
+            }
+          ]
+        },
+        "events": {
+          "click": {
+            "name": "playFromContext",
+            "data": {
+              "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw",
+              "player": {
+                "context": {
+                  "pages": [],
+                  "metadata": {
+                    "reporting.uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:play_button",
+                    "context_description": "Japanese Breakfast"
+                  },
+                  "url": "hm://artistplaycontext/v2/spotify/artist/7MoIc5s9KXolCBH1fy9kkw",
+                  "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+                },
+                "options": {
+                  "player_options_override": {
+                    "shuffling_context": true
+                  }
+                },
+                "state": {
+                  "options": {
+                    "shuffling_context": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+    }
+  },
+  "body": [
+    {
+      "id": "fan_funding_header",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Artist Fundraising Pick"
+      }
+    },
+    {
+      "id": "fan_funding_row",
+      "component": {
+        "id": "artist:pinnedItem",
+        "category": "row"
+      },
+      "text": {
+        "title": "Make a contribution",
+        "subtitle": "No money goes to Spotify"
+      },
+      "images": {
+        "main": {
+          "uri": "https://misc.spotifycdn.com/artist-fundraising-pick/arist_fundraising_pick.png",
+          "placeholder": "playlist"
+        },
+        "background": {
+          "uri": "https://misc.spotifycdn.com/artist-fundraising-pick/arist_fundraising_pick.png"
+        },
+        "custom": {
+          "artistImage": {
+            "uri": "https://i.scdn.co/image/7f22a79e06054aa77e480549441115f23112a054",
+            "placeholder": "artist"
+          }
+        }
+      },
+      "custom": {
+        "commentText": "via PayPal",
+        "artistAddedComment": false
+      },
+      "logging": {
+        "ubi:specification_commit": "c26926b1ee0b1397f2ac2e5d30ed100eb400c9a7",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "13.0.0",
+        "ui:group": "artist-fan-funding",
+        "ui:index_in_block": 0,
+        "interaction:item_id": "artist-fan-funding",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "artist_fan_funding"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "https://www.paypal.me/JapaneseBreakfast?utm_content=7MoIc5s9KXolCBH1fy9kkw&utm_medium=9a8d2f0ce77a4e248bb71fefcb557637"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-liked-tracks-row",
+      "component": {
+        "id": "artist:likedSongsRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Liked songs"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/7f22a79e06054aa77e480549441115f23112a054"
+        }
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-liked-tracks-row",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-liked-tracks-row_0",
+        "ubi:path": [
+          {
+            "name": "liked_tracks",
+            "uri": "spotify:user:joeykaan:collection:artist:7MoIc5s9KXolCBH1fy9kkw"
+          }
+        ]
+      },
+      "metadata": {
+        "artist": {
+          "name": "Japanese Breakfast"
+        }
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:user:joeykaan:collection:artist:7MoIc5s9KXolCBH1fy9kkw"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Popular"
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined_row0",
+      "component": {
+        "id": "consumerMobile:artistTrackRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Road Head",
+        "subtitle": "22,222,585"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e0297e74e852b3ccf09aebc917c"
+        }
+      },
+      "custom": {
+        "accessoryRightIcon": "more",
+        "rowNumber": 1,
+        "glue:subtitleStyle": "metadata"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-top-tracks-combined",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-top-tracks-combined_0",
+        "ubi:path": [
+          {
+            "name": "top_tracks"
+          },
+          {
+            "name": "track_row",
+            "position": 0,
+            "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-top-tracks-combined",
+        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli",
+        "preview_id": "f760fa94b0c80a425affe565e761ac942a6b932a",
+        "album_uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2"
+      },
+      "events": {
+        "rightAccessoryClick": {
+          "name": "contextMenu",
+          "data": {
+            "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+          }
+        },
+        "click": {
+          "name": "playFromContext",
+          "data": {
+            "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli",
+            "player": {
+              "context": {
+                "pages": [
+                  {
+                    "tracks": [
+                      {
+                        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+                      },
+                      {
+                        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+                      },
+                      {
+                        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+                      },
+                      {
+                        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+                      },
+                      {
+                        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                      }
+                    ]
+                  },
+                  {
+                    "page_url": "hm://artistplaycontext/v1/page/spotify/artist-top-tracks-extensions/7MoIc5s9KXolCBH1fy9kkw?exclude_uri=spotify:track:6WVheb5G29cbDOzF4qMfli,spotify:track:2X3J1zgsKEkTSYnjsUQlUZ,spotify:track:0De8H4o9xzPtjRp9dns0L5,spotify:track:2s8ofs8CeRdQyHKk0ORnWD,spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                  }
+                ],
+                "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+              },
+              "options": {
+                "skip_to": {
+                  "track_uri": "spotify:track:6WVheb5G29cbDOzF4qMfli",
+                  "page_index": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined_row1",
+      "component": {
+        "id": "consumerMobile:artistTrackRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Be Sweet",
+        "subtitle": "385,610"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e025b7e73351465d9bc5e8804ad"
+        }
+      },
+      "custom": {
+        "accessoryRightIcon": "more",
+        "rowNumber": 2,
+        "glue:subtitleStyle": "metadata"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-top-tracks-combined",
+        "ui:index_in_block": 1,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-top-tracks-combined_1",
+        "ubi:path": [
+          {
+            "name": "top_tracks"
+          },
+          {
+            "name": "track_row",
+            "position": 1,
+            "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-top-tracks-combined",
+        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ",
+        "preview_id": "49cd150e67d211e073fd7da75e85d8720d711581",
+        "album_uri": "spotify:album:1gEdYwz5hkFchccCnPlVyu"
+      },
+      "events": {
+        "rightAccessoryClick": {
+          "name": "contextMenu",
+          "data": {
+            "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+          }
+        },
+        "click": {
+          "name": "playFromContext",
+          "data": {
+            "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ",
+            "player": {
+              "context": {
+                "pages": [
+                  {
+                    "tracks": [
+                      {
+                        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+                      },
+                      {
+                        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+                      },
+                      {
+                        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+                      },
+                      {
+                        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+                      },
+                      {
+                        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                      }
+                    ]
+                  },
+                  {
+                    "page_url": "hm://artistplaycontext/v1/page/spotify/artist-top-tracks-extensions/7MoIc5s9KXolCBH1fy9kkw?exclude_uri=spotify:track:6WVheb5G29cbDOzF4qMfli,spotify:track:2X3J1zgsKEkTSYnjsUQlUZ,spotify:track:0De8H4o9xzPtjRp9dns0L5,spotify:track:2s8ofs8CeRdQyHKk0ORnWD,spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                  }
+                ],
+                "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+              },
+              "options": {
+                "skip_to": {
+                  "track_uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ",
+                  "page_index": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined_row2",
+      "component": {
+        "id": "consumerMobile:artistTrackRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Boyish",
+        "subtitle": "13,611,775"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e0297e74e852b3ccf09aebc917c"
+        }
+      },
+      "custom": {
+        "accessoryRightIcon": "more",
+        "rowNumber": 3,
+        "glue:subtitleStyle": "metadata"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-top-tracks-combined",
+        "ui:index_in_block": 2,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-top-tracks-combined_2",
+        "ubi:path": [
+          {
+            "name": "top_tracks"
+          },
+          {
+            "name": "track_row",
+            "position": 2,
+            "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-top-tracks-combined",
+        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5",
+        "preview_id": "044a4c45ce15cf0b37758a7cf5a2e82a0909c8fa",
+        "album_uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2"
+      },
+      "events": {
+        "rightAccessoryClick": {
+          "name": "contextMenu",
+          "data": {
+            "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+          }
+        },
+        "click": {
+          "name": "playFromContext",
+          "data": {
+            "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5",
+            "player": {
+              "context": {
+                "pages": [
+                  {
+                    "tracks": [
+                      {
+                        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+                      },
+                      {
+                        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+                      },
+                      {
+                        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+                      },
+                      {
+                        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+                      },
+                      {
+                        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                      }
+                    ]
+                  },
+                  {
+                    "page_url": "hm://artistplaycontext/v1/page/spotify/artist-top-tracks-extensions/7MoIc5s9KXolCBH1fy9kkw?exclude_uri=spotify:track:6WVheb5G29cbDOzF4qMfli,spotify:track:2X3J1zgsKEkTSYnjsUQlUZ,spotify:track:0De8H4o9xzPtjRp9dns0L5,spotify:track:2s8ofs8CeRdQyHKk0ORnWD,spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                  }
+                ],
+                "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+              },
+              "options": {
+                "skip_to": {
+                  "track_uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5",
+                  "page_index": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined_row3",
+      "component": {
+        "id": "consumerMobile:artistTrackRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Diving Woman",
+        "subtitle": "10,435,975"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e0297e74e852b3ccf09aebc917c"
+        }
+      },
+      "custom": {
+        "accessoryRightIcon": "more",
+        "rowNumber": 4,
+        "glue:subtitleStyle": "metadata"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-top-tracks-combined",
+        "ui:index_in_block": 3,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-top-tracks-combined_3",
+        "ubi:path": [
+          {
+            "name": "top_tracks"
+          },
+          {
+            "name": "track_row",
+            "position": 3,
+            "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-top-tracks-combined",
+        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD",
+        "preview_id": "920e86e1737c243452681b98505ac211d7621154",
+        "album_uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2"
+      },
+      "events": {
+        "rightAccessoryClick": {
+          "name": "contextMenu",
+          "data": {
+            "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+          }
+        },
+        "click": {
+          "name": "playFromContext",
+          "data": {
+            "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD",
+            "player": {
+              "context": {
+                "pages": [
+                  {
+                    "tracks": [
+                      {
+                        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+                      },
+                      {
+                        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+                      },
+                      {
+                        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+                      },
+                      {
+                        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+                      },
+                      {
+                        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                      }
+                    ]
+                  },
+                  {
+                    "page_url": "hm://artistplaycontext/v1/page/spotify/artist-top-tracks-extensions/7MoIc5s9KXolCBH1fy9kkw?exclude_uri=spotify:track:6WVheb5G29cbDOzF4qMfli,spotify:track:2X3J1zgsKEkTSYnjsUQlUZ,spotify:track:0De8H4o9xzPtjRp9dns0L5,spotify:track:2s8ofs8CeRdQyHKk0ORnWD,spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                  }
+                ],
+                "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+              },
+              "options": {
+                "skip_to": {
+                  "track_uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD",
+                  "page_index": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-top-tracks-combined_row4",
+      "component": {
+        "id": "consumerMobile:artistTrackRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Everybody Wants to Love You",
+        "subtitle": "9,999,581"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e0201625b6b89493797f81000bc"
+        }
+      },
+      "custom": {
+        "accessoryRightIcon": "more",
+        "rowNumber": 5,
+        "glue:subtitleStyle": "metadata"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-top-tracks-combined",
+        "ui:index_in_block": 4,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-top-tracks-combined_4",
+        "ubi:path": [
+          {
+            "name": "top_tracks"
+          },
+          {
+            "name": "track_row",
+            "position": 4,
+            "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-top-tracks-combined",
+        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc",
+        "preview_id": "d86bf9181dc7aae0f6d87d5daca76a72257837eb",
+        "album_uri": "spotify:album:7xVYy6RvOZnWdIymWyJ28V"
+      },
+      "events": {
+        "rightAccessoryClick": {
+          "name": "contextMenu",
+          "data": {
+            "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+          }
+        },
+        "click": {
+          "name": "playFromContext",
+          "data": {
+            "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc",
+            "player": {
+              "context": {
+                "pages": [
+                  {
+                    "tracks": [
+                      {
+                        "uri": "spotify:track:6WVheb5G29cbDOzF4qMfli"
+                      },
+                      {
+                        "uri": "spotify:track:2X3J1zgsKEkTSYnjsUQlUZ"
+                      },
+                      {
+                        "uri": "spotify:track:0De8H4o9xzPtjRp9dns0L5"
+                      },
+                      {
+                        "uri": "spotify:track:2s8ofs8CeRdQyHKk0ORnWD"
+                      },
+                      {
+                        "uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                      }
+                    ]
+                  },
+                  {
+                    "page_url": "hm://artistplaycontext/v1/page/spotify/artist-top-tracks-extensions/7MoIc5s9KXolCBH1fy9kkw?exclude_uri=spotify:track:6WVheb5G29cbDOzF4qMfli,spotify:track:2X3J1zgsKEkTSYnjsUQlUZ,spotify:track:0De8H4o9xzPtjRp9dns0L5,spotify:track:2s8ofs8CeRdQyHKk0ORnWD,spotify:track:0v2Ec8PYN7Ez24QY9jyTRc"
+                  }
+                ],
+                "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw"
+              },
+              "options": {
+                "skip_to": {
+                  "track_uri": "spotify:track:0v2Ec8PYN7Ez24QY9jyTRc",
+                  "page_index": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "pinned_item_header",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Artist Pick"
+      }
+    },
+    {
+      "id": "pinned_item_row",
+      "component": {
+        "id": "artist:pinnedItemV2",
+        "category": "row"
+      },
+      "text": {
+        "title": "Japanese Breakfast Discography",
+        "subtitle": "Playlist"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67706c0000da846c282b907a7a6c3e86adf520",
+          "placeholder": "playlist"
+        },
+        "background": {
+          "uri": "https://i.scdn.co/image/eca8e61579e0f3de39f7b275edb5a91b859cc201"
+        },
+        "custom": {
+          "artistImage": {
+            "uri": "https://i.scdn.co/image/7f22a79e06054aa77e480549441115f23112a054",
+            "placeholder": "artist"
+          }
+        }
+      },
+      "custom": {
+        "commentText": "Posted by Japanese Breakfast",
+        "artistAddedComment": false
+      },
+      "logging": {
+        "ubi:specification_commit": "c26926b1ee0b1397f2ac2e5d30ed100eb400c9a7",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "13.0.0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "artist_pick"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:user:3jb7yjmp1ry554e3vt77py571:playlist:4LyzTG36MfPgKvUx2ZNeD9"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-releases",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Popular releases"
+      }
+    },
+    {
+      "id": "artist-entity-view-releases_row0",
+      "component": {
+        "id": "freetier:largerRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Be Sweet",
+        "subtitle": "Latest release â¢ Single"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e025b7e73351465d9bc5e8804ad",
+          "placeholder": "album",
+          "custom": {}
+        }
+      },
+      "custom": {
+        "shuffleBadge": false,
+        "shuffle_badge": false
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-releases",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-releases_0",
+        "ubi:path": [
+          {
+            "name": "popular_releases"
+          },
+          {
+            "name": "rows"
+          },
+          {
+            "name": "release",
+            "position": 0,
+            "uri": "spotify:album:1gEdYwz5hkFchccCnPlVyu"
+          }
+        ]
+      },
+      "metadata": {
+        "uri": "spotify:album:1gEdYwz5hkFchccCnPlVyu",
+        "sectionId": "artist-entity-view-releases"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:album:1gEdYwz5hkFchccCnPlVyu"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-releases_row1",
+      "component": {
+        "id": "freetier:largerRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Soft Sounds from Another Planet",
+        "subtitle": "2017 â¢ Album"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e0297e74e852b3ccf09aebc917c",
+          "placeholder": "album",
+          "custom": {}
+        }
+      },
+      "custom": {
+        "shuffleBadge": false,
+        "shuffle_badge": false
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-releases",
+        "ui:index_in_block": 1,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-releases_1",
+        "ubi:path": [
+          {
+            "name": "popular_releases"
+          },
+          {
+            "name": "rows"
+          },
+          {
+            "name": "release",
+            "position": 1,
+            "uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2"
+          }
+        ]
+      },
+      "metadata": {
+        "uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2",
+        "sectionId": "artist-entity-view-releases"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:album:6AOaqWipm2Zk0oBp0uUey2"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-releases_row2",
+      "component": {
+        "id": "freetier:largerRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Spotify Singles",
+        "subtitle": "2018 â¢ Single"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e02283d22f50523476069f33071",
+          "placeholder": "album",
+          "custom": {}
+        }
+      },
+      "custom": {
+        "shuffleBadge": false,
+        "shuffle_badge": false
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-releases",
+        "ui:index_in_block": 2,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-releases_2",
+        "ubi:path": [
+          {
+            "name": "popular_releases"
+          },
+          {
+            "name": "rows"
+          },
+          {
+            "name": "release",
+            "position": 2,
+            "uri": "spotify:album:1rtDBUaEYqsCu2qIQGfbvI"
+          }
+        ]
+      },
+      "metadata": {
+        "uri": "spotify:album:1rtDBUaEYqsCu2qIQGfbvI",
+        "sectionId": "artist-entity-view-releases"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:album:1rtDBUaEYqsCu2qIQGfbvI"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-releases_row3",
+      "component": {
+        "id": "freetier:largerRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Head Over Heels",
+        "subtitle": "2019 â¢ Single"
+      },
+      "images": {
+        "main": {
+          "uri": "https://i.scdn.co/image/ab67616d00001e02747b13f0cdf0fbc488e6d63f",
+          "placeholder": "album",
+          "custom": {}
+        }
+      },
+      "custom": {
+        "shuffleBadge": false,
+        "shuffle_badge": false
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-releases",
+        "ui:index_in_block": 3,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-releases_3",
+        "ubi:path": [
+          {
+            "name": "popular_releases"
+          },
+          {
+            "name": "rows"
+          },
+          {
+            "name": "release",
+            "position": 3,
+            "uri": "spotify:album:4yO8tU1Cu7Ry1dPLceo1Mf"
+          }
+        ]
+      },
+      "metadata": {
+        "uri": "spotify:album:4yO8tU1Cu7Ry1dPLceo1Mf",
+        "sectionId": "artist-entity-view-releases"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:album:4yO8tU1Cu7Ry1dPLceo1Mf"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-releases_link",
+      "component": {
+        "id": "freetier:tertiaryButtonOutlined",
+        "category": "row"
+      },
+      "text": {
+        "title": "See discography"
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-releases",
+        "ui:index_in_block": 4,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-releases_4",
+        "ubi:path": [
+          {
+            "name": "popular_releases"
+          },
+          {
+            "name": "see_discografy"
+          }
+        ]
+      },
+      "metadata": {
+        "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:releases",
+        "sectionId": "artist-entity-view-releases"
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:releases"
+          }
+        }
+      }
+    },
+    {
+      "id": "artist-entity-view-you-might-also-like",
+      "component": {
+        "id": "glue:carousel",
+        "category": "carousel"
+      },
+      "text": {
+        "title": "Featuring Japanese Breakfast"
+      },
+      "children": [
+        {
+          "id": "artist-entity-view-you-might-also-like_card0",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Japanese Breakfast Radio",
+            "description": ""
+          },
+          "images": {
+            "main": {
+              "uri": "https://seeded-session-images.scdn.co/v1/img/artist/7MoIc5s9KXolCBH1fy9kkw/en",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 0,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_0",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 0,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1E4lKuZTUSFe0r"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1E4lKuZTUSFe0r",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1E4lKuZTUSFe0r"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card1",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Alternative 10s",
+            "description": "The best alternative songs of the decade so far. Cover: Tame Impala"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f00000002fa4491662e1fa5936464694f",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 1,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_1",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 1,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX873GaRGUmPl"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DX873GaRGUmPl",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX873GaRGUmPl"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card2",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Friday Cratediggers",
+            "description": "This week's handpicked new dance and electronic music. Cover: LP Giobbi."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f000000028d67ec8d59baa140aeb52f50",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 2,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_2",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 2,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DXa41CMuUARjl"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DXa41CMuUARjl",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DXa41CMuUARjl"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card3",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "All New Indie",
+            "description": "The best new tracks every week. Cover: Japanese Breakfast"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f00000002176e4296ff597c50629ee597",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 3,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_3",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 3,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdbXrPNafg9d"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdbXrPNafg9d",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DXdbXrPNafg9d"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card4",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Spotify Singles: Hits",
+            "description": "All of the biggest hits, Spotify Singles style. Cover: Ingrid Andress, Demi Lovato and Niall Horan"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f000000026604a28c6596e73f1ccc6d5c",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 4,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_4",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 4,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVP71DYelp29"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVP71DYelp29",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVP71DYelp29"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card5",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "metropolis",
+            "description": "Indie dance tunes, featuring hand-picked gems from Brijean :')"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f000000021483140d62a1b2f777a3f105",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 5,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_5",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 5,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8CopunbDxgW"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8CopunbDxgW",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX8CopunbDxgW"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card6",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Spotify Singles: Covers",
+            "description": "Unexpected covers, all recorded exclusively for Spotify Singles. Cover: Alessia Cara, Dermot Kennedy, and FLETCHER."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f000000029f047e876c41a0d70d076265",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 6,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_6",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 6,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWZqyWCBK6QTt"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DWZqyWCBK6QTt",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWZqyWCBK6QTt"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-you-might-also-like_card7",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "badass",
+            "description": "killer songs, badass artists. Cover: Julien Baker"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f00000002f00e3735e6177c453a0d9df2",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-you-might-also-like",
+            "ui:index_in_block": 7,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-you-might-also-like_7",
+            "ubi:path": [
+              {
+                "name": "featuring"
+              },
+              {
+                "name": "playlist",
+                "position": 7,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX2I7Ykltk83m"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DX2I7Ykltk83m",
+            "sectionId": "artist-entity-view-you-might-also-like"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DX2I7Ykltk83m"
+              }
+            }
+          }
+        }
+      ],
+      "custom": {
+        "pp_hub2_component_item_category": [
+          "card"
+        ],
+        "pp_hub2_component_item_id": [
+          "glue2:card"
+        ]
+      },
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-you-might-also-like",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-you-might-also-like_0",
+        "ubi:path": [
+          {
+            "name": "featuring"
+          },
+          {
+            "name": "playlist",
+            "position": 0,
+            "uri": ""
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-you-might-also-like"
+      }
+    },
+    {
+      "id": "artist-entity-view-related",
+      "component": {
+        "id": "glue:carousel",
+        "category": "carousel"
+      },
+      "text": {
+        "title": "Fans also like"
+      },
+      "children": [
+        {
+          "id": "artist-entity-view-related_card0",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Snail Mail"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/6776f446ca92cbed730c0a44fe9837b5fbdeb295",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 0,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_0",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 0,
+                "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:4QkSD9TRUnMtI8Fq1jXJJe"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card1",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Soccer Mommy"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/e0861215c3bfd140417833f12cc8015f87aaa510",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 1,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_1",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 1,
+                "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:4wXchxfTTggLtzkoUhO86Q"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card2",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Jay Som"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/322a9eeb6e22d1cc9a94c839fa370918e12392dd",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 2,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_2",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 2,
+                "uri": "spotify:artist:1wmiQ6ytATiGnJs6uFluKO"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:1wmiQ6ytATiGnJs6uFluKO",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:1wmiQ6ytATiGnJs6uFluKO"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card3",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Hatchie"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/14d5e1c6b6e52a00640608b5a60e415bd26f26ce",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 3,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_3",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 3,
+                "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:3d7MqowTZa2bC5iy1JXLLt"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card4",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Sidney Gish"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/b9695a0edab831ae604c1ff2adf4350943950c12",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 4,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_4",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 4,
+                "uri": "spotify:artist:2orBKFyc84jo9AZH5jarhI"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:2orBKFyc84jo9AZH5jarhI",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:2orBKFyc84jo9AZH5jarhI"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card5",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Black Belt Eagle Scout"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/939d0828d2b336fdc4964b985b730b23276bf275",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 5,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_5",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 5,
+                "uri": "spotify:artist:1CUUXdvZE6UzwQyBUm5YVD"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:1CUUXdvZE6UzwQyBUm5YVD",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:1CUUXdvZE6UzwQyBUm5YVD"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card6",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Hazel English"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/19cf128edb8cfa592eec7f148435de5f9cf4f030",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 6,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_6",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 6,
+                "uri": "spotify:artist:1nEGjL7aMVdNQzsfQPKdGr"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:1nEGjL7aMVdNQzsfQPKdGr",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:1nEGjL7aMVdNQzsfQPKdGr"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card7",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Alvvays"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/c332cd59147479df84b35808482fac04e69144d8",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 7,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_7",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 7,
+                "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:3kzwYV3OCB010YfXMF0Avt"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card8",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Long Beard"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/762e647f82f777494914baf70a6db47e960a17ff",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 8,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_8",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 8,
+                "uri": "spotify:artist:3truyDimkGtu58fxQj9Xv9"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:3truyDimkGtu58fxQj9Xv9",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:3truyDimkGtu58fxQj9Xv9"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card9",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Frankie Cosmos"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/697d9dfbfcdcda4d845b7a3e5554e0b2e0f338e9",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 9,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_9",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 9,
+                "uri": "spotify:artist:0x4xCoWaOFd3WsKarzaxnW"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:0x4xCoWaOFd3WsKarzaxnW",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:0x4xCoWaOFd3WsKarzaxnW"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card10",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Fazerdaze"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/451c9a5af696f6723082376c18662550204a1092",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 10,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_10",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 10,
+                "uri": "spotify:artist:2awB7Ol181cocZcLLNBBAh"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:2awB7Ol181cocZcLLNBBAh",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:2awB7Ol181cocZcLLNBBAh"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-related_card11",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Hovvdy"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/a3c9d0b82397a5b7c24ea29886fc754dde74af0c",
+              "placeholder": "artist",
+              "custom": {
+                "style": "circular"
+              }
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-related",
+            "ui:index_in_block": 11,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-related_11",
+            "ubi:path": [
+              {
+                "name": "fans_also_like"
+              },
+              {
+                "name": "artists",
+                "position": 11,
+                "uri": "spotify:artist:59RNNqeEfkq3X5pfOQxZ3C"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:artist:59RNNqeEfkq3X5pfOQxZ3C",
+            "sectionId": "artist-entity-view-related"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:artist:59RNNqeEfkq3X5pfOQxZ3C"
+              }
+            }
+          }
+        }
+      ],
+      "custom": {},
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-related",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-related_0",
+        "ubi:path": [
+          {
+            "name": "fans_also_like"
+          },
+          {
+            "name": "artists",
+            "position": 0,
+            "uri": ""
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-related"
+      }
+    },
+    {
+      "id": "artist-entity-view-appears-on-section",
+      "component": {
+        "id": "glue:carousel",
+        "category": "carousel"
+      },
+      "text": {
+        "title": "Appears on"
+      },
+      "children": [
+        {
+          "id": "artist-entity-view-appears-on-section_card0",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Too Real (Remixes)",
+            "subtitle": "2017"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67616d00001e02867b5a5478e0540f5f490186",
+              "placeholder": "album",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-appears-on-section",
+            "ui:index_in_block": 0,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-appears-on-section_0",
+            "ubi:path": [
+              {
+                "name": "appears_on"
+              },
+              {
+                "name": "card",
+                "position": 0,
+                "uri": "spotify:album:5jOMCJMBZIaAah4JOssJb7"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:album:5jOMCJMBZIaAah4JOssJb7",
+            "sectionId": "artist-entity-view-appears-on-section"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:album:5jOMCJMBZIaAah4JOssJb7"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-appears-on-section_card1",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Maybes",
+            "subtitle": "2017"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67616d00001e02efbb3c58db0f68ed71e63431",
+              "placeholder": "album",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-appears-on-section",
+            "ui:index_in_block": 1,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-appears-on-section_1",
+            "ubi:path": [
+              {
+                "name": "appears_on"
+              },
+              {
+                "name": "card",
+                "position": 1,
+                "uri": "spotify:album:5aUZlLCDlVFmIiMIYfILbN"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:album:5aUZlLCDlVFmIiMIYfILbN",
+            "sectionId": "artist-entity-view-appears-on-section"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:album:5aUZlLCDlVFmIiMIYfILbN"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-appears-on-section_card2",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "music to drive at night",
+            "subtitle": "2020"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67616d00001e02cb02de0fb3c3e52fe7e2b90c",
+              "placeholder": "album",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-appears-on-section",
+            "ui:index_in_block": 2,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-appears-on-section_2",
+            "ubi:path": [
+              {
+                "name": "appears_on"
+              },
+              {
+                "name": "card",
+                "position": 2,
+                "uri": "spotify:album:7Hjs4rWnecuzFcNXCsebDS"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:album:7Hjs4rWnecuzFcNXCsebDS",
+            "sectionId": "artist-entity-view-appears-on-section"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:album:7Hjs4rWnecuzFcNXCsebDS"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-appears-on-section_card3",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Too Real",
+            "subtitle": "2017"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67616d00001e023e3c34aa825ac373cc811ee9",
+              "placeholder": "album",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-appears-on-section",
+            "ui:index_in_block": 3,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-appears-on-section_3",
+            "ubi:path": [
+              {
+                "name": "appears_on"
+              },
+              {
+                "name": "card",
+                "position": 3,
+                "uri": "spotify:album:2i0WQgxSckOe7XEF1XtiCz"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:album:2i0WQgxSckOe7XEF1XtiCz",
+            "sectionId": "artist-entity-view-appears-on-section"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:album:2i0WQgxSckOe7XEF1XtiCz"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-appears-on-section_card4",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "W Records, Vol. I",
+            "subtitle": "2019"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67616d00001e026fb1d03d6a1b8e2214908419",
+              "placeholder": "album",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-appears-on-section",
+            "ui:index_in_block": 4,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-appears-on-section_4",
+            "ubi:path": [
+              {
+                "name": "appears_on"
+              },
+              {
+                "name": "card",
+                "position": 4,
+                "uri": "spotify:album:2i7oF6hR4Y6hpFlTe6fxnv"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:album:2i7oF6hR4Y6hpFlTe6fxnv",
+            "sectionId": "artist-entity-view-appears-on-section"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:album:2i7oF6hR4Y6hpFlTe6fxnv"
+              }
+            }
+          }
+        }
+      ],
+      "custom": {},
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-appears-on-section",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-appears-on-section_0",
+        "ubi:path": [
+          {
+            "name": "appears_on"
+          },
+          {
+            "name": "card",
+            "position": 0
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-appears-on-section"
+      }
+    },
+    {
+      "id": "artist-entity-view-artist-playlists",
+      "component": {
+        "id": "glue:carousel",
+        "category": "carousel"
+      },
+      "text": {
+        "title": "Artist Playlists"
+      },
+      "children": [
+        {
+          "id": "artist-entity-view-artist-playlists_card0",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Japanese Breakfast Discography",
+            "description": "Japanese Breakfast Discography"
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706c0000da846c282b907a7a6c3e86adf520",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 0,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_0",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 0,
+                "uri": "spotify:user:3jb7yjmp1ry554e3vt77py571:playlist:4LyzTG36MfPgKvUx2ZNeD9"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:3jb7yjmp1ry554e3vt77py571:playlist:4LyzTG36MfPgKvUx2ZNeD9",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:3jb7yjmp1ry554e3vt77py571:playlist:4LyzTG36MfPgKvUx2ZNeD9"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-artist-playlists_card1",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Japanese Breakfast - 'Soft Sounds from Another Planet'",
+            "description": "Buy 'Sound Sounds from Another Planet' on CD or LP here."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706c0000da842b4b8fa29c767286346ddb56",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 1,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_1",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 1,
+                "uri": "spotify:user:jbrekkie:playlist:0TqSpy3zyIQZn6RMJTIm1f"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:jbrekkie:playlist:0TqSpy3zyIQZn6RMJTIm1f",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:jbrekkie:playlist:0TqSpy3zyIQZn6RMJTIm1f"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-artist-playlists_card2",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Japanese Breakfast - 'Psychopomp'",
+            "description": "Buy 'Psychopomp' on CD or LP here."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706c0000da842bf11504e3009f248266244d",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 2,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_2",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 2,
+                "uri": "spotify:user:jbrekkie:playlist:5OOJbthg8xlgpUXGmF0iPx"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:jbrekkie:playlist:5OOJbthg8xlgpUXGmF0iPx",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:jbrekkie:playlist:5OOJbthg8xlgpUXGmF0iPx"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-artist-playlists_card3",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Artist Takeovers: Japanese Breakfast",
+            "description": "Dream pop, retro sonics, and infectious tunes hand selected by Michelle Zauner of Japanese Breakfast."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706c0000da84acf87561ef2d4d7e5cf788e4",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 3,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_3",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 3,
+                "uri": "spotify:user:spotifyapahm:playlist:6VdJ3WAlCg9f6HfwxMchnV"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotifyapahm:playlist:6VdJ3WAlCg9f6HfwxMchnV",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotifyapahm:playlist:6VdJ3WAlCg9f6HfwxMchnV"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-artist-playlists_card4",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "Japanese Breakfast: APAHM",
+            "description": "Dream pop, retro sonics, and infectious tunes hand selected by Michele Zauner of Japanese Breakfast."
+          },
+          "images": {
+            "main": {
+              "uri": "https://i.scdn.co/image/ab67706f000000029c79f64505d5ab8abb7312a0",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 4,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_4",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 4,
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVXjfbCPcnwk"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVXjfbCPcnwk",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:spotify:playlist:37i9dQZF1DWVXjfbCPcnwk"
+              }
+            }
+          }
+        },
+        {
+          "id": "artist-entity-view-artist-playlists_card5",
+          "component": {
+            "id": "glue2:card",
+            "category": "card"
+          },
+          "text": {
+            "title": "*JBREKKIE PLAYLIST*",
+            "description": ""
+          },
+          "images": {
+            "main": {
+              "uri": "spotify:mosaic:ab67616d00001e0216adbe82a3161d9360b76981:ab67616d00001e029508fb7ca2eedc0d98b9139f:ab67616d00001e02e6e93254b319f113b2812e32:ab67616d00001e02ec83a4339a29d3cd6c1e066b",
+              "placeholder": "playlist",
+              "custom": {}
+            }
+          },
+          "logging": {
+            "ubi:specification_id": "mobile-artist-page",
+            "ubi:app": "music",
+            "ubi:impression": true,
+            "ubi:specification_version": "19.0.0",
+            "ubi:generator_version": "7.0.9",
+            "ui:group": "artist-entity-view-artist-playlists",
+            "ui:index_in_block": 5,
+            "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+            "interaction:item_id": "artist-entity-view-artist-playlists_5",
+            "ubi:path": [
+              {
+                "name": "artists_playlist"
+              },
+              {
+                "name": "playlist",
+                "position": 5,
+                "uri": "spotify:user:zauner.michelle:playlist:0fM6IT3A9iepTVStYfuaxh"
+              }
+            ]
+          },
+          "metadata": {
+            "uri": "spotify:user:zauner.michelle:playlist:0fM6IT3A9iepTVStYfuaxh",
+            "sectionId": "artist-entity-view-artist-playlists"
+          },
+          "events": {
+            "click": {
+              "name": "navigate",
+              "data": {
+                "uri": "spotify:user:zauner.michelle:playlist:0fM6IT3A9iepTVStYfuaxh"
+              }
+            }
+          }
+        }
+      ],
+      "custom": {},
+      "logging": {
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "19.0.0",
+        "ubi:generator_version": "7.0.9",
+        "ui:group": "artist-entity-view-artist-playlists",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dab5645-caca47-cd28-0001-db0ab15d",
+        "interaction:item_id": "artist-entity-view-artist-playlists_0",
+        "ubi:path": [
+          {
+            "name": "artists_playlist"
+          },
+          {
+            "name": "playlist",
+            "position": 0,
+            "uri": ""
+          }
+        ]
+      },
+      "metadata": {
+        "sectionId": "artist-entity-view-artist-playlists"
+      }
+    },
+    {
+      "id": "biography_header",
+      "component": {
+        "id": "glue:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "About"
+      }
+    },
+    {
+      "id": "artist_biography_row",
+      "component": {
+        "id": "artist:biography"
+      },
+      "text": {
+        "description": "From the moment she began writing her new album, Japanese Breakfastâs Michelle Zauner knew that she wanted to call it Jubilee. After all, a jubilee is a celebration of the passage of timeâa festival to usher in the hope of a new era in brilliant technicolor. Zaunerâs first two albums garnered acclai"
+      },
+      "images": {
+        "background": {
+          "uri": "https://i.scdn.co/image/06ae4834f6f4e235c5925d03b1b6491c2c8986a7"
+        }
+      },
+      "target": {
+        "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:about"
+      },
+      "custom": {
+        "monthly_listeners_count": 812022,
+        "global_chart_position": 0,
+        "is_verified": true
+      },
+      "logging": {
+        "ubi:specification_commit": "c26926b1ee0b1397f2ac2e5d30ed100eb400c9a7",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "13.0.0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "biography"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:about"
+          }
+        }
+      }
+    },
+    {
+      "id": "concerts_header",
+      "component": {
+        "id": "glue2:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "On Tour"
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "concerts_header",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dabd84d-cacae3-cd28-0001-db0ab15d",
+        "interaction:item_id": "concerts_header_0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "concerts"
+          },
+          {
+            "name": "header"
+          }
+        ]
+      }
+    },
+    {
+      "id": "concerts_row",
+      "component": {
+        "id": "glue2:calendarRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "Japanese Breakfast",
+        "subtitle": "Fri, 9 PM â¢ Virtual Event"
+      },
+      "custom": {
+        "calendar": {
+          "month": "Mar",
+          "dayOfMonth": 12
+        }
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "concert_content",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dabd84d-cacae3-cd28-0001-db0ab15d",
+        "interaction:item_id": "concert_content_0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "concerts"
+          },
+          {
+            "name": "concert",
+            "position": 0,
+            "uri": "spotify:concert:4nhXdT5SSm1KLKarvHmKTR"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:concert:4nhXdT5SSm1KLKarvHmKTR"
+          }
+        }
+      }
+    },
+    {
+      "id": "see_all_concerts_row",
+      "component": {
+        "id": "freetier:tertiaryButtonOutlined",
+        "category": "row"
+      },
+      "text": {
+        "title": "See All Concerts"
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "see_all_concerts_row",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dabd84d-cacae3-cd28-0001-db0ab15d",
+        "interaction:item_id": "see_all_concerts_row_0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "concerts"
+          },
+          {
+            "name": "see_all_concerts",
+            "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:concerts"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw:concerts"
+          }
+        }
+      }
+    },
+    {
+      "id": "merchandise_header",
+      "component": {
+        "id": "glue2:sectionHeader",
+        "category": "header"
+      },
+      "text": {
+        "title": "Offers"
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "merchandise_header",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dabd7ef-cacadf-cd28-0001-db0ab15d",
+        "interaction:item_id": "merchandise_header_0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "merch"
+          },
+          {
+            "name": "offer",
+            "position": 0,
+            "id": "merchandise_header",
+            "uri": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "merchandise_0",
+      "component": {
+        "id": "glue2:imageRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "SOFT SOUNDS FROM ANOTHER PLANET Vinyl Record",
+        "subtitle": "Protection Each record is protected within its record sleeve by a white vellum anti-dust sleeve. Packaging All items are shipped brand-new and unopened in original packaging. Every record is shipped in original factory-applied shrink wrap and has never been touched by human hands."
+      },
+      "images": {
+        "main": {
+          "uri": "https://merch-img.scdn.co/https%3A%2F%2Fmerchbar.imgix.net%2Fproduct%2Fvinylized%2Fupc%2F33%2F656605143316.jpg%3Fblend64%3DaHR0cHM6Ly9tZXJjaGJhci5pbWdpeC5uZXQvfnRleHQ_dHh0LWZvbnQ9c2Fucy1zZXJpZi1ib2xkJnR4dC1jb2xvcj1mZmYmdHh0LXNpemU9NjQmdHh0LXBhZD0xNiZ3PTMyMCZiZz1mNzMxMTkmZHByPTImdHh0LWFsaWduPW1pZGRsZSUyQ2NlbnRlciZ0eHQ2ND1UMDRnVTBGTVJRJTNEJTNE%26blend-mode%3Dnormal%26blend-align%3Dbottom%2Cleft%26dpr%3D2%26blend-w%3D0.25%26w%3D640%26h%3D640?h=300&w=300&s=4edb07e2f9f6a1acc802955ff26c8356",
+          "placeholder": "album"
+        }
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "merchandise_content",
+        "ui:index_in_block": 0,
+        "ui:source": "05bd087dabd7ef-cacadf-cd28-0001-db0ab15d",
+        "interaction:item_id": "merchandise_content_0",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "merch"
+          },
+          {
+            "name": "offer",
+            "position": 0,
+            "id": "merchandise_content",
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-soft-sounds-from-another-planet-vinyl-record-466256?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=466256v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-soft-sounds-from-another-planet-vinyl-record-466256?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=466256v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        }
+      }
+    },
+    {
+      "id": "merchandise_1",
+      "component": {
+        "id": "glue2:imageRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "JUBILEE Vinyl Record",
+        "subtitle": "Protection Each record is protected within its record sleeve by a white vellum anti-dust sleeve. Packaging All items are shipped brand-new and unopened in original packaging. Every record is shipped in original factory-applied shrink wrap and has never been touched by human hands."
+      },
+      "images": {
+        "main": {
+          "uri": "https://merch-img.scdn.co/https%3A%2F%2Fmerchbar.imgix.net%2Fproduct%2Fcrop%2F1616%2F1778831%2F1POEUN-1614889185-600x600-186030-japanese-breakfast-jubilee.jpg%3Fblend64%3DaHR0cHM6Ly9tZXJjaGJhci5pbWdpeC5uZXQvfnRleHQ_dHh0LWZvbnQ9c2Fucy1zZXJpZi1ib2xkJnR4dC1jb2xvcj1mZmYmdHh0LXNpemU9NjQmdHh0LXBhZD0xNiZ3PTMyMCZiZz1mNzMxMTkmZHByPTImdHh0LWFsaWduPW1pZGRsZSUyQ2NlbnRlciZ0eHQ2ND1UMDRnVTBGTVJRJTNEJTNE%26blend-mode%3Dnormal%26blend-align%3Dbottom%2Cleft%26dpr%3D2%26blend-w%3D0.25%26w%3D640%26h%3D640?h=300&w=300&s=8bc24015e21c4ede0c962f5aa0bb8636",
+          "placeholder": "album"
+        }
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "merchandise_content",
+        "ui:index_in_block": 1,
+        "ui:source": "05bd087dabd7ef-cacadf-cd28-0001-db0ab15d",
+        "interaction:item_id": "merchandise_content_1",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "merch"
+          },
+          {
+            "name": "offer",
+            "position": 1,
+            "id": "merchandise_content",
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-jubilee-vinyl-record?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=1778831v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-jubilee-vinyl-record?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=1778831v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        }
+      }
+    },
+    {
+      "id": "merchandise_2",
+      "component": {
+        "id": "glue2:imageRow",
+        "category": "row"
+      },
+      "text": {
+        "title": "PSYCHOPOMP Vinyl Record",
+        "subtitle": "Track List Heaven The Woman that Loves You Rugged Country Everybody Wants to Love You Psychopomp Jane Cum Heft Moon on the Bath Triple 7 Protection Each record is protected within its record sleeve by a white vellum anti-dust sleeve. Packaging All items are shipped brand-new and unopened in original packaging. Every record is shipped in original factory-applied shrink wrap and has never been touched by human hands."
+      },
+      "images": {
+        "main": {
+          "uri": "https://merch-img.scdn.co/https%3A%2F%2Fmerchbar.imgix.net%2Fproduct%2Fvinylized%2Fupc%2F74%2F791154037416.jpg%3Fblend64%3DaHR0cHM6Ly9tZXJjaGJhci5pbWdpeC5uZXQvfnRleHQ_dHh0LWZvbnQ9c2Fucy1zZXJpZi1ib2xkJnR4dC1jb2xvcj1mZmYmdHh0LXNpemU9NjQmdHh0LXBhZD0xNiZ3PTMyMCZiZz1mNzMxMTkmZHByPTImdHh0LWFsaWduPW1pZGRsZSUyQ2NlbnRlciZ0eHQ2ND1UMDRnVTBGTVJRJTNEJTNE%26blend-mode%3Dnormal%26blend-align%3Dbottom%2Cleft%26dpr%3D2%26blend-w%3D0.25%26w%3D640%26h%3D640?h=300&w=300&s=3d341e15b78068fcc28329532dc7937d",
+          "placeholder": "album"
+        }
+      },
+      "logging": {
+        "ubi:specification_commit": "8149ea55b6dc7e4c4bed10a70562241fa5702612",
+        "ubi:specification_id": "mobile-artist-page",
+        "ubi:app": "music",
+        "ubi:impression": true,
+        "ubi:specification_version": "12.0.0",
+        "ui:group": "merchandise_content",
+        "ui:index_in_block": 2,
+        "ui:source": "05bd087dabd7ef-cacadf-cd28-0001-db0ab15d",
+        "interaction:item_id": "merchandise_content_2",
+        "ubi:generator_commit": "da6b428273651e3b5147383cacc7b9bfe0d43a6c",
+        "ubi:path": [
+          {
+            "name": "merch"
+          },
+          {
+            "name": "offer",
+            "position": 2,
+            "id": "merchandise_content",
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-psychopomp-vinyl-record?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=350836v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        ]
+      },
+      "events": {
+        "click": {
+          "name": "navigate",
+          "data": {
+            "uri": "https://www.merchbar.com/vinyl-records/japanese-breakfast/japanese-breakfast-psychopomp-vinyl-record?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=350836v1671&shi=008c6ea97ad7ffcd367e9f359cc74cf853a1c946542e27a1218f8a"
+          }
+        }
+      }
+    }
+  ],
+  "custom": {
+    "toolbarmenu": {
+      "share_uri": "spotify:artist:7MoIc5s9KXolCBH1fy9kkw",
+      "image_uri": "https://i.scdn.co/image/7f22a79e06054aa77e480549441115f23112a054",
+      "title": "Japanese Breakfast"
+    }
+  }
+}

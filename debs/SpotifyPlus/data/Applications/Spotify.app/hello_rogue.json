@@ -1,0 +1,231 @@
+{
+  "attributes": {
+    "id": "hello-rogue-screen",
+    "backgroundColor": {
+      "value": {
+        "hexCode": {
+          "hexCode": "#ff181818"
+        }
+      }
+    },
+    "onStart": [
+      {
+        "playScene": {
+          "sceneId": "intro"
+        }
+      },
+      {
+        "playAudioUrl": {
+          "audioUrl": {
+            "value": "https://p.scdn.co/mp3-preview/8eab3a5695bfaed5449e0787146f857fb9635907"
+          }
+        }
+      }
+    ]
+  },
+  "elements": [
+    {
+      "id": "message",
+      "size": {
+        "width": {
+          "stretch": true
+        },
+        "height": {
+          "stretch": true
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        }
+      ],
+      "text": {
+        "paragraph": {
+          "text": {
+            "text": {
+              "value": "Hello $1"
+            },
+            "textColor": {
+              "value": {
+                "hexCode": {
+                  "hexCode": "#ffffffff"
+                }
+              }
+            }
+          },
+          "textValues": [
+            {
+              "text": {
+                "value": "Rogue"
+              },
+              "textColor": {
+                "value": {
+                  "hexCode": {
+                    "hexCode": "#fffae62d"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "textAlignment": {
+          "vertical": "centerVertical",
+          "horizontal": "centerHorizontal"
+        },
+        "style": "canon"
+      }
+    }
+  ],
+  "anchors": [
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "start",
+      "toPoint": "start",
+      "margin": {
+        "size": 72,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "end",
+      "toPoint": "end",
+      "margin": {
+        "size": 72,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "top",
+      "toPoint": "top",
+      "margin": {
+        "size": 108,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 120,
+        "metric": "dp"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "intro",
+      "delay": 500,
+      "onSceneEnd": [
+        {
+          "playScene": {
+            "sceneId": "outro"
+          }
+        }
+      ],
+      "animations": [
+        {
+          "id": "message_intro_text_alpha",
+          "duration": 700,
+          "delay": 0,
+          "elementId": "message",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "message_intro_text_translation_y",
+          "duration": 1000,
+          "delay": 0,
+          "elementId": "message",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 30.0,
+                  "metric": "dp"
+                },
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "delay": 5000,
+      "animations": [
+        {
+          "id": "message_outro_alpha",
+          "duration": 700,
+          "delay": 0,
+          "elementId": "message",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_generic"
+        },
+        {
+          "id": "message_outro_translation_y",
+          "duration": 1000,
+          "delay": 0,
+          "elementId": "message",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0,
+                  "metric": "dp"
+                },
+                {
+                  "size": -30.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        }
+      ]
+    }
+  ]
+}
+

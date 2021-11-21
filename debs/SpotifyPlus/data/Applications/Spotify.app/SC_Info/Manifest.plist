@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/Spotify.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/EncoreFoundation-FW.framework/SC_Info/EncoreFoundation-FW.sinf</string>
+		<string>PlugIns/IntentsExtension.appex/SC_Info/IntentsExtension.sinf</string>
+		<string>PlugIns/NotificationContentExtension.appex/SC_Info/NotificationContentExtension.sinf</string>
+		<string>PlugIns/NotificationServiceExtension.appex/SC_Info/NotificationServiceExtension.sinf</string>
+		<string>PlugIns/WidgetExtension.appex/SC_Info/WidgetExtension.sinf</string>
+		<string>Watch/WatchApp.app/PlugIns/WatchAppExtension.appex/PlugIns/WatchIntentsExtension.appex/SC_Info/WatchIntentsExtension.sinf</string>
+		<string>Watch/WatchApp.app/PlugIns/WatchAppExtension.appex/SC_Info/WatchAppExtension.sinf</string>
+		<string>SC_Info/Spotify.sinf</string>
+	</array>
+</dict>
+</plist>

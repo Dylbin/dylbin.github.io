@@ -1,0 +1,317 @@
+{
+ "id": "premiumPage",
+ "body": [
+  {
+    "component":{
+      "id": "premiumPage:gradient"
+    },
+    "children":[
+      {
+        "component":{
+          "id": "premiumPage:header"
+        },
+        "text": {
+          "title": "Toma control de tu\nmúsica con Premium"
+        }
+      },
+      {
+        "component": {
+          "id": "premiumPage:gradient"
+        },
+        "children": [
+         {
+           "id": "premiumPage-carousel",
+           "component": {
+             "id": "premiumPage:carousel"
+           },
+           "children": [
+            {
+              "id": "premiumPage-carousel_valueCard0",
+              "component": {
+                "id": "premiumPage:valueCard"
+              },
+              "children": [
+                {
+                  "id": "premiumPage-carousel_valueCard0_free",
+                  "component": {
+                    "id": "premiumPage:valueCardFree"
+                  },
+                  "text": {
+                    "title": "FREE",
+                    "subtitle": "Pausas comerciales"
+                  },
+                  "images": {
+                    "main": {
+                      "placeholder": "track"
+                    }
+                  }
+                },
+                {
+                  "id": "premiumPage-carousel_valueCard0_premium",
+                  "component": {
+                    "id": "premiumPage:valueCardPremium"
+                  },
+                  "text": {
+                   "title": "PREMIUM",
+                   "subtitle": "Música sin interrupciones"
+                 },
+                 "custom": {
+                   "gradient": {
+                     "startColor": "#006450",
+                     "endColor": "#19E68C"
+                   }
+                 }
+               }
+             ]
+            },
+            {
+              "id": "premiumPage-carousel_valueCard1",
+              "component": {
+                "id": "premiumPage:valueCard"
+              },
+              "children": [
+               {
+                 "id": "premiumPage-carousel_valueCard1_free",
+                 "component": {
+                   "id": "premiumPage:valueCardFree"
+                 },
+                 "text": {
+                   "title": "FREE",
+                   "subtitle": "Reproducción aleatoria"
+                 },
+                 "images": {
+                   "main": {
+                     "placeholder": "track"
+                   }
+                 }
+               },
+               {
+                 "id": "premiumPage-carousel_valueCard1_premium",
+                 "component": {
+                   "id": "premiumPage:valueCardPremium"
+                 },
+                 "text": {
+                   "title": "PREMIUM",
+                   "subtitle": "Escucha cualquier canción"
+                 },
+                 "custom": {
+                   "gradient": {
+                     "startColor": "#006450",
+                     "endColor": "#19E68C"
+                   }
+                 }
+               }
+             ]
+            },
+            {
+              "id": "premiumPage-carousel_valueCard2",
+              "component": {
+                "id": "premiumPage:valueCard"
+              },
+              "children": [
+               {
+                 "id": "premiumPage-carousel_valueCard2_free",
+                 "component": {
+                   "id": "premiumPage:valueCardFree"
+                 },
+                 "text": {
+                   "title": "FREE",
+                   "subtitle": "6 saltos de canciones por hora"
+                 },
+                 "images": {
+                   "main": {
+                     "placeholder": "track"
+                   }
+                 }
+               },
+               {
+                 "id": "premiumPage-carousel_valueCard2_premium",
+                 "component": {
+                   "id": "premiumPage:valueCardPremium"
+                 },
+                 "text": {
+                   "title": "PREMIUM",
+                   "subtitle": "Saltos de canciones ilimitados"
+                 },
+                 "custom": {
+                   "gradient": {
+                     "startColor": "#006450",
+                     "endColor": "#19E68C"
+                   }
+                 }
+               }
+             ]
+            },
+            {
+              "id": "premiumPage-carousel_valueCard3",
+              "component": {
+                "id": "premiumPage:valueCard"
+              },
+              "children": [
+               {
+                 "id": "premiumPage-carousel_valueCard3_free",
+                 "component": {
+                   "id": "premiumPage:valueCardFree"
+                 },
+                 "text": {
+                   "title": "FREE",
+                   "subtitle": "Escucha con conexión"
+                 },
+                 "images": {
+                   "main": {
+                     "placeholder": "track"
+                   }
+                 }
+               },
+               {
+                 "id": "premiumPage-carousel_valueCard3_premium",
+                 "component": {
+                   "id": "premiumPage:valueCardPremium"
+                 },
+                 "text": {
+                   "title": "PREMIUM",
+                   "subtitle": "Escucha sin conexión"
+                 },
+                 "custom": {
+                   "gradient": {
+                     "startColor": "#006450",
+                     "endColor": "#19E68C"
+                   }
+                 }
+               }
+             ]
+            },
+            {
+              "id": "premiumPage-carousel_valueCard4",
+              "component": {
+                "id": "premiumPage:valueCard"
+              },
+              "children": [
+               {
+                 "id": "premiumPage-carousel_valueCard4_free",
+                 "component": {
+                   "id": "premiumPage:valueCardFree"
+                 },
+                 "text": {
+                   "title": "FREE",
+                   "subtitle": "Audio de calidad básica"
+                 },
+                 "images": {
+                   "main": {
+                     "placeholder": "track"
+                   }
+                 }
+               },
+               {
+                 "id": "premiumPage-carousel_valueCard4_premium",
+                 "component": {
+                   "id": "premiumPage:valueCardPremium"
+                 },
+                 "text": {
+                   "title": "PREMIUM",
+                   "subtitle": "Audio de calidad alta"
+                 },
+                 "custom": {
+                   "gradient": {
+                     "startColor": "#006450",
+                     "endColor": "#19E68C"
+                   }
+                 }
+               }
+             ]
+            }
+          ]
+        },
+        {
+          "component": {
+            "id": "premiumPage:legalText"
+          },
+          "custom": {
+            "legalText": "No puedes ampliar tu plan a Premium desde la aplicación. Lo sabemos...no es lo mejor.",
+            "legalTextColor": "#FFFFFF",
+            "legalUrlLabel": "",
+            "legalUrlLabelColor": "#FFFFFF"
+          }
+        }
+      ],
+      "custom": {
+        "gradient": {
+        "startColor" : "#121212",
+        "startColorAlpha": 0.0,
+        "endColor": "#121212",
+        "endColorAlpha": 1.0,
+        "direction": "topBottom"
+        }
+      }
+    }
+  ],
+  "custom": {
+    "gradient": {
+      "startColor": "#006450",
+      "startColorAlpha": 1.0,
+      "endColor": "#19E68C",
+      "endColorAlpha": 1.0,
+      "direction": "topLeftBottomRight"
+      }
+    }
+  },
+  {
+    "id": "premiumPage-currentPlanCard",
+    "component": {
+      "id": "premiumPage:currentPlanCard"
+    },
+    "text": {
+      "title": "Spotify Free",
+      "subtitle": "PLAN ACTUAL"
+    }
+  },
+  {
+    "id": "premiumPage-planCard0",
+    "component": {
+      "id": "premiumPage:planCard"
+    },
+    "text": {
+      "title": "Spotify Premium",
+      "subtitle": "Música sin interrupciones • Saltos de canciones ilimitados • Escucha cualquier canción • Escucha sin conexión"
+    },
+  "custom": {
+    "gradient": {
+      "startColor": "#045545",
+      "endColor": "#18BB74"
+    }
+  }
+},
+{
+ "id": "premiumPage-planCard1",
+ "component": {
+  "id": "premiumPage:planCard"
+},
+"text": {
+  "title": "Premium para Estudiantes + Hulu y SHOWTIME",
+  "subtitle": "3 apps, 1 plan • Tus shows y películas favoritos • Todos los beneficios de Premium"
+},
+"custom": {
+  "gradient": {
+    "startColor": "#F59B23",
+    "endColor": "#C87D55"
+  }
+}
+},
+  {
+    "id": "premiumPage-planCard2",
+    "component": {
+      "id": "premiumPage:planCard"
+    },
+    "text": {
+     "title": "Plan Familiar",
+      "subtitle": "Hasta 6 cuentas individuales • Factura sencilla • Todos los beneficios de Premium • Mantienes toda tu música"
+    },
+      "custom": {
+        "gradient": {
+          "startColor": "#1E3264",
+          "endColor": "#AF2896"
+        }
+        }
+      }
+    ]
+  }

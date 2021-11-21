@@ -1,0 +1,763 @@
+[ {
+  "country_code" : "AC",
+  "calling_code" : "+247"
+}, {
+  "country_code" : "AD",
+  "calling_code" : "+376"
+}, {
+  "country_code" : "AE",
+  "calling_code" : "+971"
+}, {
+  "country_code" : "AF",
+  "calling_code" : "+93"
+}, {
+  "country_code" : "AG",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "AI",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "AL",
+  "calling_code" : "+355"
+}, {
+  "country_code" : "AM",
+  "calling_code" : "+374"
+}, {
+  "country_code" : "AO",
+  "calling_code" : "+244"
+}, {
+  "country_code" : "AR",
+  "calling_code" : "+54"
+}, {
+  "country_code" : "AS",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "AT",
+  "calling_code" : "+43"
+}, {
+  "country_code" : "AU",
+  "calling_code" : "+61"
+}, {
+  "country_code" : "AW",
+  "calling_code" : "+297"
+}, {
+  "country_code" : "AX",
+  "calling_code" : "+358"
+}, {
+  "country_code" : "AZ",
+  "calling_code" : "+994"
+}, {
+  "country_code" : "BA",
+  "calling_code" : "+387"
+}, {
+  "country_code" : "BB",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "BD",
+  "calling_code" : "+880"
+}, {
+  "country_code" : "BE",
+  "calling_code" : "+32"
+}, {
+  "country_code" : "BF",
+  "calling_code" : "+226"
+}, {
+  "country_code" : "BG",
+  "calling_code" : "+359"
+}, {
+  "country_code" : "BH",
+  "calling_code" : "+973"
+}, {
+  "country_code" : "BI",
+  "calling_code" : "+257"
+}, {
+  "country_code" : "BJ",
+  "calling_code" : "+229"
+}, {
+  "country_code" : "BL",
+  "calling_code" : "+590"
+}, {
+  "country_code" : "BM",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "BN",
+  "calling_code" : "+673"
+}, {
+  "country_code" : "BO",
+  "calling_code" : "+591"
+}, {
+  "country_code" : "BQ",
+  "calling_code" : "+599"
+}, {
+  "country_code" : "BR",
+  "calling_code" : "+55"
+}, {
+  "country_code" : "BS",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "BT",
+  "calling_code" : "+975"
+}, {
+  "country_code" : "BW",
+  "calling_code" : "+267"
+}, {
+  "country_code" : "BY",
+  "calling_code" : "+375"
+}, {
+  "country_code" : "BZ",
+  "calling_code" : "+501"
+}, {
+  "country_code" : "CA",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "CC",
+  "calling_code" : "+61"
+}, {
+  "country_code" : "CD",
+  "calling_code" : "+243"
+}, {
+  "country_code" : "CF",
+  "calling_code" : "+236"
+}, {
+  "country_code" : "CG",
+  "calling_code" : "+242"
+}, {
+  "country_code" : "CH",
+  "calling_code" : "+41"
+}, {
+  "country_code" : "CI",
+  "calling_code" : "+225"
+}, {
+  "country_code" : "CK",
+  "calling_code" : "+682"
+}, {
+  "country_code" : "CL",
+  "calling_code" : "+56"
+}, {
+  "country_code" : "CM",
+  "calling_code" : "+237"
+}, {
+  "country_code" : "CN",
+  "calling_code" : "+86"
+}, {
+  "country_code" : "CO",
+  "calling_code" : "+57"
+}, {
+  "country_code" : "CR",
+  "calling_code" : "+506"
+}, {
+  "country_code" : "CU",
+  "calling_code" : "+53"
+}, {
+  "country_code" : "CV",
+  "calling_code" : "+238"
+}, {
+  "country_code" : "CW",
+  "calling_code" : "+599"
+}, {
+  "country_code" : "CX",
+  "calling_code" : "+61"
+}, {
+  "country_code" : "CY",
+  "calling_code" : "+357"
+}, {
+  "country_code" : "CZ",
+  "calling_code" : "+420"
+}, {
+  "country_code" : "DE",
+  "calling_code" : "+49"
+}, {
+  "country_code" : "DJ",
+  "calling_code" : "+253"
+}, {
+  "country_code" : "DK",
+  "calling_code" : "+45"
+}, {
+  "country_code" : "DM",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "DO",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "DZ",
+  "calling_code" : "+213"
+}, {
+  "country_code" : "EC",
+  "calling_code" : "+593"
+}, {
+  "country_code" : "EE",
+  "calling_code" : "+372"
+}, {
+  "country_code" : "EG",
+  "calling_code" : "+20"
+}, {
+  "country_code" : "EH",
+  "calling_code" : "+212"
+}, {
+  "country_code" : "ER",
+  "calling_code" : "+291"
+}, {
+  "country_code" : "ES",
+  "calling_code" : "+34"
+}, {
+  "country_code" : "ET",
+  "calling_code" : "+251"
+}, {
+  "country_code" : "FI",
+  "calling_code" : "+358"
+}, {
+  "country_code" : "FJ",
+  "calling_code" : "+679"
+}, {
+  "country_code" : "FK",
+  "calling_code" : "+500"
+}, {
+  "country_code" : "FM",
+  "calling_code" : "+691"
+}, {
+  "country_code" : "FO",
+  "calling_code" : "+298"
+}, {
+  "country_code" : "FR",
+  "calling_code" : "+33"
+}, {
+  "country_code" : "GA",
+  "calling_code" : "+241"
+}, {
+  "country_code" : "GB",
+  "calling_code" : "+44"
+}, {
+  "country_code" : "GD",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "GE",
+  "calling_code" : "+995"
+}, {
+  "country_code" : "GF",
+  "calling_code" : "+594"
+}, {
+  "country_code" : "GG",
+  "calling_code" : "+44"
+}, {
+  "country_code" : "GH",
+  "calling_code" : "+233"
+}, {
+  "country_code" : "GI",
+  "calling_code" : "+350"
+}, {
+  "country_code" : "GL",
+  "calling_code" : "+299"
+}, {
+  "country_code" : "GM",
+  "calling_code" : "+220"
+}, {
+  "country_code" : "GN",
+  "calling_code" : "+224"
+}, {
+  "country_code" : "GP",
+  "calling_code" : "+590"
+}, {
+  "country_code" : "GQ",
+  "calling_code" : "+240"
+}, {
+  "country_code" : "GR",
+  "calling_code" : "+30"
+}, {
+  "country_code" : "GT",
+  "calling_code" : "+502"
+}, {
+  "country_code" : "GU",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "GW",
+  "calling_code" : "+245"
+}, {
+  "country_code" : "GY",
+  "calling_code" : "+592"
+}, {
+  "country_code" : "HK",
+  "calling_code" : "+852"
+}, {
+  "country_code" : "HN",
+  "calling_code" : "+504"
+}, {
+  "country_code" : "HR",
+  "calling_code" : "+385"
+}, {
+  "country_code" : "HT",
+  "calling_code" : "+509"
+}, {
+  "country_code" : "HU",
+  "calling_code" : "+36"
+}, {
+  "country_code" : "ID",
+  "calling_code" : "+62"
+}, {
+  "country_code" : "IE",
+  "calling_code" : "+353"
+}, {
+  "country_code" : "IL",
+  "calling_code" : "+972"
+}, {
+  "country_code" : "IM",
+  "calling_code" : "+44"
+}, {
+  "country_code" : "IN",
+  "calling_code" : "+91"
+}, {
+  "country_code" : "IO",
+  "calling_code" : "+246"
+}, {
+  "country_code" : "IQ",
+  "calling_code" : "+964"
+}, {
+  "country_code" : "IR",
+  "calling_code" : "+98"
+}, {
+  "country_code" : "IS",
+  "calling_code" : "+354"
+}, {
+  "country_code" : "IT",
+  "calling_code" : "+39"
+}, {
+  "country_code" : "JE",
+  "calling_code" : "+44"
+}, {
+  "country_code" : "JM",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "JO",
+  "calling_code" : "+962"
+}, {
+  "country_code" : "JP",
+  "calling_code" : "+81"
+}, {
+  "country_code" : "KE",
+  "calling_code" : "+254"
+}, {
+  "country_code" : "KG",
+  "calling_code" : "+996"
+}, {
+  "country_code" : "KH",
+  "calling_code" : "+855"
+}, {
+  "country_code" : "KI",
+  "calling_code" : "+686"
+}, {
+  "country_code" : "KM",
+  "calling_code" : "+269"
+}, {
+  "country_code" : "KN",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "KP",
+  "calling_code" : "+850"
+}, {
+  "country_code" : "KR",
+  "calling_code" : "+82"
+}, {
+  "country_code" : "KW",
+  "calling_code" : "+965"
+}, {
+  "country_code" : "KY",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "KZ",
+  "calling_code" : "+7"
+}, {
+  "country_code" : "LA",
+  "calling_code" : "+856"
+}, {
+  "country_code" : "LB",
+  "calling_code" : "+961"
+}, {
+  "country_code" : "LC",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "LI",
+  "calling_code" : "+423"
+}, {
+  "country_code" : "LK",
+  "calling_code" : "+94"
+}, {
+  "country_code" : "LR",
+  "calling_code" : "+231"
+}, {
+  "country_code" : "LS",
+  "calling_code" : "+266"
+}, {
+  "country_code" : "LT",
+  "calling_code" : "+370"
+}, {
+  "country_code" : "LU",
+  "calling_code" : "+352"
+}, {
+  "country_code" : "LV",
+  "calling_code" : "+371"
+}, {
+  "country_code" : "LY",
+  "calling_code" : "+218"
+}, {
+  "country_code" : "MA",
+  "calling_code" : "+212"
+}, {
+  "country_code" : "MC",
+  "calling_code" : "+377"
+}, {
+  "country_code" : "MD",
+  "calling_code" : "+373"
+}, {
+  "country_code" : "ME",
+  "calling_code" : "+382"
+}, {
+  "country_code" : "MF",
+  "calling_code" : "+590"
+}, {
+  "country_code" : "MG",
+  "calling_code" : "+261"
+}, {
+  "country_code" : "MH",
+  "calling_code" : "+692"
+}, {
+  "country_code" : "MK",
+  "calling_code" : "+389"
+}, {
+  "country_code" : "ML",
+  "calling_code" : "+223"
+}, {
+  "country_code" : "MM",
+  "calling_code" : "+95"
+}, {
+  "country_code" : "MN",
+  "calling_code" : "+976"
+}, {
+  "country_code" : "MO",
+  "calling_code" : "+853"
+}, {
+  "country_code" : "MP",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "MQ",
+  "calling_code" : "+596"
+}, {
+  "country_code" : "MR",
+  "calling_code" : "+222"
+}, {
+  "country_code" : "MS",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "MT",
+  "calling_code" : "+356"
+}, {
+  "country_code" : "MU",
+  "calling_code" : "+230"
+}, {
+  "country_code" : "MV",
+  "calling_code" : "+960"
+}, {
+  "country_code" : "MW",
+  "calling_code" : "+265"
+}, {
+  "country_code" : "MX",
+  "calling_code" : "+52"
+}, {
+  "country_code" : "MY",
+  "calling_code" : "+60"
+}, {
+  "country_code" : "MZ",
+  "calling_code" : "+258"
+}, {
+  "country_code" : "NA",
+  "calling_code" : "+264"
+}, {
+  "country_code" : "NC",
+  "calling_code" : "+687"
+}, {
+  "country_code" : "NE",
+  "calling_code" : "+227"
+}, {
+  "country_code" : "NF",
+  "calling_code" : "+672"
+}, {
+  "country_code" : "NG",
+  "calling_code" : "+234"
+}, {
+  "country_code" : "NI",
+  "calling_code" : "+505"
+}, {
+  "country_code" : "NL",
+  "calling_code" : "+31"
+}, {
+  "country_code" : "NO",
+  "calling_code" : "+47"
+}, {
+  "country_code" : "NP",
+  "calling_code" : "+977"
+}, {
+  "country_code" : "NR",
+  "calling_code" : "+674"
+}, {
+  "country_code" : "NU",
+  "calling_code" : "+683"
+}, {
+  "country_code" : "NZ",
+  "calling_code" : "+64"
+}, {
+  "country_code" : "OM",
+  "calling_code" : "+968"
+}, {
+  "country_code" : "PA",
+  "calling_code" : "+507"
+}, {
+  "country_code" : "PE",
+  "calling_code" : "+51"
+}, {
+  "country_code" : "PF",
+  "calling_code" : "+689"
+}, {
+  "country_code" : "PG",
+  "calling_code" : "+675"
+}, {
+  "country_code" : "PH",
+  "calling_code" : "+63"
+}, {
+  "country_code" : "PK",
+  "calling_code" : "+92"
+}, {
+  "country_code" : "PL",
+  "calling_code" : "+48"
+}, {
+  "country_code" : "PM",
+  "calling_code" : "+508"
+}, {
+  "country_code" : "PR",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "PS",
+  "calling_code" : "+970"
+}, {
+  "country_code" : "PT",
+  "calling_code" : "+351"
+}, {
+  "country_code" : "PW",
+  "calling_code" : "+680"
+}, {
+  "country_code" : "PY",
+  "calling_code" : "+595"
+}, {
+  "country_code" : "QA",
+  "calling_code" : "+974"
+}, {
+  "country_code" : "RE",
+  "calling_code" : "+262"
+}, {
+  "country_code" : "RO",
+  "calling_code" : "+40"
+}, {
+  "country_code" : "RS",
+  "calling_code" : "+381"
+}, {
+  "country_code" : "RU",
+  "calling_code" : "+7"
+}, {
+  "country_code" : "RW",
+  "calling_code" : "+250"
+}, {
+  "country_code" : "SA",
+  "calling_code" : "+966"
+}, {
+  "country_code" : "SB",
+  "calling_code" : "+677"
+}, {
+  "country_code" : "SC",
+  "calling_code" : "+248"
+}, {
+  "country_code" : "SD",
+  "calling_code" : "+249"
+}, {
+  "country_code" : "SE",
+  "calling_code" : "+46"
+}, {
+  "country_code" : "SG",
+  "calling_code" : "+65"
+}, {
+  "country_code" : "SH",
+  "calling_code" : "+290"
+}, {
+  "country_code" : "SI",
+  "calling_code" : "+386"
+}, {
+  "country_code" : "SJ",
+  "calling_code" : "+47"
+}, {
+  "country_code" : "SK",
+  "calling_code" : "+421"
+}, {
+  "country_code" : "SL",
+  "calling_code" : "+232"
+}, {
+  "country_code" : "SM",
+  "calling_code" : "+378"
+}, {
+  "country_code" : "SN",
+  "calling_code" : "+221"
+}, {
+  "country_code" : "SO",
+  "calling_code" : "+252"
+}, {
+  "country_code" : "SR",
+  "calling_code" : "+597"
+}, {
+  "country_code" : "SS",
+  "calling_code" : "+211"
+}, {
+  "country_code" : "ST",
+  "calling_code" : "+239"
+}, {
+  "country_code" : "SV",
+  "calling_code" : "+503"
+}, {
+  "country_code" : "SX",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "SY",
+  "calling_code" : "+963"
+}, {
+  "country_code" : "SZ",
+  "calling_code" : "+268"
+}, {
+  "country_code" : "TA",
+  "calling_code" : "+290"
+}, {
+  "country_code" : "TC",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "TD",
+  "calling_code" : "+235"
+}, {
+  "country_code" : "TG",
+  "calling_code" : "+228"
+}, {
+  "country_code" : "TH",
+  "calling_code" : "+66"
+}, {
+  "country_code" : "TJ",
+  "calling_code" : "+992"
+}, {
+  "country_code" : "TK",
+  "calling_code" : "+690"
+}, {
+  "country_code" : "TL",
+  "calling_code" : "+670"
+}, {
+  "country_code" : "TM",
+  "calling_code" : "+993"
+}, {
+  "country_code" : "TN",
+  "calling_code" : "+216"
+}, {
+  "country_code" : "TO",
+  "calling_code" : "+676"
+}, {
+  "country_code" : "TR",
+  "calling_code" : "+90"
+}, {
+  "country_code" : "TT",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "TV",
+  "calling_code" : "+688"
+}, {
+  "country_code" : "TW",
+  "calling_code" : "+886"
+}, {
+  "country_code" : "TZ",
+  "calling_code" : "+255"
+}, {
+  "country_code" : "UA",
+  "calling_code" : "+380"
+}, {
+  "country_code" : "UG",
+  "calling_code" : "+256"
+}, {
+  "country_code" : "US",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "UY",
+  "calling_code" : "+598"
+}, {
+  "country_code" : "UZ",
+  "calling_code" : "+998"
+}, {
+  "country_code" : "VA",
+  "calling_code" : "+39"
+}, {
+  "country_code" : "VC",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "VE",
+  "calling_code" : "+58"
+}, {
+  "country_code" : "VG",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "VI",
+  "calling_code" : "+1"
+}, {
+  "country_code" : "VN",
+  "calling_code" : "+84"
+}, {
+  "country_code" : "VU",
+  "calling_code" : "+678"
+}, {
+  "country_code" : "WF",
+  "calling_code" : "+681"
+}, {
+  "country_code" : "WS",
+  "calling_code" : "+685"
+}, {
+  "country_code" : "XK",
+  "calling_code" : "+383"
+}, {
+  "country_code" : "YE",
+  "calling_code" : "+967"
+}, {
+  "country_code" : "YT",
+  "calling_code" : "+262"
+}, {
+  "country_code" : "ZA",
+  "calling_code" : "+27"
+}, {
+  "country_code" : "ZM",
+  "calling_code" : "+260"
+}, {
+  "country_code" : "ZW",
+  "calling_code" : "+263"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+800"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+808"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+870"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+878"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+881"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+882"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+883"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+888"
+}, {
+  "country_code" : "001",
+  "calling_code" : "+979"
+} ]

@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-ko.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "지침";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "기기 %0에서 볼륨이 낮게 설정되어 있습니다.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "이전 트랙";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "기기 %0에서 볼륨이 매우 낮게 설정되어 있습니다.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "다음 트랙";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "안전 지침";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "주행 중 앱의 이용을 권장하지 않습니다. 그러나 차단 화면의 잠금을 해제하고 본인의 책임 하에 앱을 이용할 수 있습니다.";
+"SID_SPELLER_HISTORY_EMPTY" = "기록 입력내용 없음";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "최근 검색";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "결과 \"%0\"";

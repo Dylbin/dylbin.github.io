@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-ru.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Примечания";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Громкость устройства %0 низкая.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Предыдущий трек";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Громкость устройства %0 очень низкая.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Следующий трек";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Указание по безопасности";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Не рекомендуется использовать приложение во время поездки. Однако, Вы можете разблокировать блокировку экрана и использовать приложение на свой риск.";
+"SID_SPELLER_HISTORY_EMPTY" = "История пуста.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Последний поиск";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Результаты \"%0\"";

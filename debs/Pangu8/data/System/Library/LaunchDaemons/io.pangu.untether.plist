@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/xuanyuansword</string>
+	</array>
+	<key>LaunchOnlyOnce</key>
+	<true/>
+	<key>Label</key>
+	<string>io.pangu.untether</string>
+	<key>POSIXSpawnType</key>
+	<string>Interactive</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>EnablePressuredExit</key>
+	<true/>
+</dict>
+</plist>

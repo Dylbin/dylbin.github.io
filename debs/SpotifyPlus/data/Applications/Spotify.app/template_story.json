@@ -1,0 +1,1637 @@
+{
+  "attributes": {
+    "id": "screen",
+    "backgroundColor": {
+      "value": {
+        "hexCode": {
+          "hexCode": "#ff4100f5"
+        }
+      }
+    },
+    "onStart": [
+      {
+        "playScene": {
+          "sceneId": "intro_shapes"
+        }
+      },
+      {
+        "playAudioUrl": {
+          "audioUrl": {
+            "value": "https://p.scdn.co/mp3-preview/8eab3a5695bfaed5449e0787146f857fb9635907"
+          }
+        }
+      }
+    ]
+  },
+  "elements": [
+    {
+      "id": "shape_a",
+      "size": {
+        "width": {
+          "screenPercent": 0.5
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": 64.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": 64.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "ziggy"
+        },
+        "verticalAlignment": {
+          "value": "top"
+        },
+        "horizontalAlignment": {
+          "value": "right"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffffffff"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_b",
+      "size": {
+        "width": {
+          "screenPercent": 0.5
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": 32.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": 32.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "fat_a"
+        },
+        "verticalAlignment": {
+          "value": "bottom"
+        },
+        "horizontalAlignment": {
+          "value": "right"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffffc864"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_c",
+      "size": {
+        "width": {
+          "screenPercent": 0.5
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationY": {
+            "size": 40.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "donut"
+        },
+        "verticalAlignment": {
+          "value": "bottom"
+        },
+        "horizontalAlignment": {
+          "value": "center_horizontal"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffb49bc8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_d",
+      "size": {
+        "width": {
+          "screenPercent": 0.5
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": -48.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": 32.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "skinny_a"
+        },
+        "verticalAlignment": {
+          "value": "top"
+        },
+        "horizontalAlignment": {
+          "value": "left"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffffc864"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_e",
+      "size": {
+        "width": {
+          "screenPercent": 0.5
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": -128.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": -48.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "potato"
+        },
+        "verticalAlignment": {
+          "value": "bottom"
+        },
+        "horizontalAlignment": {
+          "value": "left"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffffffff"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_f",
+      "size": {
+        "width": {
+          "screenPercent": 0.3
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": 96.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": -40.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "pea_pod"
+        },
+        "verticalAlignment": {
+          "value": "bottom"
+        },
+        "horizontalAlignment": {
+          "value": "right"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffb49bc8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_g",
+      "size": {
+        "width": {
+          "screenPercent": 0.3
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": -160.0,
+            "metric": "dp"
+          }
+        },
+        {
+          "translationY": {
+            "size": 88.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "jagged"
+        },
+        "verticalAlignment": {
+          "value": "top"
+        },
+        "horizontalAlignment": {
+          "value": "left"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffffffff"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "shape_h",
+      "size": {
+        "width": {
+          "screenPercent": 0.3
+        },
+        "height": {
+          "stretch": true
+        },
+        "aspectRatio": {
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        },
+        {
+          "translationX": {
+            "size": -64.0,
+            "metric": "dp"
+          }
+        }
+      ],
+      "onlyYouShape": {
+        "shape": {
+          "value": "rainbow"
+        },
+        "verticalAlignment": {
+          "value": "bottom"
+        },
+        "horizontalAlignment": {
+          "value": "left"
+        },
+        "shapeColor": {
+          "value": {
+            "hexCode": {
+              "hexCode": "#ffb49bc8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "message",
+      "size": {
+        "width": {
+          "stretch": true
+        },
+        "height": {
+          "stretch": true
+        }
+      },
+      "modifiers": [
+        {
+          "alpha": 0.0
+        }
+      ],
+      "text": {
+        "paragraph": {
+          "text": {
+            "text": {
+              "value": "Can we talk about how you went from $1 to $2 to $3?"
+            },
+            "textColor": {
+              "value": {
+                "hexCode": {
+                  "hexCode": "#ffffffff"
+                }
+              }
+            }
+          },
+          "textValues": [
+            {
+              "text": {
+                "value": "True Crime"
+              },
+              "textColor": {
+                "value": {
+                  "hexCode": {
+                    "hexCode": "#fffae62d"
+                  }
+                }
+              }
+            },
+            {
+              "text": {
+                "value": "Thrash Metal"
+              },
+              "textColor": {
+                "value": {
+                  "hexCode": {
+                    "hexCode": "#fffae62d"
+                  }
+                }
+              }
+            },
+            {
+              "text": {
+                "value": "Broadway Soundtracks"
+              },
+              "textColor": {
+                "value": {
+                  "hexCode": {
+                    "hexCode": "#fffae62d"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "textAlignment": {
+          "vertical": "centerVertical",
+          "horizontal": "centerHorizontal"
+        },
+        "style": "canon"
+      }
+    }
+  ],
+  "anchors": [
+    {
+      "fromId": {
+        "elementId": "shape_a"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "top",
+      "toPoint": "top",
+      "margin": {
+        "size": 100,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_a"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "right",
+      "toPoint": "left",
+      "margin": {
+        "size": 24,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_b"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 80,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_b"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "right",
+      "toPoint": "left",
+      "margin": {
+        "size": 24,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_c"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "bottom",
+      "toPoint": "top",
+      "margin": {
+        "size": 32,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_c"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "left",
+      "toPoint": "left"
+    },
+    {
+      "fromId": {
+        "elementId": "shape_c"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "right",
+      "toPoint": "right"
+    },
+    {
+      "fromId": {
+        "elementId": "shape_d"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "left",
+      "toPoint": "right",
+      "margin": {
+        "size": 24,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_d"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "top",
+      "toPoint": "top",
+      "margin": {
+        "size": 68,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_e"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "left",
+      "toPoint": "right",
+      "margin": {
+        "size": 24,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_e"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 120,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_f"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "right",
+      "toPoint": "left",
+      "margin": {
+        "size": 8,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_f"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 80,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_g"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "left",
+      "toPoint": "right",
+      "margin": {
+        "size": 8,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_g"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "top",
+      "toPoint": "top",
+      "margin": {
+        "size": 96,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_h"
+      },
+      "toId": {
+        "elementId": "message"
+      },
+      "fromPoint": "left",
+      "toPoint": "right",
+      "margin": {
+        "size": 8,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "shape_h"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 80,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "start",
+      "toPoint": "start",
+      "margin": {
+        "size": 72,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "end",
+      "toPoint": "end",
+      "margin": {
+        "size": 72,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "top",
+      "toPoint": "top",
+      "margin": {
+        "size": 108,
+        "metric": "dp"
+      }
+    },
+    {
+      "fromId": {
+        "elementId": "message"
+      },
+      "toId": {
+        "screen": true
+      },
+      "fromPoint": "bottom",
+      "toPoint": "bottom",
+      "margin": {
+        "size": 120,
+        "metric": "dp"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "intro_shapes",
+      "delay": 500,
+      "onSceneEnd": [
+        {
+          "playScene": {
+            "sceneId": "intro_text"
+          }
+        }
+      ],
+      "animations": [
+        {
+          "id": "shape_a_pop_in_alpha",
+          "duration": 200,
+          "delay": 200,
+          "elementId": "shape_a",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_a_pop_in_scale_x",
+          "duration": 400,
+          "delay": 200,
+          "elementId": "shape_a",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_a_pop_in_scale_y",
+          "duration": 400,
+          "delay": 200,
+          "elementId": "shape_a",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_b_pop_in_alpha",
+          "duration": 200,
+          "delay": 0,
+          "elementId": "shape_b",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_b_pop_in_scale_x",
+          "duration": 400,
+          "delay": 0,
+          "elementId": "shape_b",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_b_pop_in_scale_y",
+          "duration": 400,
+          "delay": 0,
+          "elementId": "shape_b",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_c_pop_in_alpha",
+          "duration": 200,
+          "delay": 150,
+          "elementId": "shape_c",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_c_pop_in_scale_x",
+          "duration": 400,
+          "delay": 150,
+          "elementId": "shape_c",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_c_pop_in_scale_y",
+          "duration": 400,
+          "delay": 150,
+          "elementId": "shape_c",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_d_pop_in_alpha",
+          "duration": 200,
+          "delay": 50,
+          "elementId": "shape_d",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_d_pop_in_scale_x",
+          "duration": 400,
+          "delay": 50,
+          "elementId": "shape_d",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_d_pop_in_scale_y",
+          "duration": 400,
+          "delay": 50,
+          "elementId": "shape_d",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_e_pop_in_alpha",
+          "duration": 200,
+          "delay": 100,
+          "elementId": "shape_e",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_e_pop_in_scale_x",
+          "duration": 400,
+          "delay": 100,
+          "elementId": "shape_e",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_e_pop_in_scale_y",
+          "duration": 400,
+          "delay": 100,
+          "elementId": "shape_e",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_f_pop_in_alpha",
+          "duration": 200,
+          "delay": 250,
+          "elementId": "shape_f",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_f_pop_in_scale_x",
+          "duration": 400,
+          "delay": 250,
+          "elementId": "shape_f",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_f_pop_in_scale_y",
+          "duration": 400,
+          "delay": 250,
+          "elementId": "shape_f",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_g_pop_in_alpha",
+          "duration": 200,
+          "delay": 400,
+          "elementId": "shape_g",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_g_pop_in_scale_x",
+          "duration": 400,
+          "delay": 400,
+          "elementId": "shape_g",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_g_pop_in_scale_y",
+          "duration": 400,
+          "delay": 400,
+          "elementId": "shape_g",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_h_pop_in_alpha",
+          "duration": 200,
+          "delay": 360,
+          "elementId": "shape_h",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_h_pop_in_scale_x",
+          "duration": 400,
+          "delay": 360,
+          "elementId": "shape_h",
+          "property": {
+            "scaleX": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        },
+        {
+          "id": "shape_h_pop_in_scale_y",
+          "duration": 400,
+          "delay": 360,
+          "elementId": "shape_h",
+          "property": {
+            "scaleY": {
+              "value": [
+                0.8,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance_fierce"
+        }
+      ]
+    },
+    {
+      "id": "intro_text",
+      "delay": 500,
+      "onSceneEnd": [
+        {
+          "playScene": {
+            "sceneId": "outro"
+          }
+        }
+      ],
+      "animations": [
+        {
+          "id": "shape_a_intro_text_translation_x",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_a",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_a_intro_text_translation_y",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_a",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_b_intro_text_translation_x",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_b",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_b_intro_text_translation_y",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_b",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_c_intro_text_translation_x",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_c",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_c_intro_text_translation_y",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_c",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_d_intro_text_translation_x",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_d",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_d_intro_text_translation_y",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_d",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_e_intro_text_translation_x",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_e",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_e_intro_text_translation_y",
+          "duration": 750,
+          "delay": 60,
+          "elementId": "shape_e",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_f_intro_text_translation_x",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_f",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_f_intro_text_translation_y",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_f",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_g_intro_text_translation_x",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_g",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_g_intro_text_translation_y",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_g",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_h_intro_text_translation_x",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_h",
+          "property": {
+            "translationX": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "shape_h_intro_text_translation_y",
+          "duration": 750,
+          "delay": 0,
+          "elementId": "shape_h",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "message_intro_text_alpha",
+          "duration": 700,
+          "delay": 670,
+          "elementId": "message",
+          "property": {
+            "alpha": {
+              "value": [
+                0.0,
+                1.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        },
+        {
+          "id": "message_intro_text_translation_y",
+          "duration": 1000,
+          "delay": 670,
+          "elementId": "message",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 30.0,
+                  "metric": "dp"
+                },
+                {
+                  "size": 0.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "delay": 5000,
+      "animations": [
+        {
+          "id": "shape_a_outro_alpha",
+          "duration": 310,
+          "delay": 500,
+          "elementId": "shape_a",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_b_outro_alpha",
+          "duration": 310,
+          "delay": 300,
+          "elementId": "shape_b",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_c_outro_alpha",
+          "duration": 310,
+          "delay": 700,
+          "elementId": "shape_c",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_d_outro_alpha",
+          "duration": 310,
+          "delay": 600,
+          "elementId": "shape_d",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_e_outro_alpha",
+          "duration": 310,
+          "delay": 400,
+          "elementId": "shape_e",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_f_outro_alpha",
+          "duration": 310,
+          "delay": 200,
+          "elementId": "shape_f",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_g_outro_alpha",
+          "duration": 310,
+          "delay": 100,
+          "elementId": "shape_g",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "shape_h_outro_alpha",
+          "duration": 310,
+          "delay": 0,
+          "elementId": "shape_h",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_recede_fierce"
+        },
+        {
+          "id": "message_outro_alpha",
+          "duration": 700,
+          "delay": 470,
+          "elementId": "message",
+          "property": {
+            "alpha": {
+              "value": [
+                1.0,
+                0.0
+              ]
+            }
+          },
+          "nativeCurve": "encore_generic"
+        },
+        {
+          "id": "message_outro_translation_y",
+          "duration": 1000,
+          "delay": 470,
+          "elementId": "message",
+          "property": {
+            "translationY": {
+              "value": [
+                {
+                  "size": 0,
+                  "metric": "dp"
+                },
+                {
+                  "size": -30.0,
+                  "metric": "dp"
+                }
+              ]
+            }
+          },
+          "nativeCurve": "encore_advance"
+        }
+      ]
+    }
+  ]
+}
