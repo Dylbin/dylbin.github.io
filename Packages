@@ -11,9 +11,9 @@ Section: Games
 Description: Delta multi-emulator for iOS 12/13/14
 Author: Riley Testut
 Name: Delta
-Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Delta/Delta.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Delta.json
+Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Delta.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
 
 Package: com.rileytestut.Delta.Beta
 Version: 1.3rc1
@@ -28,9 +28,9 @@ Section: Games
 Description: Delta (Beta) multi-emulator for iOS 12/13/14
 Author: Riley Testut
 Name: Delta Beta
-Icon: https://dylbinthedev.github.io/icons/com.rileytestut.delta.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/DeltaBeta/DeltaBeta.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta.json
+Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/DeltaBeta/DeltaBeta.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/DeltaBeta.json
 
 Package: net.nerd.inds
 Version: 1.10.8
@@ -45,9 +45,9 @@ Section: Games
 Description: Nintendo DS Emulator for iOS 9 - 14
 Author: iNDS Team
 Name: iNDS
-Icon: https://dylbinthedev.github.io/icons/net.nerd.inds.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/iNDS/iNDS.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/iNDS.json
+Icon: https://dylbin.github.io/icons/net.nerd.inds.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/iNDS/iNDS.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/iNDS.json
 
 Package: com.dylbinthedev.spotifyplus
 Version: 8.6.42
@@ -62,9 +62,9 @@ Section: Utilities
 Description: Spotify++ for iOS 11/12/13/14/15
 Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.spotifyplus.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp.json
+Icon: https://dylbin.github.io/icons/com.dylbin.spotifyplus.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/SpotifyApp.json
 
 Package: com.dylbinthedev.mbp
 Version: 10.3
@@ -79,9 +79,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 10.2
@@ -96,9 +96,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 10.1
@@ -113,9 +113,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 9.7
@@ -130,9 +130,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 9.6
@@ -147,9 +147,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 9.4
@@ -164,9 +164,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBox Pro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 9.2
@@ -181,9 +181,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 9.1
@@ -198,9 +198,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 8.8
@@ -215,9 +215,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 8.2
@@ -232,9 +232,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 7.8
@@ -249,9 +249,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 7.6
@@ -266,9 +266,9 @@ Section: Multimedia
 Description: MovieBoxPro for iOS 11/12/13/14
 Author: MovieBoxPro Team
 Name: MovieBox Pro
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.mbp.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MovieBoxPro.json
+Icon: https://dylbin.github.io/icons/com.dylbin.mbp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mediaboxhd
 Version: 2.4.9.2
@@ -283,9 +283,9 @@ Section: Multimedia
 Description: MediaboxHD for iOS 9/10/11/12/13/14
 Author: Mediaboxhd
 Name: MediaBox HD
-Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD.json
+Icon: https://dylbin.github.io/icons/mediaplayer.box.ios3.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MediaBoxHD.json
 
 Package: com.dylbinthedev.mediaboxhd
 Version: 2.5
@@ -300,9 +300,9 @@ Section: Multimedia
 Description: MediaBoxHD for iOS 9.3.x - 15.x
 Author: MediaboxHD Team
 Name: MediaBox HD
-Icon: https://dylbinthedev.github.io/icons/mediaplayer.box.ios3.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MediaBoxHD.json
+Icon: https://dylbin.github.io/icons/mediaplayer.box.ios3.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/MediaBoxHD/MediaBoxHD.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/MediaBoxHD.json
 
 Package: com.dylbinthedev.spotilife
 Version: 1.5
@@ -318,9 +318,9 @@ Section: Tweaks
 Description: Spotify++ Patch
 Author: DylbinTheDev & julioverne
 Name: Spotilife
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.spotifyplus.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife.json
+Icon: https://dylbin.github.io/icons/com.dylbin.spotifyplus.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Spotilife/Spotilife.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Spotilife.json
 
 Package: org.brandonplank.flappybird15
 Version: 4.0.6
@@ -335,9 +335,9 @@ Section: Games
 Description: A Flappy Bird clone that runs on the latest iOS!
 Author: Brandon Plank
 Name: Flappy Bird
-Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird.json
+Icon: https://dylbin.github.io/icons/org.brandonplank.flappybird.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/FlappyBird.json
 
 Package: org.brandonplank.flappybird15
 Version: 4.0.5
@@ -352,9 +352,9 @@ Section: Games
 Description: A Flappy Bird clone that runs on the latest iOS!
 Author: Brandon Plank
 Name: Flappy Bird
-Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird.json
+Icon: https://dylbin.github.io/icons/org.brandonplank.flappybird.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/FlappyBird.json
 
 Package: org.brandonplank.flappybird15
 Version: 4.0
@@ -369,9 +369,9 @@ Section: Games
 Description: A Flappy Bird clone that runs on the latest iOS!
 Author: Brandon Plank
 Name: Flappy Bird
-Icon: https://dylbinthedev.github.io/icons/org.brandonplank.flappybird.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird.json
+Icon: https://dylbin.github.io/icons/org.brandonplank.flappybird.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/FlappyBird.json
 
 Package: NoahEvans.Spork
 Version: 1.0
@@ -386,8 +386,8 @@ Section: Toys
 Description: The only app you'll need on your phone. Go on Twitter and give @ThisIsNoahEvans a follow for this amazing app!
 Author: Noah Evans
 Name: Spork
-Icon: https://dylbinthedev.github.io/icons/NoahEvans.Spork.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Spork.json
+Icon: https://dylbin.github.io/icons/NoahEvans.Spork.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Spork.json
 
 Package: io.pangu.loader
 Version: 1.2.0
@@ -402,7 +402,7 @@ Section: Packaging
 Description: Pangu's package manager installed by the Pangu8 untethered jailbreak. Supports iOS 8.0 - 8.1.x only
 Author: Pangu Team	
 Name: Pangu Loader (iOS 8)
-Icon: https://dylbinthedev.github.io/icons/io.pangu.loader.png
+Icon: https://dylbin.github.io/icons/io.pangu.loader.png
 
 Package: com.dylbinthedev.ppsspp
 Version: 1.11.3
@@ -416,9 +416,9 @@ SHA256: 6a924bea3b70e15fa3c826d52247cc05c3950984b29210e9069107c912a94eef
 Section: Games
 Description: A PSP Emulator for iOS 11/12/13/14/15
 Author: Henrik Rydgård	
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PPSSPP/PPSSPP.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PPSSPP.json
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.ppsspp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/PPSSPP/PPSSPP.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/PPSSPP.json
+Icon: https://dylbin.github.io/icons/com.dylbin.ppsspp.png
 Name: PPSSPP
 
 Package: com.dylbinthedev.ppsspp
@@ -433,9 +433,9 @@ SHA256: df7638c71443bb9216ad16581fd18de7515966c53071ab9c2231c7588422deab
 Section: Games
 Description: A PSP Emulator for iOS 11/12/13/14/15
 Author: Henrik Rydgård	
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/PPSSPP/PPSSPP.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/PPSSPP.json
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.ppsspp.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/PPSSPP/PPSSPP.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/PPSSPP.json
+Icon: https://dylbin.github.io/icons/com.dylbin.ppsspp.png
 Name: PPSSPP
 
 Package: com.dylbinthedev.systeminfo
@@ -451,8 +451,8 @@ SHA256: 9b255ae287640b993dad8235e66d6cdce9cd3cc0a6b5092f2a514ed62db26510
 Section: Tweaks
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc
 Author: ARX8x
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.systeminfo.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
+Icon: https://dylbin.github.io/icons/com.dylbin.systeminfo.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/SystemInfo/SystemInfo.html
 Name: System Info
 
 Package: com.rileytestut.Clip.65YD56KAPC
@@ -467,9 +467,9 @@ SHA256: 4808a5b4fc1ee0309bc3f9f45b15f3f7c9cd28c8fb7f07eba9c5e05bc5e3e9b2
 Section: Utilities
 Description: Lightweight clipboard manager for iOS
 Author: Riley Testut
-Icon: https://dylbinthedev.github.io/icons/com.rileytestut.Clip.65YD56KAPC.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Clip/Clip.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Clip.json
+Icon: https://dylbin.github.io/icons/com.rileytestut.Clip.65YD56KAPC.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Clip/Clip.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Clip.json
 Name: Clip
 
 Package: me.apptapp.installer
@@ -484,9 +484,9 @@ SHA256: e23dc3e7502f25e01fdedb6e8796777eb0004146c40ee15b11baea73c51c3b1a
 Section: Packaging
 Description: Modern APT-frontend for iOS 13/14
 Author: AppTapp
-Icon: https://dylbinthedev.github.io/icons/me.apptapp.installer.png
+Icon: https://dylbin.github.io/icons/me.apptapp.installer.png
 Depiction: https://apptapp.me/repo/51/installer.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Installer.json
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Installer.json
 Name: Installer
 
 Package: com.dylbinthedev.provenance
@@ -501,9 +501,9 @@ SHA256: 9cdb9f268c99c4bf42c6d269301d0f0a125f846e928b7dee7e96f4fff594df3b
 Section: Games
 Description: iOS Front End Multi-Emulator
 Author: Provenance Team
-Icon: https://dylbinthedev.github.io/icons/com.provenance-emu.provenance.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Provenance/Provenance.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Provenance.json
+Icon: https://dylbin.github.io/icons/com.provenance-emu.provenance.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Provenance/Provenance.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Provenance.json
 Name: Provenance
 
 Package: com.dylbinthedev.provenance
@@ -518,9 +518,9 @@ SHA256: aa4ef6eae37fea33702edaaf1270add728bdc398279efcfef1d28f55a980b79e
 Section: Games
 Description: iOS Front End Multi-Emulator
 Author: Provenance Team
-Icon: https://dylbinthedev.github.io/icons/com.provenance-emu.provenance.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Provenance/Provenance.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Provenance.json
+Icon: https://dylbin.github.io/icons/com.provenance-emu.provenance.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Provenance/Provenance.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Provenance.json
 Name: Provenance
 
 Package: kr.xsf1re.vnodebypass
@@ -535,8 +535,8 @@ SHA256: 4e7ddcf7388ff18c2c8c4ad22bd21fbe11711c9c91853fc22c19d733be252f7c
 Section: System
 Description: jailbreak detection bypass for iOS 14. Requires libkrw (on the unc0ver jailbreak.) Requires libKernRW (on the Taurine jailbreak.) this special version is modified to work for iPoGo.
 Author: XsF1re
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.vnodebypass.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
+Icon: https://dylbin.github.io/icons/com.dylbin.vnodebypass.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
 Name: vnodebypass
 
 Package: com.antique.Popcorn-iOS
@@ -551,9 +551,9 @@ SHA256: 273fdab8c4531ec87a9276b61f1c7fa513ad25ab447e5ec81670979a5f195942
 Section: Multimedia
 Description: Successor to PopcornTime for iOS, Supports iOS 12/13/14.
 Author: AntiqueDev
-Icon: https://dylbinthedev.github.io/icons/com.antique.Popcorn-iOS.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Popcorn/Popcorn.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Popcorn.json
+Icon: https://dylbin.github.io/icons/com.antique.Popcorn-iOS.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Popcorn/Popcorn.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Popcorn.json
 Name: Popcorn
 
 Package: com.dylbinthedev.zinitv
@@ -568,9 +568,9 @@ SHA256: 00d4f462858acf2816e5baeaa2a9f315ab71da620dac6ae31ff53fa8e410d664
 Section: Multimedia
 Description: Free Movies & TV Shows
 Author: ZiniTV
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.zinitv.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ZiniTV.json
+Icon: https://dylbin.github.io/icons/com.dylbin.zinitv.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
 
 Package: com.dylbinthedev.zinitv
@@ -585,9 +585,9 @@ SHA256: 5e880af1b0dfd8cc7e25efa15499c9b468e1358fdfc170dc06b91a20a5420686
 Section: Multimedia
 Description: Free Movies & TV Shows
 Author: ZiniTV
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.zinitv.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ZiniTV.json
+Icon: https://dylbin.github.io/icons/com.dylbin.zinitv.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
 
 Package: me.oatmealdome.dolphinios-patreon-beta
@@ -603,9 +603,9 @@ SHA256: 9f6c8b194461b878388a1cfcdbb3cff8118fc2fecb248af1228b6086b7dc8363
 Section: Games
 Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
-Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/DolphinBeta.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/DolphinBeta/DolphinBeta.html
+Icon: https://dylbin.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/DolphinBeta.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/DolphinBeta/DolphinBeta.html
 Name: DolphiniOS Beta
 
 Package: me.oatmealdome.csdbgd
@@ -621,7 +621,7 @@ SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
 Section: Utilities
 Description: Sets processes as debugged on request.
 Author: OatmealDome
-Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.csdbgd.png
+Icon: https://dylbin.github.io/icons/me.oatmealdome.csdbgd.png
 Name: csdbgd
 
 Package: me.oatmealdome.dolphinios
@@ -637,9 +637,9 @@ SHA256: 80c1899fcfd5f24310f6b1b1593a20f33caa9e93ade5e893c915663eae706eee
 Section: Games
 Description: DolphiniOS Wii/Gamecube Emulator for iOS 12-14
 Author: OatmealDome
-Icon: https://dylbinthedev.github.io/icons/me.oatmealdome.dolphinios.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Dolphin.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/Dolphin/Dolphin.html
+Icon: https://dylbin.github.io/icons/me.oatmealdome.dolphinios.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Dolphin.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Dolphin/Dolphin.html
 Name: DolphiniOS
 
 Package: com.ichitaso.altstore
@@ -655,9 +655,27 @@ SHA256: 0765f62007897f79cda9870ab98e80b6b8e6604ca642a906586126d6445c2732
 Section: Utilities
 Description: Jailbroken version of AltStore with on device signing for iOS 12/13/14
 Author: Riley Testut
-Icon: https://dylbinthedev.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AltStore.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AltStore/AltStore.html
+Icon: https://dylbin.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AltStore.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AltStore/AltStore.html
+Name: AltStore
+
+Package: com.ichitaso.altstore
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Depends: com.rileytestut.altdaemon
+Filename: /debs/AltStore1.deb
+Size: 5163014
+MD5sum: dbef6c28d3e75e4a3e721ed6223e0731
+SHA1: ff2b854e630c489b369f34f66c6411aa60bf0234
+SHA256: 21dd8724302972b4f587fc7dabfe74def70ab7a08f0916ead79159c6a386975d
+Section: Utilities
+Description: Jailbroken version of AltStore with on device signing for iOS 12/13/14
+Author: Riley Testut
+Icon: https://dylbin.github.io/icons/com.rileytestut.altstore.alpha.jailbroken.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AltStore.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AltStore/AltStore.html
 Name: AltStore
 
 Package: com.dylbinthedev.odysseytheme
@@ -673,9 +691,9 @@ SHA256: 37af3a11c684e48e969d2bf111dec6e946c726b93f2e08ccf99ed2339fbf31b3
 Section: Themes
 Description: Odyssey themed icons for iOS 11-15!
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.odysseytheme.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/OdysseyOS.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/OdysseyOS/OdysseyOS.html
+Icon: https://dylbin.github.io/icons/com.dylbin.odysseytheme.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/OdysseyOS.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/OdysseyOS/OdysseyOS.html
 Name: OdysseyOS
 
 Package: com.dylbinthedev.chimeratheme
@@ -691,9 +709,9 @@ SHA256: 12afa691a7c2ad93ee575c8f88b1b01288283f1266addaae639f27fe0959acbc
 Section: Themes
 Description: Chimera themed icons for iOS 11-15!
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.chimeratheme.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/ChimeraOS/ChimeraOS.html
+Icon: https://dylbin.github.io/icons/com.dylbin.chimeratheme.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ChimeraOS.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/ChimeraOS/ChimeraOS.html
 Name: ChimeraOS
 
 Package: com.dylbinthedev.bigsurwallpaper
@@ -709,8 +727,8 @@ SHA256: 490250dc6d022d97f63e36c306e6f99b3186e29b7b76436f81450ecc170d3eaa
 Section: Wallpaper
 Description: Colorful Big Sur wallpaper for iOS!
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurwallpaper.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
+Icon: https://dylbin.github.io/icons/com.dylbin.bigsurwallpaper.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
 
 Package: com.dylbinthedev.webshade
@@ -726,7 +744,7 @@ SHA256: 39504acda163744f7906877a103b88e989f3c7c7e7466fc14c8b2099ea564621
 Section: Tweaks
 Description: Make your websites dark!
 Author: WilsontheWolf
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.webshade.png
+Icon: https://dylbin.github.io/icons/com.dylbin.webshade.png
 Name: WebShade
 
 Package: com.dylbinthedev.iphone12wallpapers
@@ -771,7 +789,7 @@ SHA256: 0cb07c6ecf780e02ead6de82b7b42aef36aaf14a7df3b11bcdda6fb60b2f65fc
 Section: Themes
 Description: macOS Big Sur icons ported to iOS!
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.bigsurtheme.png
+Icon: https://dylbin.github.io/icons/com.dylbin.bigsurtheme.png
 Name: Big Sur Theme
 
 Package: com.dylbinthedev.animeglare
@@ -786,9 +804,9 @@ SHA256: 10281978927f1ce8f1368d5bca98063be82fe06a162bd1b1434921995da70f1e
 Section: Multimedia
 Description: Watch anime for free without ads
 Author: BlackKnit
-Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Icon: https://dylbin.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
 
 Package: com.dylbinthedev.animeglare
@@ -803,9 +821,9 @@ SHA256: e92d972397a5f4f247d6b159ef708f690a34537d0d588a3e74228ed657f99610
 Section: Multimedia
 Description: Watch anime for free without ads
 Author: BlackKnit
-Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Icon: https://dylbin.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
 
 Package: com.dylbinthedev.animeglare
@@ -820,9 +838,9 @@ SHA256: 34a0ac871786eb6f51d2a4ccab2be6acf6b29321bad5c0a7e0608b2d367a3595
 Section: Multimedia
 Description: Watch anime for free without ads
 Author: BlackKnit
-Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Icon: https://dylbin.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
 
 Package: com.dylbinthedev.animeglare
@@ -837,9 +855,9 @@ SHA256: 69f5d16cd60eb66109e2dfa0969158ec256748c3e96e9384c975a1f9fed8d90b
 Section: Multimedia
 Description: Watch anime for free without ads
 Author: BlackKnit
-Icon: https://dylbinthedev.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare.json
+Icon: https://dylbin.github.io/icons/com.black.animeglare.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
 Name: AnimeGlare
 
 
@@ -855,8 +873,8 @@ SHA256: 5c04078ac0107bbf8a9a4e12eef55be4ea0d372b5c1b93fbf2228e651939cb33
 Section: Tweaks
 Description: Animated wave battery indicator
 Author: Chr1s
-Icon: https://dylbinthedev.github.io/icons/com.chr1s.current.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Current.json
+Icon: https://dylbin.github.io/icons/com.chr1s.current.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Current.json
 Name: Current
 
 Package: com.chr1s.current
@@ -872,107 +890,9 @@ SHA256: 2a7407e6b29df01d4e523d423893d34f1671fcc6311adc18fcc77d2e31b6e8f8
 Section: Tweaks
 Description: Animated wave battery indicator
 Author: Chr1s
-Icon: https://dylbinthedev.github.io/icons/com.chr1s.current.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Current.json
+Icon: https://dylbin.github.io/icons/com.chr1s.current.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Current.json
 Name: Current
-
-Package: me.nepeta.mitsuhainfinity
-Version: 0.1.7-2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/MitsuhaInfinity.deb
-Size: 46056
-MD5sum: 93000849e8e02aeb5177d9de97371540
-SHA1: d68f791b4531960142ab8388d78993a42b75475d
-SHA256: 3e253a274c719b7ac671976b323447a01e8627cb8ebaf3cd9a39e62bce82b2c9
-Section: Tweaks
-Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Depends: me.nepeta.libcolorpicker, mobilesubstrate, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.9), me.nepeta.libnepeta, firmware (>= 11.0)
-Description: Audio visualizer for iOS 11/12
-Author: c0ldra1n & Nepeta
-Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity.json
-Name: Mitsuha Infinity
-
-Package: me.nepeta.mitsuhainfinity-homescreen
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/MitsuhaInfinityHomescreen.deb
-Size: 4804
-MD5sum: 14fce5458e108d9588a932df8372b196
-SHA1: 18e351633ce42caa666d82cf3062e4e943486a68
-SHA256: f219ede16a21dd2007e71d04e4240aacd8f172ea04afb147d11327d810355f7c
-Section: Tweaks
-Depends: me.nepeta.mitsuhainfinity
-Description: Audio visualizer for the homescreen
-Author: Nepeta
-Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity-homescreen.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinityHomescreen.json
-Name: Mitsuha Infinity (Home Screen)
-
-Package: me.nepeta.mitsuhainfinity-lockscreen
-Version: 0.1.0
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/MitsuhaInfinityLockscreen.deb
-Size: 4904
-MD5sum: ec6f4c4bfe1a048ef5408e37736a3f48
-SHA1: 3b59e1118654d47a16502ecacd5f5df1671b34d6
-SHA256: 31650b44ce787c93e46c219d3b0cf130c301ffe4e38578db3cc77dd6f21cd285
-Section: Tweaks
-Depends: me.nepeta.mitsuhainfinity
-Description: Audio visualizer for the lockscreen
-Author: Nepeta
-Icon: https://dylbinthedev.github.io/icons/me.nepeta.mitsuhainfinity-lockscreen.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinityLockscreen.json
-Name: Mitsuha Infinity (Lock Screen)
-
-Package: io.ominousness.ass
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/AudioSnapshotServer.deb
-Size: 5760
-MD5sum: ec8351cc96df6443c985c96d94526f92
-SHA1: ae6841826dbf6077b9256d55f3eba159197b86d5
-SHA256: 138ec70652f4b756128dbb24fc52013f010f3fb0f68c4e8cc5675753f7508bd7
-Section: Tweaks
-Description: Hooks mediaserverd to get snapshots of current audio buffer via TCP/IP
-Author: Nepeta
-Icon: https://dylbinthedev.github.io/icons/io.ominousness.ass.png
-Name: AudioSnapshotServer
-
-Package: me.nepeta.libmitsuha
-Version: 0.1.9
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/libmitsuha.deb
-Size: 30076
-MD5sum: 37c00f426197f8b11c6bb364472b325b
-SHA1: 524310fa7f965a15296d402475e81530d6547c68
-SHA256: 7752248a336cef00de6ac3df7f8cbefd749dfd135ff7e2f8c85c04235707df27
-Section: Development
-Depends: io.ominousness.ass (>= 1.0.1), firmware (>= 9.0)
-Description: Audio visualizer library
-Icon: https://dylbinthedev.github.io/icons/me.nepeta.libmitsuha.png
-Author: Nepeta
-Name: libmitsuha
-
-Package: me.nepeta.libnepeta
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/libnepeta.deb
-Size: 15942
-MD5sum: 9c6b0244143ed613e6d4b2394b165545
-SHA1: 297f7b56a8ab255334e8d9cc5f82a20c711222de
-SHA256: 80e4c31f17da3748deb9c329ad41ea6eae6fdf609547125f9e729ffb16b113d2
-Section: Development
-Description: Nepeta's color utils
-Author: Nepeta
-Icon: https://dylbinthedev.github.io/icons/me.nepeta.libnepeta.png
-Name: libnepeta
 
 Package: com.dylbinthedev.gba4ios
 Version: 2.1
@@ -986,9 +906,9 @@ SHA256: 073fe71b8fe643792fd7602ee4389763d57765bad46c6b1344bef8fb8c2ca582
 Section: Games
 Description: GBA/GBC Emulator for iOS
 Author: Riley Testut
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.gba4ios.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/GBA4iOS/GBA4iOS.html
+Icon: https://dylbin.github.io/icons/com.dylbin.gba4ios.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/GBA4iOS.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/GBA4iOS/GBA4iOS.html
 Name: GBA4iOS
 
 Package: com.dylbinthedev.nds4ios
@@ -1003,9 +923,9 @@ SHA256: 4d1d6e49734a078d9f6c02b2ced8e913a9283a907db26d8f202bb945fcddb571
 Section: Games
 Description: NDS Emulator for iOS
 Author: iNDS Team
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nds4ios.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS.json
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/NDS4iOS/NDS4iOS.html
+Icon: https://dylbin.github.io/icons/com.dylbin.nds4ios.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/NDS4iOS.json
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/NDS4iOS/NDS4iOS.html
 Name: NDS4iOS
 
 Package: com.dylbinthedev.ext3nder-installer
@@ -1022,7 +942,7 @@ SHA256: 75cac31d67c68a08d98c67f86edeb742ddf04bc636e8f432c2575557a8a19342
 Section: Utilities
 Description: Cydia Extender
 Author: saurik
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.ext3nder-installer.png
+Icon: https://dylbin.github.io/icons/com.dylbin.ext3nder-installer.png
 Name: Cydia Extender
 
 Package: com.dylbinthedev.amury
@@ -1037,7 +957,7 @@ SHA256: c41800d4a44a4359d74c0260e4cd554b591c58fd2e48cc272dea28ed739b801d
 Section: Themes
 Description: Bring your iOS experience to life.
 Author: Alex Sanchez
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.amury.png
+Icon: https://dylbin.github.io/icons/com.dylbin.amury.png
 Name: Amury
 
 Package: com.dylbinthedev.amuryforipad
@@ -1052,7 +972,7 @@ SHA256: 9aebb8ac8e5fc379740dfe83c3f611406056d153c312a8e9bf200207d7d5aa0c
 Section: Themes
 Description: Bring your iOS experience to life
 Author: al3xsanch3z07
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.amuryforipad.png
+Icon: https://dylbin.github.io/icons/com.dylbin.amuryforipad.png
 Name: Amury for iPad
 
 Package: com.dylbinthedev.axla3
@@ -1067,7 +987,7 @@ SHA256: 42dca1a5271a6e7d373ff42559650270a34522a25e949c2ff5f537c4b3532488
 Section: Themes
 Description: Simplicity with Colour
 Author: Andy (meteochu)
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.axla3.png
+Icon: https://dylbin.github.io/icons/com.dylbin.axla3.png
 Name: Axla 3
 
 Package: dylan-keyring
@@ -1097,7 +1017,7 @@ Section: Games
 Description: Playstation 2 Emulator
 Author: Jean-Philip Desjardins
 Name: Play!
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.play.png
+Icon: https://dylbin.github.io/icons/com.dylbin.play.png
 
 Package: com.dylbinthedev.telagba
 Version: 2.1.7
@@ -1112,7 +1032,7 @@ Section: Games
 Description: Updated fork of GBA4iOS with speed improvements
 Author: TelaGBA
 Name: Tela GBA
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.telagba.png
+Icon: https://dylbin.github.io/icons/com.dylbin.telagba.png
 
 Package: com.dylbinthedev.appstoreplus
 Version: 0.9.16-2
@@ -1128,7 +1048,7 @@ Section: Tweaks
 Description: Allows you to downgrade/upgrade apps in the AppStore
 Author: CokePokes
 Name: AppStore++
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AppstorePlus/AppstorePlus.html
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AppstorePlus/AppstorePlus.html
 Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
 
 Package: com.dylbinthedev.juicewrld
@@ -1144,7 +1064,7 @@ SHA256: db33526fbf231169699f3d91073397174b35ff4066d170c77c0c6390e81e4c0c
 Section: Wallpaper
 Description: Juice WRLD Wallpapers, art made by @skyler.graphics
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.juicewrld.png
+Icon: https://dylbin.github.io/icons/com.dylbin.juicewrld.png
 Name: Juice WRLD WallpaperPack 1
 
 Package: com.dylbinthedev.juicewrldalbum
@@ -1160,8 +1080,8 @@ SHA256: e6cb0afb82d2def5f246520ce07a70a81bf29409d274104920cbe7294090ac10
 Section: Wallpaper
 Description: Wallpapers for Juice WRLD's albums.
 Author: DylbinTheDev
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.juicewrldalbum.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/JuiceAlbum.json
+Icon: https://dylbin.github.io/icons/com.dylbin.juicewrldalbum.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/JuiceAlbum.json
 Name: Juice WRLD Album Wallpapers
 
 Package: com.dylbinthedev.animeclient
@@ -1176,9 +1096,9 @@ SHA256: e577f125be671e971996aa7ba1beaef874afb0a8159ca7e6d616ac89e7f4eccb
 Section: Multimedia
 Description: The best free iOS anime client
 Author: Marcus Zhou
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.animeclient.png
-Depiction: https://dylbinthedev.github.io/assets/CydiaDepictions/AnimeClient/AnimeClient.html
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/AnimeClient.json
+Icon: https://dylbin.github.io/icons/com.dylbin.animeclient.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeClient/AnimeClient.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeClient.json
 Name: AnimeClient
 
 Package: com.dylbinthedev.snes4ios
@@ -1193,7 +1113,7 @@ SHA256: 61eac3015472dcfbc01a3ea9b2f142684c38fa65e1994caa3a95a10f8612a01a
 Section: Games
 Description: Old SNES Emulator (Legacy)
 Author: Riley Testut
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.snes4ios.png
+Icon: https://dylbin.github.io/icons/com.dylbin.snes4ios.png
 Name: SNES4iOS
 
 Package: com.dylbinthedev.nestopia
@@ -1208,7 +1128,7 @@ SHA256: 756ed020bb7ad2f9b1e9f718ff064c38bb66df7c8e20d255ec543da03fea5a6a
 Section: Games
 Description: An ancient NES emulator
 Author: Unknown
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthedev.nestopia.png
+Icon: https://dylbin.github.io/icons/com.dylbin.nestopia.png
 Name: Nestopia
 
 Package: com.evad3rs.evasi0n
@@ -1226,7 +1146,7 @@ Depends: coreutils-bin, firmware (>= 6.0), firmware (<= 6.1.2)
 Description: untethered jailbreak based on planetbeing and nikias exploits
 Author: evad3rs <info@evad3rs.com>
 Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n/
-Icon: https://dylbinthedev.github.io/icons/com.evad3rs.evasi0n.png
+Icon: https://dylbin.github.io/icons/com.evad3rs.evasi0n.png
 Name: evasi0n 6.0-6.1.2 Untether
 
 Package: com.evad3rs.evasi0n7
@@ -1243,7 +1163,7 @@ Section: System
 Depends: coreutils-bin, firmware (>= 7.0), firmware (<= 7.1)
 Description: untethered jailbreak based on evad3rs exploits
 Author: evad3rs <info@evad3rs.com>
-Icon: https://dylbinthedev.github.io/icons/com.evad3rs.evasi0n7.png
+Icon: https://dylbin.github.io/icons/com.evad3rs.evasi0n7.png
 Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n7/
 Name: evasi0n 7.x Untether
 
@@ -1261,7 +1181,7 @@ Depends: firmware (>= 6.1.3), firmware (<< 7.0)
 Description: A drama free 6.1.3/6.1.4/6.1.5/6.1.6 untether.
 Author: iH8sn0w, SquiffyPwn, winocm
 Depiction: https://cydia.saurik.com/info/com.ih8sn0w-winocm.p0sixspwn/
-Icon: https://dylbinthedev.github.io/icons/com.ih8sn0w-squiffy-winocm.p0sixspwn.png
+Icon: https://dylbin.github.io/icons/com.ih8sn0w-squiffy-winocm.p0sixspwn.png
 Name: p0sixspwn
 
 Package: com.chronic-dev.greenpois0n.corona
@@ -1277,7 +1197,7 @@ Section: System
 Depends: coreutils-bin, firmware (= 5.0)
 Description: untethered jailbreak based on pod2g's exploit 
 Author: Chronic-Dev Team <info@chronic-dev.com>
-Icon: https://dylbinthedev.github.io/icons/com.chronic-dev.greenpois0n.corona.png
+Icon: https://dylbin.github.io/icons/com.chronic-dev.greenpois0n.corona.png
 Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.corona/
 Name: Corona 5.0.1 Untether
 
@@ -1295,7 +1215,7 @@ Priority: optional
 Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 7.1.2)
 Description: untethered jailbreak based on pangu exploits
 Author: Pangu <axe@pangu.io>
-Icon: https://dylbinthedev.github.io/icons/io.pangu.axe7.png
+Icon: https://dylbin.github.io/icons/io.pangu.axe7.png
 Depiction: https://cydia.saurik.com/info/io.pangu.axe7/
 Name: Pangu 7.1-7.1.x Untether
 
@@ -1315,7 +1235,7 @@ Depends: coreutils-bin, firmware (>= 8.0), firmware (<< 8.2)
 Description: untethered jailbreak based on pangu exploits
 Author: Pangu <axe@pangu.io>
 Depiction: https://cydia.saurik.com/info/io.pangu.xuanyuansword8/
-Icon: https://dylbinthedev.github.io/icons/io.pangu.loader.png
+Icon: https://dylbin.github.io/icons/io.pangu.loader.png
 Name: Pangu 8.0-8.1.x Untether
 
 Package: io.pangu.fuxiqin9
@@ -1333,7 +1253,7 @@ Depends: coreutils-bin, firmware (>= 9.0), firmware (<= 9.1)
 Description: untethered jailbreak based on pangu exploits
 Author: Pangu <axe@pangu.io>
 Depiction: https://cydia.saurik.com/info/io.pangu.fuxiqin9/
-Icon: https://dylbinthedev.github.io/icons/io.pangu.fuxiqin9.png
+Icon: https://dylbin.github.io/icons/io.pangu.fuxiqin9.png
 Name: Pangu 9.0-9.1 Untether
 
 Package: taiguntether83x
@@ -1352,7 +1272,7 @@ Depends: uikittools (>= 1.1.10), firmware (>= 8.1.3), firmware (<= 8.4)
 Description: taig untether jailbreak for ios8.1.3-ios8.4
 Author: TaiG
 Depiction: https://cydia.saurik.com/info/update8.html
-Icon: https://dylbinthedev.github.io/icons/taiguntether83x.png
+Icon: https://dylbin.github.io/icons/taiguntether83x.png
 Name: TaiG 8.1.3-8.x Untether
 
 Package: com.coolbooter.coolbooter
@@ -1368,7 +1288,7 @@ Section: System
 Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
 Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32-bit iOS devices.
 Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbinthedev.github.io/icons/com.coolbooter.coolbooter.png
+Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
 Name: CoolBooter
 
 Package: com.coolbooter.cbuntether
@@ -1384,7 +1304,7 @@ Section: System
 Depends: mobilesubstrate
 Description: "Untethers" an existing CoolBooter install. CoolBooter Untetherer is an extension for CoolBooter that allows the user to boot into their second OS automatically. To disable the untether, hold volume down during boot.
 Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbinthedev.github.io/icons/com.coolbooter.coolbooter.png
+Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
 Name: CoolBooter Untetherer
 
 Package: com.coolbooter.coolbootercli
@@ -1400,7 +1320,7 @@ Section: System
 Depends: xpwn, zip, unzip, ldid, diskdev-cmds, wget, firmware (>= 5.0)
 Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32-bit iOS devices.
 Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbinthedev.github.io/icons/com.coolbooter.coolbooter.png
+Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
 Name: CoolBooter CLI
 
 Package: com.chronic-dev.greenpois0n.rocky-racoon
@@ -1416,7 +1336,7 @@ Section: System
 Depends: coreutils-bin, firmware (= 5.1.1)
 Description: untethered jailbreak based on pod2g and planetbeing's exploits
 Author: Chronic-Dev Team
-Icon: https://dylbinthedev.github.io/icons/com.chronic-dev.greenpois0n.corona.png
+Icon: https://dylbin.github.io/icons/com.chronic-dev.greenpois0n.corona.png
 Name: Rocky Racoon 5.1.1 Untether
 
 Package: com.saurik.impactor
@@ -1434,7 +1354,7 @@ Depends: firmware (>= 7.1), firmware (>= 10.3.3)
 Breaks: com.saurik.patych (<< 1.0.1)
 Description: specific utility to unjailbreak most devices
 Author: Jay Freeman (saurik)
-Icon: https://dylbinthedev.github.io/icons/com.saurik.impactor.png
+Icon: https://dylbin.github.io/icons/com.saurik.impactor.png
 Depiction: https://cydia.saurik.com/info/com.saurik.impactor/
 Name: Cydia Eraser
 
@@ -1453,7 +1373,7 @@ Conflicts: cy+cpu.arm64
 Priority: optional
 Description: Untether for 9.1-9.3.4 32bit, it exploits the Pegasus jsc bug and bootstraps HomeDepot jailbreak. This has only been tested on iPhone 4,1 running 9.3.4
 Author: tihmstar
-Icon: https://dylbinthedev.github.io/icons/net.tihmstar.untetherhomedepot.png
+Icon: https://dylbin.github.io/icons/net.tihmstar.untetherhomedepot.png
 Name: UntetherHomeDepot
 
 Package: net.tihmstar.untetherhomedepotoffsets
@@ -1472,7 +1392,7 @@ Priority: optional
 Pre-Depends: net.tihmstar.untetherhomedepot (>= 1.4.2)
 Description: Community Offsets for UntetherHomeDepot
 Author: stek29
-Icon: https://dylbinthedev.github.io/icons/net.tihmstar.untetherhomedepot.png
+Icon: https://dylbin.github.io/icons/net.tihmstar.untetherhomedepot.png
 Name: UntetherHomeDepot Community Offsets
 
 Package: net.tihmstar.etasonuntether
@@ -1491,7 +1411,7 @@ Provices: net.tihmstar.daemonloader
 Priority: optional
 Description: Untether for 8.4.1 32bit, It exploits the Pegasus jsc bug and bootstraps etason jailbreak.
 Author: tihmstar
-Icon: https://dylbinthedev.github.io/icons/net.tihmstar.etasonuntether.png
+Icon: https://dylbin.github.io/icons/net.tihmstar.etasonuntether.png
 Name: Etason Untether
 
 Package: org.coolstar.stash933
@@ -1524,7 +1444,7 @@ Description: Inject JavaScript to explore iOS apps over USB.
 Author: Frida Developers
 Priority: optional
 Conflicts: re.frida.server64
-Icon: https://dylbinthedev.github.io/icons/re.frida.server.png
+Icon: https://dylbin.github.io/icons/re.frida.server.png
 Name: Frida
 
 Package: re.frida.server64
@@ -1541,7 +1461,7 @@ Description: Inject JavaScript to explore iOS apps over USB.
 Author: Frida Developers
 Priority: optional
 Conflicts: re.frida.server
-Icon: https://dylbinthedev.github.io/icons/re.frida.server.png
+Icon: https://dylbin.github.io/icons/re.frida.server.png
 Name: Frida for A12+ devices
 
 Package: org.xbmc.kodi-ios64
@@ -1561,8 +1481,8 @@ Replaces: org.xbmc.kodi-ios
 Pre-Depends: cy+cpu.arm64
 Description: Kodi Entertainment Center for iOS
 Author: Team-Kodi
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/KodiMatrix.json
-Icon: https://dylbinthedev.github.io/icons/org.xbmc.kodi-ios64.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/KodiMatrix.json
+Icon: https://dylbin.github.io/icons/org.xbmc.kodi-ios64.png
 Name: Kodi Matrix
 
 Package: org.xbmc.kodi-ios64
@@ -1582,26 +1502,9 @@ Replaces: org.xbmc.kodi-ios
 Pre-Depends: cy+cpu.arm64
 Description: Kodi Entertainment Center for iOS
 Author: Team-Kodi
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/KodiMatrix.json
-Icon: https://dylbinthedev.github.io/icons/org.xbmc.kodi-ios64.png
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/KodiMatrix.json
+Icon: https://dylbin.github.io/icons/org.xbmc.kodi-ios64.png
 Name: Kodi Matrix
-
-Package: com.dylbinthedev.sposify
-Version: 8.5.52
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/Sposify.deb
-MD5sum: 0238c3bfe3669b6d2e9fd6cca3d79e4d
-SHA1: 79579ee4d8d56965ce0c1d4f37e4f41d630cc9b1
-SHA256: 947c89a5390eff3f430ae8848efa8a632ecc013047f43b5adfa29f0410a2bbe3
-Section: Tweaks
-Size: 782
-Description: Adds various enhancements and features to the Spotify application, this version adds support to the latest Spotify update.
-Author: aesthyrica
-Depends: mobilesubstrate
-Icon: https://dylbinthedev.github.io/icons/com.dylbinthdev.sposify.png
-SileoDepiction: https://dylbinthedev.github.io/assets/SileoDepictions/Sposify.json
-Name: Sposify (Working)
 
 Package: com.dylbinthedev.iconstate14
 Version: 1.0.3
@@ -1637,7 +1540,7 @@ Description: Add a fifth column of icons to your homescreen, works on iOS 13/14.
 Author: DylbinTheDev
 Conflicts: gsc.ipad
 Pre-Depends: firmware (>= 13.0)
-Depends: mobilesubstrate, com.dylbinthedev.iconstate14
+Depends: mobilesubstrate, com.dylbin.iconstate14
 Name: FiveColumnHomeScreen14
 
 Package: com.dylbinthedev.stfu
