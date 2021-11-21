@@ -1,0 +1,86 @@
+{
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Delta/header.png",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Delta",
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Classic games in your pocket",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Delta/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Delta/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Delta/3.png"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "Successor to the popular GBA4iOS emulator! It supports iOS 12.2 - 14 \r\nIt's able to emulate GBA/GBC/NDS/N64/NES/SNES games. Action replay codes and other cheat codes can be applied. MFi Controller support and custom skins.",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.3",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "05-13-2021",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "12.2 - 14.x",
+                    "title": "Supported iOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Riley Testut",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#6f0ec7"
+}

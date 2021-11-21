@@ -1,0 +1,86 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#43c1fb",
+    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS/header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "NDS4iOS",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "NDS Emulator for iOS",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/NDS4iOS/3.png",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "NDS4iOS is an Nintendo DS Emulator for iOS, it supports frame skipping, overlay pixel grid, disable sound and control opacity and FPS Counter.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-17-2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supported iOS",
+                    "text": "5.x - 10.x",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "iNDS Team",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}

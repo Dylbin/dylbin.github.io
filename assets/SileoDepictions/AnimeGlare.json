@@ -1,0 +1,86 @@
+{
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/header.png",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "AnimeGlare",
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "APP IS NO LONGER FUNCTIONAL.",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/AnimeGlare/3.png"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "markdown": "AnimeGlare is an anime app that let's you keep track of all your watched anime and connect multiple tracking websites like MyAnimeList. It also allows you to sync your watch history. AnimeGlare contains multiple scrapers and we give you the option to choose your favorite scraper.  ",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "3.0.5-rc65",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "08-25-2021",
+                    "title": "Updated",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "11.x - 15.x",
+                    "title": "Supported iOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "BlackKnit",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#f55255"
+}

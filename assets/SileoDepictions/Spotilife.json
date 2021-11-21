@@ -1,0 +1,86 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#2ebd59",
+    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Spotilife",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Spotilife for iOS 9 - 14",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/3.png",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Spotilife enables premium features inside of the Spotify application. This includes no ads, disable genius, the ability to import local saved playlists from Apple Music etc.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.5",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-14-2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supported iOS",
+                    "text": "9.x - 14.x",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "DylbinTheDev & julioverne",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}

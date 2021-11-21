@@ -1,0 +1,90 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#851fb1",
+    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS/header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "GBA4iOS",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "GBA/GBC Emulator for iOS",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/GBA4iOS/4.png",
+                            "accessibilityText": "Screenshot3"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "GBA4iOS is a GameBoy, Gameboy Color and Gameboy Advance emulator for iOS. It has controller support, skin support and cheats can be used using action replay codes etc.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-17-2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supported iOS",
+                    "text": "7.x - 14.x",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Riley Testut",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}

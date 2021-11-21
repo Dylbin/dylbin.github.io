@@ -1,0 +1,86 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#a8a6a0",
+    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/JuiceAlbum/header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "JuiceWRLDAlbumWallpapers",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Wallpapers for Juice WRLD's albums.",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/JuiceAlbum/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/JuiceAlbum/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/JuiceAlbum/3.png",
+                            "accessibilityText": "Screenshot2"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Includes wallpapers for the following albums:\r\n\r\n999 EP\r\nGoodbye & Good Riddance\r\nDeath Race For Love\r\nLegends Never Die\r\nThe Party Never Ends\r\n\r\nThis package requires Skitty's Wallpaper Loader",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "09-27-2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supported iOS",
+                    "text": "13.x - 15.x",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "DylbinTheDev",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#23cf5f",
+    "minVersion": "0.1",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/header.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Sposify (Working)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Adds various enhancements and features to the Spotify application",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/1.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/2.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/3.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/4.png",
+                            "accessibilityText": "Screenshot3"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/5.png",
+                            "accessibilityText": "Screenshot4"
+                        },
+                        {
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/6.png",
+                            "accessibilityText": "Screenshot5"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
+                },
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "# Import your music\r\n# Verified Profile Badge\r\n# Voice Search\r\n# What's New Section\r\n# Artists & Playlists Old Interface\r\n# Create Playlist New Interface\r\n# Disable Add Songs Button\r\n# Disable Play Button\r\n# Disable Recommended Songs Section\r\n# Disable Swipeable Actions\r\n# Hide Create Playlist\r\n# No Shuffle on Big Play Button\r\n# Open Canvas Playlist\r\n# Show Album & Artist Recommendations\r\n# True Shuffle\r\n# View Artists Offline\r\n# Canvas Choice Button\r\n# Blackout Mode\r\n# Canvas Tap\r\n# Disable Genius Lyrics\r\n# Disable Storylines\r\n# Disable Canvas\r\n# Long-Press on any Canvas to Save them\r\n# Realtime Lyrics Button",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "8.5.52",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "11-15-2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Supported iOS",
+                    "text": "13.x - 15.x",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "aesthyrica",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}

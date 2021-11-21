@@ -1,0 +1,86 @@
+{
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "title": "Provenance",
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "iOS & tvOS front-end multi emulator",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/3.png"
+                        }
+                    ]
+                },
+                {
+                    "markdown": "Systems Supported:\r\nAtari\r\n2600\r\n5200\r\n7800\r\nLynx\r\nJaguar\r\nBandai\r\nWonderSwan / WonderSwan Color\r\nNEC\r\nPC Engine / TurboGrafx-16 (PCE/TG16)\r\nPC Engine Super CD-ROM\u00b2 System / TurboGrafx-CD\r\nPC Engine SuperGrafx\r\nPC-FX\r\nNintendo\r\nNintendo Entertainment System / Famicom (NES/FC)\r\nFamicom Disk System\r\nSuper Nintendo Entertainment System / Super Famicom (SNES/SFC)\r\nGame Boy / Game Boy Color (GB/GBC)\r\nVirtual Boy\r\nNintendo 64 (N64)\r\nGame Boy Advance (GBA)\r\nPok\u00e9mon mini\r\nSega\r\nSG-1000\r\nMaster System\r\nGenesis / Mega Drive\r\nGame Gear\r\nCD / MegaCD\r\n32X\r\nSaturn (mednafen)\r\nSNK\r\nNeo Geo Pocket / Neo Geo Pocket Color\r\nSony\r\nPlayStation (PSX/PS1)\r\n\r\nVery Accurate, Full Speed Emulation\r\nStereo Sound\r\nSave States (save anywhere/game freezing)\r\nBattery Saves (native game saves)\r\nAdjustable Controller Overlay Opacity\r\nController Support:\r\nMFi Game Controller Support\r\niCade Controller Support (8bitdo, etc\u2026)\r\n8BitDo M30 Support\r\nLocal Multiplayer via External Controllers\r\nPortrait and Landscape Orientation\r\nCheatcode support! Currently for SNES and PSX only\r\nAutomatic ROM Matching (Game Title, Cover Art, Description, Genre, etc\u2026) via OpenVGDB\r\nROM Customizations (Cover Art, Game Titles) (Instructions)\r\nMultiple Options for Managing ROMs, Game Saves and Cover Art:\r\nImport / Export:\r\nUploading (via built-in web server)\r\nImport:\r\nDownloading (from mobile browsers)\r\nCopying (from other mobile apps and AirDrop)\r\nInjecting (with desktop apps)\r\nGame Library Searching\r\niOS 10+ (iPhone, iPad)\r\n3D Touch Shortcuts for Recent Games (iPhone 6s and later, except iPhone SE and iPhone X\u0280)\r\nTaptic Engine Button Feedback (iPhone 7 and later)\r\nSpotlight Searching (Setup)\r\ntvOS 10+ (Apple TV 4+)\r\n[broken for now] TopShelf Support (Setup)",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.0.2",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "10-18-2021",
+                    "title": "Updated",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "11.x - 15.x",
+                    "title": "Supported iOS",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Provenance Team",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ],
+    "tintColor": "#1b9df6",
+    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/header.png",
+    "class": "DepictionTabView"
+}
