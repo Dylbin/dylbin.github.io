@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "label"; ObjectID = "13Q-oO-met"; */
+"13Q-oO-met.text" = "label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5dH-Wd-LBA"; */
+"5dH-Wd-LBA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "9hi-8j-Yfg"; */
+"9hi-8j-Yfg.normalTitle" = "Delete";
+
+/* Class = "UIButton"; normalTitle = "Restore"; ObjectID = "I6D-Da-JT3"; */
+"I6D-Da-JT3.normalTitle" = "Restore";
+
+/* Class = "UIViewController"; title = "SelectionScreenController"; ObjectID = "J5N-0u-4rd"; */
+"J5N-0u-4rd.title" = "SelectionScreenController";
+
+/* Class = "UIButton"; normalTitle = "I'm Ready!"; ObjectID = "MkZ-1k-Wpm"; */
+"MkZ-1k-Wpm.normalTitle" = "I'm Ready!";
+
+/* Class = "UIButton"; normalTitle = "Backups"; ObjectID = "NMe-9N-7kw"; */
+"NMe-9N-7kw.normalTitle" = "Backups";
+
+/* Class = "UILabel"; text = "Welcome to CoolBooter!"; ObjectID = "T5x-Oe-hoX"; */
+"T5x-Oe-hoX.text" = "Welcome to CoolBooter!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ywz-c5-VbN"; */
+"Ywz-c5-VbN.text" = "Label";
+
+/* Class = "UILabel"; text = "Backups"; ObjectID = "fzC-0x-x4D"; */
+"fzC-0x-x4D.text" = "Backups";
+
+/* Class = "UIButton"; normalTitle = "Boot"; ObjectID = "quI-Y7-iIm"; */
+"quI-Y7-iIm.normalTitle" = "Boot";
+
+/* Class = "UIButton"; normalTitle = "Back Up"; ObjectID = "zQp-Ng-jaM"; */
+"zQp-Ng-jaM.normalTitle" = "Back Up";

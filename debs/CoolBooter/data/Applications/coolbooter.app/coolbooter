@@ -1,0 +1,4 @@
+#!/bin/bash
+killall -9 coolbooter_
+dir=$(dirname "$0")
+exec "${dir}"/coolbooter_ "$@"

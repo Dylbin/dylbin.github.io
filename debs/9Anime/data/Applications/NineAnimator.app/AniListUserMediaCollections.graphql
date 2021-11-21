@@ -1,0 +1,26 @@
+query ($userId: Int, $userName: String) {
+    MediaListCollection(
+        userId: $userId,
+        userName: $userName,
+        type: ANIME
+    ) {
+        lists {
+            name,
+            isCustomList,
+            status,
+            entries {
+                progress,
+                media {
+                    id,
+                    coverImage { extraLarge },
+                    title { userPreferred },
+                    episodes,
+                    mediaListEntry {
+                        status
+                        progress
+                    }
+                }
+            }
+        }
+    }
+}

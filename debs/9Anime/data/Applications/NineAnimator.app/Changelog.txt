@@ -1,0 +1,1095 @@
+0a762961 (HEAD -> master, origin/master) Fix episode retrieval for AnimeUnity (#246)
+49fa3781 Various parser fixes (#245)
+8386e75e Deprecating Aniwatch and 9anime (#240)
+7c9db504 Update AnimeLink metadata automatically (#239)
+f34dc0e1 Automatically hide cursor during video playback on macOS (#224)
+9c28991b Show the appropriate number of recentlyWatched cells based on the window's width (#238)
+3582e6a8 Pantsubase Support, and Miscellaneous Fixes (#237)
+4837508b Fix Arrayanime (#236)
+dcc0caa7 Move downloads to App Support Folder (#235)
+3a90c0ab Faster notifications, Added Background Downloads, and Fixed AnimeHub (#233)
+913da6d0 Improve Tracking Between Anime Source and Anime Listing Service (#234)
+6c63d1e9 Add ArrayAnime (#228)
+53408cfa Fixed Twist.moe and optimized build settings (#229)
+b40350da Fix issue where subscription recommendation source kept reloading (#225)
+3bf07b3b Make SwiftLint Happy Again (#226)
+381e0539 (tag: 1.2.7-5) [HOTFIX] Fix App Crash when marking episode as complete (#222)
+17893bbd (tag: 1.2.7-4) Update Build Number and Changelog (#220)
+d994ab0a Merge pull request #216 from uttiya10/auto-move-anime
+ad31de18 Miscellaneous bug fixes  (#217)
+882afb51 Automatically Move User's Anime to their Completed List
+5f0973c7 Fix Crash On Exporting Backup, and Updated Sources (#215)
+211c73f1 Bug Fixes and Improvements (#208)
+85d5f5ad Fix Twist.Moe (#212)
+5db073af Update MonosChinos endpoint & servers (#210)
+6b782b46 Improved UI when moving order of subscriptions (#209)
+010fe07d Allow rearranging subscription items via drag and drop
+35cb1208 Default .responseString to interpret text as utf8
+d45bcdc7 Allow Marking Multiple Episodes as complete (#207)
+76c73ae7 Use NSLock+Closure to ensure correct lock release
+6cb45d2e Protect critical sections in NineAnimatorLogger
+dab525e7 Update dependencies
+b8e2e82d Fix broken pronoun usages
+42c392a9 Merge remote-tracking branch 'refs/remotes/origin/master'
+511a31eb Register contributed icons to app icon settings
+3d6bfc5a Add community contributed icons
+cd110166 Display Errors to user when importing Backup Config (#203)
+fe0bef88 Update travis Xcode build environment
+9ff87ce6 Merge remote-tracking branch 'refs/remotes/origin/master'
+c2c966a6 Add button to Import Backup (#200)
+0258cfbe Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+dd7e695c Fix Bug with PiP playback (#201)
+b010ff53 Merge remote-tracking branch 'refs/remotes/origin/master'
+9bf00110 Fix for downloads not working on version installed with ReProvision (#197, closes #62)
+eb4eeb07 Add GitHub actions build status badge
+c64859e1 Fix a problem that may have caused the deadlock issue when entering the anime scene
+54a07c16 Automatically commits symbols after uploading
+a4edb4c6 Dammit, GitHub Actions!
+b9a93256 Fix symbol uploading scripts
+da419084 Automate symbols uploading
+7ac095f1 Specify names for workflow artifacts
+1752e9bc Update workflow files once again
+4a19445b Update workflow files
+40732b90 Update workflow files
+ece0cc98 Update workflow scripts
+71c2eb79 Experimental github action workflows
+92d5abd8 (tag: 1.2.7-3) Bump build number
+a66f8487 Update StreamTape server parser.
+bf4063ac Use aspectFit for artworks in Anime Information scene (fix #150)
+75a1c426 Fix link issue
+83f17eab Update documents (close #155)
+d3835b22 Default rich presence show anime name to false
+7662affc Address theming issues with older systems
+d0eb0552 Fix switches in debugging settings not reflecting real configs
+aeb848fe Code cleanup & dependencies bump
+0256b8cf Implement export logs functionality in analytics scene.
+b8aed5dd Merge remote-tracking branch 'refs/remotes/origin/master'
+38a258c9 Attaching pre-crash runtime logs with crash reports
+44c23407 Add custom top-level exception handler for logging
+a553dd66 Add initial designs for runtime log settings menu
+6505dc34 Fix AnimeUnity URL encoding error (#194)
+41089287 Featured on AnimeUnity.it (#192)
+3e6e8c60 Add Analytics to Track Screen View Events (#190)
+dd77f225 Add remove history button to search scene
+4e5d99db Why Xcode, why.
+5437451f Fix CoreData crashes, add export logs option to the about menu
+85a47f48 Address an issue that caused the app to crash when no episode was found.
+f28fe8a6 (tag: 1.2.7-2) Add community contributed icons
+2ff1db17 Fix unsigned dist. build error
+5f698218 Address an issue that caused CoreDataLibrary to crash on iOS 12
+67a9d5d0 Add Aniwatch and Update Testflight Information  (#187)
+64f2f526 Miscellaneous Fixes & Improvements For macCatalyst (#188)
+ae1174fc Update installation documents
+4a17e7d8 Fix a problem that prevented Mp4Upload from working
+bdfee53d Update mp4upload server parser
+96f0d375 Fix a problem that prevented recents from being removed (fix #186)
+b6802dac Add VidStream server parser
+2263a673 Update stream tape server parser
+bb17f6b2 Update mcloud server parser
+9cd747e0 Update source parser
+756e6921 Update data migrator
+1f6aace1 [WIP] Update 9anime anime parsing
+a1134ce9 Implement 9anime search and featured page
+94fc665c Deprecate old 9anime source
+70c00f1d (origin/coredata) Bump build number
+fb67b650 Add Nsxtop's 9 app icon
+4d874c39 Add current icon name in Settings scene
+5ed518cc Enable unlocking of new icons
+86bb72f8 Add app icon selection menu
+332e380f Update library source data structures
+36b25501 Merge branch 'master'
+87af7613 Remove HydraX from animekisa.
+af388646 Fix swift compiler warnings. Update deployment target to iOS 12.
+3e5ba890 Update local network usage.
+fb1c50ab Add Cloud9 to AnimeKisa (#183)
+e75db248 Change AnimeSaturn endpoint (#181)
+65210853 Merge branch 'master'
+93551887 Merge pull request #178 from uttiya10/fix-gogoanime
+20bae340 Fix 4anime title (#177)
+fa2a122e Fix GogoAnime+Anime
+b86f8a52 (tag: 1.2.7-1) Update 4anime source parser
+8b3f7ea4 Add `.responseBowl` to `NARequestManager.RequestBuilding`
+d3aad235 Added recents for 4anime & changed Preferences > Settings   (#174)
+b21f28a0 Added personalized recommendations to Anilist/MyAnimeList users (#170)
+7588cd9f Fixed a problem that triggered the recommendation source to load when it's not presenting
+cfd30789 Fix a problem that prevented recommendation sources from being loaded.
+a5f0e8ef Fix a problem that prevented anime artworks from being loaded correctly
+4c088a56 Fix a problem that prevented seasonal anime from being presented
+cc6ce3ed Update RecommendationSource to allow the hiding of recommendations
+2ef360e4 Merge branch 'master'
+384b1a4f Update AnimeDao source parser (fix #176).
+391f07c4 Fix animepahe featured page and searching
+a36994e8 Merge branch 'master'
+31c31a3f Fix MyCloud server parser (close #169)
+a613aac9 Miscellaneous updates/bug fixes (#172)
+00386828 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+c41e6e61 AnimeSaturn.com (#166)
+76e28972 Fix 4anime+Search (#168)
+c82027f3 Bump build number
+4fc2851e Address compiler insecure hash warnings
+e02222e3 Merge branch 'master'
+2210e729 Fix a problem that prevented macCatalyst users from backing up history
+3d37e727 Update source parser (fix #167)
+06bcb704 Deprecate unavailable sources, update documents
+84d83e24 Distinguish EpisodeLink by server
+d9aa3556 Add animehub.ac (#163)
+701a8ebc Fix 9anime search, again (#165)
+0db632a7 Update documents
+b75477b5 Merge remote-tracking branch 'refs/remotes/origin/master'
+833d85c2 Update installation documents
+ddeaba32 Fix AnimeUltima Search (#162)
+2a73decf Fix a problem that prevented successful load rate from being recorded
+edab46b4 (tag: 1.2.6-15) Bump build number
+05aae212 Merge branch 'master'
+c8359f5f Update MonosChinos source parser
+3436d9bb Added MonosChinos source (#160)
+184cacc5 Merge branch 'master'
+0e62280a Add credential manager for request manager
+38be3cca Add additional analytical events for source/server
+ce304a96 Fix Link retrive on AnimeUnity.it (#156)
+5c06b405 Fix 9anime (#158)
+01cb25b5 Updated MixdropParser (#153)
+d296d43c Update Github Repo for the new macCatalyst (#154)
+2d802793 Small Fixes (#151)
+b90c2e5d Merge remote-tracking branch 'refs/remotes/origin/master'
+82948fd7 Fix SwiftLint warnings
+9e821734 Fix GogoAnime's streaming source parsing (#152)
+446506f2 AnimeUnity fix (#145)
+c3f51217 Update preferences menu (close #149)
+f402b7cd Merge branch 'master'
+aa38ae2a Fix Episode Order on AnimeUltima (#147)
+37200825 Minor bug fixes (#148)
+95d6c503 Fix model migrator not being instantiated properly
+58ea5bf3 Implement migration process in the setup screen
+5f168604 Update library recent scene to use CoreData
+8a8709ef Add CoreData models and to-native bridges
+ba7b2c31 (tag: 1.2.6-14) Bump build number
+fbeed4b2 Update setup screen
+db587b5b Update MAL list service to use SSO for sign-in.
+72fc6a5b Fix preferences about menu orders
+2df1db76 Add the ability to opt-out analytical services
+88b899c9 Fix 4anime episode and artwork parser
+1f40087b Update interface builder attributes
+06964e24 Fix rich presence settings controller visual appearance
+1818b0b9 Add the ability to disable rich presence integration
+01fb7f8e Fix grammars (close #142)
+ccc6b611 Add discord presence support for macCatalyst users
+7a443001 (tag: 1.2.6-13) Bump build number
+61ea53c2 Fix build 12 deleting user data
+4230ab38 (tag: 1.2.6-12) Add additional checks for presentOnTop (fixes #138).
+2b07b1ab Reorganize sources, bump build number
+2b2086b1 Update animedao source parser
+4b496561 Update request builder to include a custom redirection handler closure
+4b2e395d Fix unexpected behaviors of errors thrown in network requests
+d4090c96 AnimeUnity Fix (#140)
+b8364d47 Fix macCatalyst background color issues
+1ea99014 Modernizing network request APIs
+9dfc66e1 Rewrite logging APIs
+619287b8 Update loggings
+102ed1ce Remove carthage compatibility badge
+0f68323b (origin/spm) Fix travis build failiures
+ff5f9875 Merge branch 'master'
+ab5f5bb5 Update 4anime source parser
+43c96209 Merge branch 'master'
+6b1876fe Fix labels appearing in wrong colors with older systems
+012647a4 Fix compiling error on non-macCatalyst targets
+6b05bf7f Fix sharing sheet crashes the app on macCatalyst
+fd9177a9 Update travis settings
+dca26a10 Implement macCatalyst support
+b0fd10d0 Implement initial spm support
+228aaf4f Update encryption export exemption info
+246829b9 (tag: 1.2.6-11) Bump build number
+4fdcd444 Bump build number
+1af7bd1c Optimize anime information scene for small screen devices
+b1de14fd Update animepahe support
+c5b8bea0 Merge remote-tracking branch 'refs/remotes/origin/master'
+aaa69cea Merge pull request #136 from Awsomedude/master
+d117cb45 Update 4anime source parser
+4c4cf0d4 Add EasyLoad server parser
+6568d2ce Update issue templates
+f4457451 Merge remote-tracking branch 'refs/remotes/origin/master'
+71965d69 Update issue templates
+df4807ea Merge pull request #133 from Awsomedude/master
+05426cd0 Update AnimePahe animeIdentifierRegex
+44925f79 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+d9fe17f9 Merge pull request #131 from Awsomedude/master
+b43bd48f Update AnimeDao episode parser
+35ded485 Update dependencies
+159eaf14 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+1cf262ac Fix a problem that crashes the app with an non-existant matching group
+554ad761 Merge pull request #125 from Catta1997/master
+b4cff915 Reverted Changes on search order
+2fd41681 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+a822bde8 Merge pull request #124 from Awsomedude/master
+cd7078bb Add support for StreamTape parser
+29799902 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+cfec4800 Merge pull request #121 from Awsomedude/master
+64c95c86 Update Mp4Upload Parser
+164a312c Update source parser to send mcloud keys
+de1a2d80 Bump build number
+f90cece2 Conform `[QueryItem]` to `ExpressibleByDictionaryLiteral`
+acc2b56e Bump build number
+4ac5fa60 Add unsubscribing context menu to the Subscription page
+81cd7f07 Use cache for delivered notification identifiers whenever possible
+9ff91f85 Improve NineAnimator's compatibility with some sources
+2655373b (tag: 1.2.6-7) Bump build number
+f9ec947c Update animekisa server map
+4104295f Update HydraX parser
+320eef05 Update MyCloud parser
+afc86a52 Update animepahe search
+05f4719a Merge pull request #107 from uttiya10/Detect-Inactive-Mal-Account
+f761ee74 Add airing schedules to information scene
+2a7380b4 Added error handling when loggin into MyAnimeList
+089a603e Use Jikan for characters and ratings in anime information
+b56e18b7 Fix a problem that prevented tracking service login failures from being shown
+891d62d2 Update MAL's fake ratings distribution generator
+b2d05ee0 Update fastlane
+c2104ec0 Update kissanime source to account for single search result responses
+6182be7b Fix a problem that causes `Anime.equivalentEpisodeLinks(of:)` to behave unexpectedly for animedao
+2dd48e59 Add Cloud9 parser (contributed by Jack)
+dd02892b Merge pull request #101 from uttiya10/master
+41d1695b Added Middleware for 9anime
+f79328f7 Merge pull request #100 from uttiya10/master
+ba787192 Update GogoAnime.swift
+9b12600b Update issue report templates
+4a4f8830 Update documents
+5e95633a Update installation documents
+8a9de0dc Update texts in the preferences scene
+708eb46a Update dependencies
+e1003934 Thanks, Uttiya
+62ccfdee Remove beta references, bump build number
+f7a047ea (tag: 1.2.6-5) Bump build number, update documents
+6851ea47 Fix a problem that prevents cast devices from being connected
+5c0eebbb Update MAL api endpoint
+1c5a0b99 Update go unlimited parser
+cbdd131d Implementing support for `video` server on animedao
+2b496f96 Update animekisa server map
+ebb7f77b Rename beta4 to beta5 for kissanime
+7d0706ac Merge remote-tracking branch 'refs/remotes/origin/master'
+97f9c46c Revising alerts in anime scene
+a6b98a0f Make NineAnimatorPromise queue priory default to utility
+59978107 Present anime recovery option for other errors as well
+ecdd7c1e Allow selecting and recovering from a different source in anime scene
+e3a81c7a Merge pull request #95 from Awsomedude/master
+6a36f81a Added Mixdrop parser for animedao
+9143f1cc Fix CI
+7480f36e Update issue templates
+b01d255b Add post processing to Anilist title variants (#93)
+bee73320 Update setup scenes
+ddcc232a Update subscription cell to account for anime with no playback records
+8a93cb66 Fix a problem that may have addressed #92
+9923822b Fix SwiftLint warnings
+45a11555 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+da8e61f0 Implement support for listing anime search title variants (#93)
+06b92789 Add preferred anime name variant to the `Source` protocol
+4f072494 Fix a problem that may have caused attributed text to loose formats
+36dacc49 Merge pull request #90 from Catta1997/master
+478db02a Remove " - Episodio xx" in name of "recent added", recorded "search" result based on link
+5ac7dc1b Fix a problem that prevented `Clear Recents` from working (fixes #88)
+07dc9d3c Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+450e4711 Fix a problem that causes 9anime CAPTCHA to be triggered
+50d7b46f Merge pull request #82 from Catta1997/master
+13d180d5 Strong self
+519864ce Changes requested
+3aff9a02 Update 4anime parser
+2e9edabb Fixed lag
+27aae633 Rewritten search function
+e27fd74a (tag: 1.2.6-4) Update setup scene, bump build number
+38b5266b Reorganize sources
+374d8247 Add 9anime IP block detection
+2a5e4bfc Update documents
+92e4182a Implement support for Kissanime's Beta and Beta4 server
+9d6f8aaf Merge pull request #78 from Catta1997/master
+3aef7a65 Fix a problem that prevented Cloudflare resolver from working
+0eaabced Fix a problem that prevented subscription notifications from being sent (fixes #66)
+aa6fc597 Name of Episode fix
+e65170de Add AnimeUnity region block detection
+2d217066 Update AnimeUnity search agent
+604e428d Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+40df2f5a Merge pull request #68 from Catta1997/master
+f2f169d0 Update Cloudflare challenge detection code
+5278f665 Update fastlane
+5338e4fb Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+cde515c6 Fixes a problem that causes unexpected background playback - Fixes a problem that causes tracking services to not update progresses - Fixes #42
+2c697997 Merge pull request #72 from uttiya10/patch-1
+c89161ca Added links to directories, and fixed grammer
+6e5e98b9 Adding support for iPadOS 13.4 custom pointer interactions
+56a319ca Fix compiler & SwiftLint warnings
+b4cd7705 Update dependencies - Rebuild dependencies with Xcode 11.4
+dd281dbb Search Fixed
+3383827f Remove HTML literals in the calendar items (fixes #63)
+13629c7d Fix a problem that causes the app to crash when searching with an empty string
+898daca0 Add CONTRIBUTING.md
+764cace8 Update HydraX parser
+d8e08ca9 Update AnimeUltima endpoint
+99cf39bc Fixed file name
+64188023 Delete AnimeUnity.swift
+d4d6b724 Fixed FourAnime
+3fbb30a9 Delete NineAnimator.swift
+b1854c4c Delete animeunity.swift
+07c79171 Corrected all SwiftLint Warning
+3afa884d Removed unused variable
+e7768e2f Added AirDate
+b7daf5d2 Move runtimes to `NineAnimatorRuntime`
+197f4d7c Add files via upload
+3d7a77d4 Add files via upload
+7928287f Fix a problem that may have caused the deinitialization issue (#61)
+ed93ab4f Re-write animepahe source parsers (fixes #65)
+2d428b69 Add files via upload
+7ad14265 Delete NineAnimator.xcodeproj.zip
+ffca6a9d Added AnimeUnity Server
+26690e4d Bump version number
+25a085b2 Fixed an issue that caused the flickering of items in the discovery and library scene
+6a1de6a7 Fixed a problem that may have caused Cast to crash the app
+0813b421 Fix a problem that caused the app to crash in the source selection view
+a87ee520 Fix a problem that caused misplaced collection names in Anilist
+5dc67683 Bump build number
+65732f4e Fix a problem that caused NineAnimator to display NSFW contents even when the switch is off
+88860a3e Update Anilist implementation to support user-defined collection orders
+93eb6e63 Update documents
+10a0e453 Remove references to disabled sources
+0c136808 Update documents
+1682db09 Add automation scripts for removing inactive users
+4e70b652 Fix a problem that may cause the AuthenticationController to stop functioning
+43d917d3 Disable WonderfulSubs due to request
+88af8878 (tag: 1.2.6-1) Update version number
+7d23c7c6 Bump build number
+108fdf3a Update episode status when using `Mark as Watched` context menu (resolves #54)
+42343e4c Update 9anime featured page parser (resolves #57)
+b21802e2 Improve searching capabilities
+755def70 Fix 9anime JSON serialization error (#58)
+f522f7e5 Update dependencies
+5785f490 Fix a problem that cause the Open Link button to disappear
+9156b9a9 Update dependencies
+f859037f Update link to the issue creation page
+1e8d2a62 Update installation documents
+eae1b6ae Fix a problem that may have caused the app to crash upon startup
+3ef37333 Fix grammars: doesn't exists -> doesn't exist
+b6780adc Fix typo in `AnimeViewController`
+e843bd78 Move screenshots to fastlane/screenshots
+772a120a (tag: 1.2-5) Fix Watch Next screen layout issues
+aa8369ab Update NineAnimatorCloud base url
+537b7158 Bump build number
+3682a5e0 Update About scene to include a discord invitation link
+0f402717 Fix collection view layout warnings
+3ea7f05d Fix a problem that may have caused the app to crash
+191c8492 Make dynamicAppearance default to true
+05d43b57 Update associate domains
+d293ed96 Add a setting for selecting the preferred list service for fetching anime information
+d98278db Update copyright notices - 2020
+949c4636 Update documents
+802c6fec Add fastlane autoframer
+a134515d Add fastlane screenshot automations
+7ca06bc6 Bump travis os image version
+8cf30401 Merge remote-tracking branch 'refs/remotes/origin/master'
+35d8aaa2 Fix swiftlint warnings
+2aa940da Fix a problem that prevented users from disabling Auto Retry
+a1b01f8a Merge pull request #50 from Awsomedude/master
+8ad0cfaf Update KiwikParser.swift
+342f9285 Merge pull request #48 from Awsomedude/master
+20a5ee51 Update KissAnime RequestModifier
+9691b14f Fix a problem that prevented Anilist reference matching from functioning
+efd0ffc4 Fix anime searching in twist.moe requires case to be matching
+78ae64ad Update README.md
+72c6afad (tag: 1.2-4) Bump build number, update Setup scene
+b9f10f51 Implement universal links
+63289e5a Make string extensions in `UserNotificationManager.swift` fileprivate
+7ccb073b Change `UserNotificationManager.removeAll()` to only remove subscribed anime watchers
+8564ac1a Merge remote-tracking branch 'refs/remotes/origin/master'
+5b028cb1 Add downloads retry counters
+967414c5 Merge pull request #46 from Awsomedude/master
+cec26b1a Fixed KiwikParser
+0578038a Add config.yml for issue templates
+6938ebd9 Remove redundant issue templates
+4105f6aa Update issue templates
+78ae9b16 Update documents
+89ea23e9 Implement GoUnlimited parser
+875455ac Implement `ProxyDataParser` for animedao.com
+a0b4742e Use the new `BackgroundTasks` framework for background subscription updates
+1ab26421 Fix discovery scene out-of-hierarchy warnings
+abca3102 Fix `UITableViewAlertForLayoutOutsideViewHierarchy` warnings
+d3cda57c Update AnimeDao logo
+3bcfbfe3 Defer Error object initialization with autoclosure
+4af2d0d3 Update 4anime to look for assets in packed scripts
+4e559a2f Adding experimental support for AnimeDao.com
+d61b03db Add icons and source descriptions to quick search results
+b9629047 Update dependencies
+91aca980 Move Alamofire extensions
+8be0dd7b Fix a problem that may have caused the app to crash in background
+dcb2ded1 Limit any retry activities to foreground only
+097908a1 Fix a problem that caused items to appear multiple times in the library
+0b39382f (tag: 1.2-3) Fix a problem that caused texts and backgrounds to appear in inverted colors
+5cf84f64 Bump build number, update Setup scene
+e7d47f63 Update 4anime server recommendations
+e3767589 Fix a problem that causes the app to crash by simultaneously presenting view controllers
+004f0db4 Update documents
+7390c2e3 Adding experimental 4anime support
+4b12245e Fix Cloudflare WAF Solver (once again)
+bce2d41d Update to show HomeKit data unauthorized alert (#43) on iOS 13+
+ab92b6f0 Merge pull request #36 from SuperMarcus/new-download-sys
+962a1dee (origin/new-download-sys) Disable part of the asset validity check after downloads completion
+799bfcd7 Fix a problem that prevented downloads delay timer from functioning
+25c61e89 Not recommending HydraX for older devices as well
+1dc67324 Add context menus for Downloads category in Library
+3c39979d Fix authentication controller interactive dismissal not transferring cookies
+5558bbf9 Fix download system queue logics and sequences
+db6749da [WIP] Fix a problem that may have caused storage leakage
+80816c2f Register AnimeUltima private parsers to the parser registry
+a518aab7 Add warnings when trying to download from an unrecommended server
+bb00fa47 Add `recommendServer(for:, ofPurpose)` for querying specified parsers
+784cbfdc Add retrieve for purpose attributes to parsers
+66c23a75 [WIP] Add cachable asset loader delegate
+fcab1223 [WIP] Add delay for retrying errored contents
+ef170780 Merge branch 'master'
+eb029ba6 Update Cloudflare WAF challenge resolver
+e7fe4330 Update AUEngineParser to use convenience methods
+d10a5980 Merge pull request #39 from Awsomedude/master
+8a3b1f49 Add AtomicProperty for thread safe properties
+7296ca1e Fix AUEngine and update animeultima endpoint
+c215ec1e Deprecated some servers from Kissanime and added HydraX
+ffa38ab1 Merge branch 'master'
+32f5154b Merge pull request #37 from Awsomedude/master
+f0c0f9d0 [WIP] Add additional checks to OfflineContents onCompletion
+51d1b0ad [WIP] Implement download queue for more reliable batch downloads (#7)
+974fd001 Update videoSourceRegex for prettyFast
+31db94e2 Fix a problem that caused anime to appear multiple times
+8af71bf0 Fix a problem that may have caused the storage leakage
+5002f602 Serialize error message for download states
+2360dc82 Fix a problem that caused cancelled downloads to be automatically retried
+5cdb10a7 Add storage tips
+1a9704ed Add Storage Usage panel in the preferences menu
+3bae48fc Merge branch 'master'
+e88e55d5 Update Settings UI
+feffa00a Merge branch 'master'
+bd69bb1a Fix thread checker warnings
+aec89ab6 Update Asset Manager to use cached Anime whenever possible
+e8838874 Merge branch 'master'
+bf574c9d Add the ability to cache retrieved anime in memory
+f3864a3b Update log messages
+b182b641 Fix a problem that caused old content to become unplayable
+e462ae40 [WIP] Renovating the download system
+692f1e34 Update device compatibility list
+20f20d75 [WIP] Offload tasks from OfflineEpisodeContent to OfflineContent
+1c892d71 Merge branch 'master'
+0b613a88 Add share action to the anime in the Recents scene
+d16570f6 Fix a problem that crashes the app when switching server
+0bc5ea92 Bump build number
+e6094584 Fix a problem that may have caused the app to crash when notification permission is denied
+7bcd6b2a Fix a problem that caused the anime lists to appear multiple times
+401f3005 Fix a problem that may have caused the app to crash while rotating devices
+d183850e Reverses the orders of some anime list collections
+b4d71322 Fix a problem that prevented Library from loading anime list
+63e2f79e Fix a problem that may have caused the app to crash while rotating devices
+be775470 Reverses the orders of some anime list collections
+13746545 Fix a problem that prevented Library from loading anime list
+bdbbef6f Merge branch 'master'
+a5bf75ad Fix a problem that caused the app to crash on older systems
+a89ca589 (tag: 1.2-1) Bump version number to 1.2
+4a047b40 Add Google Cast button to the Library
+3785a1f9 Update README.md
+96d5c939 Update documents
+4389331d Implement progress editing for MyAnimeList
+3578822e Add Search home shortcut item
+4ad5ba9a Disconnecting old library from the Main storyboard
+8b4af4fc Fix a problem that prevented recent anime from being removed
+35b7ace9 Fix a problem that caused menus to appear multiple times on older devices
+a431a825 Add operations in Recents
+38b00050 Deprecate Openload and Streamango in animepahe
+6cca17d7 Add home screen shortcuts
+2000bda2 Fix logging naming conventions
+89016e63 Add the ability for Preferences scene to redirect to certain entries
+5c317fbb [WIP] Add listing service tip to the library scene
+cca31ec4 Fix a problem that prevented anime from being loaded from WonderfulSubs
+d5f05414 Fix a problem that caused a misalignment issue on larger devices
+562f7fd4 [WIP] Add tips to the Library scene
+2ae6d829 Adding support for 9anime's HydraX
+993f26ba Bump travis Xcode version
+8721ad85 Fix a problem that caused background fetching to malfunction
+6a6dd852 [WIP] Add Recently Streamed anime list
+a29fb746 [WIP] Implement Subscription Scene
+9e0fbb6d Fix a problem that prevents Promises from being discarded
+cd61ac55 [WIP] Implement download page
+2c85f6ee [WIP] Fix min filled layout issue with bounds change
+374b453f [WIP] Implement Recents scene
+998310da [WIP] Add template view controllers for the new library scene UI
+82ac587c Fix a main thread checker warning
+5758d15c Add collection editing scene
+ebce7bb1 Fix a problem that caused a main thread checker exception
+cfdd28ef Update documentations
+179ed3dc Add HydraX support
+aa80a857 Renaming WonderfulSubs naming format to match the others
+c23a1770 Merge branch 'master'
+4c97b0d4 Enable Catalyst, no support yet
+dc4e17f5 Serialize subscriptions and tracking data in backup files
+35488cca Update dependencies
+4b1d4e56 Fix WonderfulSubs naming
+fd4bcdd0 Add Tracking state protocols
+e5717a92 Some more fine tweaking of the Library UI
+f6eae4e4 Fix 9anime ATS warning
+9dc16e7d Merge pull request #33 from Awsomedude/master
+08e7fc90 Added VeryStreamParser
+de2e6b77 Updating animeultima endpoint
+b0a6973a Fix a problem that caused AUEngine episodes to fail to download
+3cdf0b77 Add rounded corners to Library scene collection sections
+9667f4f8 Redesigning Library UI
+350eaa16 Add a custom flow layout helper
+7a02dd50 Fix a problem that prevented NineAnimator from recovering errors
+b011a635 Update 9anime featured page path
+29e0753b Adopt refreshing capabilities in the preferences menu
+8419a62b Fix a problem in the To Watch Page
+129d4169 Fix anime ratings display issue
+d02f525e Fix a problem that disables search instant results
+508be8d1 Fix a problem that caused the mixed appearances at lunch
+65f7f7e2 Fix a problem that breaks the SSO authentication sessions
+cc8679e9 Fix thread checker warnings
+085f812d (tag: 1.1-9) bump build number
+fe288856 Fix SearchDisplayController error on iOS 13.1
+74a98e97 Bump build number
+52aad394 Fix linting warnings
+498861dd Update setup scene
+c1fec03a Re-enable Cloudflare autoresolver
+eb9dc772 Fixing concurrent loading requests on source change
+85c42d6e Merge branch 'master'
+e5fc505c Fix the color of the texts in CastController
+10f7eb08 Fix a problem where the parameter of the updateAppearance is ignored
+2f6faf00 Update travis to use Xcode 11
+4b9ed549 Update Setup scene
+9e7c3fff Resolve compatibility issues with iOS 13
+844bfb2f Merge pull request #29 from SCLeoX/master
+f8ef354e Merge pull request #31 from Awsomedude/master
+4e774b07 Fix cloudflare
+cc808564 Grammar fix
+b687d0f5 (tag: 1.1-7) Fix AppStore connect warnings
+2e5c9597 Updates animations in Setup scenes
+cd6ae2b1 Update What's new theme and bump build number
+cd5c6936 Add the ability to adjust the progress of the episode by long pressing on the episodes
+ad92dac9 Merge branch 'master'
+9865336e Merge remote-tracking branch 'refs/remotes/origin/master'
+65bba7aa Add retry capability to the download system
+0eebbc47 Merge pull request #30 from Awsomedude/master
+7d6255df Fix faststream regex, added aliases Faststream 2, added fembed to xstream
+92b429af Update simkl to encode cached contents as NSDictionary
+9d05759e Fix regex
+85f57558 Comment space improvement
+925091d4 Add user collections caching capability for Simkl
+96207162 Add aliases for OpenLoad
+e208a44e Implement Simkl episode mutation
+8cfc126b Improve matching algorithm for Simkl
+11fd72bb Implement state mutation for Simkl
+4fbfae84 Implement Simkl collection retrieving
+67e99a08 Implement Simkl login and reference fetching
+26db8dcb Add explanations for 404 errors from wonderful subs
+9e54cd19 Update WonderfulSubs parser to utilize the new CompositionalPlaybackMedia
+36465e4a Add a passthrough parser
+4688ea6e Move parsers to Media, add a CompositionalPlaybackMedia for episodes with external WebVTT subtitles
+8f4f2910 Merge pull request #24 from itadreik4/master
+0eb334be fixed typos and grammar
+50ee6f15 Merge remote-tracking branch 'refs/remotes/origin/master'
+0b18d957 Fix a problem that caused calendar items to repeat
+67043282 Fix a problem that may have caused the cells in Watch Next scene to flicker
+73fb057a Fix a problem that caused new episode label in the To Watch scene to persist
+3add93e8 Merge pull request #22 from Awsomedude/master
+60509acc Update Twist.moe encryptionKey
+b9669405 (tag: 1.1-6) Fix sorted import warnings
+66ad2c03 Update Setup scene and bump build number
+a79786e9 Add fallback artwork
+a4a2ef1a Reload featured scene when the source changes
+ba858fa4 Prevent the users from choosing disabled servers in Search scene
+f945fe79 Clear Cookies when performing cache cleaning
+69091bda Update documents for supported sources
+f3b094a0 Implement searching on AnimeKisa
+de88bc43 Implement episode parsing/playback for AnimeKisa
+d7038a16 Implement AnimeKisa featured and episode list retrieval
+19509028 Fix a problem that caused the Content List UI to misbehave
+d0affd98 Fix a problem that caused the Content List UI to misbehave after recovering from an error
+975af40d Add Nova as a streaming source
+36d9ceac Fix a problem that caused an additional verification to be required when streaming on kissanime
+5a351713 Update links in preferences page
+92bef898 Add an option to prevent NSFW content from being displayed
+74db9fff Move & Update documents
+da60b122 Fix a problem that caused importing .naconfig from the Files app to result in an error
+0490e748 Implement search for Kissanime
+80ae9371 Implement episode url fetching for Kissanime
+23c73259 Implement Kissanime browsing and listing
+7affd3cc Fix a problem that may have caused Cast controls to misbehave from lock screen
+dd174713 Update dependencies
+3d44724f (tag: 1.1-5) Skip endpoint determination for 9anime if the error is caused by an authentication requirement
+81f01695 Update 9anime ts calculation scheme
+fe55dc29 Update Setup page fonts and bump build number
+24c426b5 Update README and setup scene
+57eff5a6 Bypass AnimeTwist security check and enable anime artworks for AnimeTwist @Awsomedude
+e5b8e07a Improve 9anime reliability
+f445e7ba Merge remote-tracking branch 'refs/remotes/origin/master'
+bdefea23 Add core data models
+5ab40a34 Merge pull request #21 from Awsomedude/master
+8a0eb15e Fix AnimeUltima error
+459d527f Fix a problem that caused MAL anime information page to present errors when the target anime has no artwork
+dd0a2820 Fix a problem that prevents anime with no aliases on Wonderful Subs to be presented
+bd9f4499 Fix a problem that caused the search scene to not display errors
+e5e75328 Fix a problem that caused searching on wonderful subs to produce empty results
+1bd788e9 Add XStreamCDN streaming source parser
+c0ec76da Fix a problem that caused the MIME type of VidStreaming to be improperly inferred
+14116f22 Add streaming source parser for VidStreaming
+ddd2955f Add streaming source aliases support
+41ad3238 Implement support for Kiwik as a streaming source
+51a393bf Fix a problem that may have caused video playback to crash the app in some instances
+1d07888d Use P.A.C.K.E.R. decoder to decode files from Mp4Upload
+674f7c12 Fix GogoAnime search reporting no results found (#19)
+5d098cb1 (tag: 1.1-4) Update Setup scene and bump build number
+32682c3d Fix a problem that resulted in inappropriate theming in calendar view
+28663fa4 Update placeholder image
+5225bf41 Rename animepahe to animepahe.com in the Anime Source directory
+e012a822 Implement challenge resolver for twist.moe
+570baea6 Fix "little details"
+a3d0e065 Update README.md
+b6603715 Update README.md
+9e4184a8 Fix a problem that caused link retrieval to misbehave
+d49e9f64 Implement link parsing for animepahe
+db5b1e33 Fix a problem that caused OpenLoad parser to fail some instances
+7c8870ac Implement episode parsing for animepahe
+bd6e2793 Implement AnimePahe search and browse
+3939bc8a Merge remote-tracking branch 'refs/remotes/origin/master'
+abd10e56 Add implementation for gogoanime1
+336fd66e Merge pull request #18 from Awsomedude/master
+a9488ee6 Update Mp4Upload
+8b7ed2f7 Update README.md
+f4406602 Fix README formatting
+08605cf7 Update README.md
+fcb649b3 Update README.md
+e65f35bf Increasing the preloading length for calendar view to prevent scrolling glitches
+967b6f27 Pin section headers of the calendar view to the top
+c0a819df Fix typo
+12bd42fc (tag: 1.1-3) Update Setup page and bump build number
+e624b980 Fix a problem that may have caused the app to crash when rotating the device
+567b6915 Update README.md
+b3b80727 Add a resolve authentication button in the content list page
+9dfa7334 Fix a problem that cause NineAnimator to crash when trying to recover an anime on iPads
+3084b0f3 Add a mechanism to (possibly) recover anime from disabled sources
+f08ab5e5 Fix constraint warnings
+169b2482 Temporarily disable 9anime as a source
+7f2795ca Add citations for DictionaryCoding
+4cb3ad69 Add anime calendar view
+9242f006 Fix listing warnings.
+8d9a1a28 Parse AnimeLink only for 9anime
+b49eebe9 Fix anime as the plural form
+30581458 Add ms app center build badge
+1595ce65 Update README.md for masterani.me (#12)
+67020128 Fix a problem that cause the quick action button image to appear black in dark mode
+a16ac97c (tag: 1.1-2) Bump build number and update Setup screen
+27f5c543 Disable selection in featured page cells
+9b9bd767 Update README.md
+1a82ba43 Add an option to disable WAF auto resolver.
+4f7f8794 Fix 9anime featured page
+dacd54ea Update dependencies
+7159bc36 Merge pull request #10 from Awsomedude/master
+717c8645 fix errors swiftlint
+8d1c0fc1 Added Openload
+39102ad3 Add optional tryUnwrap method
+8ed3a3c2 Fix a problem that caused NineAnimator to crash when accessing some AniList entries
+45be01e5 Add a new server selection dialog
+2ef4c6e5 Fix a problem that caused the error received by the information controller to not be presented
+13145d08 Update README.md
+bbf6ffc2 Fix PrettyFast.io parsing
+89dcf4bf (tag: 1.1-1) Update Whats New and bump version and build number
+7c8cabdf Update dependencies
+49d81c29 Reload errored sources when the watch next view controller appears
+b686da42 Implement captions for standard recommendation sections
+a28c5b1c Implement View More for anime trend and seasonal anime
+1052d7c0 Implement a recommendation based on subscribed anime
+81b7ed39 Implement a Watch Next page
+6f477a17 Add a setup wizard for first time users
+319a7e69 Optimize authentication controller cookie transfer
+c7731341 Update authentication button UI
+d1789777 Add the option to complete authentication challenge in the featured page
+419cd82b Improve authentication with a consistent instance
+062808a5 Fix a problem that caused the app halt indefinitely in some instances
+ba2ac25c Fix a problem that caused the app to crash when opening an anime with error
+32892c2c Embed version information into the application
+08926292 Make the collection previews in the recent tab smaller
+b1af583b Reorder the sequence of presentation of the anime collections
+ac5c18cd Fix a problem that caused Kitsu.io to only load portion of the library entries
+57ba220a Merge remote-tracking branch 'refs/remotes/origin/master'
+9abcc1ed Fix a problem that caused Mp4Upload to load indefinitely (#8)
+9ce0aaa8 Create CNAME
+b25f7f6a (tag: v1.0-5) Bump build number
+cfd007df Optimize TrackingContext caching for reusability
+501ac0e5 Fix a problem that cause the authentication url to be stored incorrectly
+bc16f735 Fix a problem that caused the text alignment issue on the anime page
+d4bc49e1 Implement MyAnimeList with listing service capabilities
+6fe0f9eb Improve error handling
+b0fbd4a3 Improve server parsing for no selection anime on anime ultima
+71a82eda Improve the reliability of solving WAF challenges
+fd20c285 Implement searching for Anime Ultima
+152f127b Present episode air date for anime ultima
+e1712a04 Fix a problem that may cause Cloudflare challenge responses to be rejected
+e4408561 Update README.md
+629dec6d Update README.md
+864d5eea Fix a problem that may have caused accessing properties in NineAnimator to become unsafe
+a59f53d8 Preserved the previously used server for individual anime
+4a081681 Refine server recommendation for anime ultima
+b405536d Implement Anime Ultima anime and episode retrieving
+c0122c30 Disable code signing in travis
+68113bbe Update README.md
+233bef0c Update to use Swift 5
+30ab0637 Add capabilities for NineAnimator to resolve Cloudflare WAF challenges automatically
+aa962b5e (tag: v1.0-4) Bump build version
+7a93bbf7 Allow NineAnimator to discard invalid anime when WonderfulSubs is used as source
+94ad04cc Fix a problem that caused NineAnimator to quit unexpectedly when an anime with no episodes is selected
+dcb9b421 Add the ability for sources to detect Cloudflare's WAF challenge
+4f113a4f Record tracking context last update date
+bfc90852 Fix Xcode launch error
+1d13e242 Fix a problem that caused the recent page collection views to display thumbnails incorrectly.
+760c148c Improve the performance of rotation in the recents tab
+d78bd40f Improve error handling in AnimeViewController
+4f247e06 Fix a problem that may have caused the app to quite unexpectedly
+e8d4cb20 Update README.md
+820a2466 Add support for WonderfulSubs
+01f6a515 Improve episode playback progress tracking with TrackingContext
+6c2489ad Reorganize model files
+832c3817 Implement support for 9anime's F5 Beta
+2fde6acd Update UI for collections
+72be2342 Improve compatibility with Smart Invert
+f700f629 Fix a problem that caused the references in the collections to be presented multiple times
+80287293 Fix a problem that caused the table view cells to animate improperly upon theme update
+103b888f Implement tracking for offline contents
+2ed1ad44 (tag: v1.0-3) Bump build number
+5be8f2bd Implement MyAnimeList list retrieving
+73656d58 Update README.md [ci skip]
+0d73e8fc Implement user and status fetch for MyAnimeList
+9a2f13ab Implement mutational requests for myanimelist
+28b99f51 Implement MyAnimeList sign in
+0600cd03 Fix a problem that caused incorrect episode numbers to be reported to tracking services
+6c06731a Fix a problem that may have caused the suggested anime cell to stop updating
+f31ed9ea Improve episodes matching for tracking services
+fe59cd61 Fix a problem that may lead to mismatch between anime and references
+cd108748 Display current user name in the preferences menu for Kitsu.io
+ee2fbce8 Update README.md
+b852ce4e Implement anime matching for services that are not capable of providing information
+398fee6c Implement Kitsu.io tracking mutations
+c9117126 Implement Kitsu.io as listing service
+40bf6f27 (tag: v1.0-2) Bump build number
+09ae9897 Fix improper formatting in README.md
+91577fa4 Update screenshots and README.md
+ef14fcac Add options button and open in websites option in information scene
+254a8a2a Implement related anime references in information scene
+f2f770cc Fix characters collection view auto layout issue
+e509ad48 Fix a problem that may causes display issue with the navigation bar
+ed106dbd Fix layout constraint warnings in the anime information scene
+b15fe818 Add ratings and statistics cell in anime information view
+e599bd32 Update README.md
+2ae1937c Add "Show Information" option in the option set of AnimeViewController
+b8b1cee1 Implement unconfident match handling
+477ca10d Implement anime information matchmaking
+b05e6441 Fix Xcode storyboard error
+43d3c7ee Theme the scroll indicator in collection view as well
+0c42bcc7 Remove the top empty space in information scene with top image zooming effect
+4f1c1f58 Add an option to disable pushing playback updates to Anilist
+510acbf9 Prevent table view from reanimating the collections in recents tab
+16d91645 Implement anime information browsing
+6c6a7454 Fix a problem that causes the app to crash when playback reaches the end
+cee6cdba Restore default bar tint color for non-blend in view controller
+d1410af9 Make ContentProvider provides AnyLink instead of AnimeLink
+4fee6996 Fix tracking service scene not themed correctly
+4335e128 Implement TrackingContext for Google Cast
+2abb7010 Fix tracking context initialized during background fetch
+2b69708d Make the navigation bar of the recent tab blend in to the background
+86e7bad2 Implement persisting support for Anilist.co
+322158e2 Implement sign-in support for AniList
+5dcf33e0 Fix ContentProviders unexpectedly load more pages when the delegate is not yet assigned
+2d72277b Fix activity indicator not animating when loading pages in Content Listing Scene
+2b30b588 Update README.md
+e8a5bb4c Organize NineAnimatorUser to many different files
+ea457d80 Implement batch deleting for offline anime in recent tab
+989e1f5e Update README.md
+b0b0a04a Implement support for twist.moe
+1b9171b9 Fix link retriever endpoint switching
+060fb424 Implement endpoint switching for 9anime
+b7f769b0 Use 9anime new domain
+f0227c4f Remove UIKit from models
+d3640439 Update copyright notifications
+f4302eea Fix episodes in the offline browser listed in wrong orders
+01fc096f Reorganize files
+b0bba057 Fix offline episode progresses not updated immediately when the offline anime viewer appears
+3add4e66 Use localizedDescription whenever possible
+09917519 Implement download resuming
+c4a54301 Fix activity indicator flashing when other downloading tasks are in progress
+be0a461c Fix deleting offline content not cancelling the current task nor updates the state
+0b9a7f38 Update README.md
+48a95a0f Update README.md
+1e0649db Implement support for gogoanime.io
+2485179e Fix promises concurrency error
+2fa398aa Add NineAnimatorPromise
+9382ad55 Update README.md
+b5e81677 Update Google Cast screenshots
+346b47c5 Update screenshots
+e406dcab Theme keyboard appearance
+449db2b5 Fix numerous issue related to offline media and Google Cast
+893ae029 Fix separator color for offline episodes not set correctly according to themes
+ad75e801 Add offline anime browsing for persisted episdoes
+b2d157b7 Fix AnimeViewController slow scrolling with large amounts of episodes
+da8bcbcd Add  quick navigations in the AnimeViewController
+cddf4ef5 Store the date that the content is persisted for future auto-delete implementations
+668b41cc Fix table view selection not cleared when a downloaded episode starts playing
+a846dc6d Fix resource does not exists error
+1f3fd30a Add remove download menu in the settings panel
+cc23fe77 Implement deleteAll() function to cleanup persisted data
+023225f3 Use a new icon for offline button
+6f84e2c2 Use bounds size to determine offline button image
+0c92c09d Use custom configuration file instead of user defaults to persist downloaded episode information
+b909e713 Make the offline manager to only store persisted or in progress episodes
+8cc79ece Remove continuity.jpg from resource list
+60dff5ac Fix travis
+7d614f4a Fix unused variable warnings
+b80d7fe4 Fix offline asset state not persisted through relaunches
+99d51c8e Remove parent episode property from PlaybackMedia protocol
+fa850821 Use suggested file path extension for downloaded resources
+c0d0bee6 Fix offline content state not persistent across launches
+ec16d9ac Implement offline watching
+997aec7d Fix authentication dialog not presented to user
+7f08460b Fix user notification not properly cleaned when entering anime
+83787da5 Fix notification permission not requested when tap on the subscription button
+0574fc93 Implement OfflineAccessButton and OffineContentManager for offline watching implementations
+d2be8b91 Add option in preferences to switch off episode details
+b6e1fe37 Add Section enum to AnimeViewController
+4049949c Handle masterani.me CAPTCHAs
+1f728d0c Fix navigation bar transitioning to inappropriate sates when transition is cancelled
+5a9cfa1c Fix expand/collapse button not showing when needed
+5a1f0e25 Fix storyboard ibdesigner agent crashing
+8704fb45 Fix masterani.me anime with detailed information not being treated correctly
+c69205ee Implement detailed episode information for masterani.me
+df436d86 Implement ratings and release date parsing for masterani.me
+190c84c2 Fix misbehaving navigation bar and table view
+7f7d5847 Update AnimeViewController header style
+182d618c Add citations for media icons
+f0bb5a2a Organize project files
+e43af5bb Fix home manager not initialized during first setup
+b9fb33d9 Fix the permission of sending notification not requested when subscribed from recent tab
+c36553d9 Theme table view separators
+7e629265 Fix unexpected appearance change when app becomes active
+6a252aa0 Implement dynamic appearance based on screen brightness
+b8f403fc Apply themes to preferences menu as well
+364d5cfb Add storyboard options for theming
+5db0fb8c Add animation option to setTheme()
+381df888 Add a switch in preferences menu to switch appearances
+a9d4a40a Implement global themes and dark appearance
+0b9f75a5 Update README.md for some planned features
+8164dd74 Remove resume playback activity from siri shortcuts
+55c8bbe6 Add menu to clear spotlight items in preferences panel
+1f418637 Fix playback being paused even if continuity functions have not been used
+64d62bf1 Implement handoff for watching and resuming playback
+8e7ce876 Implement resume playback activity
+fcdbf804 Implement continuity and Siri shortcuts
+5d0bd2a2 Replace the Clear button in the recents tab with Google Cast button
+9fc221dd Add Compatibility section in README.md
+b5f911b1 Add `.naconfig` file support for backing up and syncing history and playback progresses
+df0ff6d3 Add option to disable/enable open links from clipboard
+eaef81c1 Implement detect and open links from UIPasteboard
+7ddc475d Implement parsing for masterani.me self-hosted video sources
+bdab9e6d Fix cyclomatic complexity warning
+29ecb156 Use for...where clause
+ef4c8609 Implement next() in Episode
+9713e005 Parse 9anime anime attributes
+b7262e51 Add haptic feedbacks to cast controls
+8db5c80e Use and store AnimeLink from the newly retrieved Anime
+a5959ab5 Implement open anime from notification
+620152f6 Fix Google Cast playback control disappearing
+225b6ce7 Merge pull request #5 from SuperMarcus/home-integration
+f4ee9123 (origin/home-integration) Use let singleton for HomeController
+719a6cff Fix type
+2e228240 Fix links in README.md
+3e0c1c3c Update README.md
+8800781f Add experimental HomeKit integration
+a5d7c76b Implement error handling for opening url schemes
+11eceb4d Implement nineanimator: url scheme
+d51dced4 Fix compiling issue
+f83230ab Implement reverse lookup for sources
+44c52457 Rename SearchPageProvider to BufferedContentProvider
+e85f1592 (origin/reverse-proxy) Open Cast controller from AnimeViewController without resolving if CastController is attached to the episode
+7e9436ce Update README.md
+eb6feb83 Encapsulate AnimeViewController
+8e258203 Check if Cast device is attached in viewWillAppear instead of viewDidLoad
+15e07b0f Change minimal fetch interval from 7200 seconds to 3600 seconds
+c8e01bf0 Update screenshots to match latest features [ci skip]
+af6b57a3 Use iOS unified logging framework
+71c2be93 Organize project groups
+a041b296 Fix a problem that prevents background fetch from completing
+5505cf9c Silent warnings
+2cc763ff Fix settings cell misalignment issue
+b6b338ba Update rendered app icon
+a93f2ee4 Use rounded corners in design
+2c1f2f6f Finally we have an app icon
+2706b78a Limit width of screenshots to 320px
+5ce6cac0 Update README.md
+5efbdd4e Move manual fetch to after the app enters background to avoid congestion
+41181814 Fetch new episodes for subscriptions when the app launches
+10e90f62 Cache not cached anime when the app becomes inactive.
+d1c063a3 Use a bell icon to indicate that the anime has been subscribed
+90c37b7a Add swipe left/swipe right actions for recent anime in Recent tab
+5493244a Implement peek&pop support for anime in featured tab
+a6f552ba Revert changes in FeaturedTab table view cells.
+db765d79 Remove Development Team
+bf5bc4dd Revert team changes
+2c4567ff Set theme jekyll-theme-cayman
+9b7a4049 Add travis badge to README.md
+53fe4530 Remove brew update from travis
+2f1403b0 Fix typo
+21f9f69d Update .travis.yml
+2169ca83 Use travis's homebrew addon
+24167738 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+aae993be Add carthage to travis caching directory
+b10dbdef Shorter methods
+70ee8976 Add no-use-binary to carthage travis build
+e981eaa6 Merge branch 'master' of github.com:SuperMarcus/NineAnimator
+a73f32c5 Add token to travis
+1ef044bd Fix more warnings
+74417dd3 Add carthage bootstrap to travis before_script
+30c40b80 Merge remote-tracking branch 'refs/remotes/origin/master'
+6afe4a45 Update dependencies
+c8130c8b Fix more warnings
+130c7653 Use xcodebuild and xcpretty for travis
+1b9a8f89 Merge remote-tracking branch 'refs/remotes/origin/master'
+411adbe2 Add .travis.yml
+47ba3fe8 Fix some more warnings
+f4194ce8 Fix Errors
+7c96b162 Merge remote-tracking branch 'refs/remotes/origin/master'
+a6f8be5a Add notification settings in Preferences
+72039d22 Add swiftlint
+094d078c Formatting...
+237ed316 Use dedicated UserNotificationManager to manage notifications and subscriptions.
+642d99a6 Remove unused castControllerHandler from SettingsRootTableViewController
+4769c3ee Merge remote-tracking branch 'refs/remotes/origin/master'
+e787e1e6 Remove notification from notification center once the corresponding anime has been browsed by AnimeViewController.
+d3e6b716 Minor changes
+6923b259 Use built-in notification name
+1a61c716 Update README.md
+3cf2d6cc Implement anime new episode notifications
+3d92a898 Add drag to refresh on featured page
+ff7991e4 Cleanup code
+4515f596 Fix Mp4Upload parser
+56ffe7ff Enable tiwi.kiwi parser
+2eb04fca Update README.md
+83997206 Better tap animations
+e0e7dcbd Move native video playback implementations to NativePlayerController
+cd72b611 Fix a problem with the background blur effect of cast controller in the preferences panel
+ecb2f260 Fix background glitch of Google Cast controller when rotating
+17c14898 Fix a problem that caused the page to scroll up when rotating in featured page
+267f0625 Fix a problem where new anime from masterani.me with no title may not be displayed
+a2900820 Fix rotating screen in featured view might cause misalignment is cells
+ca183e74 Remove highlights for cast playback control buttons
+cf2b3ccc New screenshots
+36614eaf New icon set for chrome cast
+13f582cd Refine iPad experiences
+fa965803 Fix some layout constraint warnings
+5e3215a8 Show anime source in Recent tab
+c3c531c6 Cosmetic changes
+e0380128 Cosmetic changes
+2a36d425 Add switches to enable/disable background playback and picture in picture playback
+11cef5d2 Add preferences page to allow local data management
+02261fa8 Implement iCloud syncing, but no iCloud support
+651b233b Fix episode persistece identifier
+3e0a5887 Fix recently updated anime for 9anime not shown on the Featured tab
+5bec4083 Dismiss cast controller when background is tapped
+7d7d1066 Fix recent anime gets inserted to the back of the history instead of the front
+60d574c5 Add launch background
+98484614 Update README.md
+de3ada02 Implement system volume control for Google Cast
+ae024530 Displays anime title on cast playback control
+4fb46d66 Fix skipping commands not showing for Google Cast
+e583eb23 Update Google Cast support for control center and lock screen control
+7c71c5e6 Replace "Cast" bar button with public domain chrome cast icon
+216dbca0 Fix a bug where the rotation of device in chromcast controller can cause parent views to misalign.
+07977b46 Update Chromecast interface for Compact height, Compact width devices
+a40029ef Update Chromecast UI for large screen devices
+5781407f Implement Tiwi.Kiwi parser
+fadd3d42 Add native playback support for Mp4Upload
+f9e3e7f7 Fix playback progress not being updated by the progress indicator
+8d7b6477 Update shared schemes
+4f9d399e Add credits for OpenCastSwift
+cf4536fe Remove screenshots from copy bundle resources
+78147646 Merge pull request #4 from SuperMarcus/multi-sites-support
+bb7d1295 Use weak self for `NASearchMasterAnime`
+78e0ce04 Merge remote-tracking branch 'refs/remotes/origin/multi-sites-support'
+ef7ac60a Fix view transitioning delegate memory leak
+5c584b32 Housekeeping (without solving memory leaks)
+7df53869 Merge branch 'master' into multi-sites-support
+81d0f6dd Fix the search tab not using the selected source to perform search
+06c9bede Various bug fixes
+dca31cbd Enable source selection in Search tab
+d0090e04 Allow site selection in Featured tab
+5dd6573d Implement video source parsing for masterani.me
+8f404282 Implement searching in masterani.me
+a2834e4e Implement episode source
+bd5915e8 Implement featured anime and episode parsing for masterani.me
+ca661fb6 Update models to accommodate multisource support
+19a38021 Update README.md
+74152f65 Update README.md
+a6984e71 Update README.md
+332aa057 Add detailed build instructions
+cd6b0143 Merge branch 'google-cast-support'
+9b7d73d7 Restore playback progress in Chromecast
+041d3184 Fix messed up tables in README.md
+3cce25a2 Implement Chromecast playback and volume control
+1000795d Update dependencies
+7bb8d529 Implement chromecast media sending
+bfb21e00 Implement Google Cast Connection
+aa7334b6 Implement Google Cast discovery
+375f8e45 Add cast controller
+c2685f30 Use convenience initializer for AVPlayerItem
+d76da656 Wrap playback resources with PlaybackMedia structure
+83981c16 Equal width
+00bb385c Add OpenCastSwift as depency - Start implementing Chromecast support
+b3f6cc5a More consitent style in recents view
+e327f855 Merge remote-tracking branch 'refs/remotes/origin/master'
+a91cc25d Mark chrome cast support as work-in-progress
+9c237d0f Fix clear selection
+903c6726 Update README.md
+2b87807e Set custom episode process indicator colors as default
+14348768 Fix for smart invert
+34339efa Prepare for ignore smart invert
+06cf225e Match colors of progress indicator - Update readme
+92af7641 Merge remote-tracking branch 'refs/remotes/origin/master'
+3c3d3813 Fix separator lines not appearing correctly in search results page
+4e3ed640 Resolve memory leak
+febf4825 Remove lines at the end of AnimeViewController
+6b6d5527 Fix progress indicator in anime view controller
+1bacdfc0 Use size classes instead off device type
+2e376684 Display recent animes from recent to not so recent
+1a858cca Merge remote-tracking branch 'refs/remotes/origin/master'
+2be9c877 Add share action in AnimeViewController
+2613dc3d Quick formatting
+d3fdf800 Merge remote-tracking branch 'refs/remotes/origin/master'
+d685d4d1 Allow user to clear their history
+cd553164 Small refactors (Merge pull request #3)
+c4489f4d Merge branch 'master' into small-refactors
+d9a0d747 Update README.md
+358ad35c Implement resume playback in Recent tab - Resume playback with just one click:D
+6b7b04bb Use swift observe
+fa9193b9 Move LICENSE to root
+657f72fb Handles no result properly
+32817980 Use auto hash implementation
+dea9c7b6 TableView deselect selected
+bbb3c001 AVPlayer convenience init
+c1537993 Remove macOS, tvOS, watchOS builds (for now) - Update credits
+132caff7 Merge remote-tracking branch 'refs/remotes/origin/master'
+d8f90be8 Fix EpisodeAccessoryProcessIndicator
+60852694 Add Recent tab for watching history browsing - Fix player playback progress not update - Add NineAnimatorUser for user data management - Update player progress persistence implementation
+62993a11 Update dependencies
+28b6cb63 Merge pull request #2 from SuperMarcus/fix-swift-format
+b2717776 Add cleanup code
+fb5341af minor fixes
+06a99b57 Simplify code and weak self everywhere
+11d8603f Remove user specific files
+f5751857 Fix Xcode Project
+b277245b Merge pull request #1 from ApolloZhu/patch-1
+c468b8bb Fix 9anime.to URL
+b8bf1837 Fix select server crashes on iPad
+3b43e057 Add screenshots
+719cbd05 Add README - Use GNU GPL-3.0 as license of this project - Add copyright notices
+33a3ed85 Deprecate server picker in favor of server selection navigation item/button
+5b59ea5c Implement anime searching - Refine playback control - NineAnimator now stores and restores playback progress - Fix some wired bugs
+3e2bc20d Implement content parsers for clean native AVKit playback
+9a4bb2fc Implement anime and episode parsing
+4d04d49e Implementing anime link parsing - Added a hell lot of frameworks
+17abbeb0 Implement latest anime in featured page
+2107c6ac Implement featured view
+79c1efa3 Initial Commit

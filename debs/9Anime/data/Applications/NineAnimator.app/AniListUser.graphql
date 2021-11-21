@@ -1,0 +1,12 @@
+query {
+    Viewer {
+        id
+        name
+        siteUrl
+        mediaListOptions {
+            animeList {
+              sectionOrder
+            }
+        }
+    }
+}
