@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tintColor": "#2f2f2f",
     "minVersion": "0.1",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/MitsuhaInfinity/header.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -26,19 +26,19 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity/1.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/MitsuhaInfinity/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity/2.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/MitsuhaInfinity/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity/3.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/MitsuhaInfinity/3.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/MitsuhaInfinity/4.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/MitsuhaInfinity/4.png",
                             "accessibilityText": "Screenshot3"
                         }
                     ],

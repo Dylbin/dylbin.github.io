@@ -1,5 +1,5 @@
 {
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/DeltaBeta/header.png",
     "tabs": [
         {
             "views": [
@@ -22,15 +22,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/DeltaBeta/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/DeltaBeta/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/DeltaBeta/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/DeltaBeta/3.png"
                         }
                     ],
                     "itemCornerRadius": 6,

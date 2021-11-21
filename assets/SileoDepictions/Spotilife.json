@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tintColor": "#2ebd59",
     "minVersion": "0.1",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/Spotilife/header.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -26,15 +26,15 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/1.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Spotilife/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/2.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Spotilife/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Spotilife/3.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Spotilife/3.png",
                             "accessibilityText": "Screenshot2"
                         }
                     ],
@@ -72,7 +72,7 @@
                 },
                 {
                     "title": "Developer",
-                    "text": "DylbinTheDev & julioverne",
+                    "text": "dylbin & julioverne",
                     "class": "DepictionTableTextView"
                 },
                 {

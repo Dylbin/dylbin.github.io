@@ -27,15 +27,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/PopcornClient/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/PopcornClient/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/PopcornClient/3.png"
                         }
                     ]
                 },
@@ -81,6 +81,6 @@
         }
     ],
     "tintColor": "#5161bc",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/PopcornClient/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/PopcornClient/header.png",
     "class": "DepictionTabView"
 }

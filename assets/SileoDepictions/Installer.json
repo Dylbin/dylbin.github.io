@@ -27,15 +27,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Installer/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Installer/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Installer/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Installer/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Installer/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Installer/3.png"
                         }
                     ]
                 },
@@ -81,6 +81,6 @@
         }
     ],
     "tintColor": "#137deb",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Installer/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/Installer/header.png",
     "class": "DepictionTabView"
 }

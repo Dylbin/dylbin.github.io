@@ -24,15 +24,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/FlappyBird/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/FlappyBird/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/FlappyBird/3.png"
                         }
                     ],
                     "class": "DepictionScreenshotsView"
@@ -80,7 +80,7 @@
             "class": "DepictionStackView"
         }
     ],
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/FlappyBird/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/FlappyBird/header.png",
     "class": "DepictionTabView",
     "tintColor": "#7ce07a"
 }

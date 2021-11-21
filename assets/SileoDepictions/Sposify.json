@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tintColor": "#23cf5f",
     "minVersion": "0.1",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/Sposify/header.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -26,27 +26,27 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/1.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/2.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/3.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/3.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/4.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/4.png",
                             "accessibilityText": "Screenshot3"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/5.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/5.png",
                             "accessibilityText": "Screenshot4"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Sposify/6.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Sposify/6.png",
                             "accessibilityText": "Screenshot5"
                         }
                     ],

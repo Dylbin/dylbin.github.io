@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tintColor": "#ff3b3a",
     "minVersion": "0.1",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/iNDS/header.png",
     "tabs": [
         {
             "tabname": "Details",
@@ -26,15 +26,15 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/1.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/iNDS/1.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/2.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/iNDS/2.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/iNDS/3.png",
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/iNDS/3.png",
                             "accessibilityText": "Screenshot2"
                         }
                     ],

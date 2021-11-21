@@ -27,15 +27,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/ChimeraOS/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/ChimeraOS/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/ChimeraOS/3.png"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "DylbinTheDev",
+                    "text": "dylbin",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -81,6 +81,6 @@
         }
     ],
     "tintColor": "#49a8ae",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/ChimeraOS/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/ChimeraOS/header.png",
     "class": "DepictionTabView"
 }

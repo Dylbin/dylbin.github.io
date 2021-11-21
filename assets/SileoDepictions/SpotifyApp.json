@@ -27,11 +27,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/SpotifyApp/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/SpotifyApp/2.png"
                         }
                     ]
                 },
@@ -65,7 +65,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "DylbinTheDev & julioverne",
+                    "text": "dylbin & julioverne",
                     "title": "Developer",
                     "class": "DepictionTableTextView"
                 },
@@ -77,6 +77,6 @@
         }
     ],
     "tintColor": "#1ed65d",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/SpotifyApp/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/SpotifyApp/header.png",
     "class": "DepictionTabView"
 }

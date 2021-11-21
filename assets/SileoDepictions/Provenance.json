@@ -27,15 +27,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/1.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Provenance/1.png"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/2.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Provenance/2.png"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/3.png"
+                            "url": "https://dylbin.github.io/assets/SileoDepictions/Provenance/3.png"
                         }
                     ]
                 },
@@ -81,6 +81,6 @@
         }
     ],
     "tintColor": "#1b9df6",
-    "headerImage": "https://dylbinthedev.github.io/assets/SileoDepictions/Provenance/header.png",
+    "headerImage": "https://dylbin.github.io/assets/SileoDepictions/Provenance/header.png",
     "class": "DepictionTabView"
 }
