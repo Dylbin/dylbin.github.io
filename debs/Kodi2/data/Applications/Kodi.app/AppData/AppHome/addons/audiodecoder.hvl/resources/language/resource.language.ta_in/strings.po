@@ -1,0 +1,25 @@
+# Kodi Media Center language file
+# Addon Name: HivelyTracker Audio Decoder
+# Addon id: audiodecoder.hvl
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/audiodecoder.hvl/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta_in\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "HivelyTracker Audio Decoder"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Hively Tracker is a tracker program based upon the AHX format created in the mid '90s by Dexter and Pink of Abyss. The format was relatively popular, and many songs were created and used in scene productions and games. AHX was designed to create a very SID-like sound on the Amiga."
+msgstr ""

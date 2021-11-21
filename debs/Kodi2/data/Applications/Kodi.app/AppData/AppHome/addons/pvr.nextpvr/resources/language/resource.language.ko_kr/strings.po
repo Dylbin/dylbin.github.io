@@ -1,0 +1,399 @@
+# Kodi Media Center language file
+# Addon Name: NextPVR PVR Client
+# Addon id: pvr.nextpvr
+# Addon Provider: Graeme Blackley
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-18 09:54+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-pvr-clients/pvr-nextpvr/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Kodi frontend for the NextPVR"
+msgstr "NextPVR을 위한 Kodi 프론트엔드"
+
+msgctxt "Addon Description"
+msgid "NextPVR frontend. Supports streaming of Live TV &amp; Recordings, listening to Radio channels and EPG."
+msgstr "NextPVR 프론트엔드. 라이브 TV 스트리밍과 녹화, 라디오 청취, EPG를 지원합니다."
+
+msgctxt "Addon Disclaimer"
+msgid "This is a work in progress. Use at your own risk."
+msgstr "아직 개발 진행중입니다. 부족한 부분이 있을 수 있습니다."
+
+msgctxt "#30000"
+msgid "NextPVR hostname"
+msgstr "NextPVR 호스트 이름"
+
+msgctxt "#30001"
+msgid "NextPVR port (usually 8866)"
+msgstr "NextPVR 포트(보통 8866)"
+
+msgctxt "#30002"
+msgid "NextPVR PinCode"
+msgstr "NextPVR PIN 코드"
+
+msgctxt "#30003"
+msgid "Enable timeshift with live TV"
+msgstr "라이브 TV에 시간차이 사용함"
+
+msgctxt "#30603"
+msgid "Open settings dialog for inputstream.ffmpegdirect for modification of timeshift settings"
+msgstr "시간차이 수정에 inputstream.ffmpegdirect에 대한 설정 대화 상자 열기"
+
+msgctxt "#30004"
+msgid "Download TV guide artwork"
+msgstr "TV 가이드 아트워크 내려받기"
+
+msgctxt "#30504"
+msgid "Not enabled for Matrix when remote"
+msgstr "원격에서 매트릭스에 사용 안 함"
+
+msgctxt "#30040"
+msgid "Connection"
+msgstr "연결"
+
+msgctxt "#30041"
+msgid "Advanced"
+msgstr "고급"
+
+# empty strings from id 30042 to 30049
+msgctxt "#30050"
+msgid "NextPVR version not supported"
+msgstr "NextPVR 버전 지원 안 됨"
+
+msgctxt "#30051"
+msgid "Upgrade to '%s' or higher!"
+msgstr "'%s' 이상으로 업그레이드 하세요!"
+
+msgctxt "#30052"
+msgid "Connection failed. Incorrect PIN?"
+msgstr "연결 실패. 틀린 암호?"
+
+msgctxt "#30053"
+msgid "Tuner no longer available"
+msgstr "튜너 사용할 수 없음"
+
+msgctxt "#30140"
+msgid "One time (manual)"
+msgstr "한 번 (수동)"
+
+msgctxt "#30141"
+msgid "One time (guide)"
+msgstr "한 번 (가이드)"
+
+msgctxt "#30142"
+msgid "Repeating (manual)"
+msgstr "반복 (수동)"
+
+msgctxt "#30143"
+msgid "Repeating (guide)"
+msgstr "반복 (가이드)"
+
+msgctxt "#30144"
+msgid "Child recording"
+msgstr "파생된 녹화"
+
+msgctxt "#30145"
+msgid "Repeating (keyword)"
+msgstr "반복 (키워드)"
+
+msgctxt "#30150"
+msgid "All Recordings"
+msgstr "모든 녹화영상"
+
+msgctxt "#30151"
+msgid "1 Recording"
+msgstr "녹화 1편"
+
+msgctxt "#30152"
+msgid "2 Recordings"
+msgstr "녹화 2편"
+
+msgctxt "#30153"
+msgid "3 Recordings"
+msgstr "녹화 3편"
+
+msgctxt "#30154"
+msgid "4 Recordings"
+msgstr "녹화 4편"
+
+msgctxt "#30155"
+msgid "5 Recordings"
+msgstr "녹화 5편"
+
+msgctxt "#30156"
+msgid "6 Recordings"
+msgstr "녹화 6편"
+
+msgctxt "#30157"
+msgid "7 Recordings"
+msgstr "녹화 7편"
+
+msgctxt "#30158"
+msgid "10 Recordings"
+msgstr "녹화 10편"
+
+msgctxt "#30160"
+msgid "New Only"
+msgstr "최신만"
+
+msgctxt "#30161"
+msgid "All"
+msgstr "전체"
+
+msgctxt "#30162"
+msgid "Pre-buffer time in seconds"
+msgstr "프리-버퍼 시간 (초)"
+
+msgctxt "#30163"
+msgid "Enable Wake On LAN"
+msgstr "Wake On LAN 사용"
+
+msgctxt "#30164"
+msgid "Wait for server after wake in seconds"
+msgstr "서버가 깨어나기를 기다림 (초)"
+
+msgctxt "#30165"
+msgid "NextPVR server MAC address"
+msgstr "NextPVR 서버 MAC 어드레스"
+
+msgctxt "#30166"
+msgid "Failed recordings"
+msgstr "녹화 실패"
+
+msgctxt "#30167"
+msgid "Live TV chunk size"
+msgstr "라이브 TV 단위 데이터 크기"
+
+msgctxt "#30567"
+msgid "Change chunk size for LAN performance"
+msgstr "LAN 성능을 위한 단위 데이터 크기 변경"
+
+msgctxt "#30168"
+msgid "Recording chunk size"
+msgstr "녹화 단위 데이터 크기"
+
+msgctxt "#30169"
+msgid "Kodi skin styled recordings"
+msgstr "Kodi 스킨 스타일 녹화"
+
+msgctxt "#30569"
+msgid "Separate title, season and episode for skin - season and episode numbers will not be shown in lists"
+msgstr "스킨에 대한 별도의 제목, 시즌 및 에피소드 - 시즌 및 에피소드 번호는 목록에 표시되지 않음"
+
+msgctxt "#30170"
+msgid "Refresh cache for channel icons"
+msgstr "채널 아이콘의 캐시 새로 고침"
+
+msgctxt "#30171"
+msgid "Repeating (advanced)"
+msgstr "반복 (고급)"
+
+msgctxt "#30172"
+msgid "Live TV method"
+msgstr "라이브 TV 방식"
+
+msgctxt "#30173"
+msgid "Transcoding profile"
+msgstr "트랜스코딩 프로필"
+
+msgctxt "#30174"
+msgid "Streaming options"
+msgstr "스트리밍 옵션"
+
+msgctxt "#30175"
+msgid "Display and recordings"
+msgstr "디스플레이 및 녹화"
+
+msgctxt "#30176"
+msgid "Enable direct streams"
+msgstr "직접 스트림 활성화"
+
+msgctxt "#30177"
+msgid "Use legacy (V4) setting"
+msgstr "이전(V4) 설정 사용"
+
+msgctxt "#30178"
+msgid "Include filesize with recordings"
+msgstr "녹화에 파일 크기 포함"
+
+msgctxt "#30678"
+msgid "Use file system to get the recording size if available"
+msgstr "가능하면 파일 시스템을 사용하여 녹화 크기 가져오기"
+
+msgctxt "#30179"
+msgid "Remote access"
+msgstr "원격 접근"
+
+msgctxt "#30180"
+msgid "Single recording display"
+msgstr "단일 녹화 표시"
+
+msgctxt "#30680"
+msgid "Movies and single episode TV shows display at top level"
+msgstr "영화와 단일 에피소드 TV 프로그램은 가장 위에 표시됨"
+
+msgctxt "#30181"
+msgid "TV guide portrait format"
+msgstr "TV 가이드 세로 형식"
+
+msgctxt "#30182"
+msgid "NextPVR server %s:%d"
+msgstr "NextPVR 서버 %s:%d"
+
+msgctxt "#30183"
+msgid "Reset channel icon"
+msgstr "채널 아이콘 재설정"
+
+msgctxt "#30184"
+msgid "Forget recording"
+msgstr "녹화 잊음"
+
+msgctxt "#30185"
+msgid "Update all channels"
+msgstr "모든 채널 업데이트"
+
+msgctxt "#30186"
+msgid "Update all channel groups"
+msgstr "모든 채널 그룹 업데이트"
+
+msgctxt "#30187"
+msgid "Select NextPVR IP address"
+msgstr "NextPVR IP 주소 선택"
+
+msgctxt "#30188"
+msgid "Show radio channels"
+msgstr "라디오 채널 표시"
+
+msgctxt "#30688"
+msgid "Also use skin settings to control radio main menu display"
+msgstr "라디오 주 메뉴 표시 관리에 스킨 설정도 사용"
+
+msgctxt "#30189"
+msgid "Discovered host"
+msgstr "발견된 호스트"
+
+msgctxt "#30190"
+msgid "Timeshifting disabled"
+msgstr "시간차이 사용 안 함"
+
+msgctxt "#30191"
+msgid "%s is not enabled"
+msgstr "%s 사용 안 함"
+
+msgctxt "#30192"
+msgid "%s is not installed"
+msgstr "%s 설치 안 됨"
+
+msgctxt "#30193"
+msgid "Show season folders"
+msgstr "시즌 폴더 표시"
+
+msgctxt "#30693"
+msgid "Create separate folders for multiple seasons of recordings"
+msgstr "여러 시즌의 녹화에 폴더 따로 만들기"
+
+msgctxt "#30194"
+msgid "Use backend genre text"
+msgstr "백엔드 장르 텍스트 사용"
+
+msgctxt "#30694"
+msgid "Kodi default is DVB genre text. Default required for Kodi genre search and language translation"
+msgstr "Kodi 기본값은 DVB 장르 텍스트입니다. Kodi 장르 검색 및 언어 번역에 필요한 기본값"
+
+msgctxt "#30195"
+msgid "Send Wake On LAN to server"
+msgstr "Wake On LAN을 서버로 보내기"
+
+msgctxt "#30196"
+msgid "Open NextPVR settings"
+msgstr "NextPVR 설정 열기"
+
+msgctxt "#30197"
+msgid "Show guide cast, director and writer"
+msgstr "쇼 가이드 출연자, 감독 및 작가"
+
+msgctxt "#30198"
+msgid "Display disk space"
+msgstr "디스크 공간 표시"
+
+msgctxt "#30698"
+msgid "Default: Show the default drive - Span: Sum all drives"
+msgstr "기본값: 기본 드라이브 표시 - 범위: 모든 드라이브 합계"
+
+msgctxt "#30199"
+msgid "Override Kodi no timer padding default"
+msgstr "Kodi 타이머의 기본 안 덧붙임 바꾸기"
+
+msgctxt "#30699"
+msgid "Use NextPVR timer padding when no padding is entered"
+msgstr "덧붙임 입력이 없으면 NextPVR 타이머 덧붙임 사용"
+
+msgctxt "#30200"
+msgid "Store recording resume location in NextPVR"
+msgstr "NextPVR에 녹화 다시 시작 위치 저장"
+
+msgctxt "#30700"
+msgid "When disabled resume location and watched status will be managed only in Kodi"
+msgstr "사용하지 않으면 다시 시작 위치와 시청 상태는 Kodi에서만 관리됩니다"
+
+#~ msgctxt "#30000"
+#~ msgid "NextPVR Hostname"
+#~ msgstr "NextPVR 호스트 네임"
+
+#~ msgctxt "#30001"
+#~ msgid "NextPVR Port (usually 8866 or 7799)"
+#~ msgstr "NextPVR 포트 (보통 8866 또는 7799)"
+
+#~ msgctxt "#30003"
+#~ msgid "Enable TimeShift with Live TV"
+#~ msgstr "라이브 TV에서 타임시프트 사용"
+
+#~ msgctxt "#30004"
+#~ msgid "Download TV Guide Artwork"
+#~ msgstr "TV 가이드 아트 다운로드"
+
+#~ msgctxt "#30050"
+#~ msgid "NextPVR server is too old."
+#~ msgstr "NextPVR 서버가 오래된 버전입니다."
+
+#~ msgctxt "#30144"
+#~ msgid "Child Recording"
+#~ msgstr "파생된 녹화"
+
+#~ msgctxt "#30166"
+#~ msgid "Failed Recordings"
+#~ msgstr "녹화 실패"
+
+#~ msgctxt "#30167"
+#~ msgid "Live TV Chunk Size"
+#~ msgstr "라이브 TV 단위 데이터 크기"
+
+#~ msgctxt "#30168"
+#~ msgid "Recording Chunk Size"
+#~ msgstr "녹화 단위 데이터 크기"
+
+#~ msgctxt "#30169"
+#~ msgid "Kodi Style Recordings"
+#~ msgstr "Kodi 스타일 녹화"
+
+#~ msgctxt "#30170"
+#~ msgid "Erase Channel Icons"
+#~ msgstr "채널 아이콘 지움"
+
+#~ msgctxt "#30172"
+#~ msgid "Live TV Stream"
+#~ msgstr "라이브 TV 스트림"
+
+#~ msgctxt "#30173"
+#~ msgid "Streaming Profile"
+#~ msgstr "스트리밍 프로필"

@@ -1,0 +1,106 @@
+# Kodi Media Center language file
+# Addon Name: Archive support
+# Addon id: vfs.libarchive
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-25 08:29+0000\n"
+"Last-Translator: Xean <xeanhort007@gmail.com>\n"
+"Language-Team: Catalan (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-virtual-filesystems/vfs-libarchive/ca_es/>\n"
+"Language: ca_es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Multi-format archive and compression addon"
+msgstr "Complement d'arxiu i compressió multi-format"
+
+msgctxt "Addon Description"
+msgid "This add-on uses the libarchive library to read a variety of archive and compression formats.[CR][CR]Supported formats are:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip"
+msgstr "Aquest complement utilitza la llibreria libarchive per llegir diversos formats d'arxiu i compressió.[CR][CR]Els formats compatibles són:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip"
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+# Following strings used for addon settings dialog
+msgctxt "#30000"
+msgid "RAR solid archive support unavailable"
+msgstr "El suport d’arxiu RAR sòlid no està disponible"
+
+msgctxt "#30001"
+msgid "Truncated RAR file data"
+msgstr "Dades de fitxer RAR truncades"
+
+msgctxt "#30002"
+msgid "Can't allocate rar data"
+msgstr "No es poden assignar dades rar"
+
+msgctxt "#30003"
+msgid "Couldn't find out RAR header"
+msgstr "No s'ha pogut esbrinar la capçalera RAR"
+
+msgctxt "#30004"
+msgid "Invalid marker header"
+msgstr "Capçalera de marcador no vàlida"
+
+msgctxt "#30005"
+msgid "Invalid header size"
+msgstr "La mida de la capçalera no és vàlida"
+
+msgctxt "#30006"
+msgid "RAR encryption support unavailable"
+msgstr "El suport de xifratge RAR no està disponible"
+
+msgctxt "#30007"
+msgid "Header CRC error"
+msgstr "Error CRC de capçalera"
+
+msgctxt "#30008"
+msgid "Invalid sizes specified"
+msgstr "S'han especificat mides no vàlides"
+
+msgctxt "#30009"
+msgid "Bad RAR file"
+msgstr "Fitxer RAR incorrecte"
+
+msgctxt "#30010"
+msgid "Unsupported compression method for RAR file"
+msgstr "Mètode de compressió no admès per al fitxer RAR"
+
+msgctxt "#30011"
+msgid "Error during seek within RAR file"
+msgstr "Error durant la cerca al fitxer RAR"
+
+msgctxt "#30012"
+msgid "Invalid filename"
+msgstr "Nom de fitxer no vàlid"
+
+msgctxt "#30013"
+msgid "Mismatch of file parts split across multi-volume archive"
+msgstr "Desajust de les parts del fitxer dividit entre arxius de diversos volums"
+
+msgctxt "#30014"
+msgid "Header CRC error"
+msgstr "Error CRC de capçalera"
+
+msgctxt "#30015"
+msgid "Parsing filters is unsupported"
+msgstr "L'anàlisi dels filtres no és compatible"
+
+msgctxt "#30016"
+msgid "Invalid symbol"
+msgstr "Símbol no vàlid"
+
+msgctxt "#30017"
+msgid "Internal error extracting RAR file"
+msgstr "Error intern en extreure el fitxer RAR"

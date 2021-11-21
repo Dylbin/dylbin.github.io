@@ -1,0 +1,57 @@
+<settings version="1">
+  <section id="addon" label="-1" help="-1">
+    <category id="main" label="128" help="-1">
+      <group id="1" label="-1">
+        <setting id="defaultlength" type="integer" label="30000" help="30001">
+          <default>0</default>
+          <constraints>
+            <minimum label="30002">0</minimum>
+            <step>5</step>
+            <maximum>500</maximum>
+          </constraints>
+          <control type="list" format="string">
+            <formatlabel>30003</formatlabel>
+          </control>
+        </setting>
+        <setting id="defaultfade" type="integer" label="30004" help="30005">
+          <default>10000</default>
+          <constraints>
+            <minimum label="30006">0</minimum>
+            <step>100</step>
+            <maximum>50000</maximum>
+          </constraints>
+          <control type="list" format="string">
+            <formatlabel>30007</formatlabel>
+          </control>
+        </setting>
+        <setting id="suppressopeningsilence" type="boolean" label="30008" help="30009">
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="suppressendsilence" type="boolean" label="30010" help="30011">
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="endsilenceseconds" type="integer" label="30012" help="30013">
+          <default>5</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>20</maximum>
+          </constraints>
+          <dependencies>
+            <dependency type="enable">
+              <or>
+                <condition setting="suppressopeningsilence" operator="is">true</condition>
+                <condition setting="suppressendsilence" operator="is">true</condition>
+              </or>
+            </dependency>
+          </dependencies>
+          <control type="list" format="string">
+            <formatlabel>30014</formatlabel>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

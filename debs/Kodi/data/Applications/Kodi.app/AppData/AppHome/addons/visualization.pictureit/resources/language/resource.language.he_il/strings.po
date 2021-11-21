@@ -1,0 +1,74 @@
+# Kodi Media Center language file
+# Addon Name: PictureIt
+# Addon id: visualization.pictureit
+# Addon Provider: linuxwhatelse
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.pictureit\n"
+"Report-Msgid-Bugs-To: tadly@linuxwhatelse.de\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-05 07:29+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew (Israel) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualisation-pictureit/he_il/>\n"
+"Language: he_il\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgctxt "Addon Summary"
+msgid "PictureIt - Kodi Visualization"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PictureIt is supposed to make listening to music more elegant and less flashy.[CR]The idea is to take random images YOU selected and display them alongside a simple spectrum at the bottom.[CR]Simple right?[CR][CR]Features:[CR]- Select a local directory containing your images (If sub-folders are present, those will be used as \"Preset\")[CR]- Update images by interval[CR]- Update images on new track[CR]- Change the transition time[CR]- Enable/Disable the spectrum[CR]- Enable/Disable a settle spectrum-background[CR]- Change the spectrums: Width, Bottom-Padding, Animation-Speed"
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr "כללי"
+
+msgctxt "#30001"
+msgid "Presets root directory"
+msgstr "תיקיית האב של הערכות"
+
+msgctxt "#30002"
+msgid "Transition time (ms)"
+msgstr "זמן מעברון (מילישניות)"
+
+msgctxt "#30003"
+msgid "Update on new track"
+msgstr "עדכון עם רצועה חדשה"
+
+msgctxt "#30004"
+msgid "New image by interval"
+msgstr "תמונה חדשה בהפרש זמנים"
+
+msgctxt "#30005"
+msgid "Image update interval (sec)"
+msgstr "הפרש בין עדכוני תמונות (שניות)"
+
+msgctxt "#30006"
+msgid "Spectrum"
+msgstr "מנעד"
+
+msgctxt "#30007"
+msgid "Enable spectrum"
+msgstr "הפעלת מנעד"
+
+msgctxt "#30008"
+msgid "Show spectrum background"
+msgstr "הצגת רקע מנעד"
+
+msgctxt "#30009"
+msgid "Width"
+msgstr "רוחב"
+
+msgctxt "#30010"
+msgid "Padding bottom"
+msgstr "ריפוד מלמטה"
+
+msgctxt "#30011"
+msgid "Animation speed"
+msgstr "מהירות הנפשה"

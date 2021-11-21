@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="imagedecoder.mpo"
+  version="19.0.0"
+  name="MPO image decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.instance.imagedecoder" minversion="2.1.0" version="2.1.1"/></requires>
+  <extension
+    point="kodi.imagedecoder"
+    library_darwin_embedded="imagedecoder.mpo.19.0.0.dylib"
+    extension=".mpo"
+    mimetype="image/mpo"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/imagedecoder.mpo</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">Multi Picture Object (MPO) Bilddekodierer</summary>
+    <summary lang="en_GB">Multi Picture Object (MPO) image decoder</summary>
+    <summary lang="ko_KR">Multi Picture Object (MPO) 이미지 디코더</summary>
+    <summary lang="pl_PL">Dekoder obrazu Multi Picture Object (MPO)</summary>
+    <summary lang="ru_RU">Декодер изображений Multi Picture Object (MPO)</summary>
+    <description lang="de_DE">Ein Addon zum Dekodieren von MPO-Dateien (Multiple Picture Object). Diese werden hauptsächlich für 3D-Kameras und den Nintendo 3DS verwendet.</description>
+    <description lang="en_GB">An addon to decode MPO (multiple picture object) files. These are used mainly for 3D cameras and the Nintendo 3DS.</description>
+    <description lang="ko_KR">MPO(multiple picture object) 파일을 디코딩하는 애드온입니다. 주로 3D 카메라와 Nintendo 3DS에 사용됩니다.</description>
+    <description lang="pl_PL">Dodatek do dekodowania plików MPO (Multi Picture Object). Są one używane głównie w aparatach 3D i Nintendo 3DS.</description>
+    <description lang="ru_RU">Дополнение для декодирования файлов MPO (multiple picture object). Они используются в основном для 3D-камер и Nintendo 3DS.</description>
+  </extension>
+</addon>

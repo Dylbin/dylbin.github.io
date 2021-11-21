@@ -1,0 +1,761 @@
+v19.0.0
+- Translations updates from Weblate
+  - ko_kr
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v8.4.0
+- Add support for RDS data contained in AAC streams.
+- Translations updates from Weblate
+
+v8.3.4
+- Fixed 'Use HTTPS' setting init/write
+
+v8.3.3
+- Fixed: Crash while restarting the add-on (due to stale HTSP connection thread after unloading add-on's shared lib).
+
+v8.3.2
+- Fixed: Timeshift issues after pausing and resuming Live TV (affects only demuxer-served channels).
+
+v8.3.1
+- Translations updates from Weblate
+	- af_za, am_et, ar_sa, az_az, be_by, bg_bg, bs_ba, ca_es, cs_cz, cy_gb, da_dk, de_de, el_gr, en_au, en_nz, en_us, eo, es_ar, es_es, es_mx, et_ee, eu_es, fa_af, fa_ir, fi_fi, fo_fo, fr_ca, fr_fr, gl_es, he_il, hi_in, hr_hr, hu_hu, hy_am, id_id, is_is, it_it, ja_jp, ko_kr, lt_lt, lv_lv, mi, mk_mk, ml_in, mn_mn, ms_my, mt_mt, my_mm, nb_no, nl_nl, pl_pl, pt_br, pt_pt, ro_ro, ru_ru, si_lk, sk_sk, sl_si, sq_al, sr_rs, sr_rs@latin, sv_se, szl, ta_in, te_in, tg_tj, th_th, tr_tr, uk_ua, uz_uz, vi_vn, zh_cn, zh_tw
+
+8.3.0
+- New setting: Regular expression vs. 'contains' search for Autorecs.
+
+8.2.4
+- Fix: broken string in en_gb resource file.
+
+8.2.3
+- Usability: Change settings spinners to selection lists
+- Fixed: Timer settings: Add missing duplicate detection values
+
+8.2.2
+- Fix: kissnet update fixing Windows socket connection issue
+
+8.2.1
+- Fix: kissnet update fixing socket creation/connection issue
+
+8.2.0
+- PVR API 7.1.0 - API change to allow epg max future and past days
+
+8.1.3
+- Fix: Obtain streaming profiles as soon as connected to backend
+- Fix: On system sleep, properly close demuxers before disconnecting from backend
+- Fix: Predictive Tuning: Prevent closing the subscription while re-subscribing to it
+- Fix: Error handling for socket read/write operations
+- Improvement: Demux read detects lost backend connection and initiates re-connect
+- Fix: Fix crashes while accessing socket concurrently
+- Fix: Do not reset source info when re-subscribing
+
+8.1.2
+- More IPv6 fixes
+
+8.1.1
+- Fix IPv6 support
+
+8.1.0
+- Update inputstream API 3.0.1
+  - Fix wrong flags bit shift
+
+8.0.0
+- Update PVR API 7.0.2
+
+7.2.2
+- Fix toggling of HTTP streaming setting
+
+7.2.1
+- Fix 'pvr.hts' appearing twice in every addon log message
+- Fix calculation of start time, stop time and file size for multi-file recordings
+- Remove p8-platform build dependency
+
+7.2.0
+- Add capability to use HTTP streaming instead of HTSP
+
+7.1.4
+- Fix deadlock while reconnecting to backend after a backend response timeout (Fixes #465)
+- Refactor subscription seek code
+- Refactor subscription weight code
+- Fix HTSP connection thread not ended while in supended state
+
+7.1.3
+- Withdraw v7.1.2 due to new deadlocks it introduces, for example during initial connect to backend.
+
+7.1.2
+- Fix deadlock while reconnecting to backend after a backend response timeout (Fixes #465)
+
+7.1.1
+- Fix 'provider name' and 'device status' signal status values after update to PVR API 7.0.0
+
+7.1.0
+- Add new setting value for recordings lifetime of timers created by Kodi: 'Use backend setting"
+- Change default value for 'lifetime' setting from '3 months' to 'Use backend setting' to
+  avoid unintended loss of data
+- Enforce reset of default value for lifetime' to 'Use backend setting' to avoid unintended loss
+  of data for existing addon configurations
+
+7.0.1
+- Fix hang during addon stop
+
+7.0.0
+- Update PVR API 7.0.0
+- Rework addon to support new API interface
+- Code cleanup to match a clang format
+- Change settings.xml to new Kodi format
+
+6.1.1
+- fix disconnect on sleep
+
+6.1.0
+- Add wake-on-lan
+
+6.0.0
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+
+5.5.0
+- Add support for recording file size (HTSP v35)
+
+5.4.8
+- Update PVR API 6.5.0
+
+5.4.7
+- Update PVR API 6.4.0
+
+5.4.6
+- Minor cleanups
+
+5.4.5
+- Update PVR API 6.3.0
+
+5.4.4
+- Update Debian build code
+- Update with some minor cleanups
+- Add license name and source url to addon.xml
+- Add GPL2+ license file and show GPL2+ on README.md
+
+5.4.3
+- Fixed pointer to freed memory in EPG_TAG.strFirstAired
+
+5.4.2
+- Update PVR API 6.2.0
+
+5.4.1
+- Avoid using zero when season/episode information is not present
+
+5.4.0
+- Add HTTPS connection option
+
+5.3.4
+- Replace AppVeyor with Azure for test build (better performance)
+- Add p8-platform to addon depends instead of from kodi
+- Updated language files from Transifex
+
+5.3.3
+- Updated language files from Transifex
+
+5.3.2
+- Updated language files from Transifex
+
+5.3.1
+- Updated language files from Transifex
+
+5.3.0
+- Code cleanup
+- Fixed: 'Stop recording' no longer aborts in-progress recordings (HTSP v26)
+
+5.2.1
+- Code cleanup: Apply Kodi clang-format ruleset.
+
+5.2.0
+- Update: Recompile for 6.1.0 PVR Addon API compatibility
+
+5.1.1
+- Update build system version and cleanup
+- Change kodi header include way
+- Update Travis and AppVeyor test build systems
+
+5.1.0
+- kodi.binary.global.gui bump to 5.14.0
+
+5.0.1
+- Predictive tuning: Fix unability to retune to a channel that was closed immediately before.
+
+5.0.0
+- PVR API v6.0.0 changes implemented
+
+4.4.17
+- Fix playback when skipping an in progress recording to real-time.
+
+4.4.16
+- Fix auto close of timeshifted subscriptions if predictive tuning is activated
+- Increase packet queuedepth size for subscriptions to workaround timeshift stuttering problems
+
+4.4.15
+- Fix/improve HTSPDemuxer timeshift support
+
+4.4.14
+- Fix HTSPDemuxer::IsRealTimeStream to always return true if subscription is active.
+
+4.4.13
+- Fixed missing description in EPG and DVR tags.
+
+4.4.12
+- Fixed missing summary in EPG tags.
+
+4.4.11
+- Increase the maximum stream chunk size to 512 KB
+
+4.4.10
+- Updated language files from Transifex
+
+4.4.9
+- Fix a link in the README
+
+4.4.7
+- Add support for recent tvheadend 4.3 image URL changes (HTSP v34)
+
+4.4.6
+- updated language files from Transifex
+
+4.4.5
+- Fixed buffer overflow in Logger::Log
+
+4.4.4
+- updated language files from Transifex
+
+4.4.3
+- updated language files from Transifex
+
+4.4.2
+- Fix RDS stream support. Only mpeg2 audio streams can contain embedded RDS data and there can be at most one RDS stream at a time.
+
+4.4.1
+- Fix creation of RDS streams. Must only be done if audio stream actually contains RDS data.
+
+4.4.0
+- Add support for Radio Data System (RDS)
+- Enable async EPG data transfer by default
+
+4.3.11
+- updated language files from Transifex
+
+4.3.10
+- Add support for fanart image for recordings if supplied by tvheadend (tvh4.3+).
+
+4.3.9
+- PVR Addon API 5.10.2: Implemented support for PVR_ADDON_CAPABILITIES.bSupportsAsyncEPGTransfer
+
+4.3.8
+- Add support for thumbnail image for recordings if supplied by tvheadend (tvh4.3+).
+
+4.3.7
+- Fixed an edge case where wrong times were displayed in Kodi video/audio OSD
+
+4.3.6
+- updated language files from Transifex
+
+4.3.5
+- demuxer: fix begin/end pts precision
+- predictive tuning: do not close paused subscriptions
+
+4.3.4
+- Add stub for "subscriptionGrace" HTSP method.
+- Add setting to ignore duplicate scheduled recordings (tvh4.3+)
+
+4.3.3
+- updated language files from Transifex
+
+4.3.2
+- updated language files from Transifex
+
+4.3.1
+- updated language files from Transifex
+
+4.3.0
+- PVR Addon API 5.10.0: Implemented recording stream read chunk size as addon setting.
+
+4.2.17
+- Fix predictive tuning (do not close subscriptions that never were active).
+
+4.2.16
+- updated language files from Transifex
+
+4.2.15
+- updated language files from Transifex
+
+4.2.14
+- PVR API 5.9.0 changes implemented
+
+4.2.12
+- Recordings: Use real start time and duration if available.
+- Recordings: Add support for season and episode number (tvh4.3+).
+- New addon logo.
+
+4.2.11
+- Fixed crashes on addon destruction
+
+4.2.10
+- PVR API v5.5.0: Implemented GetStreamTimes for recordings
+
+4.2.9
+- PVR API v5.5.0: Implemented GetStreamTimes for TV/radio streams
+- PVR API v5.8.0: Dropped GetPlayingTime, GetBufferTimeStart, GetBufferTimeEnd, PositionRecordedStream, PositionLiveStream, MoveChannel
+- PVR API v5.8.0: Added support for PVR_CHANNEL_GROUP_MEMBER::iSubChannelNumber
+
+4.2.8
+- updated language files from Transifex
+
+4.2.7
+- Fixed predictive tuning (was broken with removal of API function 'SwitchChannel')
+- Added support for subchannel numbers (ATSC) to predictive tuning
+
+4.2.6
+- More code cleanup
+- Fixed deadlock that may have occured when switching channels
+- Added support for new EPG tag attributes: 'credits' (actors, writers, directors), 'categories', 'year' (Thanks to azlm8t for testing and for a fix)
+- Added support for new autorec dedup types: 'max once per month', 'unique episode according to EPG/XMLTV'
+
+4.2.5
+- updated language files from Transifex
+
+4.2.4
+- updated language files from Transifex
+
+4.2.3
+- misc code cleanup
+
+4.2.2
+- fixed: memory leak. Localized strings obtained from Kodi never were freed.
+- optimized container usage: replace push_back by emplace_back to avoid unneeded copies (also fixes a stack overflow in function GetTimerTypes).
+
+4.2.1
+- updated language files from Transifex
+
+4.2.0
+- PVR API v5.7.0: Add stubs for IsEPGTagRecordable, IsEPGTagPlayable and GetEPGTagStreamProperties
+- PVR API v5.7.0: Remove EPG_TAG::iChannelNumber, add EPG_TAG::iChannelUniqueId.
+
+4.1.3
+- PVR API v5.6.0: Drop GetLiveStreamURL
+- PVR API v5.6.0: Drop PVR_RECORDING::strStreamURL
+- PVR API v5.6.0: Add stubs for GetChannelStreamProperties and GetRecordingStreamProperties
+
+4.1.2
+- PVR API v5.5.0: Add series link support
+- PVR API v5.5.0: Drop GetChannelSwitchDelay
+- PVR API v5.5.0: Add stub for GetStreamTimes (can be implemented later)
+
+4.1.1
+- PVR API v5.4.0: Drop SwitchChannel
+
+4.1.0
+- PVR API v5.3.0: Add implementation for GetDescrambleInfo
+- PVR API v5.3.0: Adapt definition of epg based timer rule (Added PVR_TIMER_TYPE_SUPPORTS_ANY_CHANNEL attribute)
+- PVR API v5.3.0: Add implementation for SetRecordingLifetime and for PVR_ADDON_CAPABILITIES lifetime values
+- PVR API v5.3.0: Add support for PVR_ADDON_CAPABILITIES.bSupportsRecordingsRename
+
+4.0.17
+- Fixed timer/recordings lifetime special values mapping ("until space needed", "forever")
+
+4.0.16
+- Added support for genre to recordings
+
+4.0.15
+- Added support for 'default' recording priority setting value
+
+4.0.14
+- Readded server based play count/position for recordings (HTSP v27 and up)
+
+4.0.13
+- PVR API: Removed unused addon interface function
+
+4.0.12
+- Updated Debian package control
+- PVR API: addon callback changes
+
+4.0.11
+- PVR API: Removed obsolete version functions
+
+4.0.10
+- set dependency version values automatically during build
+- PVR API: Removed unused addon interface functions
+
+4.0.9
+- fixed: timeshift state and data calculation if demuxer is not active (e.g. when playing a recording)
+
+4.0.8
+- revert server based playstatus, tvheadend is not compatible at the moment
+
+4.0.7
+- fixed duplicate 'prevent duplicate episodes' timer settings values
+
+4.0.6
+- added HTSP v26 support
+- added server based playstatus for recordings (HTSP v26 and up)
+
+4.0.5
+- fix CTvheadend::DemuxIsTimeShifting
+
+4.0.4
+- improved: use the default retention (from server configuration)
+- improved: buffering method when timeshifting
+- fixed: possible empty duplicate detection field when opening a timer rule
+- fixed: possible time offset when tuning a channel with predictive tuning enabled
+
+4.0.3
+- fixed unresponsiveness when wrong credentials are used
+
+4.0.2
+- updated build instructions in the README
+- fixed Travis CI and AppVeyor automated builds
+- fixed a bunch of cast warnings
+- cleanup stream handling somewhat
+
+4.0.1
+- updated language files from Transifex
+
+4.0.0
+- Initial Kodi v18 version
+
+3.4.10
+- Adpations for PVR API v5.2.1
+
+3.4.9
+- Updated to PVR API v5.2.1 (just made it compile again)
+
+3.4.8
+- improve EPG loading performance
+
+3.4.7
+- updated language files from Transifex
+
+3.4.6
+- updated language files from Transifex
+
+3.4.5
+- updated language files from Transifex
+
+3.4.4
+- fixed: setting channel type for 'early' htsp v25 servers
+- fixed: setting epg uid for timers
+
+3.4.3
+- improved: only show real radio and TV channels in Kodi
+- improved: recording handling when it's channel doesn't exist anymore (HTSP v25 and above)
+
+3.4.2
+- updated language files from Transifex
+
+3.4.1
+- Fix instant timers
+
+3.4.0
+- Cmake: rename find_package kodi to Kodi
+
+3.3.2
+- Fix includes
+
+3.3.1
+- Fixed a problem with async state handling that could happen when restoring a lost connection to tvheadend.
+
+3.3.0
+- Updated to PVR API v5.2.0
+
+3.2.3
+- fixed: potential crash in the channel tuning predictor
+
+3.2.2
+- Updated to PVR API v5.1.1 (added: support for PVR_CONNECTION_STATE_CONNECTING)
+- fixed: potential crash in connection state change callback
+
+3.2.1
+- fixed: lifetime 'forever' should be disabled for HTSP v24 and lower
+- improved: make lifetime settings translatable
+
+3.2.0
+- Updated to PVR API v5.1.0
+
+3.1.0
+- Updated to PVR API v5.0.0
+
+3.0.2
+- updated to PVR API v4.2.0 (implemented IsRealTimeStream)
+
+3.0.1
+- updated language files from Transifex
+
+3.0.0
+- Initial Kodi Krypton version.
+
+2.2.12
+- updated language files from Transifex
+
+2.2.11
+- updated language files from Transifex
+- added: proper autorec/timerec support for HTSP v25 and above
+
+2.2.10
+- updated language files from Transifex
+- fixed: approximate start time setting
+- fixed: invalid addon restart when closing the settings dialog
+- improved: limit the amount of timer lifetime values
+- improved: separate timer and streaming settings
+- added: default setting for timer lifetime, priority and duplicate detection
+- fixed: restart subscription after a connection restore
+- fixed: allow to abort active recordings also for timers created by timerec and autorec
+- fixed: enable/disable of timers created by timerec and autorec (HTSP v23 and above)
+- refactored the logging utility from a bunch of macros to a class
+
+2.2.9
+- refactored the code by factoring out lots of things into separate files
+- refactored the Settings class into a singleton to avoid having to include client.h everywhere
+- added: support for specifying which streaming profile to use
+- added: support for enabling/disabling oneshot timers (HTSP v23 and above)
+- added: timer lifetime will now remove the actual file instead of database entry only (HTSP v24 and above)
+
+2.2.8
+- Updated to PVR API v4.1.0
+- simplified recording playback handling, fixes random skipping to the beginning of recordings
+- fixed: recordings from channels that have been deleted since were not available in Kodi
+- added: setting for start time window calculation (autorec)
+- simplified addon settings
+- added: support for episode name (subtitle) for recordings
+
+2.2.7
+- Updated to PVR API v4.0.0
+
+2.2.6
+- Minimal support for PVR API v3.0.0 incl. Repeating EPG Timer AnyTime Bool Change
+
+2.2.5
+- dropped CStdString usage
+- added: Implementation of GetBufferTimeStart and GetBufferTimeEnd (timeshifting).
+- fixed: Coverity warnings introduced by predictive tuning feature.
+- fixed: Autorec: Start and stop time handling.
+- fixed: LocaltimeToUTC conversion (timer settings clock display incorrect).
+- fixed: Several issues with predictive tuning.
+- added: build: Automatically fill in platform and library name.
+- fixed: Use epg data only for creation of epg-based timers.
+- improved: Do not try to reconnect to tvh while suspending or not fully awake again.
+
+2.2.4
+- added: Predictive tuning (thanks @martinwilli)
+- added: Include satpos in mux description (thanks @Glenn-1990)
+- fixed: Crashes due to memory corruption (stack overflow)
+
+2.2.3
+- Updated to PVR API v2.1.0
+
+2.2.2
+- Debian packaging: fix library install path
+- Miscellaneous backend fixes
+
+2.2.1
+- updated to PVR API v2.0.0
+- fixed: a Coverity warning
+
+2.2.0
+- updated to PVR API v1.9.7
+- added: support for series recordings (autorec, timerec)
+
+2.1.13
+- updated language files from Transifex
+
+2.1.12
+- fixed: channel icon compatibility issue with recent tvheadend servers.
+- fixed: EPG events update (some data was not updated correctly)
+
+2.1.11
+- fixed: do not show HTSP version mismatch error if tvheadend server is down.
+
+2.1.10
+- fixed: lowered required HTSP version to 10 to allow using Tvheadend 3.4 again.
+
+2.1.9
+- fixed: packaging issues
+- fixed: minor issues found by static analysis
+- added: support for season/episode/part numbers for EPG tags
+- added: check htsp version upon connect. Refuse to use servers with HTSP version not matching minimal HTSP version required by client.
+
+2.1.8
+- added: support for epg subtitles, aka episode names
+- added: support for creating repeating timers, aka time schedules
+- fixed: conditions for addon restart after settings changes
+- internal: fixed build system regressions introduced with move to cmake
+- internal: updated to use libplatform
+
+2.1.7
+- added: support for radio channel groups
+- added: support for star and parental rating (read only)
+
+2.1.6
+- updated to PVR API v1.9.6
+- added: support for channel group sort index
+- fixed: crash while adding/updating timers on the client (double free of a htsp message)
+
+2.1.5
+- improved HTSP specification compliance
+
+2.1.4
+- updated to PVR API v1.9.5
+- added: avahi discovery
+- fixed: lock on exit
+- fixed: race when seeking within recordings
+- fixed: CHTSPVFS::Read() needs the mutex locked
+- removed guilib dep
+
+2.1.1
+- updated to PVR API v1.9.4
+- updated to GUI API v5.8.0
+- updated to Codec API v1.0.1
+
+2.0.5
+- fixed incorrect timeout value when deleting recordings (thanks @ksooo)
+
+2.0.4
+- added a missing commit that somehow got lost when making v2.0.3
+
+2.0.3
+- rebrand of HTSP client identifier
+- improve the VFS slightly by doing reading and buffering on separate threads, as well as tweaking the read length
+
+2.0.2
+- language files from Transifex
+- minor changes to conform with C++11
+
+2.0.0
+- replaced by the newer pvr.tvh implementation
+
+1.9.40
+- added getBackendHostname function
+
+1.9.38
+- change library name to Kodi
+
+1.9.37
+- backport ATSC subchannel number support from pvr.tvh
+
+1.9.36
+- fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+1.9.35
+- improve sync after connection restore (@ksooo)
+- added support for getting and setting startExtra, stopExtra, retention, priority properties of recordings and timers (@ksooo)
+- backported GetPlayingTime from pvr.tvh (@ksooo)
+
+1.9.31
+- updated to API v1.9.2
+
+1.9.27
+- fix channel icons for recordings
+
+1.9.24
+- add EDL support
+
+1.9.23
+- add timeshift buffer functions
+
+1.8.21
+
+- fixed connection being dropped incorrectly, when a packet size timed out with a one or more bytes read, but less than 4 bytes read
+- tvheadend uses it's own byte order. don't use ntohl
+
+1.8.20
+
+- sync with PVR API v1.8.1
+- use XBMC's new callback methods for codec ids
+
+1.8.19
+
+- sync with PVR API v1.8.0
+
+1.7.19
+
+- bump after PVR API version bump
+
+1.6.19
+
+- add timeshift skip support (FF/RW still not working)
+- fix bug in tvh webroot processing
+
+1.6.18
+
+- ensure channel count is not cleared after succesful sub
+- fix default webroot param
+- remove missing files from recordings list
+- expand dvr directories to full hierarchy
+
+1.6.17
+
+- fixed possible crash after reconnecting
+
+1.6.16
+
+- correct some signed/unsigned mixups
+- added imagecache support (icons on the backend)
+
+1.6.15
+
+- fix false disconnects by raising default (hardcoded) read timeout value when opening streams from 10 to 20 seconds.
+
+1.6.14
+
+- fix errors sent by client when fetching events for a channel with no epg data
+
+1.6.13
+
+- make channel.radio to not reset to false during update if tvheadend not provided channel services
+- change handling of EPG events to not fail all events if only one/few events were broken/malformed
+
+1.6.12
+
+- fix instant recordings when channel has no epg data
+
+1.6.11
+
+- disable read timeout check while the stream is paused
+
+1.6.10
+
+- fixed authentication
+- display an error message when an error is detected
+
+1.6.9
+
+- call to Close() didn't work in CHTSPData::Open()
+- don't delete and create CHTSPReconnect each time, just stop the thread
+- don't wait for an iframe but let tvheadend handle it
+- fixed missing htsmsg_destroy() call after processing an incoming message
+
+1.6.8
+
+- refactor CHTSPConnection
+- fixed disconnection checks and reconnect when needed
+- consider the connection dropped if no data has been received for a while
+- more efficient data reading
+- shared connection between CHTSPDemux and CHTSPData
+
+1.6.7
+
+- add support for servers with transcoding capabilities
+
+1.6.6
+
+- fixed radio playback
+
+1.6.5
+
+- fixed channel and channel group update triggers
+- ensure that the first demux is an I-frame
+- add CHTSPConnection::CheckConnection() that waits for a connection to be restored when it was dropped
+- cleaner CHTSPConnection::Connect()
+- removed unneeded member in CHTSPDemux
+- better handling of disconnect and reconnects
+
+1.6.4
+
+- initial release

@@ -1,0 +1,142 @@
+# Kodi Media Center language file
+# Addon Name: Visualization Matrix
+# Addon id: visualization.matrix
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/visualization.matrix/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-05-20 22:29+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Azerbaijani <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-matrix/az_az/>\n"
+"Language: az_az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.6.2\n"
+
+msgctxt "Addon Summary"
+msgid "Matrix inspired visualization for Kodi."
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "This music visualization is inspired by the movie \"Matrix\". It features eight presets."
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr "Ümumi"
+
+msgctxt "#30001"
+msgid "Pixel size"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Size of a \"pixel\" which forms the rain."
+msgstr ""
+
+msgctxt "#30003"
+msgid "Rain fall speed"
+msgstr ""
+
+msgctxt "#30004"
+msgid "The speed how fast the rain is falling."
+msgstr ""
+
+msgctxt "#30005"
+msgid "Noise fluctuation"
+msgstr ""
+
+msgctxt "#30006"
+msgid "The speed how fast the noise is changing."
+msgstr ""
+
+msgctxt "#30007"
+msgid "Distort threshold"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Threshold of loudness at which vertical distortion occurs."
+msgstr ""
+
+msgctxt "#30009"
+msgid "User defined pixel size"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Enables the manual setting of the size of the dots."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Strength of rain highlights"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Sets the colour intensity of individual raindrops at music peaks."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30053"
+msgid "The color of the \"pixels\"."
+msgstr ""
+
+msgctxt "#30060"
+msgid "Enable performance optimizations"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Lowers the quality of some shader calculations in order to boost performance (FPS) on slower systems."
+msgstr ""
+
+msgctxt "#30062"
+msgid "CRT effect"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Adds a CRT-like distortion effect."
+msgstr ""
+
+msgctxt "#30100"
+msgid "Kodi"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Album"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Rain only"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Rain with waveform"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Rain with waveform envelope"
+msgstr ""
+
+msgctxt "#30105"
+msgid "Clean rain"
+msgstr ""
+
+msgctxt "#30106"
+msgid "Clean rain with waveform"
+msgstr ""
+
+msgctxt "#30107"
+msgid "Clean rain with waveform envelope"
+msgstr ""

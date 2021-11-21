@@ -1,0 +1,33 @@
+# Kodi Media Center language file
+# Addon Name: DUMB Audio Decoder
+# Addon id: audiodecoder.dumb
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/audiodecoder.dumb/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: mn_mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Dynamic Universal Music Bibliotheque"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "DUMB is a module audio renderer library. It reads module files and outputs audio that can be dumped to the actual audio playback library.[CR][CR]On Kodi Supports playback of the following module formats:[CR]- IT (Impulse Tracker)[CR]- XM (Fasttracker II)[CR]- S3M (Scream Tracker 3)"
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "It is recommended to use \"OpenMPT Audio Decoder\" addon instead of this one."
+msgstr ""
+
+msgctxt "Addon Lifecyclestate"
+msgid "Replaced by audiodecoder.openmpt addon! However, but still usable here."
+msgstr ""

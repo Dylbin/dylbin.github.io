@@ -1,0 +1,25 @@
+# Kodi Media Center language file
+# Addon Name: GME Audio Decoder
+# Addon id: audiodecoder.gme
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nb_no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Game Music Emu Audio Decoder"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a \"retro\" feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr ""

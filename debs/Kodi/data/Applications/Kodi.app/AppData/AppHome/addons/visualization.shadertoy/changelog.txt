@@ -1,0 +1,120 @@
+[B]19.1.1[/B]
+- Fix possible compile error about missing jsoncpp include
+
+[B]19.1.0[/B]
+- Add new custom shader list feature:
+  - Move existing shader list from add-on code to the default 'presets.json' file
+  - Allow users to configure a path to their own custom preset file
+  - Add help button with instructions on preset file JSON formatting
+
+[B]19.0.1[/B]
+- Translation updates
+
+[B]19.0.0[/B]
+- Change test builds to released 'Kodi 19 Matrix'
+- Increase version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+- Prepared for new language translation by [Weblate](https://weblate.org/de/)
+- Update depend kissfft to version 131.1.0 (16. Feb. 2021)
+- Update depend lodepng to version from 27 Jun. 2021
+
+[B]2.3.0[/B]
+- Matrix API change GUI API 5.15.0
+
+[B]2.2.1[/B]
+- Fix standalone build with newer glm versions (>= 0.9.9.6)
+
+[B]2.2.0[/B]
+- Matrix API change visualizations
+- Improve debian build code
+- Add german translations
+- Add debian build tests to Travis CI
+
+[B]2.1.1[/B]
+- Clamp framebuffer texture to avoid edge pixels bleeding
+- Add source URL to addon.xml
+
+[B]2.1.0[/B]
+- Matrix API change inputstream API 2.3.1
+- Matrix APi change Global API 1.2.0
+
+[B]2.0.2[/B]
+- Allow on new addon settings to set own Shadertoy file
+- Update Debian package creation
+- Update glm on depends to version 0.9.9.4
+- Use reduced size always if calculation is lower as screen size
+- Prevent some shaders on GLES (can freeze on weak systems)
+- Add textureLod fallback on GLES (needed on some shadertoys)
+- Cleanup CMakeLists.txt
+- Update addon Readme
+- Kodi visualization API change
+
+[B]2.0.1[/B]
+- Fix debian packaging
+
+[B]2.0.0[/B]
+- Allow complete support via Angle to Windows
+- Add screenshots and fanart images to see what it brings
+- Update description text
+
+[B]1.2.0[/B]
+- Update build system version and cleanup
+- Bring in GL 4.0 support
+- Update shader files with a revised copy to a new OpenGL-related folder
+- Remove old for Windows not supported shader files
+
+[B]1.1.10[/B]
+- Fix correct buffer size after file read
+
+[B]1.1.9[/B]
+- Save last used preset
+
+[B]1.1.8[/B]
+- Kodi to addon interface changes
+- Update debian control
+
+[B]1.1.7[/B]
+- Change to automatic depends set on addon.xml
+
+[B]1.1.6[/B]
+- Removed never used addon interface functions
+- Fix of Windows 64 bit build
+
+[B]1.1.5[/B]
+- Fix OpenGL for Apple
+
+[B]1.1.4[/B]
+- Fix order matters. gles needs the extension first in shaders
+
+[B]1.1.3[/B]
+- Drop not used OpenGL EW
+
+[B]1.1.2[/B]
+- Fix do not prepend gles precision directives to gl shaders
+
+[B]1.1.1[/B]
+- Fix iterate by reference
+- Fix debian packaging
+
+[B]1.1.0[/B]
+- Rename addon.xml to addon.xml.in and bring it up to par with other add-ons
+
+[B]1.0.6[/B]
+
+- Add 2D led spectrum visualizer (remix)
+- Add electric pulse visualizer
+- Store presets in a struct
+- Fix addon.xml for windows
+- Add Dancing Metalights
+- Add spectrometer
+- Add audio eclipse
+- Support GLES2
+- Improve fractalland performance
+- [osx] add missing linkage to CoreVideo.framework
+- Change include paths after split of kodi-platform
+- Added new icon. Thx ronie
+
+[B]0.0.1[/B]
+
+- Initial import

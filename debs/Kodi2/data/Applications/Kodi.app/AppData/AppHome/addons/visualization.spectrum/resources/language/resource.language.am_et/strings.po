@@ -1,0 +1,106 @@
+# XBMC Media Center language file
+# Addon Name: OpenGL Spectrum
+# Addon id: visualization.glspectrum
+# Addon Provider: Team XBMC
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-05-02 23:29+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Amharic (Ethiopia) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-spectrum/am_et/>\n"
+"Language: am_et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.6.1\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing a rotating 3D Spectrum Analyzer"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.&#10;It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great"
+msgstr ""
+
+msgctxt "#30000"
+msgid "Mode"
+msgstr "ዘዴ"
+
+msgctxt "#30001"
+msgid "Filled"
+msgstr "ተሞልቷል"
+
+msgctxt "#30002"
+msgid "Wireframe"
+msgstr "የሽቦ ክፈፍ"
+
+msgctxt "#30003"
+msgid "Points"
+msgstr "ነጥቦች"
+
+msgctxt "#30004"
+msgid "Bar Height"
+msgstr "የባሩ እርዝመት"
+
+msgctxt "#30005"
+msgid "Small"
+msgstr "ትንሽ"
+
+msgctxt "#30006"
+msgid "Default"
+msgstr "ነባር"
+
+msgctxt "#30007"
+msgid "Big"
+msgstr "ትልቅ"
+
+msgctxt "#30008"
+msgid "Very Big"
+msgstr "በጣም ትልቅ"
+
+msgctxt "#30009"
+msgid "Speed"
+msgstr "ፍጥነት"
+
+msgctxt "#30010"
+msgid "Very Slow"
+msgstr "በጣም በዝግታ"
+
+msgctxt "#30011"
+msgid "Slow"
+msgstr "በዝግታ"
+
+msgctxt "#30012"
+msgid "Default"
+msgstr "ነባር"
+
+msgctxt "#30013"
+msgid "Fast"
+msgstr "በፍጥነት"
+
+msgctxt "#30014"
+msgid "Very Fast"
+msgstr "በጣም በፍጥነት"
+
+msgctxt "#30015"
+msgid "Point size"
+msgstr ""
+
+msgctxt "#30016"
+msgid "{0:d} pixel"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Rotation position"
+msgstr ""
+
+msgctxt "#30018"
+msgid "{0:d}°"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Turn continuously"
+msgstr ""

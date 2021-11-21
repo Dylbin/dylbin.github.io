@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.hvl"
+  version="19.0.0"
+  name="HivelyTracker Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="hvl"
+    extension=".hvl|.ahx|.hvlstream"
+    tracks="true"
+    tags="true"
+    library_darwin_embedded="audiodecoder.hvl.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.hvl</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">HivelyTracker lyddekoder</summary>
+    <summary lang="de_DE">HivelyTracker Audio-Decoder</summary>
+    <summary lang="en_GB">HivelyTracker Audio Decoder</summary>
+    <summary lang="ko_KR">HivelyTracker 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер HivelyTracker</summary>
+    <summary lang="zh_CN">Hively Tracker 音频解码器</summary>
+    <description lang="da_DK">Hively Tracker er et tracker-program baseret på AHX-formatet skabt i midten af 90'erne af Dexter og Pink of Abyss. Formatet var relativt populært, og mange sange blev skabt og brugt i sceneproduktioner og spil. AHX blev designet til at skabe en meget SID-lignende lyd på Amiga.</description>
+    <description lang="de_DE">HivelyTracker ist ein auf dem AHX-Format basierendes Tracker-Programm, welches in der Mitte der 90er Jahre von Dexter und Pink of Abyss kreiert wurde. Das Format war vergleichsweise populär. Viele Musikstücke wurden hergestellt und in Szeneproduktionen und Spielen verwendet. AHX war dafür gemacht, sehr SID-ähnlichen Sound auf dem Amiga zu erzeugen.</description>
+    <description lang="en_GB">Hively Tracker is a tracker program based upon the AHX format created in the mid '90s by Dexter and Pink of Abyss. The format was relatively popular, and many songs were created and used in scene productions and games. AHX was designed to create a very SID-like sound on the Amiga.</description>
+    <description lang="ko_KR">Hively Tracker는 Abyss의 Dexter와 Pink가 90년대 중반에 만든 AHX 형식을 기반으로 하는 트래커 프로그램입니다. 형식은 상대적으로 인기가 있었고 많은 노래가 만들어지고 장면 제작 및 게임에 사용되었습니다. AHX는 Amiga에서 매우 SID와 유사한 사운드를 생성하도록 설계되었습니다.</description>
+    <description lang="ru_RU">Hively Tracker - это программа-трекер, основанная на формате AHX, созданном в середине 90-х годов Декстером и Пинком из Abyss. Формат был относительно популярен, и было создано множество композиций, которые использовались в сценических постановках и играх. AHX был разработан для создания очень похожего на SID звука на Amiga.</description>
+    <description lang="zh_CN">Hively Tracker 是一个基于 AHX 格式的跟踪器程序，由 Dexter 和 Pink of Abysis 于90年代中期创建。这种格式比较流行，许多歌曲被创作并用于场景制作和游戏中。AHX 的设计目的是在 Amiga 上产生一种非常类似 SID 的声音。</description>
+  </extension>
+</addon>

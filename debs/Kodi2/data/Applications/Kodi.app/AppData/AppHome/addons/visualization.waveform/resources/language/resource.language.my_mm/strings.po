@@ -1,0 +1,122 @@
+# Kodi Media Center language file
+# Addon Name: OpenGL Waveform
+# Addon id: visualization.waveform
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/visualization.waveform/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: my_mm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing 2 Waveform Graphs on the screen"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Waveform is a simple Visualisation showing 2 Waveform Graphs on the screen, One each for Left and Right channels that move to the beat of the music"
+msgstr ""
+
+# settings labels
+msgctxt "#30000"
+msgid "Points per line"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Positions to represent the current frequency in a line."
+msgstr ""
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr ""
+
+msgctxt "#30005"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr ""
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr ""
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr ""
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr ""
+
+msgctxt "#30014"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr ""
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr ""
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr ""
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr ""
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr ""
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr ""

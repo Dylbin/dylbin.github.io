@@ -1,0 +1,95 @@
+v19.0.0
+- Translations updates from Weblate
+  - da_dk
+  - To allow also addon.xml content update by Weblate
+- Minor cleanups on addon addon.xml
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v8.2.3
+- Language update from Weblate
+
+v8.2.0
+- Update PVR API 7.1.0
+
+8.1.0
+- Update inputstream API 3.0.1
+  - Fix wrong flags bit shift
+
+8.0.0
+- Update PVR API 7.0.2
+- Fix TCP socket on stop
+
+7.0.1
+- Use std::thread
+- Update Queue event to condition_variable/mutex, use chrono and thread::sleep_for
+- Remove StringUtils and unrequired p8-platform headers and use std::mutex
+- Remove p8-platform dependency
+- Use different socket implementation
+- Travis changes for cpp17
+- Switch to kissnet for TCP Sockets
+
+7.0.0
+- Update GUI API 5.15.0
+
+6.0.0
+- Update PVR API 7.0.0
+- Rewrite code to match new API
+- Rewrite settings.xml to match new style
+- Rework admin window to use GL on all platforms (Windows via angle)
+- Major code cleanups
+
+5.0.0
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+
+4.2.9
+- Update PVR API 6.5.0
+
+4.2.8
+- Update PVR API 6.4.0
+- Correct license name on addon.xml
+- Minor cleanups
+
+4.2.7
+- Update PVR API 6.3.0
+
+4.2.6
+- Update Debian build code
+- Update with some minor cleanups
+- Cleanup source copyright to match SPDX
+- Add license name, forum url and source url to addon.xml
+- Add GPL2+ license file and show GPL2+ on README.md
+
+4.2.5
+- Update PVR API 6.2.0
+
+4.2.4
+- Replace AppVeyor with Azure for test build (better performance)
+- Add p8-platform to addon depends instead of from kodi
+- Updated Language files from Transifex
+
+4.2.3
+- Updated Language files from Transifex
+
+4.2.2
+- Updated Language files from Transifex
+
+4.2.1
+- Updated Language files from Transifex
+
+4.2.0
+- Recompile for 6.1.0 PVR Addon API compatibility
+
+4.1.0
+- Update to GUI addon API v5.14.0
+
+4.0.0
+- Update to PVR addon API v6.0.0
+
+3.6.3
+- With this version, kodi-pvr is upstream repo for this addon again.
+- Merged sources from FernetMenta/pvr.vdr.vnsi master.
+- Translation updates.

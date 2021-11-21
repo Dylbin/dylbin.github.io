@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audioencoder.vorbis"
+  version="19.0.0"
+  name="Vorbis Audio Encoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.instance.audioencoder" minversion="2.1.0" version="2.1.0"/></requires>
+  <extension
+    point="kodi.audioencoder"
+    extension=".ogg"
+    library_darwin_embedded="audioencoder.vorbis.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audioencoder.vorbis</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">Vorbis lydkomprimering</summary>
+    <summary lang="de_DE">Vorbis-Audiokomprimierung</summary>
+    <summary lang="en_GB">Vorbis audio compression</summary>
+    <summary lang="es_ES">Compresión de audio Vorbis</summary>
+    <summary lang="ko_KR">Vorbis 오디오 압축</summary>
+    <summary lang="nl_NL">Vorbis audio-compressie</summary>
+    <summary lang="pl_PL">Kompresja dźwięku Vorbis</summary>
+    <summary lang="ru_RU">Сжатие аудиофайлов Vorbis</summary>
+    <summary lang="zh_CN">Vorbis 音频压缩</summary>
+    <description lang="da_DK">Vorbis er et perceptuelt lydcodec til generel anvendelse beregnet til at tillade maksimal indkoderfleksibilitet, hvilket gør det muligt at skalere konkurrencedygtigt over en usædvanligt bred vifte af bitrates.</description>
+    <description lang="de_DE">Vorbis ist ein Allzweck-Audio-Codec, der hohe Encoderflexibilität bringen soll und somit eine wettbewerbsfähige Skalierung über einen außergewöhnlich großen Bereich von Bitraten ermöglicht.</description>
+    <description lang="en_GB">Vorbis is a general purpose perceptual audio CODEC intended to allow maximum encoder flexibility, thus allowing it to scale competitively over an exceptionally wide range of bitrates.</description>
+    <description lang="es_ES">Vorbis es un CODEC de audio perceptual de propósito general que permite la máxima flexibilidad de codificación a la vez que escala competitivamente en un excepcionalmente amplio abanico de tasas de bits.</description>
+    <description lang="ko_KR">Vorbis는 최대 인코더 유연성을 허용하여 예외적으로 광범위한 비트 전송률에 대해 경쟁력 있게 확장할 수 있도록 고안된 범용 지각 오디오 코덱입니다.</description>
+    <description lang="nl_NL">Vorbis is a algemeen toegepaste audio-codec bedoeld om maximale encodeerflexibiliteit toe te staan, en daardoor dus het competitatief te schalen over een uitzonderlijk wijde gebied van bitrates.</description>
+    <description lang="pl_PL">Vorbis to kodek percepcyjny audio ogólnego przeznaczenia, którego celem jest zapewnienie maksymalnej elastyczności kodera, co pozwala na konkurencyjne skalowanie w wyjątkowo szerokim zakresie przepływności.</description>
+    <description lang="ru_RU">Vorbis - это аудиокодек общего назначения, предназначенный для обеспечения максимальной гибкости кодера, что позволяет ему быть достаточно эффективным в очень широком диапазоне битрейтов.</description>
+    <description lang="zh_CN">Vorbis 是一种通用感知音频编解码器，旨在实现编码器的最大灵活性，从而使其能够在极宽的比特率范围内进行竞争性扩展。</description>
+  </extension>
+</addon>

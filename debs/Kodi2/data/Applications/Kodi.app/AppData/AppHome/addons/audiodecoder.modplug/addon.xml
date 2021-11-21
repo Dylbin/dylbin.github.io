@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.modplug"
+  version="19.0.0"
+  name="Modplug Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="mod"
+    extension=".669|.abc|.amf|.ams|.dbm|.dmf|.dsm|.far|.it|.j2b|.mdl|.med|.mod|.itgz|.mt2|.mtm|.okt|.pat|.psm|.ptm|.s3m|.stm|.ult|.umx|.xm|.mdgz|.s3gz|.xmgz"
+    library_darwin_embedded="audiodecoder.modplug.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.modplug</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">Modplug lydafkoder</summary>
+    <summary lang="de_DE">Modplug Audio Decoder</summary>
+    <summary lang="en_GB">Modplug Audio Decoder</summary>
+    <summary lang="ko_KR">Modplug 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер Modplug</summary>
+    <summary lang="zh_CN">Modplug 音频解码器</summary>
+    <description lang="da_DK">Spiller MOD-filer og få andre formater.[CR][CR]Det anbefales at bruge &quot;OpenMPT lydafkoder&quot; addon i stedet for denne.</description>
+    <description lang="de_DE">Spielt MOD-Dateien und einige andere Formate ab.[CR][CR]Es wird empfohlen, anstelle dieses Addons &quot;OpenMPT Audio Decoder&quot; zu verwenden.</description>
+    <description lang="en_GB">Plays MOD files and few other formats.[CR][CR]It is recommended to use &quot;OpenMPT Audio Decoder&quot; addon instead of this one.</description>
+    <description lang="ko_KR">MOD 파일 및 기타 몇 가지 형식을 재생합니다.[CR][CR]이 애드온 대신 &quot;OpenMPT Audio Decoder&quot; 애드온을 사용하는 것이 좋습니다.</description>
+    <description lang="ru_RU">Воспроизводит файлы MOD и некоторые другие форматы.[CR][CR]Вместо него рекомендуется использовать дополнение &quot;OpenMPT Audio Decoder&quot;.</description>
+    <description lang="zh_CN">播放 MOD 文件和少量其他格式。[CR][CR]建议使用“OpenMPT音频解码器”插件，而不是此插件。</description>
+    <lifecyclestate type="deprecated" lang="da_DK">Erstattet af audiodecoder.openmpt addon! Dette addon er dog stadig brugbart.</lifecyclestate>
+    <lifecyclestate type="deprecated" lang="de_DE">Ersetzt durch das Addon audiodecoder.openmpt! Aber hier auch noch verwendbar.</lifecyclestate>
+    <lifecyclestate type="deprecated" lang="en_GB">Replaced by audiodecoder.openmpt addon! However, but still usable here.</lifecyclestate>
+    <lifecyclestate type="deprecated" lang="ko_KR">audiodecoder.openmpt 애드온으로 대체되었습니다! 하지만 아직 여기에서도 사용할 수 있습니다.</lifecyclestate>
+    <lifecyclestate type="deprecated" lang="ru_RU">Заменен дополнением audiodecoder.openmpt! Но его ещё можно использовать здесь.</lifecyclestate>
+    <lifecyclestate type="deprecated" lang="zh_CN">替换为 audiodecoder.openmpt 插件！但是，在这里仍然可用。</lifecyclestate>
+  </extension>
+</addon>

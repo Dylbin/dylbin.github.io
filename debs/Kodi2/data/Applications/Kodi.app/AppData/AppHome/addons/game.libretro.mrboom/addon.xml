@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.mrboom"
+		name="Mr.Boom (Bomberman)"
+		version="5.2.0.136"
+		provider-name="Remdy">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+		<import addon="game.controller.default" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_darwin_embedded="game.libretro.mrboom.dylib">
+		<platforms></platforms>
+		<extensions></extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<license>MIT</license>
+		<platform>ios-aarch64</platform>
+		<source>https://github.com/kodi-game/game.libretro.mrboom</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+		<summary lang="en_GB">Mr.Boom (Bomberman) 5.2</summary>
+		<description lang="en_GB">Mr.Boom is a freeware 8-player Bomberman clone. It features pushing bombs, remote controls, kangaroo riding, and more.</description>
+	</extension>
+</addon>

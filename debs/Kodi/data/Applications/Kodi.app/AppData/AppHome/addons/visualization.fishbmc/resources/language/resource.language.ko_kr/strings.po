@@ -1,0 +1,79 @@
+# XBMC Media Center language file
+# Addon Name: FishBMC
+# Addon id: visualization.fishbmc
+# Addon Provider: 26elf
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/visualization.fishbmc/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-27 08:29+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-fishbmc/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing Waves and Blur Effects"
+msgstr "웨이브 및 블러 효과를 보여주는 시각화"
+
+msgctxt "Addon Description"
+msgid "fishBMC is based on fische, a standalone sound visualisation tool. The basic principle is: draw the waveform and smear the drawing along predefined vectors. However fische also incorporates advanced beat detection, which really guarantees a great visual experience."
+msgstr "fishBMC는 독립형 사운드 시각화 도구인 fische를 기반으로 합니다. 기본 원리는 파형을 그리고 미리 정의된 벡터를 따라 그림을 그리는 것입니다. 그러나 fische에는 고급 비트 감지 기능도 포함되어 있어 뛰어난 시각적 경험을 보장합니다."
+
+msgctxt "Addon Disclaimer"
+msgid "If this breaks anything, the pieces remain yours."
+msgstr "이것이 깨지면 조각은 당신의 것으로 남습니다."
+
+# settings labels
+msgctxt "#30000"
+msgid "Detail [CPU intensive]"
+msgstr "상세 [CPU 집약적]"
+
+msgctxt "#30001"
+msgid "Low"
+msgstr "낮음"
+
+msgctxt "#30002"
+msgid "Normal"
+msgstr "보통"
+
+msgctxt "#30003"
+msgid "High"
+msgstr "높음"
+
+msgctxt "#30004"
+msgid "Extreme"
+msgstr "최대"
+
+msgctxt "#30005"
+msgid "Nervous Mode [more mode changes]"
+msgstr "과민성 모드 [잦은 모드 변경]"
+
+msgctxt "#30006"
+msgid "Speed [skip some frames]"
+msgstr "속도 [프레임 건너 뜀]"
+
+msgctxt "#30007"
+msgid "Very Low"
+msgstr "매우 낮음"
+
+msgctxt "#30008"
+msgid "Low"
+msgstr "낮음"
+
+msgctxt "#30009"
+msgid "Normal"
+msgstr "보통"
+
+msgctxt "#30010"
+msgid "High"
+msgstr "높음"
+
+msgctxt "#30011"
+msgid "Use a Persistence File [faster startup]"
+msgstr "지속 파일 사용[빠른 시작]"

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Sony Interactive Entertainment Wireless Controller" provider="udev" vid="054C" pid="09CC" buttoncount="14" axiscount="8">
+        <configuration>
+            <button index="6" ignore="true" />
+            <button index="7" ignore="true" />
+        </configuration>
+    </device>
+</buttonmap>

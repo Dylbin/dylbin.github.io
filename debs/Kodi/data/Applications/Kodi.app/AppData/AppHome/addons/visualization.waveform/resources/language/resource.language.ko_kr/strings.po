@@ -1,0 +1,123 @@
+# Kodi Media Center language file
+# Addon Name: OpenGL Waveform
+# Addon id: visualization.waveform
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-28 13:30+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-waveform/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing 2 Waveform Graphs on the screen"
+msgstr "두개의 웨이브폼을 보여주는 음악시각화"
+
+msgctxt "Addon Description"
+msgid "Waveform is a simple Visualisation showing 2 Waveform Graphs on the screen, One each for Left and Right channels that move to the beat of the music"
+msgstr "Waveform은 간단히 두개의 웨이브폼을 화면에 보여줍니다. 각각 왼쪽, 오른쪽 채널이고 음악의 비트에 따라 움직입니다"
+
+# settings labels
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "라인당 점 개수"
+
+msgctxt "#30001"
+msgid "Positions to represent the current frequency in a line."
+msgstr "라인에서 현재 주파수를 나타내는 위치입니다."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "선 색상"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "빨간색"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "선에서 붉은 색의 강도."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "녹색"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "라인의 녹색 강도."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "파란색"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "라인에서 파란색의 강도."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "알파"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "라인에서 알파의 강도입니다."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "배경색"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "빨간색"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "배경에서 붉은 색의 강도."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "녹색"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "배경에서 녹색의 강도."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "파란색"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "배경에서 파란색의 강도."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "알파"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "백그라운드에서 알파의 강도입니다."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "계산하지 않음"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "선 두께"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "픽셀 수로 선의 두께를 정의합니다."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr "{0:d} 픽셀"

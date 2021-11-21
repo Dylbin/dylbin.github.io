@@ -1,0 +1,62 @@
+# Kodi Media Center language file
+# Addon Name: Vorbis Audio Encoder
+# Addon id: audioencoder.vorbis
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/audioencoder.vorbis/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-16 22:14+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Turkish <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audioencoder-vorbis/tr_tr/>\n"
+"Language: tr_tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgctxt "Addon Summary"
+msgid "Vorbis audio compression"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Vorbis is a general purpose perceptual audio CODEC intended to allow maximum encoder flexibility, thus allowing it to scale competitively over an exceptionally wide range of bitrates."
+msgstr ""
+
+msgctxt "#30000"
+msgid "Preset"
+msgstr "Önayar"
+
+msgctxt "#30001"
+msgid "Enables some preconfigured settings"
+msgstr "Önceden yapılandırılmış bazı ayarları etkinleştirir"
+
+msgctxt "#30002"
+msgid "Medium"
+msgstr "Orta"
+
+msgctxt "#30003"
+msgid "Standard"
+msgstr "Standart"
+
+msgctxt "#30004"
+msgid "Extreme"
+msgstr "Aşırı"
+
+msgctxt "#30005"
+msgid "Constant bitrate"
+msgstr "Sabit bit hızı"
+
+msgctxt "#30006"
+msgid "Bitrate"
+msgstr "Bit hızı"
+
+msgctxt "#30007"
+msgid "The bitrate to be used"
+msgstr "Kullanılacak bit hızı"
+
+msgctxt "#30008"
+msgid "{0:d} kHz"
+msgstr "{0:d} kHz"

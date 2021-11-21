@@ -1,0 +1,25 @@
+# Kodi Media Center language file
+# Addon Name: QSF Audio Decoder
+# Addon id: audiodecoder.qsf
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/audiodecoder.qsf/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_jp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Addon Summary"
+msgid "Capcom QSound QSF Audio Decoder"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Adds decoding support for Capcom QSound Sound Format files (.QSF/.MINIQSF).[CR][CR]QSound is the original name for a positional three-dimensional (3D) sound processing algorithm from QSound Labs that creates 3D audio effects from multiple monophonic sources and sums the outputs to two channels for presentation over regular stereo speakers."
+msgstr ""

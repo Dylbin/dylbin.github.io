@@ -1,0 +1,93 @@
+# Kodi Media Center language file
+# Addon Name: PCTV Systems Client
+# Addon id: pvr.pctv
+# Addon Provider: PCTV Systems
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: French (Canada) (http://www.transifex.com/projects/p/kodi-main/language/fr_CA/)\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "Addon Summary"
+msgid "PVR Client to connect PCTV Systems Broadway to Kodi"
+msgstr "Client de numériscope pour connecter Broadway de PCTV Systems à Kodi"
+
+msgctxt "Addon Description"
+msgid "PCTV Systems frontend. Supporting streaming of Live TV &amp; Recordings, EPG View, Timers."
+msgstr "Frontale PCTV Systems. Prenant en charge la diffusion en continu de la télé en direct et des enregistrements, la visualisation du GÉP et les minuteries"
+
+msgctxt "Addon Disclaimer"
+msgid "This is unstable software! The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects."
+msgstr "Ce logiciel est instable ! Les auteurs ne sont aucunement responsables des lectures défaillantes, d’horaires erronés du GÉP, des heures perdues ou tout autre effet indésirable."
+
+msgctxt "#30000"
+msgid "Hostname or IP address"
+msgstr "Nom d’hôte ou adresse IP"
+
+msgctxt "#30001"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30002"
+msgid "PIN"
+msgstr "NIP"
+
+msgctxt "#30010"
+msgid "Automatic Host Detection"
+msgstr "Détection automatique de l’hôte"
+
+msgctxt "#30020"
+msgid "Transcode"
+msgstr "Transcoder"
+
+msgctxt "#30021"
+msgid "PIN required"
+msgstr "NIP exigé"
+
+msgctxt "#30030"
+msgid "Video Bitrate (Kbps)"
+msgstr "Débit binaire des vidéos (Kbps)"
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Général"
+
+msgctxt "#30101"
+msgid "400 Kbps"
+msgstr ""
+
+msgctxt "#30102"
+msgid "650 Kbps"
+msgstr ""
+
+msgctxt "#30103"
+msgid "900 Kbps"
+msgstr ""
+
+msgctxt "#30104"
+msgid "1200 Kbps"
+msgstr ""
+
+msgctxt "#30104"
+msgid "2200 Kbps"
+msgstr ""
+
+msgctxt "#30105"
+msgid "4200 Kbps"
+msgstr ""
+
+msgctxt "#30106"
+msgid "6500 Kbps"
+msgstr ""
+
+msgctxt "#30107"
+msgid "8500 Kbps"
+msgstr ""

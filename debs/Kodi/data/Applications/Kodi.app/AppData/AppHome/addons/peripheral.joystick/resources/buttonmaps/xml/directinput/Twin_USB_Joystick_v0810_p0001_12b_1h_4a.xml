@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<buttonmap>
+    <device name="Twin USB Joystick" provider="directinput" vid="0810" pid="0001" buttoncount="12" hatcount="1" axiscount="4">
+        <configuration />
+        <controller id="game.controller.default">
+            <feature name="a" button="2" />
+            <feature name="b" button="1" />
+            <feature name="back" button="8" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="leftbumper" button="6" />
+            <feature name="leftstick">
+                <up axis="-1" />
+                <down axis="+1" />
+                <right axis="+0" />
+                <left axis="-0" />
+            </feature>
+            <feature name="leftthumb" button="10" />
+            <feature name="lefttrigger" button="4" />
+            <feature name="right" hat="h0right" />
+            <feature name="rightbumper" button="7" />
+            <feature name="rightstick">
+                <up axis="-2" />
+            </feature>
+            <feature name="rightthumb" button="11" />
+            <feature name="righttrigger" button="5" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+            <feature name="x" button="3" />
+            <feature name="y" button="0" />
+        </controller>
+        <controller id="game.controller.dreamcast">
+            <feature name="a" button="2" />
+            <feature name="analogstick">
+                <up axis="-1" />
+                <down axis="+1" />
+                <right axis="+0" />
+                <left axis="-0" />
+            </feature>
+            <feature name="b" button="1" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="lefttrigger" button="4" />
+            <feature name="right" hat="h0right" />
+            <feature name="righttrigger" button="5" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+            <feature name="x" button="3" />
+            <feature name="y" button="0" />
+        </controller>
+        <controller id="game.controller.gba">
+            <feature name="a" button="2" />
+            <feature name="b" button="1" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="leftbumper" button="6" />
+            <feature name="right" hat="h0right" />
+            <feature name="rightbumper" button="7" />
+            <feature name="select" button="8" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+        </controller>
+        <controller id="game.controller.genesis">
+            <feature name="a" button="3" />
+            <feature name="b" button="2" />
+            <feature name="c" button="1" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="mode" button="8" />
+            <feature name="right" hat="h0right" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+            <feature name="x" button="0" />
+            <feature name="y" button="6" />
+            <feature name="z" button="7" />
+        </controller>
+        <controller id="game.controller.n64">
+            <feature name="a" button="2" />
+            <feature name="analogstick">
+                <up axis="-1" />
+                <down axis="+1" />
+                <right axis="+0" />
+                <left axis="-0" />
+            </feature>
+            <feature name="b" button="1" />
+            <feature name="cdown" button="8" />
+            <feature name="cleft" button="6" />
+            <feature name="cright" button="7" />
+            <feature name="cup" button="3" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="leftbumper" button="4" />
+            <feature name="right" hat="h0right" />
+            <feature name="rightbumper" button="5" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+            <feature name="z" button="0" />
+        </controller>
+        <controller id="game.controller.nes">
+            <feature name="a" button="2" />
+            <feature name="b" button="1" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="right" hat="h0right" />
+            <feature name="select" button="8" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+        </controller>
+        <controller id="game.controller.ps">
+            <feature name="circle" button="1" />
+            <feature name="cross" button="2" />
+            <feature name="down" hat="h0down" />
+            <feature name="l3" button="10" />
+            <feature name="left" hat="h0left" />
+            <feature name="leftbumper" button="6" />
+            <feature name="leftstick">
+                <up axis="-1" />
+                <down axis="+1" />
+                <right axis="+0" />
+                <left axis="-0" />
+            </feature>
+            <feature name="lefttrigger" button="4" />
+            <feature name="r3" button="11" />
+            <feature name="right" hat="h0right" />
+            <feature name="rightbumper" button="7" />
+            <feature name="rightstick">
+                <up axis="-2" />
+            </feature>
+            <feature name="righttrigger" button="5" />
+            <feature name="select" button="8" />
+            <feature name="square" button="3" />
+            <feature name="start" button="9" />
+            <feature name="triangle" button="0" />
+            <feature name="up" hat="h0up" />
+        </controller>
+        <controller id="game.controller.snes">
+            <feature name="a" button="2" />
+            <feature name="b" button="1" />
+            <feature name="down" hat="h0down" />
+            <feature name="left" hat="h0left" />
+            <feature name="leftbumper" button="6" />
+            <feature name="right" hat="h0right" />
+            <feature name="rightbumper" button="7" />
+            <feature name="select" button="8" />
+            <feature name="start" button="9" />
+            <feature name="up" hat="h0up" />
+            <feature name="x" button="3" />
+            <feature name="y" button="0" />
+        </controller>
+    </device>
+</buttonmap>

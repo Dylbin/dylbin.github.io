@@ -1,0 +1,34 @@
+<settings version="1">
+  <section id="addon" label="-1" help="-1">
+    <category id="main" label="128" help="-1">
+      <group id="1" label="-1">
+        <setting id="preset" type="integer" label="30000" help="30001">
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="30002">0</option>
+              <option label="30003">1</option>
+              <option label="30004">2</option>
+              <option label="30005">3</option>
+            </options>
+          </constraints>
+          <control type="spinner" format="string" />
+        </setting>
+        <setting id="bitrate" type="integer" label="30006" help="30007">
+          <default>192</default>
+          <dependencies>
+            <dependency type="visible" setting="preset" operator="is">3</dependency>
+          </dependencies>
+          <constraints>
+            <minimum>128</minimum>
+            <step>32</step>
+            <maximum>320</maximum>
+          </constraints>
+          <control type="list" format="string">
+            <formatlabel>30008</formatlabel>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

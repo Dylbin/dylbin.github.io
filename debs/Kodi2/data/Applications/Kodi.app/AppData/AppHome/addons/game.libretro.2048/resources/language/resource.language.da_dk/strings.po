@@ -1,0 +1,30 @@
+# game.libretro.2048 language file
+# Addon Name: game.libretro.2048
+# Addon id: game.libretro.2048
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.2048\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: 2021-08-26 22:16i\n"
+"PO-Revision-Date: 2021-10-11 09:47+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-2048/da_dk/>\n"
+"Language: da_dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "2048 v1.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!"
+msgstr "Deltag i tallene og kom til 2048-flisen![CR][CR]Brug piletasterne til at flytte fliserne. Når to fliser med samme nummer rører hinanden, smelter de sammen til én!"
+
+msgctxt "Addon Disclaimer"
+msgid "Created by Gabriele Cirulli. Based on 1024 by Veewo Studio."
+msgstr "Skabt af Gabriele Cirulli. Baseret på 1024 af Veewo Studio."

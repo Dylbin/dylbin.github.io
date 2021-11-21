@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <category lang="en" genre-type="movie">general movie</category>
+  <category lang="en" genre-type="movie">property</category>
+  <category lang="en" genre-type="movie">movie</category>
+  <category lang="en" genre-type="movie">drama</category>
+  <category lang="en" genre-type="movie">medical drama</category>
+  <category lang="en" genre-type="movie">period drama</category>
+  <category lang="en" genre-type="movie">mystery</category>
+  <category lang="en" genre-type="movie">historical drama</category>
+  <category lang="en" genre-type="movie">historical movie</category>
+  <category lang="en" genre-type="movie">entertainment</category>
+  <category lang="en" genre-type="movie">antiques</category>
+  <category lang="en" genre-type="movie">collectibles</category>
+  <category lang="en" genre-type="movie">police</category>
+  <category lang="en" genre-type="movie">bollywood</category>
+  <category lang="en" genre-type="movie">crime</category>
+  <category lang="en" genre-type="movie">crime drama</category>
+  <category lang="en" genre-type="movie">detective</category>
+  <category lang="en" genre-type="movie">thriller</category>
+  <category lang="en" genre-type="movie">adventure</category>
+  <category lang="en" genre-type="movie">western</category>
+  <category lang="en" genre-type="movie">war</category>
+  <category lang="en" genre-type="movie">stand-up comedy</category>
+  <category lang="en" genre-type="movie">animated Movie</category>
+  <category lang="en" genre-type="movie">science fiction</category>
+  <category lang="en" genre-type="movie">fantasy</category>
+  <category lang="en" genre-type="movie">horror</category>
+  <category lang="en" genre-type="movie">comedy</category>
+  <category lang="en" genre-type="movie">soap</category>
+  <category lang="en" genre-type="movie">melodrama</category>
+  <category lang="en" genre-type="movie">espionage</category>
+  <category lang="en" genre-type="movie">folkloric</category>
+  <category lang="en" genre-type="movie">romance</category>
+  <category lang="en" genre-type="movie">adult movie/drama</category>
+  <category lang="en" genre-type="movie">sitcom</category>
+  <category lang="en" genre-type="news">general news</category>
+  <category lang="en" genre-type="news">news</category>
+  <category lang="en" genre-type="news">regional news</category>
+  <category lang="en" genre-type="news">national news</category>
+  <category lang="en" genre-type="news">international news</category>
+  <category lang="en" genre-type="news">current affairs</category>
+  <category lang="en" genre-type="news">weather</category>
+  <category lang="en" genre-type="news">weather report</category>
+  <category lang="en" genre-type="news">news magazine</category>
+  <category lang="en" genre-type="news">discussion</category>
+  <category lang="en" genre-type="news">interview</category>
+  <category lang="en" genre-type="news">debate</category>
+  <category lang="en" genre-type="show">show</category>
+  <category lang="en" genre-type="show">general show</category>
+  <category lang="en" genre-type="show">variety show</category>
+  <category lang="en" genre-type="show">talk show</category>
+  <category lang="en" genre-type="show">games and quizzes</category>
+  <category lang="en" genre-type="show">game Show</category>
+  <category lang="en" genre-type="show">quiz</category>
+  <category lang="en" genre-type="show">quiz show</category>
+  <category lang="en" genre-type="show">Reality show</category>
+  <category lang="en" genre-type="sports">general sports</category>
+  <category lang="en" genre-type="sports">sports</category>
+  <category lang="en" genre-type="sports">sport</category>
+  <category lang="en" genre-type="sports">boxing</category>
+  <category lang="en" genre-type="sports">contest</category>
+  <category lang="en" genre-type="sports">sports (general)</category>
+  <category lang="en" genre-type="sports">special events</category>
+  <category lang="en" genre-type="sports">sports magazine</category>
+  <category lang="en" genre-type="sports">football</category>
+  <category lang="en" genre-type="sports">basketball</category>
+  <category lang="en" genre-type="sports">hurling</category>
+  <category lang="en" genre-type="sports">darts</category>
+  <category lang="en" genre-type="sports">cycling</category>
+  <category lang="en" genre-type="sports">formula one</category>
+  <category lang="en" genre-type="sports">racing</category>
+  <category lang="en" genre-type="sports">soccer</category>
+  <category lang="en" genre-type="sports">tennis</category>
+  <category lang="en" genre-type="sports">triathlon</category>
+  <category lang="en" genre-type="sports">squash</category>
+  <category lang="en" genre-type="sports">rugby</category>
+  <category lang="en" genre-type="sports">rally</category>
+  <category lang="en" genre-type="sports">gaelic football</category>
+  <category lang="en" genre-type="sports">gaelic games</category>
+  <category lang="en" genre-type="sports">extereme sports</category>
+  <category lang="en" genre-type="sports">team sports</category>
+  <category lang="en" genre-type="sports">athletics</category>
+  <category lang="en" genre-type="sports">motor sport</category>
+  <category lang="en" genre-type="sports">water sport</category>
+  <category lang="en" genre-type="sports">winter sport</category>
+  <category lang="en" genre-type="sports">equestrian</category>
+  <category lang="en" genre-type="sports">minority Sports</category>
+  <category lang="en" genre-type="sports">martial sports</category>
+  <category lang="en" genre-type="children">General Children's</category>
+  <category lang="en" genre-type="children">childrens's program</category>
+  <category lang="en" genre-type="children">youth</category>
+  <category lang="en" genre-type="children">youth program</category>
+  <category lang="en" genre-type="children">pre-school</category>
+  <category lang="en" genre-type="children">entertainment (6-14 year old)</category>
+  <category lang="en" genre-type="children">entertainment (10-16 year old)</category>
+  <category lang="en" genre-type="children">school</category>
+  <category lang="en" genre-type="children">cartoon</category>
+  <category lang="en" genre-type="children">cartoons</category>
+  <category lang="en" genre-type="children">puppets</category>
+  <category lang="en" genre-type="children">entertainment - pre-teens</category>
+  <category lang="en" genre-type="children">entertainment - teens</category>
+  <category lang="en" genre-type="music">music</category>
+  <category lang="en" genre-type="music">general music</category>
+  <category lang="en" genre-type="music">ballet</category>
+  <category lang="en" genre-type="music">dance</category>
+  <category lang="en" genre-type="music">rock</category>
+  <category lang="en" genre-type="music">pop</category>
+  <category lang="en" genre-type="music">serious music</category>
+  <category lang="en" genre-type="music">classic music</category>
+  <category lang="en" genre-type="music">folk</category>
+  <category lang="en" genre-type="music">traditional music</category>
+  <category lang="en" genre-type="music">jazz</category>
+  <category lang="en" genre-type="music">musical</category>
+  <category lang="en" genre-type="music">opera</category>
+  <category lang="en" genre-type="arts">general arts</category>
+  <category lang="en" genre-type="arts">arts</category>
+  <category lang="en" genre-type="arts">culture</category>
+  <category lang="en" genre-type="arts">performing arts</category>
+  <category lang="en" genre-type="arts">fine arts</category>
+  <category lang="en" genre-type="arts">religion</category>
+  <category lang="en" genre-type="arts">popular culture</category>
+  <category lang="en" genre-type="arts">traditional arts</category>
+  <category lang="en" genre-type="arts">literature</category>
+  <category lang="en" genre-type="arts">film/cinema</category>
+  <category lang="en" genre-type="arts">experimental film/video</category>
+  <category lang="en" genre-type="arts">broadcasting/press</category>
+  <category lang="en" genre-type="arts">new media</category>
+  <category lang="en" genre-type="arts">arts/culture magazine</category>
+  <category lang="en" genre-type="arts">fashion</category>
+  <category lang="en" genre-type="documentary">economics</category>
+  <category lang="en" genre-type="documentary">general economics</category>
+  <category lang="en" genre-type="documentary">political issues</category>
+  <category lang="en" genre-type="documentary">general social</category>
+  <category lang="en" genre-type="documentary">magazines</category>
+  <category lang="en" genre-type="documentary">historical documentary</category>
+  <category lang="en" genre-type="documentary">reports</category>
+  <category lang="en" genre-type="documentary">documentary</category>
+  <category lang="en" genre-type="documentary">biopic</category>
+  <category lang="en" genre-type="educational">education</category>
+  <category lang="en" genre-type="educational">general education</category>
+  <category lang="en" genre-type="educational">science</category>
+  <category lang="en" genre-type="educational">factual</category>
+  <category lang="en" genre-type="educational">factual topics</category>
+  <category lang="en" genre-type="educational">nature</category>
+  <category lang="en" genre-type="educational">animals</category>
+  <category lang="en" genre-type="educational">vets</category>
+  <category lang="en" genre-type="educational">pets</category>
+  <category lang="en" genre-type="educational">environment</category>
+  <category lang="en" genre-type="educational">archaeology</category>
+  <category lang="en" genre-type="educational">technology</category>
+  <category lang="en" genre-type="educational">computers</category>
+  <category lang="en" genre-type="educational">internet</category>
+  <category lang="en" genre-type="educational">natural science</category>
+  <category lang="en" genre-type="educational">medicine</category>
+  <category lang="en" genre-type="educational">physiology</category>
+  <category lang="en" genre-type="educational">psychology</category>
+  <category lang="en" genre-type="educational">foreign countries</category>
+  <category lang="en" genre-type="educational">expeditions</category>
+  <category lang="en" genre-type="educational">social science</category>
+  <category lang="en" genre-type="educational">spiritual</category>
+  <category lang="en" genre-type="educational">religious</category>
+  <category lang="en" genre-type="educational">further education</category>
+  <category lang="en" genre-type="educational">languages</category>
+  <category lang="en" genre-type="educational">history</category>
+  <category lang="en" genre-type="leisure">leisure</category>
+  <category lang="en" genre-type="leisure">hobbies</category>
+  <category lang="en" genre-type="leisure">handicraft</category>
+  <category lang="en" genre-type="leisure">fishing</category>
+  <category lang="en" genre-type="leisure">tourism</category>
+  <category lang="en" genre-type="leisure">travel</category>
+  <category lang="en" genre-type="leisure">sailing</category>
+  <category lang="en" genre-type="leisure">gaming</category>
+  <category lang="en" genre-type="leisure">handicraft</category>
+  <category lang="en" genre-type="leisure">motoring</category>
+  <category lang="en" genre-type="leisure">fitness</category>
+  <category lang="en" genre-type="leisure">health</category>
+  <category lang="en" genre-type="leisure">cooking</category>
+  <category lang="en" genre-type="leisure">advertisement</category>
+  <category lang="en" genre-type="leisure">shopping</category>
+  <category lang="en" genre-type="leisure">gardening</category>
+  <category lang="en" genre-type="leisure">diy</category>
+  <category lang="en" genre-type="leisure">magazine Show</category>
+  <category lang="en" genre-type="special">original language</category>
+  <category lang="en" genre-type="special">black &amp; white</category>
+  <category lang="en" genre-type="special">unpublished</category>
+  <category lang="en" genre-type="special">live broadcast</category>
+</categories>

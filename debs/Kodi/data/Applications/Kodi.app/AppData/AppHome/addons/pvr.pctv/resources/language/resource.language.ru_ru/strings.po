@@ -1,0 +1,94 @@
+# Kodi Media Center language file
+# Addon Name: PCTV Systems Client
+# Addon id: pvr.pctv
+# Addon Provider: PCTV Systems
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-15 15:29+0000\n"
+"Last-Translator: Dmitry Petrov <dimakrm361@gmail.com>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-pvr-clients/pvr-pctv/ru_ru/>\n"
+"Language: ru_ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
+
+msgctxt "Addon Summary"
+msgid "PVR Client to connect PCTV Systems Broadway to Kodi"
+msgstr "Клиент PVR для подключения PCTV Systems Broadway к Kodi"
+
+msgctxt "Addon Description"
+msgid "PCTV Systems frontend. Supporting streaming of Live TV &amp; Recordings, EPG View, Timers."
+msgstr "Фронт-энд для PCTV Systems. Поддерживает просмотр телепередач , записей, просмотр телепрограммы, таймеров."
+
+msgctxt "Addon Disclaimer"
+msgid "This is unstable software! The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects."
+msgstr "Это нестабильная программа! Авторы не несут ответственности за неудачные воспроизведение, неверные время EPG, потраченное время и прочие нежелательные эффекты."
+
+msgctxt "#30000"
+msgid "Hostname or IP address"
+msgstr "Имя хоста или IP-адрес"
+
+msgctxt "#30001"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "#30002"
+msgid "PIN"
+msgstr "PIN"
+
+msgctxt "#30010"
+msgid "Automatic Host Detection"
+msgstr "Автоматическое определение хоста"
+
+msgctxt "#30020"
+msgid "Transcode"
+msgstr "Транскодирование"
+
+msgctxt "#30021"
+msgid "PIN required"
+msgstr "Требуется PIN"
+
+msgctxt "#30030"
+msgid "Video Bitrate (Kbps)"
+msgstr "Битрейт видео (Кбит/с)"
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Общие"
+
+msgctxt "#30101"
+msgid "400 Kbps"
+msgstr "400 Кбит/c"
+
+msgctxt "#30102"
+msgid "650 Kbps"
+msgstr "650 Кбит/c"
+
+msgctxt "#30103"
+msgid "900 Kbps"
+msgstr "900 Кбит/c"
+
+msgctxt "#30104"
+msgid "1200 Kbps"
+msgstr "1200 Кбит/c"
+
+msgctxt "#30104"
+msgid "2200 Kbps"
+msgstr "2200 Кбит/c"
+
+msgctxt "#30105"
+msgid "4200 Kbps"
+msgstr "4200 Кбит/c"
+
+msgctxt "#30106"
+msgid "6500 Kbps"
+msgstr "6500 Кбит/c"
+
+msgctxt "#30107"
+msgid "8500 Kbps"
+msgstr "8500 Кбит/c"

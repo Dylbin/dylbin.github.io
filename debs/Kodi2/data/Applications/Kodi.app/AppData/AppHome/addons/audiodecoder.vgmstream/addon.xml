@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.vgmstream"
+  version="19.0.0"
+  name="VGM Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="vgm"
+    tags="true"
+    extension=".aax|.acm|.adp|.ads|.adx|.afc|.agsc|.ahx|.aifc|.aix|.amts|.as4|.asd|.asf|.asr|.ass|.ast|.aud|.aus|.bg00|.bgw|.bh2pcm|.bmdx|.brstm|.capdsp|.ccc|.cfn|.cnk|.dcs|.de2|.dsp|.dvi|.dxh|.eam|.emff|.enth|.fag|.filp|.fsb|.gbts|.gca|.gcm|.gcw|.genh|.gms|.gsb|.hgc1|.hps|.idsp|.idvi|.ikm|.ild|.int|.isd|.ivb|.joe|.kces|.kcey|.kraw|.leg|.logg|.lwav|.matx|.mi4|.mib|.mic|.mihb|.mpdsp|.mss|.msvp|.mus|.musc|.musx|.mwv|.npsf|.nwa|.omu|.p2bt|.pcm|.pdt|.pnb|.pos|.psh|.pws|.raw|.rkv|.rnd|.rsd|.rsf|.rstm|.rwsd|.rwav|.rws|.rwx|.rxw|.sad|.sdt|.seg|.sfl|.sfs|.sl3|.sli|.smp|.sng|.spd|.spsd|.spw|.ss2|.ss7|.ssm|.stma|.str|.strm|.sts|.svag|.svs|.swd|.tec|.thp|.tydsp|.um3|.vag|.vas|.vgs|.vig|.vpk|.vs|.waa|.wac|.wad|.wam|.wavm|.wp2|.wsi|.wvs|.xa|.xa2|.xa30|.xmu|.xsp|.xss|.xvas|.xwav|.xwb|.ydsp|.ymf|.zwdsp"
+    library_darwin_embedded="audiodecoder.vgmstream.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.vgmstream</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">VGM lydafkoder</summary>
+    <summary lang="de_DE">VGM Audio Decoder</summary>
+    <summary lang="en_GB">VGM Audio Decoder</summary>
+    <summary lang="es_ES">Decodificador de Audio VGM</summary>
+    <summary lang="ko_KR">VGM 오디오 디코더</summary>
+    <summary lang="nl_NL">VGM audio-decoder</summary>
+    <summary lang="ru_RU">Аудиодекодер VGM</summary>
+    <summary lang="zh_CN">VGM 音频解码器</summary>
+    <description lang="da_DK">Video Game Music (VGM) lydafkoder er et bibliotek til afspilning af en lang række lydformater, der bruges i videospil.</description>
+    <description lang="de_DE">Video Game Music (VGM) Audio Decoder ist eine Bibliothek zum Abspielen einer Vielzahl von Audioformaten, die in Videospielen verwendet werden.</description>
+    <description lang="en_GB">Video Game Music (VGM) Audio Decoder is a library for playing a wide variety of audio formats used in video games.</description>
+    <description lang="es_ES">El Decodificador de audio Video Game Music (VGM) es una librería para reproducir una amplia variedad de formatos de audio usados en videojuegos.</description>
+    <description lang="ko_KR">VGM(비디오 게임 음악) 오디오 디코더는 비디오 게임에 사용되는 다양한 오디오 형식을 재생하기 위한 라이브러리입니다.</description>
+    <description lang="nl_NL">Video Game Muziek (VGM) Audio-decoder is een bibliotheek voor het afspelen van een grote varieteit in audioformats gebruikt in videospellen.</description>
+    <description lang="ru_RU">Аудиодекодер Video Game Music (VGM) - это библиотека для воспроизведения широкого спектра звуковых форматов, используемых в видеоиграх.</description>
+    <description lang="zh_CN">视频游戏音乐（VGM）音频解码器是一个用于播放视频游戏中使用的各种音频格式的库。</description>
+  </extension>
+</addon>

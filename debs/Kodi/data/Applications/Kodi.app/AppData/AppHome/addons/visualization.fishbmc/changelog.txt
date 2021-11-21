@@ -1,0 +1,70 @@
+19.0.0 (2021-09-13)
+- Updated language files from Weblate
+- Update description text on strings.po (en_GB)
+- Change test builds to 'Kodi 20 Nexus'
+- Increase version to 20.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+6.3.0 (2020-09-13)
+- Kodi API change update
+
+6.2.1 (2020-09-06)
+- fix standalone build with newer glm versions (>= 0.9.9.6)
+
+6.2.0 (2020-08-21)
+- Kodi API change update
+- Debian build improvement
+- Fix language codes within addon.xml by tg_TJ (was lowercase before)
+
+6.1.0 (2020-05-16)
+- Kodi API change update
+- Minor cleanups
+- GPL2+ License file add
+
+6.0.1 (2019-10-09)
+- Add license name and source URL to addon.xml
+- Update debian packaging
+- Kodi visualization API change
+
+6.0.0 (2019-08-23)
+- Add with Angle support on Windows
+- Change "C" code to "CPP" to allow more platform independent programming
+- Use std::thread and std::this_thread::sleep_for instead of fixed OS way
+- Enable file buffer mode as default (confirmed on all OS)
+- Add AppVeyor for windows build tests (include also Winstore)
+- Update Jenkins for support on all OS and to use Kodi Matrix
+- Update travis to use xcode 10.2 for tests
+
+5.1.1 (2019-08-23)
+- Update .travis.yml to Leia
+- Add Jenkinsfile for test and binary repo upload
+- For persistence files use Kodi addon user folder, instead of $HOME
+- Switch to new language folder layout
+
+5.1.0 (2019-08-21)
+- Change to GL 4.0 and allow GLES 2.0
+- Add fanart and screenshoots
+- Clean up the addon processing class
+
+5.0.0 (2017-06-10)
+- Change to new C++ based addon interface style
+- Change settings to new system
+
+4.1.3 (2017-05-21)
+- kodi to addon interface changes
+
+2014-03-01:
+- Updated language files from Transifex
+
+2014-02-17:
+- Updated language files from Transifex
+
+2014-02-02:
+- Updated language files from Transifex
+
+2014-01-11:
+- Updated language files from Transifex
+
+2011-02-26:
+- Initial release for XBMC 11, based on fische 4

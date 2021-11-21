@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="screensaver.shadertoy">
+    <category id="general" label="30101">
+      <group id="1">
+        <setting id="preset" type="integer" label="30000">
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="30100">0</option>
+              <option label="30001">1</option> <!--"Ball"-->
+              <option label="30002">2</option> <!--"Ball Of Fire"-->
+              <option label="30003">3</option> <!--"Bleepy Blocks"-->
+              <option label="30004">4</option> <!--"Bob Scanline"-->
+              <option label="30005">5</option> <!--"Blobs"-->
+              <option label="30006">6</option> <!--"Blue Fire"-->
+              <option label="30007">7</option> <!--"Cellular"-->
+              <option label="30008">8</option> <!--"Classic RGB Plasma"-->
+              <option label="30009">9</option> <!--"Coloured Circles"-->
+              <option label="30010">10</option> <!--"Dance Floor"-->
+              <option label="30011">11</option> <!--"Dot Dot Dot"-->
+              <option label="30012">12</option> <!--"Effect Ringblobs"-->
+              <option label="30013">13</option> <!--"Ether"-->
+              <option label="30014">14</option> <!--"Fire"-->
+              <option label="30015">15</option> <!--"Flaring 1"-->
+              <option label="30016">16</option> <!--"Flaring 2"-->
+              <option label="30017">17</option> <!--"Flaring 3"-->
+              <option label="30018">18</option> <!--"Flaring 4"-->
+              <option label="30019">19</option> <!--"Flaring 5"-->
+              <option label="30020">20</option> <!--"Fractal Tiling"-->
+              <option label="30021">21</option> <!--"Infinite Fall"-->
+              <option label="30022">22</option> <!--"Input Time"-->
+              <option label="30023">23</option> <!--"Interstellar"-->
+              <option label="30024">24</option> <!--"Interweaving Sine bands"-->
+              <option label="30025">25</option> <!--"Julia Trap"-->
+              <option label="30026">26</option> <!--"Layers Of Plasma"-->
+              <option label="30027">27</option> <!--"Liquid Spectrum"-->
+              <option label="30028">28</option> <!--"Noise Animation - Electric"-->
+              <option label="30029">29</option> <!--"Noise Animation - Flow"-->
+              <option label="30030">30</option> <!--"Noise Animation - Lava"-->
+              <option label="30031">31</option> <!--"Noise Animation - Watery"-->
+              <option label="30032">32</option> <!--"Overly Satisfying"-->
+              <option label="30033">33</option> <!--"Plasma Circles"-->
+              <option label="30034">34</option> <!--"Plasma Triangles"-->
+              <option label="30035">35</option> <!--"Plasma Matrix Spin"-->
+              <option label="30036">36</option> <!--"Pixellated Plasma"-->
+              <option label="30037">37</option> <!--"Silexarst Creation"-->
+              <option label="30038">38</option> <!--"Sky at Night"-->
+              <option label="30039">39</option> <!--"Sphere"-->
+              <option label="30040">40</option> <!--"Star Tunnel"-->
+              <option label="30041">41</option> <!--"Vector Field"-->
+              <option label="30042">42</option> <!--"Venus"-->
+              <option label="30043">43</option> <!--"Watch It Burn"-->
+              <option label="30044">44</option> <!--"Water Caustic"-->
+              <option label="30045">45</option> <!--"Wiggly (try mouse)"-->
+              <option label="30046">46</option> <!--"Worley Noise Waters"-->
+            </options>
+          </constraints>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">false</dependency>
+          </dependencies>
+          <control type="list" format="string"/>
+        </setting>
+      </group>
+    </category>
+    <category id="advanced" label="30102">
+      <group id="1" label="30103">
+        <setting id="ownshader" type="boolean" label="30200">
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="shader" type="path" label="30201">
+          <default></default>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">true</dependency>
+          </dependencies>
+          <constraints>
+            <allowempty>true</allowempty>
+            <masking>*.glsl</masking>
+          </constraints>
+          <control type="button" format="file">
+            <heading>30201</heading>
+          </control>
+        </setting>
+        <setting id="texture0" type="path" label="30202">
+          <default></default>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">true</dependency>
+          </dependencies>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="button" format="image">
+            <heading>30202</heading>
+            <masking>*.png</masking>
+          </control>
+        </setting>
+        <setting id="texture1" type="path" label="30203">
+          <default></default>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">true</dependency>
+          </dependencies>
+          <constraints>
+            <allowempty>true</allowempty>
+            <masking>*.png</masking>
+          </constraints>
+          <control type="button" format="image">
+            <heading>30203</heading>
+          </control>
+        </setting>
+        <setting id="texture2" type="path" label="30204">
+          <default></default>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">true</dependency>
+          </dependencies>
+          <constraints>
+            <allowempty>true</allowempty>
+            <masking>*.png</masking>
+          </constraints>
+          <control type="button" format="image">
+            <heading>30204</heading>
+          </control>
+        </setting>
+        <setting id="texture3" type="path" label="30205">
+          <default></default>
+          <dependencies>
+            <dependency type="enable" setting="ownshader" operator="is">true</dependency>
+          </dependencies>
+          <constraints>
+            <allowempty>true</allowempty>
+            <masking>*.png</masking>
+          </constraints>
+          <control type="button" format="image">
+            <heading>30205</heading>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

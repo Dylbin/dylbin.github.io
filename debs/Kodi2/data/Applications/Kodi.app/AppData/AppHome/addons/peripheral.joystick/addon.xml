@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="peripheral.joystick"
+  version="19.0.0"
+  name="Joystick Support"
+  provider-name="Team Kodi">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.tools" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.peripheral" minversion="2.0.0" version="2.0.0"/></requires>
+  <extension
+    point="kodi.peripheral"
+    provides_joysticks="true"
+    provides_buttonmaps="true"
+    library_darwin_embedded="peripheral.joystick.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/peripheral.joystick</source>
+    <platform>ios-aarch64</platform>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+    <summary lang="ca_ES">Llibreria Kodi Joystick</summary>
+    <summary lang="da_DK">Kodi Joystick Bibliotek</summary>
+    <summary lang="de_DE">Joystick-Bibliothek für Kodi</summary>
+    <summary lang="en_GB">Kodi Joystick Library</summary>
+    <summary lang="es_ES">Librería Kodi Joystick</summary>
+    <summary lang="es_MX">Biblioteca de Joysticks de Kodi</summary>
+    <summary lang="ko_KR">Kodi 조이스틱 라이브러리</summary>
+    <summary lang="pl_PL">Biblioteka joysticków Kodi</summary>
+    <summary lang="ru_RU">Каталог джойстиков для Kodi</summary>
+    <summary lang="tr_TR">Kodi Oyun Çubuğu Kütüphanesi</summary>
+    <summary lang="zh_CN">Kodi 游戏杆库</summary>
+    <description lang="ca_ES">Aquesta llibreria proporciona controladors de joystick i mapes de botons. S'admeten diverses API de joystick, incloses DirectX, XInput, SDL i l'API Joystick de Linux.</description>
+    <description lang="da_DK">Dette bibliotek indeholder joystick-drivere og knapgrupperinger. Flere joystick-API'er understøttes, herunder DirectX, XInput, SDL og Linux Joystick API.</description>
+    <description lang="de_DE">Diese Bibliothek enthält Joystick-Treiber und Schaltflächenzuordnungen. Es werden mehrere Joystick-APIs unterstützt, darunter DirectX, XInput, SDL und die Linux-Joystick-API.</description>
+    <description lang="en_GB">This library provides joystick drivers and button maps. Multiple joystick APIs are supported, including DirectX, XInput, SDL and the Linux Joystick API.</description>
+    <description lang="es_ES">Esta librería otorga drivers de joystick y mapeo de botones. Soporta múltiples APIs de joystick, incluyendo DirectX, XInput, SDL y la API de Joystick de Linux.</description>
+    <description lang="es_MX">Esta biblioteca provee controladores de joysticks y mapas de botones. Múltiples APIs de joystick están soportadas, incluyendo DirectX, XInput, SDL y la Linux Joystick API.</description>
+    <description lang="ko_KR">이 라이브러리는 조이스틱 드라이버와 버튼 맵을 제공합니다. DirectX, XInput, SDL 및 Linux Joystick API를 비롯한 여러 조이스틱 API가 지원됩니다.</description>
+    <description lang="pl_PL">Ta biblioteka zawiera sterowniki joysticków i mapy przycisków. Obsługiwanych jest wiele interfejsów API joysticków, m.in. DirectX, XInput, SDL oraz Joystick API systemu Linux.</description>
+    <description lang="ru_RU">Этот каталог предоставляет драйверы джойстиков и схемы расположения кнопок. Поддерживается несколько API джойстиков, включая DirectX, XInput, SDL и Linux Joystick API.</description>
+    <description lang="tr_TR">Bu kitaplık, oyun çubuğu sürücüleri ve düğme haritaları sağlar. DirectX, XInput, SDL ve Linux Oyun Çubuğu API dahil olmak üzere çoklu oyun çubuğu API'leri desteklenir.</description>
+    <description lang="zh_CN">此库提供游戏杆驱动程序和按钮图。支持多个游戏杆 API，包括 DirectX、XInput、SDL 和 Linux 游戏杆 API。</description>
+  </extension>
+</addon>

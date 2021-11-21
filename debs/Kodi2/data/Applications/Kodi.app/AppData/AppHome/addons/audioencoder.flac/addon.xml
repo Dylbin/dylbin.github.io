@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audioencoder.flac"
+  version="19.0.0"
+  name="Flac Audio Encoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.instance.audioencoder" minversion="2.1.0" version="2.1.0"/></requires>
+  <extension
+    point="kodi.audioencoder"
+    extension=".flac"
+    library_darwin_embedded="audioencoder.flac.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audioencoder.flac</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">FLAC (Free Lossless Audio Codec) Indkoder</summary>
+    <summary lang="de_DE">FLAC-Encoder (Free Lossless Audio Codec)</summary>
+    <summary lang="en_GB">FLAC (Free Lossless Audio Codec) Encoder</summary>
+    <summary lang="es_ES">Codificador FLAC (Free Lossless Audio Codec)</summary>
+    <summary lang="ko_KR">FLAC (Free Lossless Audio Codec) 인코더</summary>
+    <summary lang="pl_PL">Koder FLAC (Free Lossless Audio Codec)</summary>
+    <summary lang="ru_RU">Кодер FLAC (Free Lossless Audio Codec)</summary>
+    <summary lang="tr_TR">FLAC (Ücretsiz Kayıpsız Ses Codec Bileşeni) Kodlayıcı</summary>
+    <summary lang="zh_CN">FLAC（免费无损音频编解码器）编码器</summary>
+    <description lang="da_DK">FLAC står for Free Lossless Audio Codec (gratis tabsfri lydcodec); et lydformat tilsvarende mp3, men tabsfrit, hvilket betyder, at lyd komprimeres i FLAC uden tab af kvalitet. Dette svarer til, hvordan Zip fungerer, undtagen med FLAC får du langt bedre komprimering, fordi den er designet specielt til lyd, og du kan afspille komprimerede FLAC-filer i din yndlingsafspiller (eller i din bil- eller hjemmeanlæg - se understøttede enheder), præcis som du ville gøre med en MP3-fil.[CR][CR]FLAC skiller sig ud som den hurtigste og bredest understøttede tabsfri lydcodec og den eneste, der på én gang er ikke-proprietær, ikke er behæftet med patenter, har en open source referenceimplementering, har et veldokumenteret format og API og har adskillige andre uafhængige implementeringer.</description>
+    <description lang="de_DE">FLAC steht für Free Lossless Audio Codec, ein Audioformat ähnlich wie MP3, jedoch verlustfrei, was bedeutet, dass Audio in FLAC ohne Qualitätsverlust komprimiert wird. Dies ähnelt der Funktionsweise von Zip, außer dass Sie mit FLAC eine viel bessere Komprimierung erhalten, da es speziell für Audio entwickelt wurde und Sie komprimierte FLAC-Dateien nun in Ihrem Lieblingsplayer (oder in Ihrem Auto oder Ihrer Heimstereoanlage; siehe ünterstützte Geräte) wiedergeben können, als wären Sie eine MP3-Datei.[CR][CR]FLAC ist der schnellste und am weitesten verbreitete verlustfreie Audio-Codec und der einzige, der gleichzeitig nicht proprietär ist, nicht durch Patente belastet ist, aus einer Open-Source-Referenzimplementierung besteht, über ein gut dokumentiertes API verfügt und über andere unabhängige Implementierungen verfügt.</description>
+    <description lang="en_GB">FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see supported devices) just like you would an MP3 file.[CR][CR]FLAC stands out as the fastest and most widely supported lossless audio codec, and the only one that at once is non-proprietary, is unencumbered by patents, has an open-source reference implementation, has a well documented format and API, and has several other independent implementations.</description>
+    <description lang="es_ES">FLAC es Free Lossles Audio Codec, un formato de audio similar al MP3 pero sin pérdida, ya que comprime el audio en FLAC sin ninguna pérdida de calidad. Es parecido a como funciona Zip, excepto que con FLAC se consigue mucha mas compresión porque está diseñaodo especificamente para audio, y puedes reproducir directamente archivos comprimidos en FLAC con su reproductor favorito (o equipo de musica de casa o del coche, segun los equipos soportados) como si fuera un MP3.[CR][CR]FLAC es el codificador de audio sin pérdida más rápido y más soportado, y el único que no es propietario, no tiene patentes, con indicaciones para la implementación libres, muy bien documentado, con API y multiples desarrollos independientes.</description>
+    <description lang="ko_KR">FLAC은 Free Lossless Audio Codec의 약자로, MP3와 유사하지만, 손실이 없는, 즉 FLAC으로 압축한 오디오는 품질면에서 무손실인 오디오 포맷입니다. 원리는 Zip과 유사하지만, FLAC을 사용하면 압축률이 훨씬 좋은데, 왜냐하면 이것은 오디오를 위해 특별히 설계되었기 때문이고, 또한 압축된 FLAC 파일을 마치 MP3 파일을 재생하듯이 원하는 플레이어(자신의 차량, 홈스테레오, 등)에서 재생할 수 있습니다. [CR]CR] FLAC은 가장 빠르고 가장 많이 지원되는 무손실 오디오 코덱이 되었고, 비독점적이고 특허에 간섭받지 않고 오프소스 레프런스가 있고 잘 문서화된 포맷과 API를 가지고 몇 종류의 독립적인 실행사례가 있는 오디오 코덱입니다.</description>
+    <description lang="pl_PL">FLAC oznacza Free Lossless Audio Codec, format audio podobny do MP3, ale bezstratny, co oznacza, że dźwięk jest skompresowany w formacie FLAC bez utraty jakości. Jest to podobne do działania Zip, jednak FLAC zapewnia znacznie lepszą kompresję, ponieważ został zaprojektowany specjalnie dla dźwięku, a skompresowane pliki FLAC można odtwarzać w ulubionym odtwarzaczu (także w samochodowym lub domowym zestawie stereo, patrz obsługiwane urządzenia) tak jak w przypadku plików MP3.[CR][CR]FLAC wyróżnia się jako najszybszy i najszerzej obsługiwany bezstratny kodek audio, a jedyny, który jednocześnie nie jest zastrzeżony, nie jest obciążony patentami, ma dobrze udokumentowany format i API oraz ma kilka innych niezależnych implementacji.</description>
+    <description lang="ru_RU">FLAC (Free Lossless Audio Codec) — аудиоформат (как MP3), в котором звук сжимается без потери качества. Это похоже на то, как работает Zip, только в FLAC вы получите гораздо лучшее сжатие, поскольку он разработан специально для аудио, и вы сможете воспроизводить сжатые файлы FLAC в своём любимом плеере (или в автомобильной, или домашней стереосистеме, см. поддерживаемые устройства) точно так же, как и файлы MP3.[CR][CR]FLAC выделяется как самый быстрый и широко поддерживаемый аудиокодек без потерь, и единственный, который одновременно является непроприетарным, не обременён патентами, имеет эталонную реализацию с открытым исходным кодом, хорошо документированный формат и API, а также имеет несколько других независимых реализаций.</description>
+    <description lang="tr_TR">FLAC, MP3'e benzer, ancak kayıpsız bir ses formatı olan Free Lossless Audio Codec'in kısaltmasıdır; bu, sesin herhangi bir kalite kaybı olmadan FLAC'ta sıkıştırıldığı anlamına gelir. Bu, Zip'in çalışma şekline benzer, ancak FLAC ile özellikle ses için tasarlandığından çok daha iyi sıkıştırma elde edersiniz ve sıkıştırılmış FLAC dosyalarını favori oynatıcınızda (veya arabanızda veya ev stereo sisteminizde, desteklenen cihazlara bakın) oynatabilirsiniz. tıpkı bir MP3 dosyası gibi.[CR][CR]FLAC, en hızlı ve en yaygın olarak desteklenen kayıpsız ses codec'i olarak öne çıkıyor ve aynı anda tescilli olmayan, patentsiz olan, açık kaynak referansına sahip olan tek kod uygulama, iyi belgelenmiş bir biçime ve API'ye sahiptir ve başka birçok bağımsız uygulamaya sahiptir.</description>
+    <description lang="zh_CN">FLAC 代表免费的无损音频编解码器，一种类似于 MP3 的音频格式，但无损，这意味着音频在 FLAC 中被压缩而质量没有任何损失。它与 Zip 的工作原理类似，但 FLAC 专为音频设计，因而有更好的压缩效果，您可以在您喜爱的播放器（或您的车载或家用立体声设备，请参阅支持的设备）中播放压缩的 FLAC 文件，就像播放 MP3 文件一样。[CR][CR]FLAC 是速度最快、支持最广泛的无损音频编解码器，也是唯一一款同时非专利、不受专利限制、具有开源参考实现、具有完善的格式和 API 以及其他几个独立实现的编解码器。</description>
+  </extension>
+</addon>

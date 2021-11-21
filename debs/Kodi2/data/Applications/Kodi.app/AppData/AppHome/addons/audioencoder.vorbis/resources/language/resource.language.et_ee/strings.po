@@ -1,0 +1,61 @@
+# Kodi Media Center language file
+# Addon Name: Vorbis Audio Encoder
+# Addon id: audioencoder.vorbis
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/audioencoder.vorbis/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: et_ee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Vorbis audio compression"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Vorbis is a general purpose perceptual audio CODEC intended to allow maximum encoder flexibility, thus allowing it to scale competitively over an exceptionally wide range of bitrates."
+msgstr ""
+
+msgctxt "#30000"
+msgid "Preset"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Enables some preconfigured settings"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Medium"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Standard"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Extreme"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Constant bitrate"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Bitrate"
+msgstr ""
+
+msgctxt "#30007"
+msgid "The bitrate to be used"
+msgstr ""
+
+msgctxt "#30008"
+msgid "{0:d} kHz"
+msgstr ""

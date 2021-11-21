@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.gme"
+  version="19.0.0"
+  name="GME Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="gme"
+    extension=".gbs|.gym|.spc|.nsf|.nsfe|.vgm|.vgz|.kss|.hes|.ay|.sap|.sgc|.gmestream"
+    tags="true"
+    tracks="true"
+    library_darwin_embedded="audiodecoder.gme.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.gme</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">Game Music Emu Audio Decoder</summary>
+    <summary lang="en_GB">Game Music Emu Audio Decoder</summary>
+    <summary lang="ko_KR">Game Music Emu 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер Game Music Emu</summary>
+    <summary lang="zh_CN">游戏音乐 Emu 音频解码器</summary>
+    <description lang="de_DE">Das GME-Format (Game Music Emu) wird verwendet, um die Audioausgabe verschiedener Videospielkonsolen zu emulieren, die in den 1980er und 1990er Jahren beliebt waren. Es gibt dem Sound ein &quot;Retro&quot; -Gefühl.[CR][CR][B]Hinweis:[/B][CR]Nicht alle Dateiformate geben Länge und wird in diesem Fall auf 2,5 Minuten gesetzt.[CR][CR][B]Unterstützte Formate:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro</description>
+    <description lang="en_GB">Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a &quot;retro&quot; feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro</description>
+    <description lang="ko_KR">GME(Game Music Emu) 형식은 1980년대와 1990년대에 유행했던 다양한 비디오 게임 콘솔의 오디오 출력을 에뮬레이트하는 데 사용됩니다. 사운드에 &quot;복고풍&quot; 느낌을 줍니다.[CR][CR][B]참고:[/B][CR]일부 파일 형식은 길이를 제공하지 않으며 이 경우에는 2.5분으로 설정됩니다.[CR][ CR][B]지원되는 형식:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC 엔진[CR]- KSS: MSX 가정용 컴퓨터/기타 Z80 시스템(FM 사운드 없음)[CR]- NSF/NSFE: Nintendo NES/Famicom(VRC 6, Namco 106 및 FME-7 사운드 포함) [CR]- SAP: POKEY 사운드 칩을 사용하는 Atari 시스템[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro</description>
+    <description lang="ru_RU">Формат Game Music Emu (GME) используется для эмуляции аудиовыхода различных игровых приставок, популярных в 1980-х и 1990-х годах. Он придает звуку ощущение &quot;ретро&quot;.[CR][CR][B]Примечание:[/B][CR]Не все форматы файлов указывают длину, в данном случае она установлена на 2,5 минуты. [CR][CR][B]Поддерживаемые форматы:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/другие Z80 системы (без FM звука)[CR]- NSF/NSFE: Nintendo NES/Famicom (со звуком VRC 6, Namco 106 и FME-7)[CR]- SAP: Системы Atari, использующие звуковой чип POKEY[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive, BBC Micro</description>
+    <description lang="zh_CN">游戏音乐 Emu（GME）格式用于模拟20世纪80年代和90年代流行的各种视频游戏机的音频输出。它给声音一种“复古”的感觉。[CR][CR][B]注：[/B][CR]并非所有文件格式都给出时长，在这种情况下，它被设置为2.5分钟。[CR][CR][B]支持的格式：[/B][CR]- AY：ZX Spectrum/Amstrad CPC[CR]- GBS：任天堂 Game Boy[CR]- GYM：世嘉 Genesis/Mega Drive[CR]- HES：NEC TurboGrafx-16/PC Engine[CR]- KSS：MSX 家用电脑/其他Z80系统（无FM声音）[CR]- NSF/NSFE：任天堂 NES/Famicom（带有VRC 6、Namco 106 和 FME-7 声音）[CR]- SAP：雅达利系统使用 POKEY sound 芯片[CR]- SPC：超级任天堂/Super Famicom[CR]- VGM/VGZ：世嘉 Master System/Mark III、世嘉Genesis/Mega Drive、BBC Micro</description>
+  </extension>
+</addon>

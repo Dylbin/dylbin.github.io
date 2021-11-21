@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.2048"
+		name="2048"
+		version="1.0.0.126"
+		provider-name="Gabriele Cirulli">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_darwin_embedded="game.libretro.2048.dylib">
+		<platforms></platforms>
+		<extensions></extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<license>Public Domain</license>
+		<platform>ios-aarch64</platform>
+		<source>https://github.com/kodi-game/game.libretro.2048</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
+		<summary lang="en_GB">2048 v1.0</summary>
+		<description lang="da_DK">Deltag i tallene og kom til 2048-flisen![CR][CR]Brug piletasterne til at flytte fliserne. Når to fliser med samme nummer rører hinanden, smelter de sammen til én!</description>
+		<description lang="en_GB">Join the numbers and get to the 2048 tile![CR][CR]Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!</description>
+		<description lang="ko_KR">숫자를 결합하고 2048 타일에 도달하세요![CR][CR]화살표 키를 사용하여 타일을 이동하세요. 같은 숫자의 타일 두 개가 닿으면 하나로 합쳐집니다!</description>
+		<description lang="zh_CN">加入数字，进入2048！[CR][CR]使用箭头键移动瓷片。当两块数字相同的瓷片接触时，它们合并为一块！</description>
+		<disclaimer lang="da_DK">Skabt af Gabriele Cirulli. Baseret på 1024 af Veewo Studio.</disclaimer>
+		<disclaimer lang="en_GB">Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.</disclaimer>
+		<disclaimer lang="zh_CN">由 Gabriele Cirulli 创作。基于 Veewo Studio 的 1024。</disclaimer>
+	</extension>
+</addon>

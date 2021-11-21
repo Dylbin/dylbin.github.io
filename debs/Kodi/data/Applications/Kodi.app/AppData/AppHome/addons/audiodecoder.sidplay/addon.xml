@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.sidplay"
+  version="19.0.0"
+  name="Sidplay Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="sid"
+    extension=".sid|.sidstream"
+    tags="true"
+    tracks="true"
+    library_darwin_embedded="audiodecoder.sidplay.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.sidplay</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">SID (MOS 6581) Audio Decoder</summary>
+    <summary lang="en_GB">SID (MOS 6581) Audio Decoder</summary>
+    <summary lang="ko_KR">SID (MOS 6581) 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер SID (MOS 6581)</summary>
+    <summary lang="zh_CN">SID（MOS 6581）音频解码器</summary>
+    <description lang="de_DE">Sound Interface Device (SID) ist ein Format, das Commodore 64- und 128 Musik enthält.[CR][CR]Dies ist ein Addon, das die Emulation des SID-Chips (MOS 6581) und der CPU (6510) des C64 durch .SID- oder .SIDSTREAM-Dateien implementiert.</description>
+    <description lang="en_GB">Sound Interface Device (SID) is a format that houses Commodore 64 and 128 music.[CR][CR]This is a addon that implements the emulation of the C64's SID chip (MOS 6581) and CPU (6510) by .SID or .SIDSTREAM files.</description>
+    <description lang="ko_KR">SID(사운드 인터페이스 장치)는 Commodore 64 및 128 음악을 저장하는 형식입니다.[CR][CR]C64의 SID 칩(MOS 6581)과 CPU(6510)를 .SID 또는 . SIDSTREAM 파일.</description>
+    <description lang="ru_RU">Sound Interface Device (SID) - это формат, в котором хранится музыка Commodore 64 и 128.[CR][CR]Это дополнение, которое реализует эмуляцию SID-чипа C64 (MOS 6581) и процессора (6510) с помощью файлов .SID или .SIDSTREAM.</description>
+    <description lang="zh_CN">声音接口设备（SID）是一种容纳 Commodore 64 和 128 音乐的格式。[CR][CR]这是一个通过 .SID 或 .SIDSTREAM 文件实现 C64 的 SID 芯片（MOS 6581）和 CPU（6510）仿真的插件。</description>
+  </extension>
+</addon>

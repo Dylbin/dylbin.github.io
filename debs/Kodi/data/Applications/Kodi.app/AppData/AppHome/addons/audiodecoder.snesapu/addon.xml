@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.snesapu"
+  version="19.0.0"
+  name="SPC Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.tools" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/>
+    <import addon="vfs.rar" minversion="4.0.0" optional="true"/>
+  </requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="spc"
+    extension=".spc|.spcstream|.rsn"
+    tags="true"
+    tracks="true"
+    library_darwin_embedded="audiodecoder.snesapu.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.snesapu</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">SNES-SPC700 Sound File Data Decoder</summary>
+    <summary lang="en_GB">SNES-SPC700 Sound File Data Decoder</summary>
+    <summary lang="ko_KR">SNES-SPC700 사운드 파일 데이터 디코더</summary>
+    <summary lang="ru_RU">Декодер данных звуковых файлов SNES-SPC700</summary>
+    <summary lang="zh_CN">SNES-SPC700 声音文件数据解码器</summary>
+    <description lang="de_DE">Das SPC-Format enthält Super Nintendo (SNES) Spielmusik. Es ist nach Sonys SPC700-Beitrag zum S-SMP-Audio-Chip des SNES benannt. Das SNES war ein großer Sprung in der Audiotechnologie des NES, der Stereoklang, mehr Kanäle und vollständig gesampelte Instrumente ermöglichte.</description>
+    <description lang="en_GB">The SPC format holds Super Nintendo (SNES) game music. It is named after Sony's SPC700 contribution to the SNES's S-SMP audio chip. The SNES was a major jump in audio technology from the NES allowing for stereo sound, more channels, and fully sampled instruments.</description>
+    <description lang="ko_KR">SPC 형식에는 슈퍼 닌텐도(SNES) 게임 음악이 들어 있습니다. SNES의 S-SMP 오디오 칩에 대한 Sony의 SPC700 기여에서 이름 붙여졌습니다. SNES는 스테레오 사운드, 더 많은 채널 및 완전히 샘플링된 악기를 허용하는 NES에서 오디오 기술의 주요한 진보였습니다.</description>
+    <description lang="ru_RU">В формате SPC хранится музыка из игр Super Nintendo (SNES). Он назван в честь вклада компанией Sony SPC700 в аудиочип S-SMP. SNES была большим скачком в технологии обработки звука по сравнению с NES, позволяя получить стереозвук, больше каналов и полностью сэмплированные инструменты.</description>
+    <description lang="zh_CN">SPC 格式保存超级任天堂（SNES）游戏音乐。它是以索尼 SPC700 对 SNES s-SMP 音频芯片的贡献命名的。SNES 是从 NES 到立体声、更多声道和全采样乐器的音频技术的重大飞跃。</description>
+  </extension>
+</addon>

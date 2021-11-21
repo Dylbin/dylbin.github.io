@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.wsr"
+  version="19.0.0"
+  name="WSR Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.tools" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="wsr"
+    extension=".wsr|.wsrstream"
+    tracks="true"
+    library_darwin_embedded="audiodecoder.wsr.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.wsr</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">WonderSwan R Audio Decoder</summary>
+    <summary lang="en_GB">WonderSwan R Audio Decoder</summary>
+    <summary lang="ko_KR">WonderSwan R 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер WonderSwan R</summary>
+    <summary lang="zh_CN">WonderSwan R 音频解码器</summary>
+    <description lang="de_DE">WonderSwan R (WSR) ist ein Containerformat, das Audio-Code enthält, der aus den ROMs von Spielen für das WonderSwan- und WonderSwan Color-Handheld-Spielsystem gerippt wurde. Sowohl die Original- als auch die Farbversion verwendeten denselben Audio-Chip, der 4 PCM-Audiokanäle verarbeiten konnte.</description>
+    <description lang="en_GB">WonderSwan R (WSR) is a container format, that holds audio code ripped from the ROMs of games for the WonderSwan and WonderSwan Color handheld game system. Both the original and color versions used the same audio chip which could handle 4 PCM audio channels.</description>
+    <description lang="ko_KR">WonderSwan R(WSR)은 WonderSwan 및 WonderSwan 컬러 휴대용 게임 시스템용 게임 ROM에서 추출한 오디오 코드를 포함하는 컨테이너 형식입니다. 오리지널 버전과 컬러 버전 모두 4개의 PCM 오디오 채널을 처리할 수 있는 동일한 오디오 칩을 사용했습니다.</description>
+    <description lang="ru_RU">WonderSwan R (WSR) - это формат контейнера, в котором хранится аудиокод, извлеченный из ПЗУ игр для портативной игровой системы WonderSwan и WonderSwan Color. И оригинальная, и цветная версии использовали один и тот же аудиочип, который мог обрабатывать 4 аудиоканала PCM.</description>
+    <description lang="zh_CN">WonderSwan R（WSR）是一种容器格式，用于保存 WonderSwan 和 WonderSwan 彩色版掌机游戏 ROM 中的音频代码。初始版和彩色版都使用相同的音频芯片，可以处理4个PCM音频声道。</description>
+  </extension>
+</addon>

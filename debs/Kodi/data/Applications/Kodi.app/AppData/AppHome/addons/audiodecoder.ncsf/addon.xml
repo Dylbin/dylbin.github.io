@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.ncsf"
+  version="19.0.0"
+  name="NCSF Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="ncsf"
+    extension=".minincsf"
+    tags="true"
+    library_darwin_embedded="audiodecoder.ncsf.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.ncsf</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">NCSF (Nitro Composer Sound Format) lyddekoder</summary>
+    <summary lang="de_DE">NCSF (Nitro Composer Sound Format) Audio Decoder</summary>
+    <summary lang="en_GB">NCSF (Nitro Composer Sound Format) Audio Decoder</summary>
+    <summary lang="es_ES">Decodificador de Audio NCSF (Nitro Composer Sound Format)</summary>
+    <summary lang="ko_KR">NCSF (Nitro Composer Sound Format) 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер NCSF (Nitro Composer Sound Format)</summary>
+    <summary lang="zh_CN">NCSF（Nitro Composer 声音格式）音频解码器</summary>
+    <description lang="da_DK">Tilføjer afkodningsunderstøttelse af Nitro Composer Sound Format-filer (.NCSF / .MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) er en PSF-stil til Nintendo DS-musik. Det er især musik, der blev skabt via Nitro Composer; en tracker-lignende composer, der er en del af Nintendos Nitro SDK til Nintendo DS.</description>
+    <description lang="de_DE">Fügt Dekodierungsunterstützung für Nitro Composer Sound Format-Dateien (.NCSF / .MININCSF) hinzu.[CR][CR]Das Nitro Composer Sound Format (NCSF) ist ein PSF-Stil für Nintendo DS-Musik, insbesondere Musik, die über Nitro Composer erstellt wurde, einen Tracker-ähnlichen Komponisten, der Teil des Nitro SDK von Nintendo für den Nintendo DS ist.</description>
+    <description lang="en_GB">Adds decoding support for Nitro Composer Sound Format files (.NCSF/.MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) is a PSF-style for Nintendo DS music, specifically music that was created via Nitro Composer, a tracker-like composer that is part of Nintendo's Nitro SDK for the Nintendo DS.</description>
+    <description lang="es_ES">Añade soporte para los archivos Nitro Composer Sound Format (.NCSF/.MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) es un tipo-PSF para la música de Nintendo DS, especificamente para la musica creada con Nitro Composer, un compositor de música tipo tracker que forma parte del SDK Nitro de Nintendo para Nintendo DS.</description>
+    <description lang="ko_KR">Nitro Composer Sound Format 파일(.NCSF/.MININCSF)에 대한 디코딩 지원을 추가합니다.[CR][CR]Nitro Composer Sound Format (NCSF)은 Nintendo DS 음악, 특히 Nintendo DS용 Nintendo Nitro SDK를 일부 추종하 Nitro Composer를 통해 생성된 음악을 위한 PSF 스타일입니다.</description>
+    <description lang="ru_RU">Добавляет поддержку декодирования файлов Nitro Composer Sound Format (.NCSF/.MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) - это PSF-стиль для музыки Nintendo DS, в частности музыки, созданной с помощью Nitro Composer, который является частью Nitro SDK Nintendo для Nintendo DS.</description>
+    <description lang="zh_CN">增加了对 Nitro Composer 声音格式文件（.NCSF/.MININCSF）的解码支持。[CR][CR]Nitro Composer 声音格式（NCSF）是任天堂 DS 音乐的 PSF 风格，特别是通过 Nitro Composer 创建的音乐，Nitro Composer 是任天堂 DS Nitro SDK 的一部分，是一种类似于跟踪器的作曲家。</description>
+  </extension>
+</addon>

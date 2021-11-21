@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: GSF Audio Decoder
+# Addon id: audiodecoder.gsf
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-19 04:25+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-gsf/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "VIOGSF Audio Decoder"
+msgstr "VIOGSF 音频解码器"
+
+msgctxt "Addon Description"
+msgid "GSF is a addon for Kodi which adds the ability to play Game Boy Advance music files, the GSF format (MINIGSF and GSFLIB files). This player is based on the Visual Boy Advanced emulator, although the sound quality appears to be identical to Highly Advanced."
+msgstr "GSF 是 Kodi 的一个插件，它增加了播放 Game Boy Advance 音乐文件的能力，即 GSF 格式（MINIGSF 和 GSFLIB 文件）。该播放器基于 Visual Boy 高级仿真器，但音质似乎与 Hight Advanced 相同。"

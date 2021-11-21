@@ -1,0 +1,211 @@
+v19.0.0
+- Language update
+  - To allow also addon.xml content update by Weblate
+- Improved debian packaging
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v9.1.2
+- Language update from Weblate
+
+[B]Version 9.1.0[/B]
+- Update PVR API 7.0.2
+
+[B]Version 9.0.1[/B]
+Update: Remove p8-platform dependency
+Update: Use different socket implementation
+Update: Use std::thread
+Update: Use std::mutex
+Update: Remove p8 os header
+Update: Remove use of SAFE_DELETE and p8 util header
+Fixed: Fix proper return value if connected
+Update: Update inputstream API 3.0.1 - Fix wrong flags bit shift
+
+[B]Version 9.0.0[/B]
+Update: PVR API 7.0.2
+Fixed: Some compile warnings about missing ATTRIBUTE_HIDDEN
+
+[B]Version 8.0.0[/B]
+Update: GUI API 5.15.0
+
+[B]Version 7.0.0[/B]
+Update: PVR API 7.0.0
+Update: Rework addon to support new API interface
+Update: Code cleanup
+Update: Change settings.xml to new Kodi format
+Added: Message "Playback failed, please ensure you are using TV MOSAIC PLUS" if not PLUS (Note: possible to show also in other cases)
+
+[B]Version 6.0.0[/B]
+Update: PVR API 6.5.1
+Update: Global API 1.2.0
+
+[B]Version 5.2.9[/B]
+Update: PVR API 6.5.0
+
+[B]Version 5.2.8[/B]
+Update: PVR API 6.4.0
+Update: Add license name, forum url and source url to addon.xml
+Cleanup: Change source copyright to match SPDX
+Update: Minor cleanups
+
+[B]Version 5.2.7[/B]
+Update: PVR API 6.3.0
+
+[B]Version 5.2.6[/B]
+Added: GPL2 license file and show GPL2 on README.md
+Update: Debian build code
+Update: Some minor cleanups
+
+[B]Version 5.2.5[/B]
+Update: PVR API 6.2.0
+
+[B]Version 5.2.4[/B]
+Updated: language files from Transifex
+
+[B]Version 5.2.3[/B]
+Updated: language files from Transifex
+
+[B]Version 5.2.2[/B]
+Updated: language files from Transifex
+
+[B]Version 5.2.1[/B]
+Updated: language files from Transifex
+
+[B]Version 5.2.0[/B]
+Recompile for 6.1.0 PVR Addon API compatibility
+
+[B]Version 5.1.1[/B]
+Update build system version and cleanup
+Fix package check for Tiny XML
+Added AppVeyor for Windows related build tests
+
+[B]Version 5.1.0[/B]
+Update to GUI addon API v5.14.0
+
+[B]Version 5.0.0[/B]
+Update to PVR addon API v6.0.0
+
+[B]Version 4.7.2[/B]
+Added: PVR_RECORDING.iChannelUid and PVR_RECORDING.channelType support
+Added: Setting to change the addon update interval
+Fixed: deleted timers do not remain in the list as disabled
+Removed: start any time flag for EPG recurring timers when working with TVMosaic server due to behavior inconsistency
+
+[B]Version 4.7.1[/B]
+Added: Option to change default 'Prevent duplicate episodes' setting
+Fixed: Incorrect values written to the debug log file when changing addon settings
+Fixed: Long delay in updating recording status when selecting a currently active program to record ( #55630 )
+Fixed: Crash when deleting folder containing multiple TV Recordings ( #55750 )
+Fixed: Long delay in updating recording unwatched/watched/resume status icon after resetting the resume position
+
+[B]Version 4.7.0[/B]
+Added: support for set/get last played position in a recording
+
+[B]Version 4.6.4[/B]
+Bump tinyxml2 to version 6.2.0
+
+[B]Version 4.6.0[/B]
+Updated to PVR API v5.10.0
+
+[B]Version 4.5.2[/B]
+Updated to PVR API v5.9.0
+
+[B]Version 4.5.1[/B]
+Fixed: Reporting incorrect stream stats on 32 bits system
+
+[B]Version 4.5.0[/B]
+Updated to PVR API v5.8.0
+Added official TVMosaic compatibility
+
+[B]Version 4.4.0[/B]
+Updated to PVR API v5.7.0
+
+[B]Version 4.3.0[/B]
+Updated to PVR API v5.6.0
+
+[B]Version 4.2.0[/B]
+Updated to PVR API v5.3.0
+
+[B]Version 4.1.7[/B]
+Removed: Never used addon interface function
+
+[B]Version 4.1.6[/B]
+Changed: Update Debian package control
+Changed: PVR addon callback way
+
+[B]Version 4.1.5[/B]
+Changed: Removed old no more needed version functions
+
+[B]Version 4.1.4[/B]
+Changed: Set dependency versions automatic during build
+Changed: Removed never used kodi to addon functions
+Fixed: Build system
+
+[B]Version 4.1.3[/B]
+Fixed: First channel is not shown in the Guide view ( #81 )
+Fixed: Lock-up on RecTV and Tuning Channel after Idle ( leftover of #64 )
+
+[B]Version 4.1.2[/B]
+Fixed: Incorrectly displayed days of week when editing manual repeating timer ( leftover of #68 )
+
+[B]Version 4.1.1[/B]
+Fixed: Timer Rules incorrectly detected for manual/keyword based timers ( #68 )
+
+[B]Version 4.1.0[/B]
+Fixed: Crash when switching channels with timeshift enabled ( #69 )
+Fixed: Hangup after period of inactivity ( #64 )
+Fixed: Incorrect dvblink server version displayed in addon properties ( #66 )
+Fixed: Timer Rules incorrectly detected ( #68 )
+Changed: default value to "new only" when setting series recording ( #65 )
+Added: timeshift commands to libdvblnikremote
+Changed: dvblink channel id to string for compatibility with future dvblink versions
+Added: margin of 10 seconds to IsRealTimeStream and IsTimeshifting definitions
+General: code refactoring for easier maintenance
+
+[B]Version 4.0.0[/B]
+- Initial Kodi v18 version
+
+[B]Version 3.3.6[/B]
+Fixed: PVR_TIMER.iClientIndex handling bug
+
+[B]Version 3.3.5[/B]
+Fixed: Crash on startup with search timers
+Fixed: Incorrect disk space display if disk size is more than 2TB
+Fixed: tinyxml2 v4 compatibility (XML_NO_ERROR -> XML_SUCCESS)
+
+[B]Version 3.3.4[/B]
+Updated: language files from Transifex
+
+[B]Version 3.3.3[/B]
+Updated: language files from Transifex
+
+[B]Version 3.3.2[/B]
+Updated: language files from Transifex
+
+[B]Version 3.3.1[/B]
+Updated: language files from Transifex
+
+[B]Version 3.3.0[/B]
+Cmake: rename find_package kodi to Kodi
+
+[B]Version 3.2.2[/B]
+Fixed: includes
+
+[B]Version 3.2.1[/B]
+Added: transcoded recordings playback in DVBLink v6
+
+[B]Version 3.2.0[/B]
+Updated to PVR API v5.2.0
+
+[B]Version 3.1.0[/B]
+Fixed: Compatibility with Kodi Krypton PVR API
+Added: Support for the upcoming channel logos
+Fixed: Incorrect date/time presentation on Timer rules page
+
+[B]Version 3.0.1[/B]
+Updated: language files from Transifex
+
+[B]Version 3.0.0[/B]
+- Initial Kodi Krypton version.

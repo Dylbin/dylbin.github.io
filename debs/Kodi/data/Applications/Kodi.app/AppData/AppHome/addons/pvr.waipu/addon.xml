@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.waipu"
+  version="19.0.1"
+  name="waipu.tv PVR Client"
+  provider-name="flubshi">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.network" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/>
+    <import addon="script.module.inputstreamhelper" version="0.5.5"/>
+    <import addon="inputstream.adaptive" minversion="2.6.15"/>
+  </requires>
+  <extension
+    point="kodi.pvrclient"
+    library_darwin_embedded="pvr.waipu.19.0.1.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GNU General Public License. Version 2, June 1991</license>
+    <forum></forum>
+    <website>https://www.waipu.tv/</website>
+    <email></email>
+    <source>https://github.com/flubshi/pvr.waipu</source>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+      <screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+    </assets>
+    <news>
+- 19.0.1 Translations updates from Weblate
+- 19.0.0
+  - Translations updates from Weblate
+    - ko_kr
+    - Changed to allow also addon.xml content update by Weblate
+  - Cleanup and improve Debian packaging
+  - Minor cleanup on addon.xml (change en_US to en_GB)
+  - Changed test builds to 'Kodi 19 Matrix'
+  - Increased version to 19.0.0
+    - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+      This done to know easier to which Kodi the addon works.
+- 2.9.4 Set PVR Addon User-Agent
+- 2.9.3 Release bump
+- 2.9.2 Improve internal login handling
+- 2.9.1 Use UUIDv4 for device id
+- 2.9.0 Internal session handling changes, support device_id
+- 2.8.4 Implement series recording
+- 2.8.3 Store refresh token; do not log password
+- 2.8.2 Fix replay and recordable state
+    </news>
+    <summary lang="de_DE">waipu.tv PVR Client</summary>
+    <summary lang="en_GB">waipu.tv PVR Client</summary>
+    <description lang="de_DE">waipu.tv PVR Client. Hinweis: Dies ist kein offizielles Waipu-Plugin und steht nicht in Verbindung zur Exaring AG oder zu waipu.tv. Es wurde von Freiwilligen entwickelt.</description>
+    <description lang="en_GB">waipu.tv PVR Client. Note: This is not an official waipu plugin and not related to Exaring AG or waipu.tv. It was developed by volunteers.</description>
+  </extension>
+</addon>

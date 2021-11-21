@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="visualization.starburst"
+  version="19.0.0"
+  name="StarBurst"
+  provider-name="Team Kodi">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.visualization" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="xbmc.player.musicviz"
+    library_darwin_embedded="visualization.starburst.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/visualization.starburst</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/fanart.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+    </assets>
+    <summary lang="de_DE">StarBurst-Visualisierung</summary>
+    <summary lang="en_GB">StarBurst visualizer</summary>
+    <summary lang="ko_KR">StarBurst 시각화</summary>
+    <summary lang="zh_CN">星暴可视化效果</summary>
+    <description lang="de_DE">Starburst-Frequenz.</description>
+    <description lang="en_GB">Frequency giving stars burst.</description>
+    <description lang="ko_KR">주파수가 별 터뜨림.</description>
+    <description lang="zh_CN">恒星爆发的频率。</description>
+  </extension>
+</addon>

@@ -1,0 +1,61 @@
+# Kodi Media Center language file
+# Addon Name: Org Audio Decoder
+# Addon id: audiodecoder.organya
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-25 10:12+0000\n"
+"Last-Translator: Klojum <klojum@kodi.tv>\n"
+"Language-Team: Dutch <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-organya/nl_nl/>\n"
+"Language: nl_nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Organya Audio Decoder"
+msgstr "Organya audio decoder"
+
+msgctxt "Addon Description"
+msgid "Organya is a music format used in \"Cave Story\", created by the Japanese programmer \"Pixel\". As well as being used in the original game, there is a large and active Cave Story fan community which creates music in this format, both for standalone to play and for use in mods for the game.[CR][CR]This addon allows playing of .ORG files for this format."
+msgstr "Organya is een muziekformaat dat gebruikt wordt in \"Cave Story\", ontwikkeld door de Japanse programmeur \"Pixel\". Het wordt niet alleen in het originele spel gebruikt, maar er is ook een omvangrijke, actieve Cave Story fancommunity die muziek in dit formaat maakt, gewoon om af te spelen of ten behoeve van van mods voor het spel.[CR][CR]Deze add-on faciliteert het afspelen van .ORG bestanden met dit formaat."
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+msgctxt "#30000"
+msgid "Loop indefinitely"
+msgstr ""
+
+msgctxt "#30001"
+msgid "When enabled, plays either infinite or repeats with the following setting."
+msgstr "Wanneer ingeschakeld wordt er oneindig of op herhalen afgespeeld met de volgende instelling."
+
+msgctxt "#30002"
+msgid "Loop count"
+msgstr "Aantal herhalingen"
+
+msgctxt "#30003"
+msgid "The number of repetitions or as infinite."
+msgstr "Het aantal herhalingen of als oneindig."
+
+msgctxt "#30004"
+msgid "Infinity"
+msgstr "Oneindig"
+
+msgctxt "#30005"
+msgid "Fade time (ms)"
+msgstr "Tijdvervaging (ms)"
+
+msgctxt "#30006"
+msgid "Time at the end to reduce the volume."
+msgstr "Tijd aan het einde om het volume te verminderen."

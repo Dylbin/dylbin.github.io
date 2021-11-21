@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.nosefart"
+  version="19.0.0"
+  name="Nosefart Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.tools" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="nsf"
+    tags="true"
+    tracks="true"
+    extension=".nsf|.nsfstream"
+    library_darwin_embedded="audiodecoder.nosefart.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.nosefart</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">Nosefart (NSF) lydafkoder</summary>
+    <summary lang="de_DE">Nosefart (NSF) Audio Decoder</summary>
+    <summary lang="en_GB">Nosefart (NSF) Audio Decoder</summary>
+    <summary lang="ko_KR">Nosefart(NSF) 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер Nosefart (NSF)</summary>
+    <summary lang="zh_CN">Nosefart（NSF）音频解码器</summary>
+    <description lang="da_DK">Nintendo Sound Format (NSF) er et containerformat, der indeholder lydkode rippet fra ROM'er fra spil til Nintendo Entertainment System. NES havde en temmelig god lydengine for sin tid, der understøttede 2 pulsbølger, 1 trekantbølge, en støjkanal og DPCM-kanal, som er en rå 7-bit counter raw sample-afspilning.</description>
+    <description lang="de_DE">Das Nintendo Sound Format (NSF) ist ein Containerformat, das Audiocode enthält, der aus den ROMs von Spielen für das Nintendo Entertainment System gerippt wurde. Das NES hatte für seine Zeit eine ziemlich gute Sound-Engine, die 2 Pulswellen, 1 Dreieckwelle, einen Rauschkanal und einen DPCM-Kanal unterstützte, bei dem es sich um eine rohe 7-Bit-Zähler-Raw-Sample-Wiedergabe handelt.</description>
+    <description lang="en_GB">The Nintendo Sound Format (NSF) is a container format, that holds audio code ripped from the ROMs of games for the Nintendo Entertainment System. The NES had a pretty good sound engine for its time supporting 2 pulse-waves, 1 triangle wave, a noise channel, and DPCM channel which is a raw 7-bit counter raw sample playback.</description>
+    <description lang="ko_KR">NSF(Nintendo Sound Format)는 Nintendo Entertainment System용 게임의 ROM에서 추출한 오디오 코드를 저장하는 컨테이너 형식입니다. NES는 2개의 펄스파, 1개의 삼각파, 노이즈 채널 및 원시 7비트 카운터 원시 샘플 재생인 DPCM 채널을 지원하는 동안 꽤 우수한 사운드 엔진을 가지고 있었습니다.</description>
+    <description lang="ru_RU">Nintendo Sound Format (NSF) - это формат контейнера, в котором хранится аудиокод, извлеченный из ПЗУ игр для Nintendo Entertainment System. NES имела довольно хороший звуковой движок для своего времени, поддерживающий 2 импульсные волны, 1 треугольную волну, канал шума и канал DPCM, который представляет собой воспроизведение необработанного 7-битного счётчика необработанных сэмплов.</description>
+    <description lang="zh_CN">任天堂声音格式（NSF）是一种容器格式，用于保存任天堂娱乐系统游戏 ROM 中的音频代码。NES 当时有一个相当不错的声音引擎，支持2个脉冲波、1个三角波、一个噪声通道和 DPCM 通道，这是一个7比特原始样本播放。</description>
+  </extension>
+</addon>

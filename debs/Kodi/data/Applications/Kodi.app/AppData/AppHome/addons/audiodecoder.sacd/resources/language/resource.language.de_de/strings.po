@@ -1,0 +1,197 @@
+# Kodi Media Center language file
+# Addon Name: SACD Audio Decoder
+# Addon id: audiodecoder.sacd
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: Kai Sommerfeld <kai.sommerfeld@gmx.com>\n"
+"Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-sacd/de_de/>\n"
+"Language: de_de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Super Audio CD ISO image"
+msgstr "Super Audio CD ISO-Image"
+
+msgctxt "Addon Description"
+msgid "This addon allows Kodi to read content from a Super Audio CD ISO image.[CR][CR]Super Audio CD (SACD) is a read-only optical disc format for audio storage, introduced in 1999, developed jointly by Sony and Philips Electronics to be the successor to the Compact Disc.[CR][CR]The SACD format offers more audio channels (e.g. surround sound), a higher bit rate, and longer playing time than a conventional CD."
+msgstr "Mit diesem Addon kann Kodi Inhalte von einem Super Audio CD ISO-Image lesen.[CR][CR]Super Audio CD (SACD) ist ein schreibgeschütztes optisches Disc-Format für die Audiospeicherung, das 1999 eingeführt wurde und von Sony und Philips Electronics gemeinsam als Nachfolger der Compact Disc entwickelt wurde.[CR][CR]Das SACD-Format bietet mehr Audiokanäle (z. B. Surround-Sound), eine höhere Bitrate und eine längere Wiedergabezeit als eine herkömmliche CD."
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+#. Settings slider to change/adjust main volume about played songs, before given to Kodi.
+msgctxt "#30020"
+msgid "Volume adjust"
+msgstr "Lautstärke einstellen"
+
+#. Help text to slider setting on id 30020.
+msgctxt "#30021"
+msgid "To change speaker volume with setting value during playback."
+msgstr "Ändern der Lautsprecherlautstärke mit dem Einstellwert während der Wiedergabe."
+
+#. Settings slider to change/adjust LFE volume about played songs, before given to Kodi.
+msgctxt "#30022"
+msgid "LFE adjust"
+msgstr "LFE einstellen"
+
+#. Help text to slider setting on id 30022.
+msgctxt "#30023"
+msgid "To change LFE volume with setting value during playback."
+msgstr "Ändern der LFE-Lautstärke mit dem Einstellwert während der Wiedergabe."
+
+#. Settings list selection about used samplerate where given to Kodi
+msgctxt "#30024"
+msgid "PCM Samplerate"
+msgstr "PCM-Abtastrate"
+
+#. Help text to list selection setting on id 30024.
+msgctxt "#30025"
+msgid "Sample rate to which the stream is reduced."
+msgstr "Abtastrate, auf die das Signal reduziert wird."
+
+#. Settings list selection about DSD2PCM mode, where does the SACD data conversion and downsampling to format used for playback in Kodi
+msgctxt "#30026"
+msgid "DSD2PCM mode"
+msgstr "DSD2PCM-Modus"
+
+#. Help text to slider setting on id 30026.
+msgctxt "#30027"
+msgid "Processing mode of the stream to perform the best possible resampling."
+msgstr "Verarbeitungsmodus des streams um bestmögliches resampling durchzuführen."
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30028"
+msgid "Multistage (32fp)"
+msgstr "Mehrstufig (32fp)"
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30029"
+msgid "Multistage (64fp)"
+msgstr "Mehrstufig (64fp)"
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30030"
+msgid "Direct (32fp, 30kHz lowpass)"
+msgstr "Direkt (32 fp, 30 kHz Tiefpass)"
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30031"
+msgid "Direct (64fp, 30kHz lowpass)"
+msgstr "Direkt (64 fp, 30 kHz Tiefpass)"
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30032"
+msgid "Installable FIR (32fp)"
+msgstr "Installierbare FIR (32fp)"
+
+#. List selection value about DSD2PCM mode, by setting defined with id 30026
+msgctxt "#30033"
+msgid "Installable FIR (64fp)"
+msgstr "Installierbare FIR (64fp)"
+
+#. Settings button to open file selection dialog about a usable FIR filter
+msgctxt "#30034"
+msgid "Select file with usable FIR filter"
+msgstr "Datei mit verwendbarem FIR-Filter"
+
+#. Help text to list selection setting on id 30034.
+msgctxt "#30035"
+msgid "To select finite impulse response (FIR) filter data stored in a file."
+msgstr "Auswählen von FIR-Filterdaten (Finite Impulse Response), die in einer Datei gespeichert sind."
+
+#. Header label to use one file selection dialog, where opened on button defined with id 30034
+msgctxt "#30036"
+msgid "FIR filter file"
+msgstr "FIR-Filterdatei"
+
+#. To select prefereable area which should used, e.g. only stereo (and as fallback multichannel, if stereo not available)
+#. or to select multichannel (and as fallback stereo, if multichannel not available) or allow both (All) where default.
+msgctxt "#30037"
+msgid "Preferable area"
+msgstr "Bevorzugter Bereich"
+
+#. Help text to list selection setting on id 30037.
+msgctxt "#30038"
+msgid "To select the songs for the respective number of speakers."
+msgstr "Auswahl der Songs für die jeweilige Anzahl von Lautsprechern."
+
+#. List selection value about preferable area, by setting defined with id 30037
+msgctxt "#30039"
+msgid "All"
+msgstr "Alle"
+
+#. List selection value about preferable area, by setting defined with id 30037
+msgctxt "#30040"
+msgid "Stereo"
+msgstr "Stereo"
+
+#. List selection value about preferable area, by setting defined with id 30037
+msgctxt "#30041"
+msgid "Multichannel"
+msgstr "Mehrkanal"
+
+#. List selection value about samplerate, by setting defined with id 30024
+msgctxt "#30042"
+msgid "44.1 kHz"
+msgstr "44.1 kHz"
+
+#. List selection value about samplerate, by setting defined with id 30024
+msgctxt "#30043"
+msgid "88.2 kHz"
+msgstr "88.2 kHz"
+
+#. List selection value about samplerate, by setting defined with id 30024
+msgctxt "#30044"
+msgid "176.4 kHz"
+msgstr "176.4 kHz"
+
+#. List selection value about samplerate, by setting defined with id 30024
+msgctxt "#30045"
+msgid "352.8 kHz"
+msgstr "352.8 kHz"
+
+#. Boolean setting to enable sort all stereo tracks first, then all multichannel tracks.
+msgctxt "#30050"
+msgid "Separate stereo and multichannel tracks"
+msgstr "Stereo- und Multikanal-Tracks separieren"
+
+#. Help text to boolean setting on id 30050.
+msgctxt "#30051"
+msgid "Sort stereo tracks first, then all multichannel tracks."
+msgstr "Erst alle Stereo-Tracks, dann alle Multikanal-Tracks einsortieren."
+
+#. Boolean setting to allow play fallback if Multichannel selected and only Stereo available, or the other direction
+msgctxt "#30052"
+msgid "Fall back when preferred track area is empty"
+msgstr ""
+
+#. Help text to boolean setting on id 30052.
+msgctxt "#30053"
+msgid "If preferred tracks (stereo or multichannel) are not available, a different method is used to fall back."
+msgstr ""
+
+#. Format label about selectable volume in dB, for settings defined with label id 30020 and 30022
+msgctxt "#30070"
+msgid "{0:.0f} dB"
+msgstr "{0:.0f} dB"
+
+#~ msgctxt "#30070"
+#~ msgid "{0:.0f} db"
+#~ msgstr "{0:.0f} db"
+
+#~ msgctxt "#30070"
+#~ msgid "{0:.0f}db"
+#~ msgstr "{0:.0f}db"

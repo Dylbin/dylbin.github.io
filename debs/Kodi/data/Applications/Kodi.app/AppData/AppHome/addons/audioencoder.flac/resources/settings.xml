@@ -1,0 +1,17 @@
+<settings version="1">
+  <section id="addon" label="0" help="0">
+    <category id="main" label="128" help="0">
+      <group id="1" label="0">
+        <setting id="level" type="integer" label="30000" help="30001">
+          <default>5</default>
+          <constraints>
+            <minimum>0</minimum>
+            <step>1</step>
+            <maximum>8</maximum>
+          </constraints>
+          <control type="spinner" format="string"/>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

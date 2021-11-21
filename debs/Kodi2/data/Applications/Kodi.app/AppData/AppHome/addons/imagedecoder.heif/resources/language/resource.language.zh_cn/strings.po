@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: HEIF image decoder
+# Addon id: imagedecoder.heif
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-19 04:30+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-image-decoders/imagedecoder-heif/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "HEIF file format decoder"
+msgstr "HEIF 文件格式解码器"
+
+msgctxt "Addon Description"
+msgid "High Efficiency Image File Format (HEIF) is a file format employing HEVC (h.265) image coding for the best compression ratios currently possible.[CR][CR]Support for this is provided by ISO/IEC 23008-12:2017 compliant libheif."
+msgstr "高效图像文件格式（HEIF）是一种采用 HEVC（h.265）图像编码的文件格式，可获得当前可能的最佳压缩比。[CR][CR]此支持由符合 ISO/IEC 23008-12:2017 标准的 libheif 提供。"

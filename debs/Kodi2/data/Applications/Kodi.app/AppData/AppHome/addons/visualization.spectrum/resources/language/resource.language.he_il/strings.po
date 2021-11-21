@@ -1,0 +1,114 @@
+# XBMC Media Center language file
+# Addon Name: OpenGL Spectrum
+# Addon id: visualization.glspectrum
+# Addon Provider: Team XBMC
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-16 18:29+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew (Israel) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-spectrum/he_il/>\n"
+"Language: he_il\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.7.1\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing a rotating 3D Spectrum Analyzer"
+msgstr "DirectX Spectrum זהו חיזוי אשר מציג סיבובי 3D Spectrum Analyzer"
+
+msgctxt "Addon Description"
+msgid "Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.&#10;It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great"
+msgstr "Spectrum זהו חיזוי אשר מציג סיבובי 3D Spectrum Analyzer אשר זז לצלילי המוזיקה שיוצר אפקט גלים לרוחב רשת הספקטרום.&#10;יש אפשרות גם להגדיר את גובה פס הספקטרום, את המהירות, ואת התנהגות הפסים (filled, points, wire frame) וזהו חיזוי נחמד קל משקל לא מעמיס על המעבד ונראה נהדר."
+
+msgctxt "#30000"
+msgid "Mode"
+msgstr "מצב"
+
+msgctxt "#30001"
+msgid "Filled"
+msgstr "מלא"
+
+msgctxt "#30002"
+msgid "Wireframe"
+msgstr "מסגרת קווים"
+
+msgctxt "#30003"
+msgid "Points"
+msgstr "נקודות"
+
+msgctxt "#30004"
+msgid "Bar Height"
+msgstr "גובה פס"
+
+msgctxt "#30005"
+msgid "Small"
+msgstr "קטן"
+
+msgctxt "#30006"
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgctxt "#30007"
+msgid "Big"
+msgstr "גדול"
+
+msgctxt "#30008"
+msgid "Very Big"
+msgstr "גדול מאוד"
+
+msgctxt "#30009"
+msgid "Speed"
+msgstr "מהירות"
+
+msgctxt "#30010"
+msgid "Very Slow"
+msgstr "איטית מאוד"
+
+msgctxt "#30011"
+msgid "Slow"
+msgstr "איטית"
+
+msgctxt "#30012"
+msgid "Default"
+msgstr "ברירת מחדל"
+
+msgctxt "#30013"
+msgid "Fast"
+msgstr "מהירה"
+
+msgctxt "#30014"
+msgid "Very Fast"
+msgstr "מהירה מאוד"
+
+msgctxt "#30015"
+msgid "Point size"
+msgstr "גודל נקודה"
+
+msgctxt "#30016"
+msgid "{0:d} pixel"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Rotation position"
+msgstr "מיקום סיבוב"
+
+msgctxt "#30018"
+msgid "{0:d}°"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Turn continuously"
+msgstr "להמשיך לפנות"
+
+#~ msgctxt "#30016"
+#~ msgid "%i pixel"
+#~ msgstr "%i פיקסלים"
+
+#~ msgctxt "#30018"
+#~ msgid "%i°"
+#~ msgstr "%i°‎"

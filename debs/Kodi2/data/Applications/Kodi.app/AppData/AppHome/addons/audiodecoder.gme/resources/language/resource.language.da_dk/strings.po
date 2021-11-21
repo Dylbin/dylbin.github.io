@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: GME Audio Decoder
+# Addon id: audiodecoder.gme
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-08 14:30+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-gme/da_dk/>\n"
+"Language: da_dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Game Music Emu Audio Decoder"
+msgstr "Game Music Emu lyddekoder"
+
+msgctxt "Addon Description"
+msgid "Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a \"retro\" feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr "Game Music Emu (GME)-format bruges til at efterligne lydudgangen fra forskellige videospilkonsoller, der var populære i 1980'erne og 1990'erne. Det giver en \"retro\" fornemmelse af lyden.[CR][CR][B]Bemærk:[/B][CR]Ikke alle filformater giver længde, og i dette tilfælde er den indstillet til 2,5 minutter.[CR][ CR][B]Understøttede formater:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX hjemmecomputer/andre Z80-systemer (ingen FM-lyd)[CR]- NSF/NSFE: Nintendo NES/Famicom (med VRC 6, Namco 106 og FME-7 lyd)[CR]- SAP: Atari-systemer, der bruger POKEY-lydchip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive, BBC Micro"

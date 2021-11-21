@@ -1,0 +1,73 @@
+# Kodi Media Center language file
+# Addon Name: PictureIt
+# Addon id: visualization.pictureit
+# Addon Provider: linuxwhatelse
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.pictureit\n"
+"Report-Msgid-Bugs-To: tadly@linuxwhatelse.de\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ro_ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgctxt "Addon Summary"
+msgid "PictureIt - Kodi Visualization"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PictureIt is supposed to make listening to music more elegant and less flashy.[CR]The idea is to take random images YOU selected and display them alongside a simple spectrum at the bottom.[CR]Simple right?[CR][CR]Features:[CR]- Select a local directory containing your images (If sub-folders are present, those will be used as \"Preset\")[CR]- Update images by interval[CR]- Update images on new track[CR]- Change the transition time[CR]- Enable/Disable the spectrum[CR]- Enable/Disable a settle spectrum-background[CR]- Change the spectrums: Width, Bottom-Padding, Animation-Speed"
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Presets root directory"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Transition time (ms)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Update on new track"
+msgstr ""
+
+msgctxt "#30004"
+msgid "New image by interval"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Image update interval (sec)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Spectrum"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Enable spectrum"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Show spectrum background"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Width"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Padding bottom"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Animation speed"
+msgstr ""

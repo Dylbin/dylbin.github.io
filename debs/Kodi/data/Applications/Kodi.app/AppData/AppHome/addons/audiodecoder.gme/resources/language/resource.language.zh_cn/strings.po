@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: GME Audio Decoder
+# Addon id: audiodecoder.gme
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-gme/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Game Music Emu Audio Decoder"
+msgstr "游戏音乐 Emu 音频解码器"
+
+msgctxt "Addon Description"
+msgid "Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a \"retro\" feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr "游戏音乐 Emu（GME）格式用于模拟20世纪80年代和90年代流行的各种视频游戏机的音频输出。它给声音一种“复古”的感觉。[CR][CR][B]注：[/B][CR]并非所有文件格式都给出时长，在这种情况下，它被设置为2.5分钟。[CR][CR][B]支持的格式：[/B][CR]- AY：ZX Spectrum/Amstrad CPC[CR]- GBS：任天堂 Game Boy[CR]- GYM：世嘉 Genesis/Mega Drive[CR]- HES：NEC TurboGrafx-16/PC Engine[CR]- KSS：MSX 家用电脑/其他Z80系统（无FM声音）[CR]- NSF/NSFE：任天堂 NES/Famicom（带有VRC 6、Namco 106 和 FME-7 声音）[CR]- SAP：雅达利系统使用 POKEY sound 芯片[CR]- SPC：超级任天堂/Super Famicom[CR]- VGM/VGZ：世嘉 Master System/Mark III、世嘉Genesis/Mega Drive、BBC Micro"

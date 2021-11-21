@@ -1,0 +1,138 @@
+# Kodi Media Center language file
+# Addon Name: pvr.zattoo
+# Addon id: pvr.zattoo
+# Addon Provider: trummerjo
+
+msgid ""
+msgstr ""
+
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Username"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Favourite channels only"
+msgstr "Load only channels which are in the favourite list"
+
+msgctxt "#30003"
+msgid "Stream type"
+msgstr "The stream type"
+
+msgctxt "#30004"
+msgid "dash"
+msgstr ""
+
+msgctxt "#30005"
+msgid "hls"
+msgstr ""
+
+msgctxt "#30006"
+msgid "dash_widevine"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Parental pin"
+msgstr "Parental pin"
+
+msgctxt "#30010"
+msgid "Enable Dolby"
+msgstr "Enable support for dolby"
+
+msgctxt "#30014"
+msgid "Zattoo"
+msgstr ""
+
+msgctxt "#30015"
+msgid "General"
+msgstr ""
+
+msgctxt "#30099"
+msgid "Provider"
+msgstr "The provider of the Zattoo service"
+
+msgctxt "#30100"
+msgid "Zattoo"
+msgstr ""
+
+msgctxt "#30101"
+msgid "Netplus"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Quickline"
+msgstr ""
+
+msgctxt "#30103"
+msgid "m-net"
+msgstr ""
+
+msgctxt "#30104"
+msgid "WALY.TV"
+msgstr ""
+
+msgctxt "#30105"
+msgid "meinewelt.cc"
+msgstr ""
+
+msgctxt "#30106"
+msgid "BBV-tv.net"
+msgstr ""
+
+msgctxt "#30107"
+msgid "VTXtv.ch"
+msgstr ""
+
+msgctxt "#30108"
+msgid "myvisiontv.ch"
+msgstr ""
+
+msgctxt "#30109"
+msgid "GLATTvision.ch"
+msgstr ""
+
+msgctxt "#30110"
+msgid "SAKtv.ch"
+msgstr ""
+
+msgctxt "#30111"
+msgid "NetCologne"
+msgstr ""
+
+msgctxt "#30112"
+msgid "EWE.de"
+msgstr ""
+
+msgctxt "#30113"
+msgid "quantum TV"
+msgstr ""
+
+msgctxt "#30114"
+msgid "Salt.ch"
+msgstr ""
+
+msgctxt "#30115"
+msgid "swb TV"
+msgstr ""
+
+msgctxt "#30116"
+msgid "1&1 TV"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Missing username or password"
+msgstr "Missing username or password"
+
+msgctxt "#30201"
+msgid "Login failed!"
+msgstr "Login failed!"
+

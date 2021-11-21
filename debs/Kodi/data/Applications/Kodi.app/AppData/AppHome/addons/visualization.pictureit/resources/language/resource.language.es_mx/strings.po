@@ -1,0 +1,74 @@
+# Kodi Media Center language file
+# Addon Name: PictureIt
+# Addon id: visualization.pictureit
+# Addon Provider: linuxwhatelse
+msgid ""
+msgstr ""
+"Project-Id-Version: visualization.pictureit\n"
+"Report-Msgid-Bugs-To: tadly@linuxwhatelse.de\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-04-03 07:37+0000\n"
+"Last-Translator: Edson Armando <edsonarmando78@outlook.com>\n"
+"Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualisation-pictureit/es_mx/>\n"
+"Language: es_mx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+
+msgctxt "Addon Summary"
+msgid "PictureIt - Kodi Visualization"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PictureIt is supposed to make listening to music more elegant and less flashy.[CR]The idea is to take random images YOU selected and display them alongside a simple spectrum at the bottom.[CR]Simple right?[CR][CR]Features:[CR]- Select a local directory containing your images (If sub-folders are present, those will be used as \"Preset\")[CR]- Update images by interval[CR]- Update images on new track[CR]- Change the transition time[CR]- Enable/Disable the spectrum[CR]- Enable/Disable a settle spectrum-background[CR]- Change the spectrums: Width, Bottom-Padding, Animation-Speed"
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30001"
+msgid "Presets root directory"
+msgstr "Carpeta raíz de preajustes"
+
+msgctxt "#30002"
+msgid "Transition time (ms)"
+msgstr "Tiempo de transición (ms)"
+
+msgctxt "#30003"
+msgid "Update on new track"
+msgstr "Actualizar con cada nueva canción"
+
+msgctxt "#30004"
+msgid "New image by interval"
+msgstr "Nueva imagen en intervalos"
+
+msgctxt "#30005"
+msgid "Image update interval (sec)"
+msgstr "Intervalo de actualización de imagen (seg)"
+
+msgctxt "#30006"
+msgid "Spectrum"
+msgstr "Espectro"
+
+msgctxt "#30007"
+msgid "Enable spectrum"
+msgstr "Activar espectro"
+
+msgctxt "#30008"
+msgid "Show spectrum background"
+msgstr "Mostrar fondo del espectro"
+
+msgctxt "#30009"
+msgid "Width"
+msgstr "Ancho"
+
+msgctxt "#30010"
+msgid "Padding bottom"
+msgstr "Espacio respecto al fondo"
+
+msgctxt "#30011"
+msgid "Animation speed"
+msgstr "Velocidad de animación"

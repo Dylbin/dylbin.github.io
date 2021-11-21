@@ -1,0 +1,34 @@
+# Kodi Media Center language file
+# Addon Name: Flac Audio Encoder
+# Addon id: audioencoder.flac
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-17 02:30+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audioencoder-flac/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "FLAC (Free Lossless Audio Codec) Encoder"
+msgstr "FLAC（免费无损音频编解码器）编码器"
+
+msgctxt "Addon Description"
+msgid "FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see supported devices) just like you would an MP3 file.[CR][CR]FLAC stands out as the fastest and most widely supported lossless audio codec, and the only one that at once is non-proprietary, is unencumbered by patents, has an open-source reference implementation, has a well documented format and API, and has several other independent implementations."
+msgstr "FLAC 代表免费的无损音频编解码器，一种类似于 MP3 的音频格式，但无损，这意味着音频在 FLAC 中被压缩而质量没有任何损失。它与 Zip 的工作原理类似，但 FLAC 专为音频设计，因而有更好的压缩效果，您可以在您喜爱的播放器（或您的车载或家用立体声设备，请参阅支持的设备）中播放压缩的 FLAC 文件，就像播放 MP3 文件一样。[CR][CR]FLAC 是速度最快、支持最广泛的无损音频编解码器，也是唯一一款同时非专利、不受专利限制、具有开源参考实现、具有完善的格式和 API 以及其他几个独立实现的编解码器。"
+
+msgctxt "#30000"
+msgid "Compression level"
+msgstr "压缩等级"
+
+msgctxt "#30001"
+msgid "FLAC uses a compression level parameter that varies from 0 (fastest) to 8 (slowest). The compressed files are always perfect, lossless representations of the original data. Although the compression process involves a tradeoff between speed and size, the decoding process is always quite fast and not dependent on the level of compression."
+msgstr "FLAC使用的压缩等级参数为 0 (最快) 到 8 (最慢)。被压缩的压缩文件总是原始数据完整无损的表示。尽管压缩过程涉及速度和大小折衷，但解码速度始终很快，且与压缩等级无关。"

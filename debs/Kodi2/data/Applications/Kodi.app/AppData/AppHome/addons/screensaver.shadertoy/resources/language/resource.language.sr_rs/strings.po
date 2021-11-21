@@ -1,0 +1,277 @@
+# Kodi Media Center language file
+# Addon Name: Screensaver Shadertoy
+# Addon id: screensaver.shadertoy
+# Addon Provider: afedchin
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/screensaver.shadertoy/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr_rs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgctxt "Addon Summary"
+msgid "Random screensavers from Shadertoy"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Use the best shaders in the world with Shadertoy and add them if you want."
+msgstr ""
+
+msgctxt "#30000"
+msgid "ShaderToy"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Ball"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Ball Of Fire"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Bleepy Blocks"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Bob Scanline"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Blobs"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Blue Fire"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Cellular"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Classic RGB Plasma"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Coloured Circles"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Dance Floor"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Dot Dot Dot"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Effect Ringblobs"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Ether"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Fire"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Flaring 1"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Flaring 2"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Flaring 3"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Flaring 4"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Flaring 5"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Fractal Tiling"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Infinite Fall"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Input Time"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Interstellar"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Interweaving Sine Bands"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Julia Trap"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Layers Of Plasma"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Liquid Spectrum"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Noise Animation - Electric"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Noise Animation - Flow"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Noise Animation - Lava"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Noise Animation - Watery"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Overly Satisfying"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Plasma Circles"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Plasma Triangles"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Plasma Matrix Spin"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Pixellated Plasma"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Silexars Creation"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Sky at Night"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Sphere"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Star Tunnel"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Vector Field"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Venus"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Watch It Burn"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Water Caustic"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Wiggly (try mouse)"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Worley Noise Waters"
+msgstr ""
+
+msgctxt "#30100"
+msgid "Random"
+msgstr ""
+
+msgctxt "#30101"
+msgid "General"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30103"
+msgid "Use your own shader, e.g. from https://www.shadertoy.com"
+msgstr ""
+
+msgctxt "#30104"
+msgid "Selected shader code not found!"
+msgstr ""
+
+msgctxt "#30200"
+msgid "Choose one yourself"
+msgstr ""
+
+msgctxt "#30201"
+msgid "Shader"
+msgstr ""
+
+msgctxt "#30202"
+msgid "iChannel 1"
+msgstr ""
+
+msgctxt "#30203"
+msgid "iChannel 2"
+msgstr ""
+
+msgctxt "#30204"
+msgid "iChannel 3"
+msgstr ""
+
+msgctxt "#30205"
+msgid "iChannel 4"
+msgstr ""
+
+msgctxt "#30211"
+msgid "Shader as *.glsl"
+msgstr ""
+
+msgctxt "#30212"
+msgid "iChannel 1 as *.png"
+msgstr ""
+
+msgctxt "#30213"
+msgid "iChannel 2 as *.png"
+msgstr ""
+
+msgctxt "#30214"
+msgid "iChannel 3 as *.png"
+msgstr ""
+
+msgctxt "#30215"
+msgid "iChannel 4 as *.png"
+msgstr ""

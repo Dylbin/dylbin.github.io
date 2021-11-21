@@ -1,0 +1,600 @@
+v19.0.0
+- Translations updates from Weblate
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v7.3.4
+- Update translation files
+
+v7.3.1
+- Implement missing methods to allow pause and seek with livestream
+
+v7.3.0
+- Update PVR API 7.1.0
+
+v7.2.0
+- Update PVR API 7.0.2
+
+v7.1.1
+- Fix spelling error identified by lintian
+
+v7.1.0
+- Update GUI API 5.15.0
+
+v7.0.5
+- Disable notification about the connection state when the screen is desactivated
+
+v7.0.4
+- Show coverart of recording instead the preview when possible
+
+v7.0.2
+- Improve hooks for recording and guide
+- Fix serie flag
+
+v7.0.0
+- Update PVR API 7.0.0
+- Rework addon to support new API interface
+
+v6.4.4
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+
+v6.4.3
+- Update PVR API 6.5.0
+
+v6.4.2
+- Update PVR API 6.4.0
+
+v6.4.1
+- Correct license to GPL2 or later on addon.xml
+
+v6.4.0
+- Enable support for recording file size
+
+v6.3.3
+- Update PVR API 6.3.0
+
+v6.3.2
+- Update Debian build code
+- Update with some minor cleanups
+- Add license name forum url and source url to addon.xml
+- Add GPL2 license file and show GPL2 on README.md
+
+v6.3.1
+- Sync upstream cppmyth (2.14.1)
+
+v6.2.7
+- Update PVR API 6.2.0
+
+v6.2.6
+- Fix allow backend shutdown when GUI is idle (screensaver activated)
+- Remove setting block_shutdown
+- Add new setting allow_shutdown default TRUE
+
+v6.2.5
+- Fix crash on double close an invalid socket
+
+v6.2.4
+- Fix to retrieve the last saved bookmark
+
+v6.2.2
+- Show label of recording info hook
+
+v6.2.0
+- Recompile for 6.1.0 PVR Addon API compatibility
+
+v6.1.3
+- Remove unused dependencies
+
+v6.1.2
+- Sync upstream cppmyth (2.12.6)
+
+v6.1.1
+- Update build system version
+- Change header include way
+
+v6.1.0
+- Update to GUI addon API v5.14.0
+
+v6.0.0
+- Update to PVR addon API v6.0.0
+
+v5.10.7
+- Force allow shutdown when deactivating the gui
+
+v5.10.6
+- Allow user to configure color display for damaged recordings
+- Add setting option be sent all EDL as SCENE rather than COMM_BREAK
+
+v5.10.5
+- Sync upstream cppmyth (2.12.1)
+
+v5.10.4
+- Try to fix the player hanging after the liveTV conflict
+- Get the best candidate in EPG for the new timer
+- Enable support for MythTV 30
+
+v5.10.3
+- Add the implicit marks for begin or end of EDL
+
+v5.10.2
+- Add option to set default recording group as root for recordings
+- Sync upstream cppmyth (2.12.0)
+
+v5.10.0
+- No longer handle file caching
+
+v5.9.2
+- Fix initial state of the addon at startup
+
+v5.9.1
+- Fix display for video flags
+- Sync upstream cppmyth (2.11.2)
+- Announce as frontend
+- Add hack to work around the PVR startup flow issue
+
+v5.9.0
+- Builtin files cache is deprecated: Prefer file caching supplied by Kodi
+- Builtin files cache is disabled by default (see advanced settings)
+
+v5.8.19
+- Fix played position caused by a non zero startTime for recording stream.
+
+v5.8.18
+- Add new hook to show recording status
+- Add new hook to show broadcast status
+- Update translations for FR,ES,DA,IT,DE,NL
+- Supply fr_FR map for EIT categories
+
+v5.8.16
+- Clean recorded directory name containing special characters
+
+v5.8.15
+- Update default settings
+
+v5.8.14
+- Fix time conversion for 32 bits platform
+
+v5.8.13
+- Update Danish translation
+
+v5.8.12
+- Handle damaged recordings
+- Add workaround to silent API error introduced in 5.8.8
+
+v5.8.11
+- Add a workaround to prevent the backend from being stressed by repeated calls from PVR
+
+v5.8.10
+- Fix timeshift info for recording being recorded
+
+v5.8.9
+- Sync upstream cppmyth (2.10.2)
+
+v5.8.8
+- Return PVR_ERROR_FAILED on API calls while addon is not initialized
+
+v5.8.6
+- Removing the dialog to notify connection failure because a deadlock
+
+v5.8.5
+- Implement new requirements for timeshift support
+- Fix GUI deadlock opening dialog to delete last played recording
+
+v5.8.2
+- Fix playback stop when seeking beyond the end of recorded stream
+
+v5.8.1
+- Updated language files from Transifex
+
+v5.8.0
+- Updated to PVR addon API v5.10.0
+
+v5.7.3
+- Updated to PVR addon API v5.9.0
+
+v5.7.2
+- Sync upstream cppmyth (2.10.1)
+
+v5.7.1
+- Upgrade dependency zlib to version 1.2.11
+
+v5.7.0
+- Sync upstream cppmyth 2.10.0
+- Default start/end time of recording rule for backend pre 0.28
+
+v5.6.0
+- Updated to PVR addon API v5.8.0
+
+v5.5.0
+- Enable radio flag for channel with suffix '-[RADIO]'
+
+v5.4.4
+- Fix cppmyth build for uwp
+
+v5.4.3
+- Sync upstream cppmyth (2.9.6)
+
+v5.4.0
+- Updated to PVR addon API v5.7.0
+
+v5.3.0
+- Updated to PVR addon API v5.6.0
+
+v5.2.0
+- Updated to PVR addon API v5.5.0
+
+v5.1.3
+- Discard upcoming with invalid channel
+
+v5.1.2
+- Sync upstream cppmyth (2.9.5)
+- Fix http chunked data transfer
+
+v5.1.0
+- Updated to PVR addon API v5.3.0
+
+v5.0.12
+- Remove of never used addon interface function
+
+v5.0.11
+- Update Debian package control
+- PVR addon callback way changes
+- removed old no more needed version functions
+- set dependency versions automatic during build
+- removed never used kodi to addon functions
+- build system fixes
+
+v5.0.10
+- get rid of _USE_32BIT_TIME_T
+
+v5.0.9
+- Add new setting to enable/disable usage of backend bookmarks
+- Fix install path for debian build
+- No longer handle demuxing
+- Launch client init in background
+- New setting to show/hide liveTV recordings
+- Fix: Do not open dialog while playing
+- Fix french translations
+- Sync cppmyth upstream (2.9.4)
+- Silent failed bookmark
+- Sync demuxer upstream
+- Cleanup addon api
+- Fix error no error reading bookmark
+- Fix incorrect hours to display when g_bUseAirdate was set
+- Fill flag 'has bookmark' on recordings
+- An option to prompt to delete a recording after finishing it
+- Adding new section 'Preferences' in settings
+- Upgrade the demuxer to support hevc stream
+- Add a dialog to retry connect the backend on startup
+- Replaced custom Dialog class with standard Kodi API call
+
+v5.0.0
+- Initial Kodi v18 version
+
+v4.11.0
+- Handle recording last played position from the backend
+- Bookmark at current position in a recording when you press record on LiveTV
+
+v4.10.1
+- Minor bug fixes
+
+v4.10.0
+- Sync cppmyth upstream (2.8.1) with support of content-encoding gzip/deflate for WS API
+
+v4.9.2
+- Updated to PVR addon API v5.2.1
+
+v4.9.0
+- Extra timer info
+
+v4.8.0
+- New setting to send (original) Airdate to Kodi instead of the recording's Start Date/Time.
+
+v4.7.3
+- Recordings: Separate Thumbnail from Icon
+
+v4.7.2
+- Updated language files from Transifex
+
+v4.7.0
+- Sync cppmyth upstream (2.7.0)
+- Support protocol 29-pre:91
+
+v4.6.1
+- Updated language files from Transifex
+
+v4.6.0
+- Sync cppmyth upstream (2.6.0)
+- Support protocol 29-pre:90
+- Support protocol 29-pre:89
+- Allow to keep live show from EPG screen
+
+v4.5.3
+- Updated language files from Transifex
+
+v4.5.2
+- Updated language files from Transifex
+
+v4.5.1
+- Keep original air date of recording on update event from protocol
+- Sync cppmyth upstream (2.5.2)
+
+v4.5.0
+- Cmake: rename find_package kodi to Kodi
+
+v4.4.1
+- Fix includes
+
+v4.4.0
+- Updated to PVR addon API v5.2.0
+
+v4.3.1
+- Sync cppmyth upstream (2.5.1)
+
+v4.3.0
+- Updated to PVR addon API v5.1.0
+
+v4.2.1
+- Fill PVR channel UID of recordings
+- Allowing to disable auto-expire for any recording
+- Minor improvements
+
+v4.2.0
+- Updated to PVR addon API v5.0.0
+
+v4.1.0
+- Updated to PVR API v4.2.0
+- Updated to GUI API v5.11.0
+
+v4.0.1
+- Updated language files from Transifex
+
+v4.0.0
+- Initial Kodi Krypton version.
+
+v3.4.6
+- fix timer update caused by invalid epg ID
+
+v3.4.5
+- Updated language files from Transifex
+
+v3.4.4
+- Updated language files from Transifex
+
+v3.4.3
+- Support protocol 0.28-pre:88
+
+v3.4.2
+- Updated language files from Transifex
+
+v3.4.1
+- Updated to GUI API v5.10.0
+
+v3.4.0
+- Show stream "channel unavailable" when channel tuning failed
+
+v3.3.9
+- Enable buffering for socket
+- Sync cppmyth upstream (2.4.0)
+
+v3.3.8
+- Updated to kodi.guilib API v5.8.0
+- Sync cppmyth upstream (2.4.0)
+- Update default EIT categories
+- Sync demuxer upstream
+- Add EPG Entry associated with recent Recording
+- New french translations
+
+v3.3.7
+- Updated to GUI API v5.10.0
+
+v3.3.6
+- Updated to PVR API v4.1.0
+
+v3.3.5
+- Fix issue when deleting timer rule since API v4.0.0
+
+v3.3.4
+- Updated to PVR API v4.0.0
+
+v3.3.3
+- Sync cppmyth upstream (2.3.1)
+
+v3.3.2
+- Workaround for Kodi bug 16141
+
+v3.3.1
+- Cleanup localized strings
+
+v3.3.0
+- Sync cppmyth upstream (2.3.0)
+- Support protocol 0.28-pre:87
+- Security fix for JSON parser
+- New setting limit_tune_attempts
+- Add EPG Entry associated with recent Recording
+- Improvements with API 3.0.0
+- Notify user on addon failure
+
+v3.2.2
+- Minimal Support PVR API 3.0.0
+
+v3.2.1
+- Stop to iterate recordings map until next change
+- ScheduleManager becomes thread safe
+- Sync cppmyth upstream (2.1.0)
+- Automatically fill in platform and library name
+
+v3.1.1
+- Updated to PVR API v2.1.0
+
+v3.1.0
+- Support for PVR Addon API 2.0.0
+
+v3.0.3
+- Don't apply category overtime nil (0)
+- AVINFO: exit on parse error
+- Fix race condition on opening recorded
+- Sync cppmyth upsgtream (1.5.1.3+fixes)
+- Miscellaneous backend fixes
+
+v3.0.1
+- Updated to API 2.0.0
+
+v3.0.0
+- Updated to API 1.9.7
+
+v2.3.1
+- Updated language files from Transifex
+
+v2.3.0
+- Fix crash on thread stop
+- Set of fixes for timers
+- Sync cppmyth upstream (1.5.1.3)
+
+v2.2.1
+- Support protocol 0.28-pre:86
+- Sync cppmyth upstream (1.5.0)
+- Minor changes
+
+v2.1.1
+- updated to use new libplatform-dev
+
+v2.1.0
+- reading ahead: wait for 10 sec
+- demux: set read timeout to 10 sec
+- API Guide service 2.2 (0.28)
+- Enable commercial break and cut list by duration
+
+v2.0.10
+- Updated to API 1.9.6
+
+v2.0.9
+- Process subscription queue in separated thread
+
+v2.0.8
+- Updated to API 1.9.5
+- fix crash parsing invalid frame AAC/LATM
+
+v2.0.7
+- Merge channels by chanNum/callSign across sources
+- Fix preferred cards for live TV
+
+v2.0.6
+- Enable feature "undelete recordings"
+
+v2.0.5
+- Support service API 0.28-pre:5.0
+- Sync demuxer upstream
+
+v2.0.3
+- Sync cppmyth upstream (1.1.9)
+- Support protocol 0.28-pre:85
+- Support protocol 0.28-pre:84
+- Handles MasterBackendOverride (kaptain-iglu)
+- Fix compile error wir c++11
+- [pvr] Increase API version to 1.9.4
+- [gui] Increase API version to 5.8.0
+
+v1.11.4
+- Updated language files from Transifex
+- Minor changes to conform with C++11
+
+v1.11.3
+- Updated language files from Transifex
+
+v1.11.2
+- New method to handle read ahead (live playback)
+
+v1.10.2
+- Added getBackendHostname function
+
+v1.10.1
+- Options to disable channel icons and recordings or fanart images
+
+v1.10.0
+- jansson 2.7: fix compilation on ios8/arm64
+- Cleaned cache by max age
+- Improves loading of channels and recordings
+- Adding WS API Security Pin parameter
+- Adding episode info (subtitle) to EPG title
+
+v1.9.29
+- fixed resource leak on file cache failure
+
+v1.9.28
+- Updated language files from Transifex
+
+v1.9.27
+- change library name to Kodi
+
+v1.9.26
+- fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+v1.9.25
+- Handle GUI events to activate/deactivate power saving mode
+- Don't send WOL when power saving mode is activated
+- Don't block shutdown when power saving mode is activated
+- Handle hang: Always retry protocol connection after hang
+- Handle hang: Reconnect event handler after hanging of control connection
+
+v1.9.24
+- Block backend shutdown by default: New setting
+- Fix refreshing recordings and schedules on wake up
+- Updated language files from Transifex
+
+v1.9.23
+- Handles version of services
+- Allow HTTP redirection to get slave previews
+- New format for program UID string
+- demuxer: optimizing, fix PES header
+- Fix category override
+- Transfer sub channel number
+
+v1.9.22
+- Fix identifier for DVB-SUBTITLE
+- Add setting to enable or disable EDL functionnality
+- Add setting to configure grouping for recordings
+- Load EIT categories from customized user file
+- Merge channels with same source ID
+- Fix codec infos after stream parsing (AAC LATM)
+- Fix crash when trying to show recording from unattainable slave backend
+
+v1.9.21
+- Updated to API v1.9.2
+
+v1.9.20
+- Detect audio codec AAC LATM or AAC ADTS by parsing
+- Enable EDL for MPEG-TS stream
+- Fix timeout: 60 sec to hang up
+- Fix refreshing artwork after program update event
+- Send wol packet magic to wake up backend on startup or not connected
+
+v1.9.19
+- Fix seek stream defect introduced in 1.9.16
+- Support protocol 0.28-pre:83
+- Fix XBMC crash on exit announcing disconnection
+
+v1.9.18
+- Use unified interface of CPPMyth (80c84fb)
+- Get setting of slave backend to open its recording
+- Include API updates for protocol 82 (0.28-pre-1917-g62be166)
+
+v1.9.17
+- Fix buffer request limit
+
+v1.9.16
+- Fix timeout on buffer read in rare circumstances
+- Not open dummy file for transfer
+- Recording priority is signed value
+
+v1.9.15
+- Manage late spawn response
+- Upgrade to jansson 2.6 (security fix)
+- Fix parsing of 'airdate' in proto
+
+v1.9.14
+- Fork of pvr.mythtv.cmyth
+- Use C++ library CPPMyth for MythTV backend 0.27 to 0.28-pre

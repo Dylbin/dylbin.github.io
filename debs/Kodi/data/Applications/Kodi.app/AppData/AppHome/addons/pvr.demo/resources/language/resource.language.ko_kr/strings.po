@@ -1,0 +1,54 @@
+# Kodi Media Center language file
+# Addon Name: PVR Demo Client
+# Addon id: pvr.demo
+# Addon Provider: Pulse-Eight Ltd.
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-04 11:29+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-pvr-clients/pvr-demo/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Demo PVR Client"
+msgstr "데모 PVR 클라이언트"
+
+msgctxt "Addon Description"
+msgid "Demo PVR Client"
+msgstr "데모 PVR 클라이언트"
+
+msgctxt "Addon Disclaimer"
+msgid "Just contains stubs"
+msgstr "단순한 stub만 포함"
+
+msgctxt "#30000"
+msgid "PVR client menu hook item (settings)"
+msgstr "PVR 클라이언트 메뉴 게시 항목(설정)"
+
+msgctxt "#30001"
+msgid "PVR client menu hook item (all items)"
+msgstr "PVR 클라이언트 메뉴 게시 항목(모든 항목)"
+
+msgctxt "#30002"
+msgid "PVR client menu hook item (channels)"
+msgstr "PVR 클라이언트 메뉴 게시 항목(채널)"
+
+msgctxt "#30010"
+msgid "PVR client menu hook item (settings) called."
+msgstr "PVR 클라이언트 메뉴 게시 항목(설정)이 호출되었습니다."
+
+msgctxt "#30011"
+msgid "PVR client menu hook item (all items) called"
+msgstr "PVR 클라이언트 메뉴 게시 항목(모든 항목)이 호출됨"
+
+msgctxt "#30012"
+msgid "PVR client menu hook item (channels) called"
+msgstr "PVR 클라이언트 메뉴 게시 항목(채널)이 호출됨"

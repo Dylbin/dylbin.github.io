@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.freebox"
+  version="19.0.0"
+  name="PVR Freebox TV"
+  provider-name="aassif">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.global.network" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.global.tools" minversion="1.0.0" version="1.0.4"/>
+<import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/></requires>
+  <extension
+    point="kodi.pvrclient"
+    library_darwin_embedded="pvr.freebox.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="fr_FR">Extension enregistreur vidéo (PVR) pour Freebox TV. https://github.com/aassif/pvr.freebox</summary>
+    <summary lang="en_GB">Freebox TV PVR. https://github.com/aassif/pvr.freebox</summary>
+    <description lang="fr_FR">Le client enregistreur vidéo (PVR) gère les chaînes Freebox TV, le guide électronique des programmes et les enregistrements.</description>
+    <description lang="en_GB">This PVR client handles Freebox TV channels, EPG and recordings.</description>
+    <disclaimer lang="fr_FR">Logiciel en cours d'élaboration !</disclaimer>
+    <disclaimer lang="en_GB">This is unstable software!</disclaimer>
+    <platform>ios-aarch64</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <news>
+    </news>
+  </extension>
+</addon>

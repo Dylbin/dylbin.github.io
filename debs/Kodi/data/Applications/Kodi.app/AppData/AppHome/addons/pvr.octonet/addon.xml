@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.octonet"
+  version="19.0.0"
+  name="Digital Devices Octopus NET Client"
+  provider-name="digitaldevices">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/></requires>
+  <extension
+    point="kodi.pvrclient"
+    library_darwin_embedded="pvr.octonet.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/DigitalDevices/pvr.octonet</source>
+    <news>
+    </news>
+    <summary lang="de_DE">Kodi PVR Addon für Digital Devices Octopus NET Streams</summary>
+    <summary lang="en_GB">Kodi PVR Addon for Digital Devices Octopus NET Streams</summary>
+  </extension>
+</addon>

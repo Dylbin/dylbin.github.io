@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="visualization.matrix"
+  version="19.0.0"
+  name="Matrix"
+  provider-name="Sarbes">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.visualization" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="xbmc.player.musicviz"
+    library_darwin_embedded="visualization.matrix.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/visualization.matrix</source>
+    <assets>
+      <icon>resources/icon.jpg</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    <summary lang="da_DK">Matrix-inspireret visualisering til Kodi.</summary>
+    <summary lang="de_DE">Von &quot;Matrix&quot; inspirierte Musikvisualierung für Kodi.</summary>
+    <summary lang="en_GB">Matrix inspired visualization for Kodi.</summary>
+    <description lang="da_DK">Denne musikvisualisering er inspireret af filmen &quot;Matrix&quot;. Den har otte forudindstillinger.</description>
+    <description lang="de_DE">Diese Musikvisualisierung wurde durch den Film &quot;Matrix&quot; inspiriert. Sie bietet acht verschiedene Presets.</description>
+    <description lang="en_GB">This music visualization is inspired by the movie &quot;Matrix&quot;. It features eight presets.</description>
+  </extension>
+</addon>

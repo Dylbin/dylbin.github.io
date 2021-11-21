@@ -1,0 +1,34 @@
+# Kodi Media Center language file
+# Addon Name: Flac Audio Encoder
+# Addon id: audioencoder.flac
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-22 23:29+0000\n"
+"Last-Translator: vdkbsd <valexgus@gmail.com>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audioencoder-flac/ru_ru/>\n"
+"Language: ru_ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
+
+msgctxt "Addon Summary"
+msgid "FLAC (Free Lossless Audio Codec) Encoder"
+msgstr "Кодер FLAC (Free Lossless Audio Codec)"
+
+msgctxt "Addon Description"
+msgid "FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player (or your car or home stereo, see supported devices) just like you would an MP3 file.[CR][CR]FLAC stands out as the fastest and most widely supported lossless audio codec, and the only one that at once is non-proprietary, is unencumbered by patents, has an open-source reference implementation, has a well documented format and API, and has several other independent implementations."
+msgstr "FLAC (Free Lossless Audio Codec) — аудиоформат (как MP3), в котором звук сжимается без потери качества. Это похоже на то, как работает Zip, только в FLAC вы получите гораздо лучшее сжатие, поскольку он разработан специально для аудио, и вы сможете воспроизводить сжатые файлы FLAC в своём любимом плеере (или в автомобильной, или домашней стереосистеме, см. поддерживаемые устройства) точно так же, как и файлы MP3.[CR][CR]FLAC выделяется как самый быстрый и широко поддерживаемый аудиокодек без потерь, и единственный, который одновременно является непроприетарным, не обременён патентами, имеет эталонную реализацию с открытым исходным кодом, хорошо документированный формат и API, а также имеет несколько других независимых реализаций."
+
+msgctxt "#30000"
+msgid "Compression level"
+msgstr "Уровень сжатия"
+
+msgctxt "#30001"
+msgid "FLAC uses a compression level parameter that varies from 0 (fastest) to 8 (slowest). The compressed files are always perfect, lossless representations of the original data. Although the compression process involves a tradeoff between speed and size, the decoding process is always quite fast and not dependent on the level of compression."
+msgstr "В FLAC используется уровень сжатия от 0 (быстрое) до 8 (медленное). Сжатые файлы остаются безупречными, без потерь качества. Хотя процесс сжатия предполагает компромисс между скоростью и размером, процесс декодирования всегда довольно быстр и не зависит от уровня сжатия."

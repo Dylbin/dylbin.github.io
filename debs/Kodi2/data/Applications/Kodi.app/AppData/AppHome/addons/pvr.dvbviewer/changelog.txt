@@ -1,0 +1,478 @@
+v19.0.1
+- Translations updates from Weblate
+	- da_dk, eo, et_ee, ko_kr, pl_pl
+
+v19.0.0
+- Translations updates from Weblate
+  - Korean (ko_kr), Esperanto, Danish (da_dk)
+  - Also allow addon.xml content update by Weblate
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v7.3.3
+- Translations updates from Weblate
+	- pl_pl
+
+v7.3.2
+- Fix for extra assets tag in addon.xml
+
+v7.3.1
+- Language update from Weblate
+
+7.3.0:
+[fixed] Timeshift on pause
+
+7.2.0:
+[updated] Update PVR API 7.1.0
+
+7.1.0:
+[updated] inputstream API 3.0.1
+[updated] Fix wrong flags bit shift
+
+7.0.0:
+[updated] PVR API 7.0.2
+
+6.0.7:
+[removed] Remove dependency on p8-platform and kodi-platform
+[updated] Update to use std::thread
+[updated] Update to use std::mutex and locks
+[updated] Replace SAFE_DELETE macro with SafeDelete template
+[updated] Use kodi StringUtils and update system headers
+[removed] Remove rpi platform as it's now removed from matrix
+[updated] Include windows.h for Windows for GetUTCOffset()
+[updated] While sleeping for long periods allow break on destruction
+[updated] Update travis.yml for cpp17 and debian
+
+6.0.6:
+[removed] External kodiplatform dependency
+[added] libp8-platform-dev dependency
+
+6.0.5:
+[fixed] Crash introduced in 6.0.0
+
+6.0.4:
+[fixed] Compilation with older gcc
+
+6.0.3:
+[updated] Namespace and symbol cleanup
+[fixed] Workaround a bug in the PVR manager so the PVR gets correctly marked as "running"
+[fixed] Incorrect user and pass settings read call
+
+6.0.1:
+[fixed] string nullptr assignment to ConnectionStateChange
+
+6.0.0:
+[updated] PVR API 7.0.0
+[updated] Rework addon to support new API interface
+
+5.0.0:
+[updated] PVR API 6.5.1
+[updated] Global API 1.2.0
+
+4.1.8:
+[updated] PVR API 6.5.0
+
+4.1.7:
+[updated] PVR API 6.4.0
+[updated] Add license name, forum url and source url to addon.xml
+[updated] Change source license to use SPDX
+[updated] Minor cleanups
+
+4.1.6:
+[updated] PVR API 6.3.0
+
+4.1.5:
+[added] GPL2 license file and show GPL2 on README.md
+[updated] Debian build code
+[updated] Some minor cleanups
+
+4.1.4:
+[updated] PVR API 6.2.0
+
+4.1.3
+[updated] Language files from Transifex
+
+4.1.2
+[updated] Language files from Transifex
+[updated] Add kodi-platform, p8-platform and tinyxml to addon depends instead of from kodi
+
+4.1.1
+[updated] Language files from Transifex
+
+4.1.0
+[updated] Recompile for 6.1.0 PVR Addon API compatibility
+
+4.0.1
+[fixed] package search for TinyXML
+[updated] build system version
+[updated] header include way
+
+4.0.0
+[updated] to PVR addon API v6.0.0
+
+3.7.12
+[fixed] thread stack overflow on OS X
+
+3.7.6
+[fixed] Seektimes for ongoing recordings
+
+3.7.5
+[added] Add support for (on-the-fly) transcoding of recordings
+
+3.7.2
+[fixed] Hidden profile id setting
+[fixed] Assignment error
+
+3.7.1
+[updated] Modify stream read chunk size setting so that 0 is Kodi's default
+
+3.7.0
+[added] Support for new key/value store API. Requires DMS 2.1.2.0 or higher
+[added] Store recordings play position and play count on the backend. Thanks to popy2k14 for testing
+
+3.6.8
+[fixed] Fix stream read chunk size unit
+
+3.6.7
+[added] AutoTimers: Populate the series-field with the timers name
+[added] PVR API 5.10.0: Add stream read chunk size as addon setting
+
+3.6.2
+[fixed] Some general timer fixes
+[fixed] AutoTimers backend check
+
+3.6.1
+[updated] Autotimers: Changed default value for deduplication to EPG title + subtitle
+
+3.6.0
+[added] Support for autotimers
+[updated] Rewrite threaded part of timeshift buffer
+[updated] General code cleanup
+[fixed] Memory leak in translated strings
+
+3.5.0
+[updated] to PVR API v5.10.0
+
+3.4.7
+[added] Custom timeout setting for livetv connections and timeshift
+
+3.4.6
+[added] Support for guest privileges
+
+3.4.5
+[fixed] Recording playback if EDL is disabled
+
+3.4.4
+[added] EDL support for recordings. Requires DMS 2.1.0.0 or higher
+
+3.4.3
+[fixed] Creating timers from epg guide
+[updated] Timers code cleanup
+
+3.4.2
+[updated] Rename RS to DMS
+[updated] Add support for custom timers
+[fixed] Playback of ongoing recordings
+[fixed] Group by directory: Don't lowercase the group
+[fixed] Check API return code after deleting a recording
+
+3.4.1
+[updated] to PVR API v5.9.0
+
+3.4.0
+[updated] to PVR API v5.8.0
+
+3.3.3
+[fixed] Preserve whitespaces in EPG
+
+3.3.0
+[updated] to final PVR API v5.7.0
+
+3.2.2
+[updated] to PVR API v5.7.0
+
+3.2.1
+[removed] legacy functions
+
+3.2.0
+[updated] to PVR API v5.6.0
+[updated] migrate add-on settings to settings library
+
+3.1.0
+[updated] to PVR API v5.3.0
+
+3.0.6
+[added] Support for Wake-on-Lan
+[fixed] Channel parsing if no favourites have been defined
+
+3.0.5
+[added] Support for grouping recordings by title (by heikobihr)
+[updated] Load remote favourites from channellist
+[fixed] Group recordings by recording directory (by heikobihr)
+
+3.0.4
+[changed] Remove of never used addon interface function
+
+3.0.3
+[updated] Debian package control
+[changed] PVR addon callback way
+
+3.0.2
+[updated] Removed old no more needed version functions
+
+3.0.1
+[updated] Set dependency versions automatic during build
+[updated] Removed never used kodi to addon functions
+[fixed] Truncate buffer file on stop
+[fixed] Make sure bufferpath exists
+[updated] Add support for on-pause/on-demand timeshifting
+
+3.0.0
+[updated] Initial Kodi v18 version
+
+2.4.6
+[fixed] added support for connection state change callback
+[removed] RTSP support
+
+2.4.3
+[updated] Language files from Transifex
+
+2.4.2
+[updated] Language files from Transifex
+
+2.4.1
+[updated] Language files from Transifex
+
+2.4.0
+[cmake] rename find_package kodi to Kodi
+
+2.3.3
+[fixed] includes
+
+2.3.2
+[fixed] crash if timer isn't repeating
+[fixed] timer ids didn't start at 1
+
+2.3.1
+[fixed] timerlist utf8 url parameter. As a result the xml wasn't UTF-8
+
+2.3.0
+[updated] to PVR API v5.2.0
+
+2.2.0
+[updated] to PVR API v5.1.1
+[updated] Require DVB Viewer Recording Service 1.30.1 or later
+[updated] implemented PVR_RECORDING.iChannelUid (PVR API v5.0.0)
+[updated] code cleanup
+[fixed] timeshift buffer path: allow escaping from special://userdata
+
+2.1.0
+[updated] to PVR API v5.1.0
+[updated] extend low performance mode
+[fixed] fixed channel switching with timeshift enabled
+[fixed] various thread saftey and code fixes
+
+2.0.1
+
+[updated] Language files from Transifex
+
+2.0.0
+Initial Kodi Krypton version.
+
+1.11.10
+
+[updated] Language files from Transifex
+
+1.11.9
+
+[updated] Language files from Transifex
+
+1.11.8
+
+[updated] Language files from Transifex
+
+1.11.7
+[updated] to PVR API v4.1.0
+
+1.11.6
+[updated] to PVR API v4.0.0
+
+1.11.5
+[updated] to PVR API v3.0.0 (API 1.9.7 compatibility mode)
+
+1.11.4
+[updated] Automatically fill in platform and library name
+
+1.11.3
+[updated] to PVR API v2.1.0
+
+1.11.2
+[fixed] Debian packaging: fix library install path
+[fixed] Miscellaneous backend fixes
+
+1.11.1
+[updated] to PVR API v2.0.0
+
+1.11.0
+[updated] to PVR API v1.9.7
+
+1.10.33
+[updated] Language files from Transifex
+
+1.10.32
+[updated] to use new libplatform-dev
+
+1.10.31
+[fixed] Authentication credentials with symbols.
+[fixed] Playback of ongoing recordings didn't work if the channel has been renamed
+[updated] to PVR API v1.9.6
+
+1.10.30
+[updated] to PVR API v1.9.5
+
+1.10.29
+[added] RecordingReader: Allows playback of ongoing recordings
+        There are still some minor quirks. e.g. In case we reach the end during
+        playback/seek we'll sleep until the next refresh. This should happen
+        once but sometimes this happens twice.
+[added] Support for putting outline before plot
+[fixed] Removed custom notification if backend is unavailable
+[fixed] A new timer has been removed and re-added again shortly after it has
+        been added the first time
+
+1.10.0
+[updated] to PVR API v1.9.4
+
+1.9.27
+[updated] Language files from Transifex
+
+1.9.26
+[updated] Language files from Transifex
+[fixed] Minor changes to conform with C++11
+
+1.9.25
+[added] getBackendHostname function
+
+1.9.24
+[fixed] mime-type for MPEG-TS
+
+1.9.23
+[updated] Language files from Transifex
+
+1.9.22
+change library name to Kodi
+
+1.9.21
+[fixed] deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+1.9.20
+[updated] Language files from Transifex
+
+1.9.19
+[updated] Language files from Transifex
+
+1.9.18
+[updated] to API v1.9.2
+
+1.9.16
+[updated] Language files from Transifex
+
+1.9.15
+[updated] Speed up timeshift startup time
+[added] If available add genre to EPG
+[added] Support for grouping recordings. Grouping can be by rec. directory,
+        rec. date, first letter, tv channel or series
+[fixed] Another timezone offsets fix
+
+1.9.14
+[updated] Require DVB Viewer Recording Service 1.26.0 or later
+[updated] Removed external XML library. Use TinyXML instead
+[added] Low performance mode for devices like the raspberry pi
+[fixed] Timers starting near 12pm could have wrong date
+
+1.9.13
+[updated] Language files from Transifex
+
+1.9.12
+[updated] Language files from Transifex
+
+1.9.11
+[added] add timeshift buffer functions
+
+1.8.10
+[updated] Require DVB Viewer Recording Service 1.25.0 or later
+[updated] In general use RS XML API instead of HTML/channeldat parsing
+[updated] Rewrote channel parsing. Use favourites if you want fast startups.
+[updated] Rewrote recording parsing, generate unique recording IDs
+[added] Show available diskspace
+[added] RTSP support (Note: RTSP is only available if timeshift is disabled)
+[fixed] Removed signal status information. Not available anymore
+[fixed] Channel logos not being displayed for some channels
+[fixed] After changing certain settings live TV wasn't work anymore and XBMC restart was required
+[fixed] possible crash (2x)
+
+1.8.9
+[updated] sync with PVR API v1.8.0
+
+1.7.9
+[fixed] loading favourites without groups/folders
+
+1.7.8
+[fixed] fix crash with Recording Service 1.25.0
+
+1.7.7
+[fixed] fix possible crash during timer updates
+
+1.7.6
+[added] Basic timeshift support.
+[added] Use channel names from favourites. This allows easy channelname changes.
+[fixed] Use 64 bit channel ids. Fall back to 32 bit if favourites.xml still contain the old ones.
+[fixed] Replace "/"-character by " " in channel logo url
+[updated] A lot of code cleanup
+
+1.7.5
+[updated] Bump after PVR API version bump
+
+1.6.5
+[updated] Language files from Transifex
+
+1.6.4
+[fixed] Use utf-8 encoding to get and set the timers.
+[fixed] Channel names with more than 25 chars could crash the add-on.
+
+1.6.3
+[updated] Language files from Transifex
+
+1.6.2
+New version number by Team XBMC
+
+0.1.8
+[fixed] Changed the way timers are calculated. This should fix problems with scheduled and instant recordings on some machines.
+[fixed] Favourites didn't show channels if the audio track wasn't the first one.
+[fixed] Channel settings weren't saved/restored after a channel switch with the channels OSD.
+[fixed] XBMC could hang after a channel switch with the channels OSD.
+
+0.1.7
+[added] The Recording Service version 1.21 or higher is now required. Download the latest version from the DVBViewer members area and install it.
+[added] Display a notification if the add-on can't connect to the Recording Service. Please, check that the RS is enabled and the IP, webinterface port, username and pass are correct.
+[added] If the favourites.xml selector is empty, the favourites are loaded from the web interface.
+[added] Don't fetch recording thumbnails at startup if there are more than 20 recordings.
+[fixed] The add-on crashed if favourites.xml had entries with the old 32 bits ID.
+[fixed] Channel names with ansi chars are converted to utf8 so they can be displayed properly (a reset of the PVR database may be required).
+[fixed] Channel names with more than 25 chars.
+
+0.1.5
+[added] Timers support.
+[added] An option to load the channels from favourites.xml instead of from channels.dat (a reset of the PVR database is required).
+        It is usually located at c:\ProgramData\CMUV\DVBViewer\
+        This is a hidden folder so be sure to enable the "Settings\Appearance\File Lists\Show hidden files and directories" option.
+[added] Always grab the EPG data after a channel switch.
+[added] Recording thumbnails.
+[added] Receiving device name to the status info.
+[fixed] The preferred language is loaded from the DVBViewer config and used to get the correct EPG in case it supports multi language entries.
+[fixed] When the EPG is missing the description entry, the event entry is used instead.
+
+0.1.0
+First version.

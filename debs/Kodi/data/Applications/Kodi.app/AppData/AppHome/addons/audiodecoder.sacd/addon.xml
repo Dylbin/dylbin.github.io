@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.sacd"
+  version="19.0.0"
+  name="SACD ISO support"
+  provider-name="Team Kodi, AlwinEsch">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="sacd"
+    extension=".iso|.sacd|.sacdstream"
+    tracks="true"
+    tags="true"
+    library_darwin_embedded="audiodecoder.sacd.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.sacd</source>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+    <summary lang="da_DK">Super Audio CD ISO-billede</summary>
+    <summary lang="de_DE">Super Audio CD ISO-Image</summary>
+    <summary lang="en_GB">Super Audio CD ISO image</summary>
+    <summary lang="es_ES">Imagen ISO Super Audio CD</summary>
+    <summary lang="ko_KR">Super Audio CD ISO 이미지</summary>
+    <summary lang="ru_RU">ISO-образ Super Audio CD</summary>
+    <summary lang="zh_CN">超级音频 CD ISO 映像</summary>
+    <description lang="da_DK">Dette addon gør det muligt for Kodi at læse indhold fra et Super Audio CD ISO-billede.[CR][CR]Super Audio CD (SACD) er et skrivebeskyttet optisk diskformat til lydopbevaring, introduceret i 1999, udviklet i fællesskab af Sony og Philips Electronics at blive efterfølgeren til Compact Disc.[CR][CR]SACD -formatet tilbyder flere lydkanaler (f.eks. surround-lyd), en højere bithastighed og længere spilletid end en konventionel CD.</description>
+    <description lang="de_DE">Mit diesem Addon kann Kodi Inhalte von einem Super Audio CD ISO-Image lesen.[CR][CR]Super Audio CD (SACD) ist ein schreibgeschütztes optisches Disc-Format für die Audiospeicherung, das 1999 eingeführt wurde und von Sony und Philips Electronics gemeinsam als Nachfolger der Compact Disc entwickelt wurde.[CR][CR]Das SACD-Format bietet mehr Audiokanäle (z. B. Surround-Sound), eine höhere Bitrate und eine längere Wiedergabezeit als eine herkömmliche CD.</description>
+    <description lang="en_GB">This addon allows Kodi to read content from a Super Audio CD ISO image.[CR][CR]Super Audio CD (SACD) is a read-only optical disc format for audio storage, introduced in 1999, developed jointly by Sony and Philips Electronics to be the successor to the Compact Disc.[CR][CR]The SACD format offers more audio channels (e.g. surround sound), a higher bit rate, and longer playing time than a conventional CD.</description>
+    <description lang="es_ES">Este addon permite a Kodi leer contenido de una imagen ISO de Super Audio CD.[CR][CR]Super Audio CD (SCAD) es un formato de disco óptico de solo lectura para almacenamiento de audio, introducido en 1999 y desarrollado conjuntamente por Sony y Philips Electronics para ser el sucesor del Compact Disc.[CR][CR]El formato SACD ofrece mas canales de audio (p.ej. sonido Surround), una tasa de bits más alta, y más tiempo de reproducción que un CD convencional.</description>
+    <description lang="ko_KR">이 애드온은 Kodi가 Super Audio CD ISO 이미지에서 콘텐트를 읽게 해줍니다. [CR][CR] Super Audio CD (SACD)는 오디오 저장을 위한 읽기 전용 광학 디스크 포맷으로, 1999년에 도입되었고, 소니와 필립스전자가 CD 후속으로 공동개발했습니다. [CR][CR] SACD 포맷은 일반 CD보다 더 많은 오디오 채널 (즉, 서라운드 사운드 제공), 더 높은 비트 레이트, 더 긴 재생 시간을 제공합니다.</description>
+    <description lang="ru_RU">Это дополнение позволяет Kodi читать содержимое из ISO-образа Super Audio CD.[CR][CR]Super Audio CD (SACD) - это формат оптического диска для хранения аудиофайлов только для чтения, представленный в 1999 году и разработанный совместно компаниями Sony и Philips Electronics как преемник компакт-диска.[CR][CR]Формат SACD предлагает больше аудиоканалов (например, объёмный звук), более высокий битрейт и большее время воспроизведения, чем обычный CD.</description>
+    <description lang="zh_CN">此插件允许 Kodi 从超级音频 CD ISO 映像中读取内容。[CR][CR]超级音频 CD（SACD）是一种用于音频存储的只读光盘格式，作为光盘的继任者于1999年推出，由索尼和飞利浦电子共同开发。[CR][CR]SACD 格式提供更多音频通道（例如环绕声），比传统 CD 具有更高的比特率和更长的播放时间。</description>
+  </extension>
+</addon>

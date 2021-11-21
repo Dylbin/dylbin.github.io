@@ -1,0 +1,796 @@
+v19.0.0
+- Translations updates from Weblate
+  - ko_kr, uk_ua
+  - To allow also addon.xml content update by Weblate
+- Improved debian packaging
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v7.4.11
+- Translations updates from Weblate
+	- da_dk, eo, ko_kr, ru_ru
+
+v7.4.10
+- Translations updates from Weblate
+	- da_dk, eo, ko_kr, ru_ru
+
+v7.4.9
+- Automation test
+
+v7.4.8
+- Automation test relesae
+
+v7.4.7
+- Update: Release bump
+
+v7.4.6
+- Fixed: Add missing radio service type for channels
+
+v7.4.5
+- Translations updates from Weblate
+	- da_dk
+
+v7.4.4
+- Language update from Weblate
+
+v7.4.3
+- Fixed: Use OpenWebIfs internal MovieList to avoid memory leak on some images
+
+v7.4.2
+- Update: Switch disk space logging to debug level
+
+v7.4.1
+- Fixed: Don't log channel group not found for members at INFO level
+
+v7.4.0
+- Added: Add setting to omit recording location base dir from recording path
+- Added: Correctly store the directory of a recording from the backend
+- Update: Move new timer recording path to timer settings and refactor other settings
+- Added: Split keep recordings folders into keep structure and group by title - this allows combining both options instead of one or the other
+- Update: Make ffmpegdirect a hard dependency
+
+v7.3.3
+- Update: Readme - update description for Kodi 19 and add table of contents
+
+v7.3.2
+- Fixed: Fix incorrect parent setting for num radio groups
+
+v7.3.1
+- Fixed: Depends inside addon.xml defined two times
+
+v7.3.0
+- Update: PVR API 7.1.0
+- Added: allow both epg max past and future days
+- Fixed: Default of 2 hours when a timer is created with an invalid end time
+
+v7.2.0
+- Added: Support timespans for anyday auto timers
+- Fixed: Fix illegal index access when reading empty string from XML
+- Added: Redact URLs when logged
+- Added: Support custom start/end padding for Autotimers
+- Added: URL encode username and password
+- Fixed: Only set backend recording padding/margin if device settings have been loaded
+- Added: Help and README text for Global start/end recording padding backend settings
+- Update: Replace square brackets with bold text in addon settings help text
+- Added: Timeshift disk limit for native Enigma2 streams for devices with limited space
+- Fixed: Fix incorrect type for recordings size in bytes
+
+v7.1.3
+- Fixed: Set default values for start and end time to avoid overflow crash on windows
+
+v7.1.2
+- Fixed: Fix setting wrong value for gen repeat timers
+- Fixed: Only send autotimers settings to device if they are enabled
+
+v7.1.1
+- Fixed: Fix crash on restart from settings change
+- Fixed: Always create autotimer once timer type and can be sent even if autotimers are disabled
+
+v7.1.0
+- Added: Set MIME type for Enigma2 native streams and only set program/PID for native also
+- Added: Set minimim inputstream.ffmpegdirect version to API stable version for Matrix
+- Fixed: Fix seg fault if trying to play a channel when not connected
+
+v7.0.0
+- Update: PVR API 7.0.2
+
+v6.4.0
+- Added: Add setting to disable provider retrieval which can improve perf on older devices
+
+v6.3.0
+- Added: Timeshifting for IPTV streams using ffmpegdirect
+- Updated: Readme with generic linux build command
+- Update: Update travis.yml for cpp17 and debian
+- Added: Add option to return recordings recursively from recording locations
+
+v6.2.1
+- Fixed: changelog
+
+v6.2.0
+- Added: If no recording metadata use filename for recording date if possible
+- Update: Use add-on supplied StringUtils and remove local version
+
+v6.1.3
+- Fixed: Fixed StringUtils for cpp 17
+
+v6.1.2
+- Fixed: Fix char treated as negative values on windows causes crash on isspace call
+- Fixed: Check for invalid time struct when converting epg/recording entry to string
+
+v6.1.1
+- Update: Spelling fixes (Closes: pvr.vuplus#292)
+
+v6.1.0
+- Added: Add backend settings display and setting global recording padding on backend
+
+v6.0.0
+- Update: PVR API 7.0.0
+- Update: Rework addon to support new API interface
+- Removed: p8-platform from depends
+- Removed: kodi-platform from depends
+
+v5.1.0
+- Added: Support for Wake-On-LAN
+
+v5.0.0
+- Update: PVR API 6.5.1
+- Update: Global API 1.2.0
+
+v4.10.3
+- Update: Explanation for stream read chunk size
+- Fixed: Fix logging after spdlog, from INFO to DEBUG
+
+v4.10.2
+- Update: PVR API 6.5.0
+
+v4.10.1
+- Update: PVR API 6.4.0
+- Update: Add license name, forum url and source url to addon.xml
+
+v4.10.0
+- Added: Add new flags for premiere, live and finale for EPG and recordings - PVR API 6.3.0
+- Added: Support recording sizes on OpenWebIf 1.3.9+ - PVR API 6.3.0
+- Added: Add GPLv2+ and Jenkins badges to README
+- Update: SPDX in copyright header
+
+v4.9.9
+- Add: GPL2 license file and show GPL2 on README.md
+- Update: Update copyright years to 2020 and change URL and name to Kodi
+- Update: Debian build code
+- Update: Some minor cleanups
+
+v4.9.8
+- Update: PVR API 6.2.0
+
+v4.9.7
+- Fixed: Comments for strings.po en_gb
+- Update: Add kodi-platform, p8-platform and tinyxml to addon depends instead of from kodi
+
+v4.9.6
+- Update: Transifix language files
+
+v4.9.5
+- Update: Transifix language files
+
+v4.9.4
+- Fixed: Add Timer title and fallback entry fix
+- Update: Disable skip initial EPG load as default
+
+v4.9.3
+- Fixed: Logger fix ported from pvr.hts
+- Fixed: Fix time_t format string specifier win32 seg faults
+
+v4.9.2
+- Added: added new addon icon
+
+v4.9.1
+- Fixed: Use correct start time for EPG lookup when adding timer
+- Fixed: strncpy fix possible length fault
+
+v4.9.0
+- Added: Group specific channel numbering to matching backend bouquets
+- Fixed: Fix recordings last played, playcount etc. broken since prior last PR: 248
+- Added: Shorten timer type descriptions to suit UI better
+- Fixed: Fixed broken playback for deleted recordings
+
+v4.8.0
+- Added: Support group (bouquet) channel order from the backend
+- Added: Extract new/live/premiere as part of show info from EPG
+- Fixed: Fix possible runtime error assigning nullptr to string
+- Fixed: Preserve recordings and timer lists if connection lost
+- Update: Remove p8-platform dependency on Threads, Mutex, Condition, Util and OS
+- Update: README Location
+- Fixed: Fix long kodi shutdown delay if shutodwn happens before addon fully starts
+- Update: Update regex to static/const (perf benefit)
+- Update: Update show info regex's
+
+v4.7.0
+- Added: Support for IPTV Streams configured on E2 device (no timeshifting)
+- Added: Reload instead of reconnecting when channel/group changes are detected
+- Added: Use truly unique IDs for channels so EPG changes are correctly reflected
+- Fixed: Only get drive space for devices that have an HDD
+- Fixed: use correct function to lookup group when adding
+- Added: update README.md to show appveyor/travis badges per branch
+- Added: Update OSX build script
+- Added: update badge status for travis/appveyor
+- Added: add copyright notices to files
+- Fixed: Fix default path for genre text mapping file
+
+v4.6.0
+- Update: Recompile for 6.1.0 PVR Addon API compatibility
+
+v4.5.1
+- Update: Kodi VFS API 1.0.3
+- Update: Build sytem version
+- Added: AppVeyor for Windows related build tests
+- Fixed: Build depends search way
+
+v4.5.0
+- Added: Allow creation of epg-based repeating timer rules if autotimers are not available
+
+v4.4.0
+- Added: Set program id option for streams with superfluous program data
+- Added: Undelete and trashcan (when configured on backend) for recordings
+- Added: Use new API for backend channel numbers - openwebif 1.3.7
+- Fixed: Radio groups parsed from wrong api
+- Added: Support disabling addon debug logging in debug mode
+
+v4.3.0
+- Added: Support backend channel numbers for all channel groups not just the first
+- Added: Ignore empty channel groups
+- Added: Readme and help info updates
+- Fixed: Revert support hidden entries for backend channel numbers
+- Fixed: Fix hanging on deleting multiple recordings at once
+
+v4.2.0
+- Added: Custom Channel Groups, closes #209
+- Added: Connection manager improvements
+- Added: Support hidden entries for backend channel numbers
+- Fixed: Timer descprition for providers who only use long descrption
+
+v4.1.1
+- Fixed: Valid XML in addon.xml
+
+v4.1.0
+- Added: Support settings levels via the current kodi settings level
+- Added: Fallback EPG Entries for Timers
+- Added: Support backend channel numbers
+
+v4.0.0
+- Update to PVR addon API v6.0.0
+
+v3.22.0
+- Added: Help info for addon settings
+- Added: Delete child timers when deleting autotimers
+- Added: Set max connection check interval to 60 seconds
+- Fixed: Incorrect localisation IDs
+- Fixed: Timers in error state cause crash on delete
+- Added: Support show info fields for Timers
+
+v3.21.0
+- Added: Support Edit Recording name, last played and play count
+- Fixed: Use v3.6.1 of nlohmann/json to relax cmake version dependency for OSMC, fixes #194
+- Added: Nightly channel reload check as default
+- Added: Split out and move openwebif version checking to settings
+
+v3.20.0
+- Added: Add options to Tune Async connection for slower E2 devices
+- Added: Enable option to reload channels and groups once per day if changes are detected
+- Added: Allow timers generated by autotimers to be deleted
+- Fixed: Fix for disabling timers
+- Added: Use genre from kodi for timers instead of lookup where possible
+- Added: Support recording type fully for TV/Radio/Any channel
+- Added: By default load Last Scanned group if no TV groups found
+- Added: Limit autotimers to TV/Radio or originating channel's groups
+- Fixed: Channel Service Refs Can sometimes have alphabetic characters appended at the end, fixes #202
+- Added: For timers and autotimers without a valid channel put in error state instead of omitting
+- Fixed: IsRunning timer check not checking start time
+
+v3.19.0
+- Added: Async Connection - Reconnect if Enigma2 device was or becomes unavailable, closes #154, closes #184
+- Added: Notify when Channel/ChannelGroups changes are detected, closes #179
+- Added: Support genres for Recordings and Timers, fixes #186
+- Fixed: Instant recordings may be missing show info depending on last EPG update, fixes #185
+- Added: Helper build script for MacOSX
+
+v3.18.1
+- Fixed: Crash on addon start, fixes #191
+
+v3.18.0
+- Fixed: Ensure only one call to GetEPGForChannel happens at one time, fixes #181
+- Added: Update/fix server version for pvr addon
+- Added: Option to skip initial EPG Load
+- Fixed: Fix for zap on channel change for dreamboxes
+- Added: Support for padding in certain timer types
+- Fixed: Change the call web/tunersignal to web/signal so it also works on DreamOS
+
+v3.17.0
+- Added: Recording EDL support
+- Added: Update Timer Types to display correctly in Manual vs EPG UIs
+- Added: Updated show info regex's
+- Fixed: Timer Recording not displaying description - Not being stored on STB - AddTimer Call, fixes #174
+- Fixed: Fix for uncaught type_error for nlohmann/json
+- Fixed: Include TV Favourites channels by default in settings
+- Added: Support Last Scanned for both TV and Radio, fixes #178
+- Fixed: Null pointer check for Genre EPG data from XML
+
+v3.16.2
+- Fixed: Seg fault on shutdown - Timer Updates thread accessing released object, fixes #172
+- Fixed: Incorrectly used time_t instead int64 in GetStreamTimes, fixes #171
+- Added: Load Addon Version
+- Fixed: Clean up/partition addon debug log, fixes #159
+- Added: Add user defined delay between EPG Channel Updates, fixes #158
+- Added: Enable Trace Logging in debug mode
+- Added: Integrate Stream API details with Tuners
+- Fixed: JSON API requires version 1.3.5+ of OpenWebIf, fixes #169
+- Added: updated language files from Transifex
+
+v3.16.1
+- Fixed: Backend polled too often for Signal Quality, fixes #165
+- Fixed: SNR and Signal showing as zero in PVR info overlay, fixes #164
+- Fixed: When playing a current recording duration at end time is wrong, fixes #160
+- Fixed: Plugin won't load channels after upgrade to 3.16.0, fixes #161
+
+v3.16.0
+- Added: Tuners and SignalStatus
+- Added: Use Picon Path from OpenWebIf
+- Fixed: Change startup issue log statements from Debug to Error, fixes #157
+
+v3.15.5
+- Added: updated language files from Transifex
+
+v3.15.4
+- Fixed: In 3.15.2 WebIf that is not OpenWebIf does not support auto timer API - Addon won't load Newnigma2 image, fixes #151
+
+v3.15.3
+- Fixed: GetStreamTimes not implemented for Recordings, fixes #148
+- Fixed: When starting a recording partway through start time is EPG start not recording start, fixes #147
+
+v3.15.2
+- Fixed: Only load Season info extractor and genre mappers config when enabled, fixes #136
+- Fixed: 3.15.1 dont load/work on old DM800se, fixes #139
+- Fixed: Missing default value from timeshift buffer path, fixes #140
+- Fixed: Channel Group Member Order not preserved, fixes #141
+
+v3.15.1
+- Fixed: since 3.15.0 pvr manager cant start #134
+- Added: Log Distro Version
+
+v3.15.0
+- Added: Support for Radio Groups
+- Added: Create unique list of channels instead of a copy of each channel per group, fixes #101
+- Fixed: hdd free space is wrong,  fixes #122
+- Added: Device Settings - AutoTimer and Padding
+- Added: PowerstateMode on exit, fixes #128
+- Fixed: Store timer state on update, fixes #131
+- Fixed: Updates not occuring at specified time and immediate update on timer event, fixes #130
+- Added: Support different update modes for timers and recordings, fixes #125
+
+v3.14.1
+- Added: updated language files from Transifex
+
+v3.14.0
+- Added: Externalised season/episode and genre config to allow users support other formats/languages, closes #118
+- Added: Server OpenWebIf version now reported by addon
+
+v3.13.0
+- Added: New setting to enable streaming over HTTPS
+- Added: New setting to enable authentication for streaming
+
+v3.12.6
+- Fixed: Windows build fix
+- Fixed: tsbuffer.ts never got deleted, fixes #115
+
+v3.12.5
+- Fixed: Large refactor for code organisation
+- Fixed: Disk space, only for mounts configured for recordings - Requires OpenWebIf 1.3.5, fixes #112
+
+v3.12.4
+- Fixed: Used space instead of free space in GetDriveSpace - fixes #109
+- Added: Genre id support from OTA feeds - Requires OpenWebIf 1.3.5
+
+v3.12.3
+- Fixed: Refactoring - Changed Directory structure, split out classes and added getters/setters #102
+- Fixed: Updated readme without VU+ entries - Courtesy of Hedda
+- Fixed: New temporary icon
+
+v3.12.2
+- Fixed: Refactoring - Conventions: includes, namesapce naming, public private order in class definition
+- Fixed: GetInitialEPGForGroup called for each CHANNEL while initial EPG Update - #86
+
+v3.12.1
+- Added: New setting for Prepending outline to plot
+- Added: New setting for stream read chunk size
+- Fixed: cosmetic error when recordings folder is empty #10
+- Fixed: Rename "VuPlus" PVR client addon to Enigma2 or something else for Kodi? #28
+
+v3.12.0
+- Added: Extracting Genre and Season/Episode numbers for EPG entries and recordings
+- Added: Updated Readme
+- Fixed: Minimum version now 1.3.0 to use autotimers
+
+v3.11.3
+- Added: New settings to allow feature switches for generating repeating timers and autotimers
+- Added: Config guide to Readme
+- Fixed: Missing channel or more than one channel in timers/autotimers
+
+v3.11.2
+- Fixed: Previous version picon fix turned into an option to use picons.eu file format
+
+v3.11.1
+- Fixed: Not able to select duplicate with titles and all descs
+- Fixed: Online icons path processing incorrect for some channels
+
+v3.11.0
+- Added: Autotimer support
+- Added: Generate ReadOnly Timers for Repeating Timer Rules
+- Added: GetDriveSpace
+
+v3.10.1
+- Cleaned up settings screen
+- Fix: Timer tags no longer removed on timer update
+
+v3.10.0
+- Added: Recorded Streams support
+- Added: PVR API 5.0.0: iChannelUid in recordings
+- Added: PVR API 5.1.0: Support channel type in recordings
+
+v3.9.0
+- Added: Timer Types Support, now supports Manual Once, Manual Repeating and EPG Once
+
+v3.8.0
+- Added: timeshift support
+- Signal Status support
+- Fixed recording duration bug and cleaned up split string code
+
+v3.7.3
+- Translation update from Transifex
+
+v3.7.2
+- Translation update from Transifex
+
+v3.7.1
+- Updated to PVR addon API v5.10.1
+
+v3.7.0
+- Updated to PVR addon API v5.10.0
+
+v3.6.3
+- Updated to PVR addon API v5.9.0
+
+v3.6.0
+- Updated to PVR addon API v5.8.0
+
+v3.5.6
+- Fix string replace syntax
+
+v3.5.5
+- Remove StdString usage
+
+v3.5.2
+- Fixed timer recording margins
+
+v3.5.1
+- Updated language files from Transifex
+
+v3.5.0
+- Updated to PVR addon API v5.7.0
+
+v3.4.1
+- Removed incomplete implementation of channel playback via live input stream. Addon claimed to support it, but actually didn't.
+- Restored channel playback via stream URL. This is what the addon actually implements.
+
+v3.4.0
+- Updated to PVR addon API v5.6.0
+
+v3.3.2
+- added option to keep the folder structure from STB
+
+v3.3.1
+- added option to request the streaming-URL from openWebif and thus eliminating the need to configure the streaming port
+
+v3.3.0
+- Updated to PVR addon API v5.5.0
+
+v3.2.0
+- Updated to PVR addon API v5.4.0
+
+v3.1.0
+- Updated to PVR addon API v5.3.0
+
+v3.0.6
+- remove of never used addon interface function
+
+v3.0.5
+- update Debian package control
+- PVR addon callback way changes
+
+v3.0.4
+- removed old no more needed version functions
+
+v3.0.3
+- set dependency versions automatic during build
+- removed never used kodi to addon functions
+
+v3.0.2
+- streaming always use anonymous http connection, regardless of the "Use https" setting
+
+v3.0.1
+- updated language files from Transifex
+
+v3.0.0
+- Initial Kodi v18 version
+
+v2.4.4
+- updated language files from Transifex
+
+v2.4.3
+- updated language files from Transifex
+
+v2.4.2
+- updated language files from Transifex
+
+v2.4.1
+- updated language files from Transifex
+
+v2.4.0
+- Cmake: rename find_package kodi to Kodi
+
+v2.3.1
+- Fix includes
+
+v2.3.0
+- Updated to PVR addon API v5.2.0
+
+v2.2.0
+- Updated to PVR addon API v5.1.0
+
+v2.1.0
+- Updated to PVR addon API v5.0.0
+
+v2.0.1
+- updated language files from Transifex
+
+v2.0.0
+- Initial Kodi Krypton version.
+
+v1.11.9
+- updated language files from Transifex
+
+v1.11.8
+- updated language files from Transifex
+
+v1.11.7
+- updated language files from Transifex
+
+1.11.6
+- Updated to PVR API v4.1.0
+
+1.11.5
+- Updated to PVR API v4.0.0
+
+1.11.4
+- Updated to PVR API v3.0.0 (API 1.9.7 compatibility mode)
+
+1.11.3
+- Updated to PVR API v2.1.0
+- Automatically fill in platform and library name
+
+1.11.2
+- Debian packaging: fix library install path
+- Miscellaneous backend fixes
+
+1.11.1
+- Updated to API v2.0.0
+
+1.11.0
+- Updated to API v1.9.7
+
+v1.10.5
+- updated language files from Transifex
+
+1.10.4
+- Updated to use new libplatform-dev
+
+1.10.3
+- Updated to API v1.9.6
+
+1.10.2
+- Updated to API v1.9.5
+
+1.10.1
+- Updated to API v1.9.4
+
+1.9.23
+- updated language files from Transifex
+
+1.9.22
+- updated language files from Transifex
+- minor changes to conform with C++11
+
+1.9.21
+- added getBackendHostname function
+
+1.9.20
+- updated language files from Transifex
+
+1.9.19
+- change library name to Kodi
+
+1.9.18
+- fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+1.9.17
+- updated language files from Transifex
+
+1.9.16
+- updated language files from Transifex
+
+1.9.15
+- updated to API v1.9.2
+
+1.9.14
+- remove: implementation for lastplayedposition (XBMC handles this now)
+- remove: loading of channel data from HDD
+- change: handling of EPG
+- add: error message if username or password contain the @-sign
+
+1.9.13
+- sync with PVR API v1.9.1
+
+1.9.12
+- updated language files from Transifex
+
+1.9.11
+- updated language files from Transifex
+
+1.9.10
+- updated language files from Transifex
+
+1.9.9
+- add timeshift buffer functions
+
+1.8.8
+- sync with PVR API v1.8.0
+
+1.7.8
+- fix: typo in settings.xml
+
+1.7.7
+- Bump after PVR API version bump
+
+1.6.7
+- add: support for /virtual) recording folders
+- add: support for fetching picons from the webinterface
+- add: support for recording icons
+
+1.6.6
+- updated language files from Transifex
+
+1.6.5
+- updated language files from Transifex
+
+1.6.4
+
+- New version number by Team XBMC
+
+0.3.5:
+- fix: URL encoding in timer-add operations
+
+0.3.4:
+- fix: several crashes on win32 due to missing locks / invalid memory access
+- fix: do not report connection problems when there is an empty TV-channel bouquet
+
+0.3.3:
+- add: support for storing the last played positions for recordings. These will be stored in the file recordings.xml
+- fix: if the webinterface cannot be loaded, deactivate the addon
+
+0.3.2:
+- fix: continue to load channels even if we do not have any radio channels
+
+0.3.1:
+- change: remove XMLParser
+- change: add enigma2 to the displayname
+
+0.3.0:
+- change: remove curl dependancy
+- change: adjust to new PVR API
+
+0.2.8:
+- add: option to only fetch one TV bouquet which can be specified via the addon settings
+
+0.2.7:
+- fix: fix incorrect escape character for & (use '&amp;' instead of '&quot;'). Thx to 'hani' for pointing this out.
+
+0.2.6:
+- cosmetic: remove unnecessary '/' in recording-stream url
+- cosmetic: inprove log output
+- change: get the proper device info from the reveiver box instead of just setting dummy values
+- change: change the buildzip.bat to include version string in the name of the zip-file
+- change: introduce a version string for the channeldata xml file so that we can invalidate old channeldata files if necessary
+
+0.2.5:
+- fix: cleanup the service reference in the streaming url
+
+0.2.4
+- fix: put username & password into the streaming url
+
+0.2.3
+- fix: put username & password into recording-url
+
+0.2.2:
+- fix: escape xml entities in the stream-url before saving to channeldata.xml
+- fix: fetch the version string from configure.in not the ChangeLog (thanks to 'trans')
+- fix: rename changelog in addon-directory to changelog.txt
+
+0.2.1:
+- fix: encode the stream-url properly. Please remove your channeldata.xml file after updating
+- change: add proper version string to the addon.xml generated by buildzip.bat (thanks to 'trans')
+
+0.2.0:
+- change: Complete rework of timer handling. Now it will only show notifications for changed items
+- fix: Update / Add / Delete Timers. Note that the timer names in the XBMC are sometimes not updated properly (in the dialog it is OK)
+- fix: Instant Recordings do now work again
+- fix: timer status is now shown correctly (completed, recording, disabled)
+- fix: enabling / disabling timers do now work
+- change: removed "show completed timers" option (they are now always be shown)
+- add: added buildzip.bat & xbmc-addon-vuplus.sln (thanks to 'trans')
+- fix: Channel numbering / incorrect picons due to the change introduced in 0.1.15
+
+0.1.15
+- fix: when using the channeldata-store option not all channel groups (bouquets) were loaded due to a nulled counter variable
+
+0.1.14
+- change: change .gitignores and copy current changelog into the addon folder. This will enable the user to view the changelog in the addon settings window
+
+0.1.13
+- add: option to set deepstandby powerstate on the DVB box on PVR-addon shutdown
+- fix: error in settings.xml, causing crashes on linux
+
+0.1.12
+- add: support to specify the folder for storing recordings
+
+0.1.11
+- fix: some unicode string errors in german language file
+- change: add categories to addon settings
+
+0.1.10
+- add: support for using only the recording path currently active on the DVB box
+
+0.1.9
+- change: add addon icon (copyied from the openelec guys, thanks!)
+- fix: win32 release target (thanks to 'trans' for patch)
+
+0.1.8
+- change: fetch the recording locations and use these locations when querying the recordings
+- fix: Stop update thread when destroying the PVR addon - fixes shutdown issues
+
+0.1.7
+- fix: Copy & Paste error
+
+0.1.6
+- fix: Change the logic to determine the picon file name from the service reference.
+
+0.1.5
+- fix: Fix access violation errors on windows (thanks to 'trans' for finding the correct compiler / linker settings)
+- fix: do not return out of scope local variable for the streaming URL
+- fix: remove the last '_' character from the filename (if applicable). Should finally fix the picon path errors.
+
+0.1.4
+- fix: limit length of the service reference part of the Icon-Path to 30 characters.
+- fix: Escape "&", "<" and ">" characters in XML channeldata file.
+- add: support to disable all bouquet or channel updates
+
+0.1.3
+- fix: order of timerlist cleanup and timerlist updates
+
+0.1.2
+- add: support for storing channel data into a file
+
+0.1.1
+- fix: URLEncode the service reference when fetching EPG
+
+0.1.0
+- Iniital Version

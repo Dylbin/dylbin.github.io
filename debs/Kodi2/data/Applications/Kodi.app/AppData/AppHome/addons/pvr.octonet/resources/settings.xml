@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="pvr.octonet">
+    <category id="main" label="128" help="-1">
+      <group id="1" label="-1">
+        <!-- Octonet Server Address -->
+        <setting id="octonetAddress" type="string" label="30000" help="-1">
+          <level>0</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string" />
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

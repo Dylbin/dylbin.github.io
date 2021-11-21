@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="vfs.libarchive"
+  version="19.0.0"
+  name="Archive support"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.vfs" minversion="3.0.0" version="3.0.0"/></requires>
+  <!-- Note: .rar is partially supported by this addon, but since the other
+             addon vfs.rar also supports it, support is removed here. -->
+  <extension
+    point="kodi.vfs"
+    protocols="archive"
+    extensions=".7z|.tar.gz|.tar.bz2|.tar.xz|.zip|.tgz|.tbz2|.gz|.bz2|.xz|.tar"
+    files="true"
+    directories="true"
+    filedirectories="true"
+    encodedhostname="true"
+    library_darwin_embedded="vfs.libarchive.19.0.0.dylib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/vfs.libarchive</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+    <summary lang="ca_ES">Complement d'arxiu i compressió multi-format</summary>
+    <summary lang="da_DK">Multiformat arkiverings- og komprimerings-add-on</summary>
+    <summary lang="de_DE">Addon zur Verarbeitung mehrerer Archivformate</summary>
+    <summary lang="en_GB">Multi-format archive and compression addon</summary>
+    <summary lang="es_MX">Complemento de compresión y archivado en múltiples formatos</summary>
+    <summary lang="ko_KR">다중 형식 아카이브 및 압축 애드온</summary>
+    <summary lang="pl_PL">Dodatek wieloformatowych archiwów i kompresji</summary>
+    <summary lang="ru_RU">Дополнение для архивирования и сжатия в нескольких форматах</summary>
+    <summary lang="zh_CN">多格式文档和压缩插件</summary>
+    <description lang="ca_ES">Aquest complement utilitza la llibreria libarchive per llegir diversos formats d'arxiu i compressió.[CR][CR]Els formats compatibles són:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="da_DK">Dette add-on anvender libarchive-biblioteket til at læse en række arkiv- og komprimeringsformater.[CR][CR]Understøttede formater er:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz , tgz, tbz2, xz, zip</description>
+    <description lang="de_DE">Dieses Addon verwendet die Bibliothek libarchive, um verschiedene Archiv- und Komprimierungsformate zu verarbeiten.[CR][CR]Unterstützte Formate sind:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="en_GB">This add-on uses the libarchive library to read a variety of archive and compression formats.[CR][CR]Supported formats are:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="es_MX">Este complemento utiliza libarchive para leer una variedad de formatos de archivado y compresión. [CR][CR]Los formatos soportados son:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="ko_KR">이 추가 기능은 libarchive 라이브러리를 사용하여 다양한 아카이브 및 압축 형식을 읽습니다.[CR][CR]지원되는 형식은 다음과 같습니다.[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz , tgz, tbz2, xz, zip</description>
+    <description lang="pl_PL">Dodatek ten używa biblioteki libarchive do odczytu różnych formatów archiwów i kompresji.[CR][CR]Obsługiwane formaty to:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="ru_RU">Это дополнение использует библиотеку libarchive для чтения различных форматов архивов и сжатия.[CR][CR]Поддерживаемые форматы:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip</description>
+    <description lang="zh_CN">此插件使用 libarchive 库读取各种文档和压缩格式。[CR][CR]支持的格式有：[CR]7z、bz2、gz、tar、tar.bz2、tar.gz、tar.xz、tgz、tbz2、xz、zip</description>
+  </extension>
+</addon>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="mrboom-aspect" values="Native|4:3|16:9" default="Native"/>
+		<setting label="30002" type="select" id="mrboom-levelselect" values="Normal|Candy|Penguins|Pink|Jungle|Board|Soccer|Sky|Aliens|Random" default="Normal"/>
+		<setting label="30003" type="select" id="mrboom-musicvolume" values="100|0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95" default="100"/>
+		<setting label="30004" type="select" id="mrboom-nomonster" values="ON|OFF" default="ON"/>
+		<setting label="30005" type="select" id="mrboom-sfxvolume" values="50|55|60|65|70|75|80|85|90|95|100|0|5|10|15|20|25|30|35|40|45" default="50"/>
+		<setting label="30006" type="select" id="mrboom-teammode" values="Selfie|Color|Sex|Skynet" default="Selfie"/>
+	</category>
+</settings>

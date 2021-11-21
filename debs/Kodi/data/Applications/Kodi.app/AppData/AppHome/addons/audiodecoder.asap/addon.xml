@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.asap"
+  version="19.0.0"
+  name="ASAP Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="asap"
+    tags="true"
+    tracks="true"
+    extension=".sap|.asapstream|.cmc|.cmr|.dmc|.mpt|.mpd|.rmt|.tmc|.tm8|.tm2|.cms|.cm3|.dlt"
+    library_darwin_embedded="audiodecoder.asap.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.asap</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">ASAP - Another Slight Atari Player</summary>
+    <summary lang="de_DE">ASAP - Another Slight Atari Player</summary>
+    <summary lang="en_GB">ASAP - Another Slight Atari Player</summary>
+    <summary lang="ko_KR">ASAP - Another Slight Atari Player</summary>
+    <summary lang="ru_RU">ASAP - Another Slight Atari Player</summary>
+    <summary lang="zh_CN">ASAP - 另一个轻量级雅达利播放器</summary>
+    <description lang="da_DK">ASAP (Another Slight Atari Player) afspiller i Kodi og konverterer 8-bit Atari-musik ( *.sap, *.cmc, *.mpt, *.rmt, *.tmc, ...) på moderne computere og mobile enheder.</description>
+    <description lang="de_DE">ASAP (Another Slight Atari Player) konvertiert 8-Bit-Atari-Musik (*.sap, *.cmc, *.mpt, *.rmt, *.tmc, ...) zum nötigen Format und zur Wiedergabe in Kodi auf modernen Computern und Mobilgeräten.</description>
+    <description lang="en_GB">ASAP (Another Slight Atari Player) plays on Kodi and converts 8-bit Atari music (*.sap, *.cmc, *.mpt, *.rmt, *.tmc, ...) on modern computers and mobile devices.</description>
+    <description lang="ko_KR">ASAP(Another Slight Atari Player)는 Kodi에서 재생되며 최신 컴퓨터 및 모바일 장치에서 8비트 Atari 음악(*.sap, *.cmc, *.mpt, *.rmt, *.tmc, ...)을 변환합니다.</description>
+    <description lang="ru_RU">ASAP (Another Slight Atari Player) воспроизводит в Kodi и конвертирует 8-битную музыку Atari (*.sap, *.cmc, *.mpt, *.rmt, *.tmc, ...) на современных компьютерах и мобильных устройствах.</description>
+    <description lang="zh_CN">ASAP（Another Slight Atari Player，另一个轻量级雅达利播放器）在 Kodi 上播放，并在现代计算机和移动设备上转换8位雅达利音乐（*.sap、*.cmc、*.mpt、*.rmt、*.tmc等）。</description>
+  </extension>
+</addon>

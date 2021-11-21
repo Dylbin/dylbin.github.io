@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings version="1">
+  <section id="pvr.vbox">
+
+    <!-- Connection -->
+    <category id="connection" label="30006" help="30600">
+      <group id="1" label="30000">
+        <setting id="hostname" type="string" label="30001" help="30601">
+          <level>0</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string" />
+        </setting>
+        <setting id="http_port" type="integer" label="30002" help="30602">
+          <level>1</level>
+          <default>80</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="https_port" type="integer" label="30005" help="30603">
+          <level>2</level>
+          <default>0</default>
+          <constraints>
+            <minimum>0</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="upnp_port" type="integer" label="30003" help="30604">
+          <level>2</level>
+          <default>55555</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="connection_timeout" type="integer" label="30004" help="30605">
+          <level>3</level>
+          <default>3</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>60</maximum>
+          </constraints>
+          <control type="slider" format="integer">
+            <popup>true</popup>
+            <formatlabel>14045</formatlabel>
+          </control>
+        </setting>
+      </group>
+      <group id="2" label="30007">
+        <setting id="external_hostname" type="string" label="30001" help="30606">
+          <level>2</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string" />
+        </setting>
+        <setting id="external_http_port" type="integer" label="30002" help="30607">
+          <level>2</level>
+          <default>19999</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+       <setting id="external_https_port" type="integer" label="30005" help="30608">
+          <level>2</level>
+          <default>0</default>
+          <constraints>
+            <minimum>0</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="external_upnp_port" type="integer" label="30003" help="30609">
+          <level>2</level>
+          <default>55555</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="external_connection_timeout" type="integer" label="30004" help="30610">
+          <level>3</level>
+          <default>10</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>60</maximum>
+          </constraints>
+          <control type="slider" format="integer">
+            <popup>true</popup>
+            <formatlabel>14045</formatlabel>
+          </control>
+        </setting>
+      </group>
+    </category>
+
+    <!-- Channels & EPG -->
+    <category id="epg" label="30020" help="30620">
+      <group id="1" label="30021">
+        <setting id="set_channelid_using_order" type="integer" label="30023" help="30621">
+          <level>0</level>
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="30024">0</option> <!-- LCN -->
+              <option label="30025">1</option> <!-- BACKEND ORDER -->
+            </options>
+          </constraints>
+          <control type="list" format="integer" />
+        </setting>
+      </group>
+      <group id="2" label="30022">
+        <setting id="skip_initial_epg_load" type="boolean" label="30027" help="30623">
+          <level>2</level>
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+      </group>
+    </category>
+
+    <!-- Timeshift -->
+    <category id="timeshift" label="30006" help="30640">
+      <group id="1" label="30040">
+        <setting id="timeshift_enabled" type="boolean" label="30041" help="30641">
+          <level>0</level>
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="timeshift_path" type="path" parent="timeshift_enabled" label="30042" help="30642">
+          <level>2</level>
+          <default>special://userdata/addon_data/pvr.vbox</default>
+          <constraints>
+            <allowempty>true</allowempty>
+            <writable>true</writable>
+          </constraints>
+          <dependencies>
+            <dependency type="enable" setting="timeshift_enabled" operator="is">true</dependency>
+          </dependencies>
+          <control type="button" format="path">
+            <heading>657</heading>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>
+
+<!--
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="30000">
+    <setting id="hostname" type="text" label="30001" default="" />
+    <setting id="http_port" type="number" option="int" label="30002" default="80" />
+    <setting id="https_port" type="number" option="int" label="30005" default="" />
+    <setting id="upnp_port" type="number" option="int" label="30003" default="55555" />
+    <setting id="connection_timeout" type="number" option="int" label="30004" default="3" />
+  </category>
+
+  <category label="30050">
+    <setting id="external_hostname" type="text" label="30001" default="" />
+    <setting id="external_http_port" type="number" option="int" label="30002" default="19999" />
+    <setting id="external_https_port" type="number" option="int" label="30005" default="" />
+    <setting id="external_upnp_port" type="number" option="int" label="30003" default="55555" />
+    <setting id="external_connection_timeout" type="number" option="int" label="30004" default="10" />
+  </category>
+
+  <category label="30100">
+    <setting id="set_channelid_using_order" type="enum" label="30105" lvalues="30108|30109" default="0"/>
+    <setting id="reminder_mins_before_prog" type="number" option="int" label="30114" default="0"/>
+    <setting id="skip_initial_epg_load" type="bool" label="30115" default="true" />
+  </category>
+
+  <category label="30200">
+    <setting id="timeshift_enabled" type="bool" label="30201" default="false" />
+    <setting id="timeshift_path" type="folder" label="30202" default="special://userdata/addon_data/pvr.vbox" option="writeable" enable="eq(-1,true)" />
+  </category>
+</settings>
+-->

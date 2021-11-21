@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.openmpt"
+  version="19.0.0"
+  name="OpenMPT Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="mod"
+    tags="true"
+    extension=".mptm|.mod|.s3m|.xm|.it|.669|.amf|.ams|.c67|.dbm|.digi|.dmf|.dsm|.dtm|.far|.imf|.ice|.j2b|.m15|.mdl|.med|.mms|.mt2|.mtm|.nst|.okt|.plm|.psm|.pt36|.ptm|.sfx|.sfx2|.st26|.stk|.stm|.stp|.ult|.wow|.gdm|.mo3|.umx|.xpk|.ppm|.mmcmp"
+    library_darwin_embedded="audiodecoder.openmpt.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.openmpt</source>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+    <summary lang="da_DK">OpenMPT - Oplev musikken...</summary>
+    <summary lang="de_DE">OpenMPT - Entdecken Sie die Musik darin...</summary>
+    <summary lang="en_GB">OpenMPT - Discover the music inside...</summary>
+    <summary lang="ko_KR">OpenMPT - 내부의 음악 발견...</summary>
+    <summary lang="ru_RU">OpenMPT - познайте музыку изнутри...</summary>
+    <summary lang="zh_CN">OpenMPT - 发现内含的音乐...</summary>
+    <description lang="da_DK">OpenMPT (forkortelse af Open ModPlug Tracker) er helt gratis, og biblioteket giver dig mulighed for at afspille fantastisk musik i Kodi.[CR][CR]Det understøtter indlæsning af filer i formaterne IT (Impulse Tracker), XM (FastTracker Extended Module), MOD (ProTracker og lignende), S3M (Scream Tracker 3) og MPTM (sit eget filformat) og importerer mange flere modul- og sample-filformater.[CR][CR]Se webstedet for en komplet liste over understøttede filformater.</description>
+    <description lang="de_DE">OpenMPT (Abkürzung für Open ModPlug Tracker) ist völlig kostenlos und in seiner Bibliothek können Sie großartige Musik auf Ihrem Kodi wiedergeben.[CR][CR]Es unterstützt das Laden von IT- (Impulse Tracker), XM- (FastTracker Extended Module), MOD- (ProTracker und ähnliche), S3M- (Scream Tracker 3) und MPTM- (eigenes Dateiformat) Dateien und importiert viele weitere Modul- und Beispieldateiformate.[CR][CR]Auf seiner Website finden Sie eine vollständige Liste der unterstützten Typen.</description>
+    <description lang="en_GB">OpenMPT (short hand for Open ModPlug Tracker) is completely free and his library allows you play back some great music on your Kodi.[CR][CR]It supports loading of IT (Impulse Tracker), XM (FastTracker Extended Module), MOD (ProTracker and similar), S3M (Scream Tracker 3) and MPTM (its own file format) files, imports many more module and sample file formats.[CR][CR]See his website for complete list of supported types.</description>
+    <description lang="ko_KR">OpenMPT(Open ModPlug Tracker의 줄임말)는 완전히 무료이며 그 라이브러리를 통해 Kodi에서 멋진 음악을 재생할 수 있습니다.[CR][CR]IT(Impulse Tracker), XM(FastTracker Extended Module), MOD(ProTracker 및 유사), S3M(Scream Tracker 3) 및 MPTM(자체 파일 형식) 파일을 지원하고, 더 많은 모듈 및 샘플 파일 형식을 가져옵니다.[CR][CR]지원되는 형식의 전체 목록은 그 웹사이트를 참조하십시오.</description>
+    <description lang="ru_RU">OpenMPT (сокращение от Open ModPlug Tracker) полностью бесплатен, и его библиотека позволяет воспроизводить отличную музыку на вашем Kodi.[CR][CR]Он поддерживает загрузку файлов IT (Impulse Tracker), XM (FastTracker Extended Module), MOD (ProTracker и подобные), S3M (Scream Tracker 3) и MPTM (собственный формат файлов), импортирует многие другие форматы файлов модулей и сэмплов.[CR][CR]Полный список поддерживаемых типов смотрите на его сайте.</description>
+    <description lang="zh_CN">OpenMPT（Open ModPlug Tracker 的缩写）是完全免费的，他的库允许您在 Kodi 上播放一些很棒的音乐。[CR][CR]它支持加载 IT（脉冲跟踪器）、XM（快速跟踪器扩展模块）、MOD（ProTracker 之类）、S3M（尖叫跟踪器3）和MPTM（其自身的文件格式）文件，导入更多的模块和示例文件格式。[CR][CR]有关支持的类型的完整列表，请访问他的网站。</description>
+  </extension>
+</addon>

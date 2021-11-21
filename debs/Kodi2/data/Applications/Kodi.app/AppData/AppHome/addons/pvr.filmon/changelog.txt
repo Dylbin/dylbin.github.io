@@ -1,0 +1,271 @@
+v19.0.0
+- Translations updates from Weblate
+  - fr_ca, mt_mt, te_in
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v6.1.3
+- Translations updates from Weblate
+	- he_il
+
+v6.1.2
+- Translations updates from Weblate
+	- pl_pl
+
+v6.1.1
+- Language update from Weblate
+
+6.1.0:
+- Update PVR API 7.1.0
+
+6.0.0:
+- Update PVR API 7.0.2
+- Use Kodi API about string to MD5
+- Fix some compile warnings by add of ATTRIBUTE_HIDDEN
+
+5.1.0:
+- Fix prefer HD setting
+- Choose between favourite channels and all channels
+
+5.0.1:
+- Use atoi instead of stoi and stoul thread dying
+
+5.0.0:
+- Update PVR API 7.0.0
+- Rework addon to support new API interface
+
+4.0.0:
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+
+3.2.4:
+- Fully implement IsRealTimeStream()
+
+3.2.3:
+- Update PVR API 6.5.0
+
+3.2.2:
+- Update PVR API 6.4.0
+- Update license name and add forum url on addon.xml
+- Change source license to use SPDX
+- Minor cleanups
+
+3.2.1
+- Update PVR API 6.3.0
+
+3.2.0
+- Remove p8-platform usage and do by C++11
+- Major code format cleanups (no working changes)
+- Update debian build code
+- Change settings to new Kodi format
+- Add license as LICENSE.md and include in addon.xml with source URL
+
+3.1.4
+- Update PVR API 6.2.0
+
+3.1.3
+Replace AppVeyor with Azure for test build (better performance)
+Add p8-platform to addon depends instead of from kodi
+Updated Language files from Transifex
+
+3.1.2
+Updated Language files from Transifex
+
+3.1.1
+Updated Language files from Transifex
+
+3.1.0
+Update: Recompile for 6.1.0 PVR Addon API compatibility
+
+3.0.1
+Update build system version and cleanup
+Fix package check for JsonCpp
+Added AppVeyor for Windows related build tests
+
+3.0.0
+Update to PVR addon API v6.0.0
+
+2.4.4
+Updated Language files from Transifex
+
+2.4.3
+Updated Language files from Transifex
+
+2.4.2
+Updated Language files from Transifex
+
+2.4.1
+Update to PVR addon API v5.10.1
+
+2.4.0
+Update to PVR addon API v5.10.0
+
+2.3.4
+Update to PVR addon API v5.9.0
+
+2.3.1
+change to non deprecated jsoncpp methods
+
+2.3.0
+Update to PVR addon API v5.8.0
+
+2.2.2
+Bump jsoncpp to version 1.8.3
+
+2.2.1
+Remove StdString usage
+
+2.2.0
+Update to PVR addon API v5.7.0
+bump jsoncpp depends to 0.10.6
+
+2.1.0
+Update to PVR addon API v5.3.0
+
+2.0.4
+Remove of never used addon interface function
+
+2.0.3
+Update Debian package control
+PVR addon callback way changes
+
+2.0.2
+Removed old no more needed version functions
+
+2.0.1
+Set dependency versions automatic during build
+Removed never used kodi to addon functions
+Build system fixes
+Language updates
+
+2.0.0
+Initial Kodi v18 version
+
+1.4.5
+Updated Fix EPG
+
+1.4.3
+Updated User Agent to login to FilmOn
+
+1.4.2
+Updated Language files from Transifex
+
+1.4.1
+Updated Language files from Transifex
+
+1.4.0
+Cmake: rename find_package kodi to Kodi
+
+1.3.1
+Fix includes
+
+1.3.0
+Update to PVR addon API v5.2.0
+
+1.2.0
+Update to PVR addon API v5.1.0
+
+1.1.0
+Update to PVR addon API v5.0.0
+
+1.0.1
+Updated Language files from Transifex
+
+1.0.0
+Initial Kodi Krypton version.
+
+0.7.3
+Updated Language files from Transifex
+
+0.7.2
+Updated Language files from Transifex
+
+0.7.1
+Updated Language files from Transifex
+
+0.7.0
+added option to prefer SD streams
+
+0.6.6
+Updated to PVR API v4.1.0
+
+0.6.5
+Updated to PVR API v4.0.0
+
+0.6.4
+Updated to PVR API v3.0.0 (API 1.9.7 compatibility mode)
+
+0.6.3
+Updated to PVR API v2.1.0
+Automatically fill in platform and library name
+
+0.6.2
+Debian packaging: fix library install path
+Miscellaneous backend fixes
+
+0.6.1
+Updated to API v2.0.0
+
+0.6.0
+Updated to API v1.9.7
+
+0.5.7
+Updated Language files from Transifex
+
+0.5.6
+Fix error building with debian
+
+0.5.5
+Updated to use new libplatform-dev
+
+0.5.4
+Updated to API v1.9.6
+
+0.5.3
+Fix missing libjsoncpp-dev dep
+
+0.5.2
+Updated to API v1.9.5
+
+0.5.1
+removed libcurl and cryptopp dependency
+
+0.5.0
+Updated to API v1.9.4
+
+0.4.8
+Updated Language files from Transifex
+
+0.4.7
+Updated Language files from Transifex
+
+0.4.6
+Add getBackendHostname function
+
+0.4.5
+Updated Language files from Transifex
+
+0.4.4
+change library name to Kodi
+
+0.4.3
+fixed build error due to compiler warnings on some distributions (@anssih)
+
+0.4.2
+fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+0.4.1
+Updated Language files from Transifex
+
+0.4.0
+
+Add support for HLS.
+Fix recording storage.
+Notification on each channel load.
+
+0.3.0
+
+Initial working version.
+

@@ -1,0 +1,53 @@
+# Kodi Media Center language file
+# Addon Name: PVR Demo Client
+# Addon id: pvr.demo
+# Addon Provider: Pulse-Eight Ltd.
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_us\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "Addon Summary"
+msgid "Demo PVR Client"
+msgstr "Demo PVR Client"
+
+msgctxt "Addon Description"
+msgid "Demo PVR Client"
+msgstr "Demo PVR Client"
+
+msgctxt "Addon Disclaimer"
+msgid "Just contains stubs"
+msgstr "Just contains stubs"
+
+msgctxt "#30000"
+msgid "PVR client menu hook item (settings)"
+msgstr ""
+
+msgctxt "#30001"
+msgid "PVR client menu hook item (all items)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "PVR client menu hook item (channels)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "PVR client menu hook item (settings) called."
+msgstr ""
+
+msgctxt "#30011"
+msgid "PVR client menu hook item (all items) called"
+msgstr ""
+
+msgctxt "#30012"
+msgid "PVR client menu hook item (channels) called"
+msgstr ""

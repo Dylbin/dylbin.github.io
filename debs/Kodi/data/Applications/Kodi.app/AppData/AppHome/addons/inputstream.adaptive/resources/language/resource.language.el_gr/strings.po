@@ -1,0 +1,128 @@
+# Kodi Media Center language file
+# Addon Name: Inputstream.adaptive
+# Addon id: inputstream.adaptive
+# Addon Provider: peak3d
+msgid ""
+msgstr ""
+"Language-Team: Greek (Greece)\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "InputStream client for adaptive streams"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "InputStream client for adaptive streams"
+msgstr ""
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Γενικά"
+
+# The minimum bandwidth which should not be deceeded.
+msgctxt "#30101"
+msgid "Min. Bandwidth (Bit/s)"
+msgstr "Το ελάχιστο εύρος το οποίο δεν πρέπει να ξεπεραστεί"
+
+# The maximum bandwidth which should not be exceeded. 0=unlimited
+msgctxt "#30102"
+msgid "Max. Bandwidth (Bit/s)"
+msgstr "To μέγιστο εύρος το οποίο δεν πρέπει να ξεπεραστεί. 0=απεριόριστο"
+
+# Absolute path to the folder containing the decrypters
+msgctxt "#30103"
+msgid "Decrypter path"
+msgstr "Απόλυτη διάδρομή φακέλου που περιέχει τους αποκρυπτογραφητές"
+
+# Maximum Resolution
+msgctxt "#30110"
+msgid "Max. Resolution general decoder"
+msgstr "Μέγιστη ανάλυση"
+
+msgctxt "#30111"
+msgid "Stream Selection"
+msgstr "Επιλογή ροής"
+
+msgctxt "#30112"
+msgid "Media"
+msgstr "Πολυμέσα"
+
+# Maximum allowed resolution if decoded through secure path
+msgctxt "#30113"
+msgid "Max. Resolution secure decoder"
+msgstr "Μέγιστη επιτρεπτή ανάλυση όταν αποκωδικοποιηθεί μέσω ασφαλούς διαδρομής"
+
+# Select streams without respecting HDCP status
+msgctxt "#30114"
+msgid "Override HDCP status"
+msgstr "Επιλογή ροών χωρίς σεβασμό της κατάστασης του HDCP"
+
+# Do not respect display resolution when selecting streams
+msgctxt "#30115"
+msgid "Ignore Display Resolution"
+msgstr "Να μην ληφθεί υπ'οψην η ανάλυση οθόνης κατά την επιλογή ροών"
+
+msgctxt "#30120"
+msgid "Expert"
+msgstr "Ειδικός"
+
+msgctxt "#30121"
+msgid "Enable Pre-Release Features"
+msgstr "Ενεργοποίηση χαρακτηριστικών προ-εκδόσεων"
+
+msgctxt "#30122"
+msgid "Don't use secure decoder if possible"
+msgstr ""
+
+msgctxt "#30150"
+msgid "Max"
+msgstr "Μέγιστο"
+
+msgctxt "#30151"
+msgid "480p"
+msgstr "480p"
+
+msgctxt "#30152"
+msgid "640p"
+msgstr "640p"
+
+msgctxt "#30153"
+msgid "720p"
+msgstr "720p"
+
+msgctxt "#30154"
+msgid "1080p"
+msgstr "1080p"
+
+msgctxt "#30155"
+msgid "Automatically select streams"
+msgstr ""
+
+msgctxt "#30156"
+msgid "Manually select all streams"
+msgstr ""
+
+msgctxt "#30157"
+msgid "All"
+msgstr "Όλα"
+
+msgctxt "#30158"
+msgid "Audio"
+msgstr "Ήχος"
+
+msgctxt "#30159"
+msgid "Video"
+msgstr "Βίντεο"
+
+# Show all video streams
+msgctxt "#30160"
+msgid "Manually select video stream"
+msgstr ""
+
+msgctxt "#30161"
+msgid "Video + Subtitles"
+msgstr "Βίντεο + Υπότιτλοι"

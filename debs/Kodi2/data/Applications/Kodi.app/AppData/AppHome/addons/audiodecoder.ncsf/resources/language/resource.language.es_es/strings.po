@@ -1,0 +1,93 @@
+# Kodi Media Center language file
+# Addon Name: NCSF Audio Decoder
+# Addon id: audiodecoder.ncsf
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-17 09:58+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
+"Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-ncsf/es_es/>\n"
+"Language: es_es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.2\n"
+
+msgctxt "Addon Summary"
+msgid "NCSF (Nitro Composer Sound Format) Audio Decoder"
+msgstr "Decodificador de Audio NCSF (Nitro Composer Sound Format)"
+
+msgctxt "Addon Description"
+msgid "Adds decoding support for Nitro Composer Sound Format files (.NCSF/.MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) is a PSF-style for Nintendo DS music, specifically music that was created via Nitro Composer, a tracker-like composer that is part of Nintendo's Nitro SDK for the Nintendo DS."
+msgstr "Añade soporte para los archivos Nitro Composer Sound Format (.NCSF/.MININCSF).[CR][CR]Nitro Composer Sound Format (NCSF) es un tipo-PSF para la música de Nintendo DS, especificamente para la musica creada con Nitro Composer, un compositor de música tipo tracker que forma parte del SDK Nitro de Nintendo para Nintendo DS."
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+msgctxt "#30000"
+msgid "Default length"
+msgstr "Longitud por defecto"
+
+msgctxt "#30001"
+msgid "Used if specified file does not provide the length."
+msgstr "Se usa si el archivo especificado no indica la longitud."
+
+msgctxt "#30002"
+msgid "unused"
+msgstr "sin usar"
+
+msgctxt "#30003"
+msgid "{0:d} s"
+msgstr "{0:d} s"
+
+msgctxt "#30004"
+msgid "Default fade out time"
+msgstr "Tiempo de desvanecimiento por defecto"
+
+msgctxt "#30005"
+msgid "Used if specified file does not provide the length and fade."
+msgstr "Se usa si el archivo especificado no indica la longitud y desvanecimiento."
+
+msgctxt "#30006"
+msgid "unused"
+msgstr "sin usar"
+
+msgctxt "#30007"
+msgid "{0:d} ms"
+msgstr "{0:d} ms"
+
+msgctxt "#30008"
+msgid "Suppress opening silence"
+msgstr "Eliminar silencios al empezar"
+
+msgctxt "#30009"
+msgid "Some files start with silent data, this prevents it and looks for the beginning."
+msgstr "Algunos archivos empiezan con un silencio y esto lo previene y busca el principio."
+
+msgctxt "#30010"
+msgid "Suppress end silence"
+msgstr "Quitar silencio al final"
+
+msgctxt "#30011"
+msgid "Some files end with silent data, this prevents it and looks for the end."
+msgstr "Algunos archivos terminan con un silencio. Esto lo previene y busca el final."
+
+msgctxt "#30012"
+msgid "Second of silence to check"
+msgstr "Segundos de silencio a comprobar"
+
+msgctxt "#30013"
+msgid "How many silent seconds are allowed before playback is stopped."
+msgstr "Cuántos segundos de silencio se permiten antes de que se pare la reproducción."
+
+msgctxt "#30014"
+msgid "{0:d} s"
+msgstr "{0:d} s"

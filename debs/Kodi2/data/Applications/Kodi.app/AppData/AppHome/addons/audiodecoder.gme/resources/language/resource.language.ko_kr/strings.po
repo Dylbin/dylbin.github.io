@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: GME Audio Decoder
+# Addon id: audiodecoder.gme
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-gme/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Game Music Emu Audio Decoder"
+msgstr "Game Music Emu 오디오 디코더"
+
+msgctxt "Addon Description"
+msgid "Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a \"retro\" feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr "GME(Game Music Emu) 형식은 1980년대와 1990년대에 유행했던 다양한 비디오 게임 콘솔의 오디오 출력을 에뮬레이트하는 데 사용됩니다. 사운드에 \"복고풍\" 느낌을 줍니다.[CR][CR][B]참고:[/B][CR]일부 파일 형식은 길이를 제공하지 않으며 이 경우에는 2.5분으로 설정됩니다.[CR][ CR][B]지원되는 형식:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC 엔진[CR]- KSS: MSX 가정용 컴퓨터/기타 Z80 시스템(FM 사운드 없음)[CR]- NSF/NSFE: Nintendo NES/Famicom(VRC 6, Namco 106 및 FME-7 사운드 포함) [CR]- SAP: POKEY 사운드 칩을 사용하는 Atari 시스템[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"

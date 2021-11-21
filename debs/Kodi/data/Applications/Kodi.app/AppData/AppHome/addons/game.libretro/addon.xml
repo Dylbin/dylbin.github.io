@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.libretro"
+       name="Libretro Compatibility"
+       version="19.0.0"
+       provider-name="Team Kodi">
+  <backwards-compatibility abi="1.0.0"/>
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.game" minversion="2.1.0" version="2.1.0"/></requires>
+  <extension point="kodi.gameclient"
+       library_darwin_embedded="game.libretro.19.0.0.dylib">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/kodi-game/game.libretro</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">Libretro-Kompatibilitätsschicht für Kodi's Spiele API</summary>
+    <summary lang="en_GB">Libretro compatibility layer for Kodi's Game API</summary>
+    <summary lang="zh_CN">用于 Kodi 游戏 API 的 Libretro 兼容层</summary>
+    <description lang="de_DE">Dieses Addon bietet einen Umwandler für Libretro-Kerne, mit dem sie als Spielsystem Add-On's für Kodi geladen und genutzt werden können.</description>
+    <description lang="en_GB">This add-on provides a wrapper for libretro cores, allowing them to be loaded as game add-ons.</description>
+    <description lang="zh_CN">这个插件为 libretro 内核提供了一个包装器，允许它们作为游戏插件加载。</description>
+  </extension>
+</addon>

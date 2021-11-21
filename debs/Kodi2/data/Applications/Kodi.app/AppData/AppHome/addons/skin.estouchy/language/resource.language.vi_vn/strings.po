@@ -1,0 +1,273 @@
+# Kodi Media Center language file
+# Addon Name: Estouchy
+# Addon id: skin.estouchy
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/kodi-main/language/vi_VN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "#31002"
+msgid "Audio Settings"
+msgstr "Cài đặt âm thanh"
+
+msgctxt "#31003"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "#31004"
+msgid "Caps[CR]Lock"
+msgstr "Caps[CR]Lock"
+
+msgctxt "#31005"
+msgid "Visualization Options"
+msgstr "Lựa chọn trình diễn"
+
+msgctxt "#31006"
+msgid "Visualization Presets"
+msgstr "Bộ preset trình diễn"
+
+msgctxt "#31007"
+msgid "Context Menu"
+msgstr "Menu ngữ cảnh"
+
+msgctxt "#31009"
+msgid "Working..."
+msgstr "Đang chạy..."
+
+msgctxt "#31011"
+msgid "Recent"
+msgstr "Gần đây"
+
+msgctxt "#31013"
+msgid "Movies"
+msgstr "Phim"
+
+msgctxt "#31014"
+msgid "Episodes"
+msgstr "Tập"
+
+msgctxt "#31015"
+msgid "Player info"
+msgstr "Thông tin trình phát"
+
+msgctxt "#31016"
+msgid "Albums"
+msgstr "Album"
+
+msgctxt "#31017"
+msgid "PVR info"
+msgstr "Thông tin PVR"
+
+msgctxt "#31018"
+msgid "Player process info"
+msgstr "Thông tin trình phát"
+
+msgctxt "#31019"
+msgid "Video decoder"
+msgstr "Bộ giải mã video"
+
+msgctxt "#31020"
+msgid "Pixel format"
+msgstr "Định dạng điểm ảnh"
+
+msgctxt "#31021"
+msgid "System memory usage"
+msgstr "Sử dụng bộ nhớ hệ thống"
+
+msgctxt "#31024"
+msgid "Page"
+msgstr "Trang"
+
+msgctxt "#31030"
+msgid "Info List"
+msgstr "Thông tin"
+
+msgctxt "#31038"
+msgid "Login"
+msgstr "Đăng nhập"
+
+msgctxt "#31039"
+msgid "Updated:"
+msgstr "Đã cập nhật:"
+
+msgctxt "#31043"
+msgid "PAUSED"
+msgstr "Tạm dừng"
+
+msgctxt "#31044"
+msgid "FAST FORWARD"
+msgstr "TUA TỚI NHANH"
+
+msgctxt "#31045"
+msgid "REWIND"
+msgstr "TUA LÙI"
+
+msgctxt "#31046"
+msgid "Play speed"
+msgstr "Tốc độ phát"
+
+msgctxt "#31049"
+msgid "End Time"
+msgstr "Thời gian kết thúc"
+
+msgctxt "#31050"
+msgid "Sort: Ascending"
+msgstr "Sắp xếp: Tăng dần"
+
+msgctxt "#31051"
+msgid "Sort: Descending"
+msgstr "Sắp xếp: Giảm dần"
+
+msgctxt "#31055"
+msgid "Open playlist"
+msgstr "Mở danh sách phát"
+
+msgctxt "#31056"
+msgid "Save playlist"
+msgstr "Lưu danh sách phát"
+
+msgctxt "#31057"
+msgid "Close playlist"
+msgstr "Đóng danh sách phát"
+
+msgctxt "#31058"
+msgid "System music files"
+msgstr "Tập tin nhạc trên hệ thống"
+
+msgctxt "#31059"
+msgid "Current playlist"
+msgstr "Danh sách phát hiện tại"
+
+msgctxt "#31200"
+msgid "Back"
+msgstr "Trở lại"
+
+msgctxt "#31201"
+msgid "Location"
+msgstr "Đường dẫn"
+
+msgctxt "#31202"
+msgid "View"
+msgstr "Xem"
+
+msgctxt "#31300"
+msgid "Current Temp"
+msgstr "Nhiệt độ hiện giờ"
+
+msgctxt "#31301"
+msgid "Last Updated"
+msgstr "Cập nhật mới nhất"
+
+msgctxt "#31303"
+msgid "Data provider"
+msgstr "Nhà cung cấp dữ liệu"
+
+msgctxt "#31309"
+msgid "System Memory Used:"
+msgstr "Bộ nhớ hệ thống đã dùng:"
+
+msgctxt "#31320"
+msgid "Last Logged In"
+msgstr "Đăng nhập lần cuối"
+
+msgctxt "#31322"
+msgid "Aired"
+msgstr "Đã phát"
+
+msgctxt "#31355"
+msgid "Video Menu"
+msgstr "Menu Video"
+
+msgctxt "#31356"
+msgid "Download Subtitles"
+msgstr "Tải phụ đề"
+
+msgctxt "#31358"
+msgid "Teletext"
+msgstr "Teletext"
+
+msgctxt "#31390"
+msgid "Skin default"
+msgstr "Giao diện mặc định"
+
+msgctxt "#31391"
+msgid "Arial based"
+msgstr "Theo chuẩn Arial"
+
+msgctxt "#31400"
+msgid "Change the skin · Set language and region · Change file listing options · Set up a screensaver"
+msgstr "Thay đổi skin · Đặt ngôn ngữ và vùng · Thay đổi cách liệt kê file · Cài đặt trình bảo vệ màn hình"
+
+msgctxt "#31405"
+msgid "Configure & manage media sharing services · Configure & manage the weather service"
+msgstr "Định cấu hình và quản lý dịch vụ chia sẻ đa phương tiện · Cấu hình và quản lý dịch vụ thời tiết"
+
+msgctxt "#31406"
+msgid "Configure display · Configure audio · Configure internet access · Configure power saving· Configure logging"
+msgstr "Cấu hình hiển thị · Cấu hình âm thanh · Cấu hình truy cập internet · Cấu hình tiết kiệm năng lượng · Cấu hình ghi nhật ký"
+
+msgctxt "#31407"
+msgid "Manage your installed add-ons · Browse for and install add-ons from kodi.tv · Modify add-on settings"
+msgstr "Quản lý tiện ích đã cài đặt của bạn · Duyệt tìm và cài đặt các tiện ích từ kodi.tv · Sửa đổi cài đặt tiện ích"
+
+msgctxt "#31408"
+msgid "Configure actions that can be used during playback · Configure how media content is played"
+msgstr "Định cấu hình các hành động được sử dụng trong khi phát · Định cấu hình cách phát nội dung đa phương tiện"
+
+msgctxt "#31421"
+msgid "Select your Kodi user Profile[CR]to login and continue"
+msgstr "Chọn profile Kodi[CR]để tiếp tục đăng nhập"
+
+msgctxt "#31550"
+msgid "Backgrounds"
+msgstr "Hình nền"
+
+msgctxt "#31551"
+msgid "Add-on Shortcut"
+msgstr "Phím tắt tiện ích"
+
+msgctxt "#31553"
+msgid "Use Custom Background"
+msgstr "Sử dụng nền tùy chọn"
+
+msgctxt "#31554"
+msgid "Background:"
+msgstr "Nền:"
+
+msgctxt "#31556"
+msgid "Live TV"
+msgstr "Kênh TV"
+
+msgctxt "#31559"
+msgid "Channel settings"
+msgstr "Cài đặt kênh"
+
+msgctxt "#31560"
+msgid "Available groups"
+msgstr "Nhóm có sẵn"
+
+msgctxt "#31561"
+msgid "Add Group"
+msgstr "Thêm nhóm"
+
+msgctxt "#31562"
+msgid "Rename Group"
+msgstr "Đổi tên nhóm"
+
+msgctxt "#31563"
+msgid "Delete Group"
+msgstr "Xoá nhóm"
+
+msgctxt "#31903"
+msgid "When you are playing audio or video, the item title will appear at the top of the screen. Touching it will take you to the fullscreen visualization or video window."
+msgstr "Khi bạn đang phát âm thanh hoặc video, tiêu đề mục sẽ xuất hiện ở phía trên màn hình. Chạm vào nó sẽ đưa bạn đến cửa sổ video hoặc hình ảnh toàn màn hình."

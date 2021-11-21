@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.upse"
+  version="19.0.0"
+  name="PSF Audio Decoder"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="psf"
+    extension=".psf|.minipsf"
+    tags="true"
+    library_darwin_embedded="audiodecoder.upse.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.upse</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="da_DK">Portable Sound Format (PSF) lyddekoder</summary>
+    <summary lang="de_DE">Portable Sound Format (PSF) Audio Decoder</summary>
+    <summary lang="en_GB">Portable Sound Format (PSF) Audio Decoder</summary>
+    <summary lang="ko_KR">포터블 사운드 포맷 (PSF) 오디오 디코더</summary>
+    <summary lang="ru_RU">Аудиодекодер Portable Sound Format (PSF)</summary>
+    <summary lang="zh_CN">便携式声音格式（PSF）音频解码器</summary>
+    <description lang="da_DK">Tilføjer afkodningsunderstøttelse til Sony Playstation Sound Format-filer (.PSF/.MINIPSF).</description>
+    <description lang="de_DE">Fügt Dekodierungsunterstützung für Sony Playstation Sound Format-Dateien (.PSF/.MINIPSF) hinzu.</description>
+    <description lang="en_GB">Adds decoding support for Sony Playstation Sound Format files (.PSF/.MINIPSF).</description>
+    <description lang="ko_KR">소니 플레이스테이션 사운드 형식 파일(.PSF/.MINIPSF)에 대한 디코딩 지원을 추가합니다.</description>
+    <description lang="ru_RU">Добавлена поддержка декодирования файлов Sony Playstation Sound Format (.PSF/.MINIPSF).</description>
+    <description lang="zh_CN">添加对索尼 Playstation 声音格式文件（.PSF/.MINIPSF）的解码支持。</description>
+  </extension>
+</addon>

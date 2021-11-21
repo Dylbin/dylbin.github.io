@@ -1,0 +1,78 @@
+# XBMC Media Center language file
+# Addon Name: FishBMC
+# Addon id: visualization.fishbmc
+# Addon Provider: 26elf
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/visualization.fishbmc/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-07-28 21:29+0000\n"
+"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"Language-Team: Danish <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-fishbmc/da_dk/>\n"
+"Language: da_dk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7.2\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing Waves and Blur Effects"
+msgstr "Visualisering der viser bølger og sløringseffekter"
+
+msgctxt "Addon Description"
+msgid "fishBMC is based on fische, a standalone sound visualisation tool. The basic principle is: draw the waveform and smear the drawing along predefined vectors. However fische also incorporates advanced beat detection, which really guarantees a great visual experience."
+msgstr "fishBMX er baseret på fische, et enkeltstående lydvisualiseringsværktøj. Grundprincippet er: tegn waveformen og tvær tegningen langs de prædefinerede vektorer. Imidlertid inkluderer fische også avanceret beat-registrering, hvilket virkelig garanterer en fantastisk visuel oplevelse."
+
+msgctxt "Addon Disclaimer"
+msgid "If this breaks anything, the pieces remain yours."
+msgstr "Hvis dette ødelægger noget, er stykkerne dine."
+
+msgctxt "#30000"
+msgid "Detail [CPU intensive]"
+msgstr "Detalje [CPU-intensiv]"
+
+msgctxt "#30001"
+msgid "Low"
+msgstr "Lav"
+
+msgctxt "#30002"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "#30003"
+msgid "High"
+msgstr "Høj"
+
+msgctxt "#30004"
+msgid "Extreme"
+msgstr "Ekstrem"
+
+msgctxt "#30005"
+msgid "Nervous Mode [more mode changes]"
+msgstr "Nervøs tilstand [flere skift af tilstande]"
+
+msgctxt "#30006"
+msgid "Speed [skip some frames]"
+msgstr "Hastighed [ignorer nogle frames]"
+
+msgctxt "#30007"
+msgid "Very Low"
+msgstr "Meget lavt"
+
+msgctxt "#30008"
+msgid "Low"
+msgstr "Lav"
+
+msgctxt "#30009"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "#30010"
+msgid "High"
+msgstr "Høj"
+
+msgctxt "#30011"
+msgid "Use a Persistence File [faster startup]"
+msgstr "Brug en persistence-fil [hurtigere opstart]"

@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: GME Audio Decoder
+# Addon id: audiodecoder.gme
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: vdkbsd <valexgus@gmail.com>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-gme/ru_ru/>\n"
+"Language: ru_ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Game Music Emu Audio Decoder"
+msgstr "Аудиодекодер Game Music Emu"
+
+msgctxt "Addon Description"
+msgid "Game Music Emu (GME) format is used to emulate the audio output of various video game consoles popular in the 1980s and 1990s. It gives a \"retro\" feel to the sound.[CR][CR][B]Note:[/B][CR]Not all file formats give length and in this case it is set to 2.5 minutes.[CR][CR][B]Supported Formats:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/other Z80 systems (no FM sound)[CR]- NSF/NSFE: Nintendo NES/Famicom (with VRC 6, Namco 106, and FME-7 sound)[CR]- SAP: Atari systems using POKEY sound chip[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive,BBC Micro"
+msgstr "Формат Game Music Emu (GME) используется для эмуляции аудиовыхода различных игровых приставок, популярных в 1980-х и 1990-х годах. Он придает звуку ощущение \"ретро\".[CR][CR][B]Примечание:[/B][CR]Не все форматы файлов указывают длину, в данном случае она установлена на 2,5 минуты. [CR][CR][B]Поддерживаемые форматы:[/B][CR]- AY: ZX Spectrum/Amstrad CPC[CR]- GBS: Nintendo Game Boy[CR]- GYM: Sega Genesis/Mega Drive[CR]- HES: NEC TurboGrafx-16/PC Engine[CR]- KSS: MSX Home Computer/другие Z80 системы (без FM звука)[CR]- NSF/NSFE: Nintendo NES/Famicom (со звуком VRC 6, Namco 106 и FME-7)[CR]- SAP: Системы Atari, использующие звуковой чип POKEY[CR]- SPC: Super Nintendo/Super Famicom[CR]- VGM/VGZ: Sega Master System/Mark III, Sega Genesis/Mega Drive, BBC Micro"

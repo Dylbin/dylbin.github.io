@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+  <section id="addon" label="0" help="0">
+    <category id="main" label="30000" help="0">
+      <group id="1" label="0">
+        <setting id="presets_root_dir" type="path" label="30001" help="0">
+          <level>1</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+            <writable>false</writable>
+          </constraints>
+          <control type="button" format="path">
+            <heading>30001</heading>
+          </control>
+        </setting>
+        <setting id="fade_time_ms" type="integer" label="30002" help="0">
+          <default>250</default>
+          <constraints>
+            <minimum>250</minimum>
+            <step>255</step>
+            <maximum>5000</maximum>
+          </constraints>
+          <control type="slider" format="integer"/>
+        </setting>
+        <setting id="update_on_new_track" type="boolean" label="30003" help="0">
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="update_by_interval" type="boolean" label="30004" help="0">
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="img_update_interval" type="integer" label="30005" help="0">
+          <default>10</default>
+          <constraints>
+            <minimum>5</minimum>
+            <step>5</step>
+            <maximum>600</maximum>
+          </constraints>
+          <control type="slider" format="integer"/>
+        </setting>
+      </group>
+    </category>
+    <category id="spectrum" label="30006" help="0">
+      <group id="1" label="0">
+        <setting id="vis_enabled" type="boolean" label="30007" help="0">
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="vis_bg_enabled" type="boolean" label="30008" help="0">
+          <default>true</default>
+          <control type="toggle" />
+          <dependencies>
+            <dependency type="enable" setting="vis_enabled" operator="is">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="vis_half_width" type="integer" label="30009" help="0">
+          <default>90</default>
+          <constraints>
+            <minimum>60</minimum>
+            <step>1</step>
+            <maximum>100</maximum>
+          </constraints>
+          <control type="slider" format="integer"/>
+          <dependencies>
+            <dependency type="enable" setting="vis_enabled" operator="is">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="vis_bottom_edge" type="integer" label="30010" help="0">
+          <default>1</default>
+          <constraints>
+            <minimum>0</minimum>
+            <step>1</step>
+            <maximum>10</maximum>
+          </constraints>
+          <control type="slider" format="integer"/>
+          <dependencies>
+            <dependency type="enable" setting="vis_enabled" operator="is">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="vis_animation_speed" type="integer" label="30011" help="0">
+          <default>70</default>
+          <constraints>
+            <minimum>50</minimum>
+            <step>1</step>
+            <maximum>100</maximum>
+          </constraints>
+          <control type="slider" format="integer"/>
+          <dependencies>
+            <dependency type="enable" setting="vis_enabled" operator="is">true</dependency>
+          </dependencies>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

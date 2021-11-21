@@ -1,0 +1,127 @@
+# Kodi Media Center language file
+# Addon Name: OpenGL Waveform
+# Addon id: visualization.waveform
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/visualization.waveform/issues\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-04-03 07:37+0000\n"
+"Last-Translator: Edson Armando <edsonarmando78@outlook.com>\n"
+"Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/visualization-waveform/es_mx/>\n"
+"Language: es_mx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+
+msgctxt "Addon Summary"
+msgid "Visualisation showing 2 Waveform Graphs on the screen"
+msgstr "Visualización que muestra 2 Gráficos de Forma de onda"
+
+msgctxt "Addon Description"
+msgid "Waveform is a simple Visualisation showing 2 Waveform Graphs on the screen, One each for Left and Right channels that move to the beat of the music"
+msgstr "Waveform es una Visualización simple que muestra 2 Gráficos de Forma de onda en la pantalla, uno para cada canal Izquierdo y Derecho que se mueven al ritmo de la música"
+
+# settings labels
+msgctxt "#30000"
+msgid "Points per line"
+msgstr "Puntos por línea"
+
+msgctxt "#30001"
+msgid "Positions to represent the current frequency in a line."
+msgstr "Posiciones que representarán la frecuencia actual en una línea."
+
+msgctxt "#30002"
+msgid "Line color"
+msgstr "Color de línea"
+
+msgctxt "#30003"
+msgid "Red"
+msgstr "Rojo"
+
+msgctxt "#30004"
+msgid "Strength of red color in the line."
+msgstr "Intensidad del color rojo en la línea."
+
+msgctxt "#30005"
+msgid "Green"
+msgstr "Verde"
+
+msgctxt "#30006"
+msgid "Strength of green color in the line."
+msgstr "Intensidad del color verde en la línea."
+
+msgctxt "#30007"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30008"
+msgid "Strength of blue color in the line."
+msgstr "Intensidad del color azul en la línea."
+
+msgctxt "#30009"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30010"
+msgid "Strength of alpha in the line."
+msgstr "Intensidad de alfa (transparencia) en la línea."
+
+msgctxt "#30011"
+msgid "Background color"
+msgstr "Color de fondo"
+
+msgctxt "#30012"
+msgid "Red"
+msgstr "Rojo"
+
+msgctxt "#30013"
+msgid "Strength of red color in the background."
+msgstr "Intensidad del color rojo en el fondo."
+
+msgctxt "#30014"
+msgid "Green"
+msgstr "Verde"
+
+msgctxt "#30015"
+msgid "Strength of green color in the background."
+msgstr "Intensidad del color verde en el fondo."
+
+msgctxt "#30016"
+msgid "Blue"
+msgstr "Azul"
+
+msgctxt "#30017"
+msgid "Strength of blue color in the background."
+msgstr "Intensidad del color azul en el fondo."
+
+msgctxt "#30018"
+msgid "Alpha"
+msgstr "Alfa"
+
+msgctxt "#30019"
+msgid "Strength of alpha in the background."
+msgstr "Intensidad de alfa (transparencia) en el fondo."
+
+msgctxt "#30020"
+msgid "Don't calculate"
+msgstr "No calcular"
+
+msgctxt "#30021"
+msgid "Line thickness"
+msgstr "Grosor de línea"
+
+msgctxt "#30022"
+msgid "To define the thickness of a line with a number of pixels."
+msgstr "Define el grosor de la línea en número de pixeles."
+
+msgctxt "#30023"
+msgid "{0:d} px"
+msgstr ""
+
+#~ msgctxt "#30023"
+#~ msgid "%i px"
+#~ msgstr "%i px"

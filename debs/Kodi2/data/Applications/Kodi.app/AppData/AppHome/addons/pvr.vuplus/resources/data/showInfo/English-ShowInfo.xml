@@ -1,0 +1,67 @@
+<!--
+
+<name> element
+ - This must exist, and only once
+
+<seasonEpisode> elements
+ - This element must have a master and episode element, the season element is optional. All elements must have a pattern attribute and cannot be empty
+ - There is no limit to the number of <seasonEpisode> elements but there must be at least one.
+
+<year> elements
+ - This element must have a pattern attrbute.
+ - There is no limit to the number of <year> elements but there must be at least one.
+
+<textProperty> elements
+ - This element must have a type attribute. Supported types currently are: 'new', 'live' or 'premiere'.
+ - This element must have a titlePattern attrbute and/or a descPattern attribute. If either match the entry will be marked as it's type.
+
+If you are creating yoru own patterns make a copy of this file in the same directory so it's not overwritten.
+
+NOTE: IF YOU MODIFY THIS FILE IT WILL BE OVERWRITTEN NEXT TIME THE ADDON IS STARTED
+
+If you have changes either create a PR containing the changes or an issue with details at:
+  https://github.com/kodi-pvr/pvr.vuplus
+-->
+
+<showInfo>
+  <name>English Show Info</name>
+  <seasonEpisodes>
+    <!-- (S4E37) (S04E37) (S2 Ep3/6) (S2 Ep7) (S2 Ep 3) -->
+    <seasonEpisode>
+      <master pattern="(?:^|.* )\(?([sS]\.?[0-9]+,? ?/?[eE][pP]?\.? ?[0-9]+/?[0-9]*)\)?[^]*$"/>
+      <season pattern="^.*[sS]\.?([0-9][0-9]*).*$"/>
+      <episode pattern="^.*[eE][pP]?\.? ?([0-9][0-9]*).*$"/>
+    </seasonEpisode>
+    <!-- (E130) (Ep10) (E7/9) (Ep7/10) (Ep.25) (Ep 11)-->
+    <seasonEpisode>
+      <master pattern="(?:^|.* )\(?([eE][pP]?\.? ?[0-9]+/?[0-9]*)\)?[^]*$"/>
+      <episode pattern="^.*[eE][pP]?\.? ?([0-9][0-9]*).*$"/>
+    </seasonEpisode>
+    <!-- (2015E22) (2007E3) (2007E3/6) -->
+    <seasonEpisode>
+      <master pattern="(?:^|.* )\(?([12][0-9][0-9][0-9][eE][pP]?\.?[0-9]+\.?/?[0-9]*)\)?[^]*$"/>
+      <episode pattern="^.*[eE][pP]?\.?([0-9][0-9]*).*$"/>
+    </seasonEpisode>
+    <!-- 2/4. 6/6, no prefix -->
+    <seasonEpisode>
+      <master pattern="(?:^|.* )([0-9]+/[0-9]+)(?:(?:\.| )[^]*|$)"/>
+      <episode pattern="^([0-9]+)/[0-9]+"/>
+    </seasonEpisode>
+  </seasonEpisodes>
+  <years>
+    <!-- (2018) -->
+    <year pattern="^.*\(([12][0-9][0-9][0-9])\)[^]*$"/>
+    <!-- (2018E25) -->
+    <year pattern="^.*\(([12][0-9][0-9][0-9])[eE][pP]?\.?[0-9]+/?[0-9]*\)[^]*$"/>
+  </years>
+  <textProperties>
+    <!-- New: -->
+    <textProperty type="new" titlePattern="^ *New: ?([^]*)$"/>
+    <!-- Live: -->
+    <textProperty type="live" titlePattern="^ *Live: ?([^]*)$"/>
+    <!-- Premiere: -->
+    <textProperty type="premiere" titlePattern="^ *Premiere: ?([^]*)$"/>
+    <!-- Finale: -->
+    <textProperty type="finale" titlePattern="^ *Finale: ?([^]*)$"/>
+  </textProperties>
+</showInfo>

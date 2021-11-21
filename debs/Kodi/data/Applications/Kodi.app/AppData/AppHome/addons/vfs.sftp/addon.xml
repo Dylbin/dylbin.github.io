@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="vfs.sftp"
+  version="19.0.0"
+  name="SFTP support"
+  provider-name="spiff">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.instance.vfs" minversion="3.0.0" version="3.0.0"/></requires>
+  <extension
+    point="kodi.vfs"
+    protocols="sftp|ssh"
+    files="true"
+    directories="true"
+    supportDialog="true"
+    supportPath="true"
+    supportUsername="true"
+    supportPassword="true"
+    supportPort="true"
+    supportBrowsing="false"
+    defaultPort="22"
+    type="sftp"
+    label="20260"
+    zeroconf="_sftp-ssh._tcp"
+    library_darwin_embedded="vfs.sftp.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/vfs.sftp</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">Unterstützung für SSH File Transfer Protocol</summary>
+    <summary lang="en_GB">SSH File Transfer Protocol support</summary>
+    <description lang="de_DE">Das SSH File Transfer Protocol (auch Secure File Transfer Protocol oder SFTP) ist ein Netzwerkprotokoll, das Dateizugriff, Dateiübertragung und Dateiverwaltung über jeden zuverlässigen Datenstrom ermöglicht.[CR][CR]Dieses Addon ermöglicht den Dateizugriff auf darin enthaltene Daten.</description>
+    <description lang="en_GB">The SSH File Transfer Protocol (also Secure File Transfer Protocol, or SFTP) is a network protocol that provides file access, file transfer, and file management over any reliable data stream.[CR][CR]This addon allows file access to data in it.</description>
+  </extension>
+</addon>

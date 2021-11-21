@@ -1,0 +1,97 @@
+# Kodi Media Center language file
+# Addon Name: Estuary
+# Addon id: skin.estuary
+# Addon Provider: phil65, Ichabod Fletchman
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Welsh (United Kingdom) (http://www.transifex.com/projects/p/kodi-main/language/cy_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy_GB\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
+
+msgctxt "#31000"
+msgid "Now playing"
+msgstr "Wrthi'n chwarae"
+
+msgctxt "#31001"
+msgid "Search..."
+msgstr "Chwilio..."
+
+msgctxt "#31004"
+msgid "Change mode"
+msgstr "Newid modd"
+
+msgctxt "#31005"
+msgid "Watch as 2D"
+msgstr "Gwylio mewn 2D"
+
+msgctxt "#31019"
+msgid "Forecast"
+msgstr "Rhagolygon"
+
+msgctxt "#31020"
+msgid "Actions"
+msgstr "Gweithredoedd"
+
+msgctxt "#31021"
+msgid "Misc options"
+msgstr "Dewisiadau eraill"
+
+msgctxt "#31038"
+msgid "Rewind"
+msgstr "Nôl"
+
+msgctxt "#31053"
+msgid "Arial based"
+msgstr "Seileidig ar Ariel"
+
+msgctxt "#31066"
+msgid "Music playlist"
+msgstr "Rhestrau chwarae cerddoriaeth"
+
+msgctxt "#31067"
+msgid "Event log"
+msgstr "Log y digwyddiad"
+
+msgctxt "#31069"
+msgid "Last Updated"
+msgstr "Diweddarwyd Diwethaf"
+
+msgctxt "#31072"
+msgid "Power Options"
+msgstr "Dewisiadau pŵer"
+
+msgctxt "#31074"
+msgid "Total duration"
+msgstr "Cyfanswm hyd"
+
+msgctxt "#31096"
+msgid "Local subtitle available"
+msgstr "Is deitlau lleol ar gael"
+
+msgctxt "#31100"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "#31106"
+msgid "Teletext"
+msgstr "Teludestun"
+
+msgctxt "#31137"
+msgid "PVR info"
+msgstr "Manylion y PVR"
+
+msgctxt "#31138"
+msgid "Player process info"
+msgstr "Gwybodaeth ar gynnydd chwaraewr"
+
+msgctxt "#31165"
+msgid "Profile name"
+msgstr "Enw proffil"

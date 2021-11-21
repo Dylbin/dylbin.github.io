@@ -1,0 +1,545 @@
+v19.0.0
+- Translations updates from Weblate
+  - be_by, ko_kr, ru_ru
+  - To allow also addon.xml content update by Weblate
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v8.2.9
+- Fix timer default override
+
+v8.2.8
+- Use recording size available in NextPVR API 5.2
+- Create radio groups using API 5.2
+
+v8.2.7
+- Check if recording groups have already been added
+
+v8.2.6
+- Kodi has a limit of 32 EDL breaks in PVR
+
+v8.2.5
+- Update timer from a recurring recording
+- Remove extra parameter on log call
+- Allow records with year as season
+
+v8.2.4
+- Language update from Weblate
+
+v8.2.3
+- Add directory for pending recordings server API update
+
+v8.2.2
+- Missing break, keyword searches became advanced text searches
+
+v8.2.1
+- Fixed a missing count on another duration call
+- force radix 10 on strtoll
+- Add 64 bit cast to time_t
+
+v8.2.0
+- Flag timers with invalid channel life
+- Automatically renew sid lifetime on playback close
+- Remove EPG uid cache
+- Rework EPG update logic
+- Enable or disable recurring timers
+
+v8.1.0
+- Update PVR API 7.1.0
+- Fix std::chrono::duration_cast needs count()
+
+v8.0.3
+- Rework last resume and fake watch position
+- Option to not send resume to NextPVR
+- Allow changing channels on recurring EPG timers
+- Handle type 7 to type 2 changes
+- Manual recordings could not be edited
+
+v8.0.2
+- Stop timeline from growing when in-progress recording finish at the backend
+- Logic changes for the -1 Kodi uses to indicated a "watched" recording
+- Add setting to override initial Kodi padding when empty
+
+v8.0.1
+- Rework backend request logic
+- Improved security model on logout/login
+- Added logic to handle fast server restarts
+- When http file is not seekable, force pts start and end to be the same
+
+v8.0.0
+- Update PVR API 7.0.2
+
+v7.1.1
+- Add drive space options in v5
+
+v7.1.0
+- Remove p8-platform dependency
+
+v7.0.2
+- Add cast and crew from NextPVR 5.0.9
+- Fix regression in discovery
+
+v7.0.1
+- Protect against out media calls from Kodi on closed files
+- Formalize and test manual https support
+- Add new recording metadata (year, firstAired)
+
+v7.0.0
+- Update GUI API 5.15.0
+- Remove not used source file
+- Fix some compile warnings by add of ATTRIBUTE_HIDDEN
+
+v6.2.1
+- Modified client timeshift buffer for fast tuners
+- Refactor changes for 6.2.0
+- Read should be ssize_t
+
+v6.2.0
+- Move to tinyxml2
+- Connection improvements when server is stopped or client sleeps
+- Menu hooks for WOL and open settings
+- New backend call with better error handling, option to turn off br compression
+- Update EPG when backend changes
+- Reduce unnecessary timer and recording updates
+- Auto detect localhost with other servers
+
+v6.1.0
+- Connection state improvements for established connections
+- Allow creation of season folders
+- Optional use of EPG-based text or DVB genres
+
+v6.0.5
+- Add libp8-platform-dev as dependency
+
+v6.0.4
+- Get rid of external kodiplatform dependency
+
+v6.0.3
+- Optionally use timeshifted transcoded streaming via inputstream.ffmpegdirect
+- Fix for incorect OnSystemWake loop exit after c++ conversion change
+- The prebuffer slider was not matched with the correct selection
+
+v6.0.2
+- Fix default port
+- In-progress recordings change
+- Adjust timer and recording tag uid
+- Update setting with backend version
+
+v6.0.1
+- ConnectionStateChange needs a string message
+- assign menuhooks on success only
+
+v6.0.0
+- Change to C++ interface
+- Update PVR API 7.0.0
+- Standardized sleep calls
+
+v5.0.3
+- Recording types 1 and 2 should start/end anytime
+- Set start and end time on timeslot recordings
+- Indicate disabled timers
+
+v5.0.2
+- Open most streams with the proper READ_NO_CACHE value
+- Move MenuHook to one time call, avoid issue OnWake
+- Port Live TV resume logic from Leia 3.3.20
+
+v5.0.1
+- C++ baseline fixes found during conversion
+
+v5.0.0
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+- C++ baseline code cleanups
+- NumChannels() performance improvement
+- Created Recording, Timer, EPG, Channels, MenuHook classes
+
+v4.4.0
+- Move to Matrix settings.xml format enable new Kodi and backend options
+- Major restructuring of internal settings variables and new Settings class
+- Change to Request Class
+- Move global varables to Settings
+- Add NextPVR UDP Discovery protocol, display to user
+- Support Matrix folder view count (by faking the play count)
+- Flatten one-off recordings
+- Support recording filesize via the filesystem
+- Changes for EPG persistance new uid and improved art API V5
+- Show multiple genres with colour tags from V5 backend
+- Only get EPG listing when backend has EPG for channel - V5
+- Fix GetNumChannels() return count of all channels.
+- Add menuhooks to reset channels, icons, and groups and also to 'Forget' recording
+- Add setting to disable radio
+
+v4.3.8
+- Update: PVR API 6.5.0
+
+v4.3.7
+- Update: PVR API 6.4.0
+
+v4.3.6
+- Cache EPG event ID to make system usable after daily update. Lose link to recordings.
+- Disable New flag from backend
+- Add Live, Premiere and Finale flags
+
+v4.3.5
+- PVR API 6.3.0
+
+v4.3.4
+- Update Debian build code
+- Update with some minor cleanups
+- Cleanup source copyright to match SPDX
+- Add license name, forum url and source url to addon.xml
+- Add GPL2 license file and show GPL-2.0-or-later on README.md
+
+v4.3.3
+- Update PVR API 6.2.0 - strFirstAired and EPG New flag
+- add channel name to recordings
+- default recording and EPG series/episode numbers to invalid
+
+v4.3.2
+- Updated language files from Transifex
+
+v4.3.1
+- Replace AppVeyor with Azure for test build (better performance)
+- Add p8-platform to addon depends instead of from kodi
+- enable skipping while paused
+
+v4.3.0
+- implement v5 timeshifting
+- added v5 transcoded playback (not timeshifted)
+- improve playback of in progress recordings
+- added original air date as firstAired
+- live and new flags modify firstAired
+- added Advanced Recording type
+- Add genres to recordings (Kodi bug doesn't display them)
+- can force delete of all channel icons from the setup screen
+- added the sid to recordings
+- removed forced (YEAR) from EPG titles, Kodi V19 does this now.
+- reintroduce XMLUtils makes the parsing code easier to read.
+- continue to change c to c++
+- fixed bug passing empty group titles to Kodi (kodi bug)
+
+v4.2.0
+- Recompile for 6.1.0 PVR Addon API compatibility
+
+v4.1.1
+- Update build system version and cleanup
+- Fix package check for JsonCpp
+- Added AppVeyor for Windows related build tests
+
+v4.1.0
+- Update to GUI addon API v5.14.0
+
+v4.0.0
+- Update to PVR addon API v6.0.0
+
+v3.3.15
+- CreateThread() change
+- Move LiveStreams.xml to only load once
+- Changes for NextPVR v5
+
+v3.3.14
+- Fixed issue with art not showing up on recordings from deleted channels
+- New settings option to enabled Kodi style recordings - defaults to NextPVR style (no title, with S/E )
+- Reduce channel tuning time in Extended Timeshift
+- Removed trigger on deletes causing Kodi crash
+- Adjust for server time difference loading instant recordings (could show as scheduled)
+- Clean up MAC address logic, no WOL for localhost
+- Allow Kodi plugin:// URL in LiveStreams.xml
+
+v3.3.13
+- Add Extended Timeshift Rolling File based live tv and radio buffer (pause and seekable)
+- Use file-system for recording and rolling file playback if available
+- Removed GetBackendTime() not part of API, changed RenameRecordings not supported
+- Fixed radio playback with timeshift, All Channel recurring recordings, problems passing expired EPG ID's
+- Fixed URL encoding of recording directory virtual name.
+- Separate and show Failed recordings, added Conflict Timers
+- Disable backend updates during media playback.  Kodi still will update if configured
+- Separate Radio recordings for current stations, don't know type for deleted stations
+- Use S##E## and subtitles for improved Kodi skin display
+- Update recordings when timers are added or deleted
+- Improved system wake and added WOL (still needs state machine), get server time difference as global
+- Fixed problem with in-progress files.
+
+v3.3.12
+- Bugfixes, seek re-init, and jump to last block already buffered.
+
+v3.3.11
+- Fixes for live tv timeshift and seeking.
+
+v3.3.10
+- In-progress recording changes
+
+v3.3.9
+- more bugfixing in timeshift seeking, GetStreamTimes() changes.
+
+v3.3.8
+- bugfixes for live tv tsb seeking, fix uninitialzed struct timeval in socket.cpp
+
+v3.3.3
+- language string updates.
+
+v3.3.2
+- use iUniqueId instead of iChannelNumber for live streaming.
+
+v3.3.1
+- Implement GetStreamReadChunkSize()
+
+v3.3.0
+- Updated to PVR addon API v5.10.0
+
+v3.2.7
+- Implement GetStreamTimes() so live tv timeshift will work.
+
+v3.2.6
+- Updated to PVR addon API 5.9.0
+
+v3.2.5
+- Change buffer management, using pvr.vbox model/code as a starting point.
+
+v3.2.3
+- Remove StdString usage
+
+v3.2.1
+- Remove unneeded code added in last revision
+
+v3.2.0
+- Updated to PVR addon API 5.7.0
+
+v3.1.0
+- Updated to PVR addon API v5.3.0
+
+v3.0.4
+- Remove of never used addon interface function
+
+v3.0.3
+- Update Debian package control
+- PVR addon callback way changes
+
+v3.0.2
+- Removed old no more needed version functions
+
+v3.0.1
+- set dependency versions automatic during build
+- removed never used kodi to addon functions
+- build system fixes
+- language updates
+
+v3.0.0
+- Initial Kodi v18 version
+
+v2.4.7
+- fixed issue where the recording/timers lists were no longer automatically updating
+
+v2.4.6
+- prevent crash if invalid or missing XML is received
+
+v2.4.5
+- fix Travis CI build on XCode 6.1
+- fix compilation with GCC 5
+- always include "NextPVR" in the backend name
+- fix GetLiveStreamURL() for channels with subchannel number
+
+v2.4.4
+- updated language files from Transifex
+
+v2.4.3
+- updated language files from Transifex
+
+v2.4.2
+- updated language files from Transifex
+
+v2.4.1
+- updated language files from Transifex
+
+v2.4.0
+- Cmake: rename find_package kodi to Kodi
+
+v2.3.1
+- Fix includes
+
+v2.3.0
+- Updated to PVR addon API v5.2.0
+
+v2.1.0
+- Updated to PVR addon API v5.1.0
+
+v2.1.1
+-Fixed issue where user couldn't select to only record new episodes
+-Fixed issue with updating one-off recordings
+-Fixed issue where pre/post padding was not being loaded with recording list
+
+v2.1.0
+- Updated to PVR addon API v5.0.0
+
+v2.0.3
+- Updated to PVR API v4.2.0
+
+v2.0.2
+- fixed issue with Transifex overwritting strings
+- added extra string 'Repeating (keyword)" string to correct duplicate recording type entry
+
+v2.0.1
+- updated language files from Transifex
+
+v2.0.0
+- Initial Kodi Krypton version.
+
+v1.12.7
+- updated language files from Transifex
+
+v1.12.6
+- updated language files from Transifex
+
+v1.12.5
+- updated language files from Transifex
+
+v1.12.4
+- Updated to GUI API v5.10.0
+
+v1.12.3
+- Fixed bug that could occur with recording groups
+- Upped minimum NextPVR version to 3.6.0
+
+v1.12.2
+- fixed a potential illegal memory access, picked up by Coverity.
+
+v1.12.1
+- added support for keyword timers
+- added support for dynamic downloading of artwork in TV guide
+- fixed issue with updating existing timers
+
+v1.12.0
+- added support Jarvis timers
+
+v1.11.6
+- Updated to PVR API v4.1.0
+
+v1.11.5
+- Updated to PVR API v4.0.0
+
+v1.11.4
+- Updated to PVR API v3.0.0 (1.9.7 compatibility mode)
+
+v1.11.3
+- Updated to PVR API v2.1.0
+- Automatically fill in platform and library name
+
+v1.11.2
+- Debian packaging: fix library install path
+- Miscellaneous backend fixes
+
+v1.11.1
+- Updated to PVR API v2.0.0
+
+v1.11.0
+- Updated to PVR API v1.9.7
+
+v1.10.6
+- updated language files from Transifex
+
+v1.10.5
+- fixed issue where RPi user were unable to watch live tv due to subtle socket differences on that platform
+- fixed issue where recording list would get out of date and not reflect reality of backend
+
+v1.10.4
+- Updated to use new libplatform-dev
+
+v1.10.3
+- Updated to PVR API v1.9.6
+
+v1.10.2
+- Updated to PVR API v1.9.5
+
+v1.10.1
+- Updated to PVR API v1.9.4
+- Updated to GUI API v5.8.0
+
+v1.9.21
+- updated language files from Transifex
+
+v1.9.20
+- updated language files from Transifex
+- minor changes to conform with C++11
+
+v1.9.19
+- added getBackendHostname function
+- added support for ATSC subchannel numbers, fixing 'no tuner available' message users were getting with this type of channel
+- fixes a problem with playback of radio stations
+- added recording artwork
+- added fanart
+
+v1.9.18
+- Fixed mime-type for MPEG-TS
+
+v1.9.17
+- updated language files from Transifex
+
+v1.9.16
+- change library name to Kodi
+
+v1.9.15
+- fixed deadlock when activating the addon on some darwin (osx, ios) runtimes
+
+v1.9.14
+- updated language files from Transifex
+
+v1.9.13
+- updated language files from Transifex
+
+v1.9.11
+- updated to API v1.9.2
+
+v1.9.9
+- updated language files from Transifex
+
+v1.9.8
+- fixed bug that could cause connection to close prematurely
+
+v1.9.7
+- updated language files from Transifex
+
+v1.9.6
+- updated language files from Transifex
+
+v1.9.6
+- added dialog to set recurring recordings, including recurrence type, padding, number of recordings to keep, and recording directory
+- added support for EDL
+- added support for retrieving and storing last playback position
+- now requires NextPVR 3.1.1 or higher
+- fixed a bug that could cause an EPG event with no description to have a copy of last show's description, or cause a crash if the user was unlucky.
+- more flexible approach to genre
+
+v1.9.5
+- add timeshift buffer functions
+
+v1.8.4
+- sync with PVR API v1.8.0
+
+v1.7.4
+- Bump after PVR API version bump
+
+v1.6.4
+
+- small change to improve the performance of radio channels
+
+v1.6.3
+- updated language files from Transifex
+
+v1.6.2
+- updated language files from Transifex
+
+v1.6.0
+- New version number by Team XBMC
+
+v1.0.1.0
+- added: new experimental timeshift support. This requires updated backend components, otherwise falls back to previous non-timeshift live tv.
+- added: new 'advanced' settings page where timeshift can be enabled/disabled.
+- added: radio support, mainly to workaround an XBMC channel group bug.
+- changed: now using XBMC curl abstraction for HTTP requests
+- added: detection of live tv having to exit if tuner was required for a recording. Shows user a notification message when this was required.
+
+v1.0.0.0
+- Created

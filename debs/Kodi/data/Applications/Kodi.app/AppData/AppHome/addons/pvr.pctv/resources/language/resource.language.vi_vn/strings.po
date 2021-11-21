@@ -1,0 +1,96 @@
+# Kodi Media Center language file
+# Addon Name: PCTV Systems Client
+# Addon id: pvr.pctv
+# Addon Provider: PCTV Systems
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/xbmc/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/kodi-main/language/vi_VN/)\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Addon Summary"
+msgid "PVR Client to connect PCTV Systems Broadway to Kodi"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PCTV Systems frontend. Supporting streaming of Live TV &amp; Recordings, EPG View, Timers."
+msgstr ""
+
+msgctxt "Addon Disclaimer"
+msgid "This is unstable software! The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects."
+msgstr ""
+
+msgctxt "#30000"
+msgid "Hostname or IP address"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Port"
+msgstr "Port"
+
+msgctxt "#30002"
+msgid "PIN"
+msgstr ""
+
+# empty strings from id 30003 to 30009
+msgctxt "#30010"
+msgid "Automatic Host Detection"
+msgstr ""
+
+# empty strings from id 30011 to 30019
+msgctxt "#30020"
+msgid "Transcode"
+msgstr ""
+
+msgctxt "#30021"
+msgid "PIN required"
+msgstr ""
+
+# empty strings from id 30022 to 30029
+msgctxt "#30030"
+msgid "Video Bitrate (Kbps)"
+msgstr ""
+
+msgctxt "#30100"
+msgid "General"
+msgstr "Tổng Quan"
+
+msgctxt "#30101"
+msgid "400 Kbps"
+msgstr ""
+
+msgctxt "#30102"
+msgid "650 Kbps"
+msgstr ""
+
+msgctxt "#30103"
+msgid "900 Kbps"
+msgstr ""
+
+msgctxt "#30104"
+msgid "1200 Kbps"
+msgstr ""
+
+msgctxt "#30104"
+msgid "2200 Kbps"
+msgstr ""
+
+msgctxt "#30105"
+msgid "4200 Kbps"
+msgstr ""
+
+msgctxt "#30106"
+msgid "6500 Kbps"
+msgstr ""
+
+msgctxt "#30107"
+msgid "8500 Kbps"
+msgstr ""

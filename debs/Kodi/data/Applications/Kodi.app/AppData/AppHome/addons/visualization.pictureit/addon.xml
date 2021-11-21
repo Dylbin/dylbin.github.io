@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+    id="visualization.pictureit"
+    version="19.0.0"
+    name="PictureIt"
+    provider-name="linuxwhatelse">
+    <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.visualization" minversion="3.0.0" version="3.0.0"/></requires>
+    <extension
+        point="xbmc.player.musicviz"
+        library_darwin_embedded="visualization.pictureit.19.0.0.dylib"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>ios-aarch64</platform>
+        <license>GPL-2.0-or-later</license>
+        <source>https://github.com/linuxwhatelse/visualization.pictureit</source>
+        <forum>https://forum.kodi.tv/showthread.php?tid=236514</forum>
+        <assets>
+          <icon>resources/icon.png</icon>
+          <fanart>resources/fanart.jpg</fanart>
+          <screenshot>resources/fanart.jpg</screenshot>
+          <screenshot>resources/screenshot-01.jpg</screenshot>
+          <screenshot>resources/screenshot-02.jpg</screenshot>
+        </assets>
+        <summary lang="da_DK">PictureIt - Kodi visualisering</summary>
+        <summary lang="de_DE">PictureIt - Kodi-Visualisierung</summary>
+        <summary lang="en_GB">PictureIt - Kodi Visualization</summary>
+        <description lang="da_DK">PictureIt skal gøre det mere elegant og mindre prangende at lytte til musik.[CR]Idéen er at tage tilfældige billeder, DU valgte, og vise dem sammen med et simpelt spektrum i bunden.[CR]Simpelt, ikke?[CR][CR]Funktioner:[CR] - Vælg en lokal mappe indeholdende dine billeder (hvis der er undermapper, vil de blive brugt som &quot;Forudindstilling&quot;)[CR]- Opdater billeder efter interval[CR]- Opdater billeder ved nyt spor[CR]- Ændring af overgangstid[CR]- Aktivering/deaktivering af spektrum i bunden[CR]- Aktivering/deaktivering af en diskret spektrumbaggrund[CR]- Ændring af spektrum: bredde, plads i bunden og animationshastighed</description>
+        <description lang="de_DE">PictureIt soll das Musikhören eleganter und weniger auffällig machen.[CR]Die Idee ist, zufällige Bilder, die der Anwender ausgewählt hat, und sie neben einem einfachen Spektrum unten anzuzeigen.[CR]Einfach, oder?[CR][CR]Eigenschaften:[CR]- Ein lokales Verzeichnis mit Bildern auswählen (wenn Unterordner vorhanden sind, werden diese als „Voreinstellung“ verwendet).[CR]- Bilder nach Intervallen aktualisieren[CR]- Bilder bei neuem Titel aktualisieren[CR]- Übergangszeit andern[CR]- Aktivieren / Deaktivieren des Spektrums[CR]- Aktivieren / Deaktivieren eines Hintergrunds für das Spektrum[CR]- Ändern der Spektren: Breite, Bodenauffüllung, Animationsgeschwindigkeit</description>
+        <description lang="en_GB">PictureIt is supposed to make listening to music more elegant and less flashy.[CR]The idea is to take random images YOU selected and display them alongside a simple spectrum at the bottom.[CR]Simple right?[CR][CR]Features:[CR]- Select a local directory containing your images (If sub-folders are present, those will be used as &quot;Preset&quot;)[CR]- Update images by interval[CR]- Update images on new track[CR]- Change the transition time[CR]- Enable/Disable the spectrum[CR]- Enable/Disable a settle spectrum-background[CR]- Change the spectrums: Width, Bottom-Padding, Animation-Speed</description>
+    </extension>
+</addon>

@@ -1,0 +1,106 @@
+# Kodi Media Center language file
+# Addon Name: Archive support
+# Addon id: vfs.libarchive
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-17 01:16+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-virtual-filesystems/vfs-libarchive/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Multi-format archive and compression addon"
+msgstr "多格式文档和压缩插件"
+
+msgctxt "Addon Description"
+msgid "This add-on uses the libarchive library to read a variety of archive and compression formats.[CR][CR]Supported formats are:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip"
+msgstr "此插件使用 libarchive 库读取各种文档和压缩格式。[CR][CR]支持的格式有：[CR]7z、bz2、gz、tar、tar.bz2、tar.gz、tar.xz、tgz、tbz2、xz、zip"
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+# Following strings used for addon settings dialog
+msgctxt "#30000"
+msgid "RAR solid archive support unavailable"
+msgstr "RAR solid 文档支持不可用"
+
+msgctxt "#30001"
+msgid "Truncated RAR file data"
+msgstr "截取的 RAR 文件数据"
+
+msgctxt "#30002"
+msgid "Can't allocate rar data"
+msgstr "无法分配 rar 数据"
+
+msgctxt "#30003"
+msgid "Couldn't find out RAR header"
+msgstr "找不到 RAR 文件头"
+
+msgctxt "#30004"
+msgid "Invalid marker header"
+msgstr "无效的标记头"
+
+msgctxt "#30005"
+msgid "Invalid header size"
+msgstr "无效的头大小"
+
+msgctxt "#30006"
+msgid "RAR encryption support unavailable"
+msgstr "RAR 加密支持不可用"
+
+msgctxt "#30007"
+msgid "Header CRC error"
+msgstr "头 CRC 错误"
+
+msgctxt "#30008"
+msgid "Invalid sizes specified"
+msgstr "指定的大小无效"
+
+msgctxt "#30009"
+msgid "Bad RAR file"
+msgstr "坏 RAR 文件"
+
+msgctxt "#30010"
+msgid "Unsupported compression method for RAR file"
+msgstr "RAR 文件不支持的压缩方法"
+
+msgctxt "#30011"
+msgid "Error during seek within RAR file"
+msgstr "在 RAR 文件中定位时出错"
+
+msgctxt "#30012"
+msgid "Invalid filename"
+msgstr "无效文件名"
+
+msgctxt "#30013"
+msgid "Mismatch of file parts split across multi-volume archive"
+msgstr "跨多卷归档拆分的文件部分不匹配"
+
+msgctxt "#30014"
+msgid "Header CRC error"
+msgstr "头 CRC 错误"
+
+msgctxt "#30015"
+msgid "Parsing filters is unsupported"
+msgstr "不支持分析筛选器"
+
+msgctxt "#30016"
+msgid "Invalid symbol"
+msgstr "无效符号"
+
+msgctxt "#30017"
+msgid "Internal error extracting RAR file"
+msgstr "提取 RAR 文件时出现内部错误"

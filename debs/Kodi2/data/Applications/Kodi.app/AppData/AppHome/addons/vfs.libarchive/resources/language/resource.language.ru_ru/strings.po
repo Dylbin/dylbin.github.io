@@ -1,0 +1,106 @@
+# Kodi Media Center language file
+# Addon Name: Archive support
+# Addon id: vfs.libarchive
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-08 03:29+0000\n"
+"Last-Translator: vdkbsd <valexgus@gmail.com>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-virtual-filesystems/vfs-libarchive/ru_ru/>\n"
+"Language: ru_ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.7.2\n"
+
+msgctxt "Addon Summary"
+msgid "Multi-format archive and compression addon"
+msgstr "Дополнение для архивирования и сжатия в нескольких форматах"
+
+msgctxt "Addon Description"
+msgid "This add-on uses the libarchive library to read a variety of archive and compression formats.[CR][CR]Supported formats are:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip"
+msgstr "Это дополнение использует библиотеку libarchive для чтения различных форматов архивов и сжатия.[CR][CR]Поддерживаемые форматы:[CR]7z, bz2, gz, tar, tar.bz2, tar.gz, tar.xz, tgz, tbz2, xz, zip"
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+# Following strings used for addon settings dialog
+msgctxt "#30000"
+msgid "RAR solid archive support unavailable"
+msgstr "Непрерывные архивы RAR не поддерживаются"
+
+msgctxt "#30001"
+msgid "Truncated RAR file data"
+msgstr "Усечённые данные файла RAR"
+
+msgctxt "#30002"
+msgid "Can't allocate rar data"
+msgstr "Не удаётся выделить данные rar"
+
+msgctxt "#30003"
+msgid "Couldn't find out RAR header"
+msgstr "Не удалось обнаружить заголовок RAR"
+
+msgctxt "#30004"
+msgid "Invalid marker header"
+msgstr "Недопустимый заголовок"
+
+msgctxt "#30005"
+msgid "Invalid header size"
+msgstr "Недопустимый размер заголовка"
+
+msgctxt "#30006"
+msgid "RAR encryption support unavailable"
+msgstr "Поддержка шифрования RAR недоступна"
+
+msgctxt "#30007"
+msgid "Header CRC error"
+msgstr "Ошибка CRC заголовка"
+
+msgctxt "#30008"
+msgid "Invalid sizes specified"
+msgstr "Указаны недопустимые размеры"
+
+msgctxt "#30009"
+msgid "Bad RAR file"
+msgstr "Неисправный RAR-файл"
+
+msgctxt "#30010"
+msgid "Unsupported compression method for RAR file"
+msgstr "Неподдерживаемый метод сжатия для RAR-файла"
+
+msgctxt "#30011"
+msgid "Error during seek within RAR file"
+msgstr "Ошибка при поиске в RAR-файле"
+
+msgctxt "#30012"
+msgid "Invalid filename"
+msgstr "Недопустимое имя файла"
+
+msgctxt "#30013"
+msgid "Mismatch of file parts split across multi-volume archive"
+msgstr "Несоответствие частей файла, разделённых в многотомном архиве"
+
+msgctxt "#30014"
+msgid "Header CRC error"
+msgstr "Ошибка CRC заголовка"
+
+msgctxt "#30015"
+msgid "Parsing filters is unsupported"
+msgstr "Обработка фильтров не поддерживается"
+
+msgctxt "#30016"
+msgid "Invalid symbol"
+msgstr "Недопустимый символ"
+
+msgctxt "#30017"
+msgid "Internal error extracting RAR file"
+msgstr "Внутренняя ошибка при извлечении RAR-файла"

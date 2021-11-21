@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="addon">
+    <category id="main" label="128">
+      <group id="0">
+        <setting id="show_title_always" type="boolean" label="30000" help="30001">
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="quality" type="integer" label="30002" help="30003">
+          <default>2</default>
+          <constraints>
+            <options>
+              <option label="30004">0</option>
+              <option label="30005">1</option>
+              <option label="30006">2</option>
+            </options>
+          </constraints>
+          <control type="spinner" format="string" />
+        </setting>
+        <setting id="use_pixel_buffer_objects" type="boolean" label="30007" help="30008">
+          <default>false</default>
+          <dependencies>
+            <dependency type="visible">
+              <condition on="property" name="IsDefined">HAS_GL</condition>
+            </dependency>
+          </dependencies>
+          <control type="toggle" />
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

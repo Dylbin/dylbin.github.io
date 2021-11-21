@@ -1,0 +1,117 @@
+# Kodi Media Center language file
+# Addon Name: SSF/DSF Audio Decoder
+# Addon id: audiodecoder.ssf
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-09-17 03:30+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-ssf/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Sega SSF/DSF Audio Decoder"
+msgstr "世嘉 SSF/DSF 音频解码器"
+
+msgctxt "Addon Description"
+msgid "Sega Saturn Sound Format (SSF) and Dreamcast Sound Format (DSF) is an audio format based on PSF. It stores audio ripped from the ROMs of Sega Saturn and Sega Dreamcast games."
+msgstr "世嘉土星声音格式（SSF）和梦工厂声音格式（DSF）是基于 PSF 的音频格式。它存储从世嘉土星和世嘉梦工厂主机游戏 ROM 中提取的音频。"
+
+# [Consistency] Make terms, settings names, brands and other minutiae, consistent throughout file.
+# [Capitalization] Avoid capitalizing every second word. See http://grammarist.com/capitalization/
+# For example, prefer wording as "This new string" instead of "This New String".
+# [Referencing] If a suitable string already exists, reuse it, making a note of where it's used!
+# [Description / location] For example, "#. Description of some setting" used on "#: xbmc/addons/guidialogaddoninfo.cpp"
+# When writing a description or setting, refer to a setting name in quotes. See existing entries for guidance.
+# For example, "Press \"OK\" for \"All seasons\"" instead of "Press OK for All seasons" after first word.
+msgctxt "#30000"
+msgid "Default length"
+msgstr "默认长度"
+
+msgctxt "#30001"
+msgid "Used if specified file does not provide the length."
+msgstr "用于未提供长度的特定文件。"
+
+msgctxt "#30002"
+msgid "unused"
+msgstr "未使用"
+
+msgctxt "#30003"
+msgid "{0:d} s"
+msgstr "{0:d} 秒"
+
+msgctxt "#30004"
+msgid "Default fade out time"
+msgstr "默认淡出时间"
+
+msgctxt "#30005"
+msgid "Used if specified file does not provide the length and fade."
+msgstr "用于未提供长度和淡出的特定文件。"
+
+msgctxt "#30006"
+msgid "unused"
+msgstr "未使用"
+
+msgctxt "#30007"
+msgid "{0:d} ms"
+msgstr "{0:d} 毫秒"
+
+msgctxt "#30008"
+msgid "Suppress opening silence"
+msgstr "抑制起始静默"
+
+msgctxt "#30009"
+msgid "Some files start with silent data, this prevents it and looks for the beginning."
+msgstr "有些文件以静默数据开头，这会阻止它并查找真实的起点。"
+
+msgctxt "#30010"
+msgid "Suppress end silence"
+msgstr "抑制结尾静默"
+
+msgctxt "#30011"
+msgid "Some files end with silent data, this prevents it and looks for the end."
+msgstr "有些文件以静默数据结尾，这会阻止它并查找真实的结尾。"
+
+msgctxt "#30012"
+msgid "Second of silence to check"
+msgstr "静默秒检测"
+
+msgctxt "#30013"
+msgid "How many silent seconds are allowed before playback is stopped."
+msgstr "播放停止前允许静默多少秒。"
+
+msgctxt "#30014"
+msgid "{0:d} s"
+msgstr "{0:d} 秒"
+
+msgctxt "#30015"
+msgid "Direct output"
+msgstr "直接输出"
+
+msgctxt "#30016"
+msgid "Enable direct (dry) output."
+msgstr "启用直接（干声）输出。"
+
+msgctxt "#30017"
+msgid "DSP emulation"
+msgstr "DSP 仿真"
+
+msgctxt "#30018"
+msgid "Enable DSP emulation (for reverb, etc.)."
+msgstr "启用 DSP 仿真（用于混响等）。"
+
+msgctxt "#30019"
+msgid "Dynamic recompiler"
+msgstr "动态重编译器"
+
+msgctxt "#30020"
+msgid "Emulate DSP using dynamic recompiler."
+msgstr "使用动态重编译器进行 DSP 仿真。"

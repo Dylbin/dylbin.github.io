@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="pvr.sledovanitv.cz"
+  version="4.5.0"
+  name="PVR sledovanitv.cz (unofficial)"
+  provider-name="palinek">
+  <requires>
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.general" minversion="1.0.4" version="1.0.5"/>
+<import addon="kodi.binary.global.gui" minversion="5.15.0" version="5.15.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.pvr" minversion="7.1.0" version="7.1.0"/>
+    <import addon="inputstream.adaptive" minversion="2.5.5" optional="true"/>
+  </requires>
+  <extension
+    point="kodi.pvrclient"
+    library_darwin_embedded="pvr.sledovanitv.cz.4.5.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Kodi's frontend for sledovanitv.cz, unofficial</summary>
+    <summary lang="cs_CZ">Kodi frontend pro sledovanitv.cz, neoficiální</summary>
+    <summary lang="sk_SK">Kodi frontend pre sledovanitv.cz, neoficiálny</summary>
+    <description lang="en_GB">PVR Client for sledovanitv.cz. Supports stream of live TV/Radio, recordings and EPG. This client is not developed nor officially supported by sledovanitv.cz.</description>
+    <description lang="cs_CZ">PVR klient pro službu sledovanitv.cz. Podporuje živé vysílání TV/rádia, nahrávky a EPG. Tento klient není vyvíjen ani oficiálne podporován ze strany sledovanitv.cz.</description>
+    <description lang="sk_SK">PVR klient pre službu sledovanitv.cz. Podporuje živé vysielanie TV/rádia, nahrávky a EPG. Tento klient nie je vyvíjaný ani oficiálne podporovaný zo strany sledovanitv.cz.</description>
+    <disclaimer lang="en_GB">This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects.</disclaimer>
+    <disclaimer lang="cs_CZ">Tento program je rozšiřován v naději, že bude užitečný, avšak BEZ JAKÉKOLIV ZÁRUKY. Autoři nejsou žádným způsobem zodpovědní za selhání při nahrávání, neplatné časovače, ztracený čas, či jakékoliv jiné nežádoucí události...</disclaimer>
+    <disclaimer lang="sk_SK">Tento program je rozširovaný v nádeji, že bude užitočný, avšak BEZ AKEJKOĽVEK ZÁRUKY. Autori žiadnym spôsobom nenesú zodpovednosť za zlyhanie pri nahrávaní, neplatné časovače, stratený čas, či akékoľvek iné nežiadúce dopady...</disclaimer>
+    <platform>ios-aarch64</platform>
+    <assets>
+      <icon>resources/logo.png</icon>
+    </assets>
+  </extension>
+</addon>

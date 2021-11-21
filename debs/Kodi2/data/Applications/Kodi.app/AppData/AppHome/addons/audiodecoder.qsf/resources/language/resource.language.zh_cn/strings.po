@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: QSF Audio Decoder
+# Addon id: audiodecoder.qsf
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: taxigps <taxigps@sina.com>\n"
+"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-qsf/zh_cn/>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Capcom QSound QSF Audio Decoder"
+msgstr "Capcom QSound QSF 音频解码器"
+
+msgctxt "Addon Description"
+msgid "Adds decoding support for Capcom QSound Sound Format files (.QSF/.MINIQSF).[CR][CR]QSound is the original name for a positional three-dimensional (3D) sound processing algorithm from QSound Labs that creates 3D audio effects from multiple monophonic sources and sums the outputs to two channels for presentation over regular stereo speakers."
+msgstr "添加对 Capcom QSound 声音格式文件（.QSF/.MINIQSF）的解码支持。[CR][CR]QSound 是 QSound 实验室提供的定位三维（3D）声音处理算法的原始名称，该算法从多个单声道源创建3D音频效果，并将输出相加到两个通道，以便通过常规立体声扬声器进行呈现。"

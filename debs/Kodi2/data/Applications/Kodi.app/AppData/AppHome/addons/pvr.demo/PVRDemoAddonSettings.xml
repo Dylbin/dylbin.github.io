@@ -1,0 +1,1117 @@
+<demo>
+  <channels>
+    <!-- TV channels -->
+    <channel>
+      <name>Demo TV Channel 1</name>
+      <radio>0</radio>
+      <number>1</number>
+      <encryption>0</encryption>
+      <icon>data/01.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 2</name>
+      <radio>0</radio>
+      <number>2</number>
+      <encryption>0</encryption>
+      <icon>data/02.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 3</name>
+      <radio>0</radio>
+      <number>3</number>
+      <encryption>0</encryption>
+      <icon>data/03.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 4</name>
+      <radio>0</radio>
+      <number>4</number>
+      <encryption>0</encryption>
+      <icon>data/04.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 5</name>
+      <radio>0</radio>
+      <number>5</number>
+      <encryption>0</encryption>
+      <icon>data/05.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 6</name>
+      <radio>0</radio>
+      <number>6</number>
+      <encryption>0</encryption>
+      <icon>data/06.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 7</name>
+      <radio>0</radio>
+      <number>7</number>
+      <encryption>0</encryption>
+      <icon>data/07.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 8</name>
+      <radio>0</radio>
+      <number>8</number>
+      <encryption>0</encryption>
+      <icon>data/08.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 9</name>
+      <radio>0</radio>
+      <number>9</number>
+      <encryption>0</encryption>
+      <icon>data/09.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 10</name>
+      <radio>0</radio>
+      <number>10</number>
+      <encryption>0</encryption>
+      <icon>data/10.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo TV Channel 11</name>
+      <radio>0</radio>
+      <number>11</number>
+      <encryption>0</encryption>
+      <icon>data/11.png</icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+      <archive>1</archive>
+    </channel>
+
+    <!-- Radio Channels -->
+    <channel>
+      <name>Demo Radio Channel 1</name>
+      <radio>1</radio>
+      <number>1</number>
+      <encryption>0</encryption>
+      <icon>data/01.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 2</name>
+      <radio>1</radio>
+      <number>2</number>
+      <encryption>0</encryption>
+      <icon>data/02.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 3</name>
+      <radio>1</radio>
+      <number>3</number>
+      <encryption>0</encryption>
+      <icon>data/03.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 4</name>
+      <radio>1</radio>
+      <number>4</number>
+      <encryption>0</encryption>
+      <icon>data/04.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 5</name>
+      <radio>1</radio>
+      <number>5</number>
+      <encryption>0</encryption>
+      <icon>data/05.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 6</name>
+      <radio>1</radio>
+      <number>6</number>
+      <encryption>0</encryption>
+      <icon>data/06.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 7</name>
+      <radio>1</radio>
+      <number>7</number>
+      <encryption>0</encryption>
+      <icon>data/07.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 8</name>
+      <radio>1</radio>
+      <number>8</number>
+      <encryption>0</encryption>
+      <icon>data/08.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 9</name>
+      <radio>1</radio>
+      <number>9</number>
+      <encryption>0</encryption>
+      <icon>data/09.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+    <channel>
+      <name>Demo Radio Channel 10</name>
+      <radio>1</radio>
+      <number>10</number>
+      <encryption>0</encryption>
+      <icon>data/10.png</icon>
+      <stream></stream>
+      <archive>0</archive>
+    </channel>
+
+    <!-- TV sub channels -->
+    <channel>
+      <name>Demo TV Channel Sub.1</name>
+      <radio>0</radio>
+      <number>1</number>
+      <subnumber>1</subnumber>
+      <encryption>0</encryption>
+      <icon></icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel Sub.2</name>
+      <radio>0</radio>
+      <number>1</number>
+      <subnumber>2</subnumber>
+      <encryption>0</encryption>
+      <icon></icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+    <channel>
+      <name>Demo TV Channel Sub.3</name>
+      <radio>0</radio>
+      <number>1</number>
+      <subnumber>3</subnumber>
+      <encryption>0</encryption>
+      <icon></icon>
+      <stream>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</stream>
+    </channel>
+  </channels>
+  <channelgroups>
+    <!--
+      !!IMPORTANT!!
+      The channel member mapping is done by the internal channel id,
+      not by the channel number you specified in the channel element.
+      The internal channel id starts by 1 for the first channel element
+      and becomes increased by 1 for each channel element.
+    -->
+    <!-- TV groups -->
+    <group>
+      <name>TV Group #1</name>
+      <radio>0</radio>
+      <position>1</position>
+      <members>
+        <member>1</member>
+        <member>2</member>
+        <member>3</member>
+        <member>4</member>
+        <member>5</member>
+        <member>6</member>
+        <member>7</member>
+        <member>8</member>
+        <member>9</member>
+        <member>10</member>
+        <member>11</member>
+      </members>
+    </group>
+    <group>
+      <name>TV Group #2</name>
+      <radio>0</radio>
+      <position>3</position>
+      <members>
+        <member>1</member>
+        <member>3</member>
+        <member>5</member>
+        <member>7</member>
+        <member>9</member>
+        <member>11</member>
+      </members>
+    </group>
+    <group>
+      <name>TV Group #3</name>
+      <radio>0</radio>
+      <position>2</position>
+      <members>
+        <member>4</member>
+        <member>5</member>
+        <member>6</member>
+        <member>7</member>
+        <member>8</member>
+      </members>
+    </group>
+
+    <!-- Radio groups -->
+    <group>
+      <name>Radio Group #1</name>
+      <radio>1</radio>
+      <members>
+        <member>12</member>
+        <member>13</member>
+        <member>14</member>
+        <member>15</member>
+        <member>16</member>
+        <member>19</member>
+      </members>
+    </group>
+  </channelgroups>
+  <epg>
+    <entry>
+      <broadcastid>100</broadcastid>
+      <title>Demo EPG entry 1</title>
+      <channelid>1</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <series>1</series>
+      <episode>1</episode>
+      <episodetitle>Demo EPG entry 1 Episode Title</episodetitle>
+      <icon></icon>
+      <genretype>16</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>200</broadcastid>
+      <title>Demo EPG entry 2</title>
+      <channelid>2</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <episode>2</episode>
+      <episodetitle>Demo EPG entry 2 Episode Title</episodetitle>
+      <icon></icon>
+      <genretype>32</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>300</broadcastid>
+      <title>Demo EPG entry 3</title>
+      <channelid>3</channelid>
+      <start>0</start>
+      <end>2400</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <episodetitle>Demo EPG entry 3 Episode Title</episodetitle>
+      <icon></icon>
+      <genretype>48</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>400</broadcastid>
+      <title>Demo EPG entry 4</title>
+      <channelid>4</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <series>0</series>
+      <episode>1</episode>
+      <icon></icon>
+      <genretype>64</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>500</broadcastid>
+      <title>Demo EPG entry 5</title>
+      <channelid>5</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>80</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>600</broadcastid>
+      <title>Demo EPG entry 6</title>
+      <channelid>6</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>96</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>700</broadcastid>
+      <title>Demo EPG entry 7</title>
+      <channelid>7</channelid>
+      <start>0</start>
+      <end>2400</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>112</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>800</broadcastid>
+      <title>Demo EPG entry 8</title>
+      <channelid>8</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>128</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>900</broadcastid>
+      <title>Demo EPG entry 9</title>
+      <channelid>9</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>144</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>1100</broadcastid>
+      <title>Demo EPG entry 11</title>
+      <channelid>11</channelid>
+      <start>0</start>
+      <end>2400</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>176</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+
+    <entry>
+      <broadcastid>1500</broadcastid>
+      <title>Demo Radio EPG entry 1</title>
+      <channelid>12</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>30</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>1600</broadcastid>
+      <title>Demo Radio EPG entry 2</title>
+      <channelid>13</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>1700</broadcastid>
+      <title>Demo Radio EPG entry 3</title>
+      <channelid>14</channelid>
+      <start>0</start>
+      <end>2400</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>20</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2400</broadcastid>
+      <title>Demo Radio EPG entry 4</title>
+      <channelid>15</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>30</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>1900</broadcastid>
+      <title>Demo Radio EPG entry 5</title>
+      <channelid>16</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2000</broadcastid>
+      <title>Demo Radio EPG entry 6</title>
+      <channelid>17</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>20</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2100</broadcastid>
+      <title>Demo Radio EPG entry 7</title>
+      <channelid>18</channelid>
+      <start>0</start>
+      <end>2400</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>30</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2200</broadcastid>
+      <title>Demo Radio EPG entry 8</title>
+      <channelid>19</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2300</broadcastid>
+      <title>Demo Radio EPG entry 9</title>
+      <channelid>20</channelid>
+      <start>0</start>
+      <end>7200</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>20</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+    <entry>
+      <broadcastid>2400</broadcastid>
+      <title>Demo Radio EPG entry 10</title>
+      <channelid>21</channelid>
+      <start>0</start>
+      <end>3900</end>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed. </plot>
+      <icon></icon>
+      <genretype>30</genretype>
+      <genresubtype>0</genresubtype>
+    </entry>
+  </epg>
+  <recordings>
+    <!-- TV Recordings -->
+    <recording>
+      <title>Demo TV Recording entry 1</title>
+      <episodetitle>Demo TV Recording 1 Episode Name</episodetitle>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 1</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>12:00</time>
+      <duration>7200</duration>
+      <radio>0</radio>
+      <series>2</series>
+      <episode>1</episode>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 2</title>
+      <episodetitle>Demo TV Recording 2 Episode Name</episodetitle>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 2</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+      <episode>3</episode>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 3</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 3</channelname>
+      <episodetitle>Demo TV Recording 3 Episode Name</episodetitle>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>20:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 4</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 4</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>18:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 5</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 5</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>16:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 6</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 6</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 7</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 7</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 8</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 8</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 9</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 9</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 10</title>
+      <url>https://mirrors.kodi.tv/demo-files/BBB/bbb_sunflower_1080p_30fps_normal.mp4</url>
+      <directory>/Directory2/</directory>
+      <channelname>Demo TV Channel 10</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <!-- Radio Recordings -->
+    <recording>
+      <title>Demo Radio Recording entry 1</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 1</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>12:00</time>
+      <duration>7200</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 2</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 2</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 3</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 3</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>20:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 4</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 4</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>18:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 5</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 5</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>16:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 6</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 6</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 7</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 7</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 8</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 8</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 9</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 9</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 10</title>
+      <url></url>
+      <directory>/Directory2/</directory>
+      <channelname>Demo Radio Channel 10</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    </recordings>
+  <recordingsdeleted>
+    <!-- Deleted TV Recordings -->
+    <recording>
+      <title>Demo TV Recording entry 11</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 1</channelname>
+      <episodetitle>Demo TV Recording entry 11 Episode Name</episodetitle>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <series>1</series>
+      <episode>2</episode>
+      <time>12:00</time>
+      <duration>7200</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 12</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 2</channelname>
+      <episodetitle>Demo TV Recording entry 12 Episode Name</episodetitle>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <episode>3</episode>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 13</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 3</channelname>
+      <episodetitle>Demo TV Recording entry 13 Episode Name</episodetitle>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>20:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 14</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 4</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>18:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 15</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 5</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>16:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 16</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 6</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 17</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo TV Channel 7</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 18</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 8</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 19</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo TV Channel 9</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <recording>
+      <title>Demo TV Recording entry 20</title>
+      <url></url>
+      <directory>/Directory2/</directory>
+      <channelname>Demo TV Channel 20</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>0</radio>
+    </recording>
+    <!-- Deleted Radio Recordings -->
+    <recording>
+      <title>Demo Radio Recording entry 11</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 1</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>12:00</time>
+      <duration>7200</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 12</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 2</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 13</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 3</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>20:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 14</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 4</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>18:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 15</title>
+      <url></url>
+      <directory>/Directory1/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 5</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>16:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 16</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 6</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 17</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory1/</directory>
+      <channelname>Demo Radio Channel 7</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 18</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 8</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 19</title>
+      <url></url>
+      <directory>/Directory2/SubDirectory2/</directory>
+      <channelname>Demo Radio Channel 9</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+    <recording>
+      <title>Demo Radio Recording entry 20</title>
+      <url></url>
+      <directory>/Directory2/</directory>
+      <channelname>Demo Radio Channel 20</channelname>
+      <plotoutline>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</plotoutline>
+      <plot>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</plot>
+      <genretype>10</genretype>
+      <genresubtype>0</genresubtype>
+      <time>14:00</time>
+      <duration>7500</duration>
+      <radio>1</radio>
+    </recording>
+  </recordingsdeleted>
+  <timers>
+    <timer>
+        <title>Demo Timer entry #1</title>
+        <channelid>1</channelid>
+        <starttime>03:15</starttime>
+        <endtime>04:45</endtime>
+        <state>0</state>
+        <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</summary>
+    </timer>
+    <timer>
+        <title>Demo Timer entry #2</title>
+        <channelid>2</channelid>
+        <starttime>07:10</starttime>
+        <endtime>09:55</endtime>
+        <state>1</state>
+        <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</summary>
+    </timer>
+    <timer>
+        <title>Demo Timer entry #3</title>
+        <channelid>3</channelid>
+        <starttime>10:00</starttime>
+        <endtime>11:15</endtime>
+        <state>2</state>
+        <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</summary>
+    </timer>
+    <timer>
+        <title>Demo Timer entry #4</title>
+        <channelid>4</channelid>
+        <starttime>15:00</starttime>
+        <endtime>16:45</endtime>
+        <state>3</state>
+        <summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam cursus consectetur ipsum, eu tincidunt dui aliquam ac. Sed scelerisque, augue eu lacinia ultrices, libero ante ullamcorper augue, vel malesuada justo risus ac nulla. Quisque ac libero libero. Sed tincidunt, orci eu condimentum laoreet, felis odio mattis est, et lacinia metus enim in leo. Fusce faucibus tristique risus in varius. Etiam sagittis venenatis ligula nec rutrum. Etiam gravida dictum hendrerit. Sed sodales felis in sapien rutrum non malesuada nisi lobortis. Mauris iaculis ante odio. Nunc gravida erat convallis purus dignissim et ultricies orci dapibus. Aliquam erat volutpat. Vestibulum mi felis, malesuada ac tincidunt sit amet, pulvinar nec dolor. Pellentesque vehicula est vulputate mi adipiscing euismod. Donec ac mauris nulla. Nullam suscipit felis eu quam sodales ac bibendum nisi interdum. Curabitur non lectus a ante venenatis semper eget id justo. Ut facilisis, ligula pretium dictum congue, lacus dolor commodo nibh, sit amet sodales sed.</summary>
+    </timer>
+  </timers>
+</demo>

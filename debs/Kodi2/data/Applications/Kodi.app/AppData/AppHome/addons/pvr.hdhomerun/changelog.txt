@@ -1,0 +1,215 @@
+v19.0.0
+- Translations updates from Weblate
+  - da_dk
+- Updated hdhomerun on depends to release 20201023
+- Updated jsoncpp on depends to version 1.9.4
+- Changed test builds to 'Kodi 19 Matrix'
+- Increased version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+    This done to know easier to which Kodi the addon works.
+
+v7.1.1
+- Language update from Weblate
+
+v7.1.0:
+- Update PVR API 7.1.0
+
+v7.0.0:
+- Update PVR API 7.0.2
+
+v6.0.2:
+- use https instead of http for guide data
+
+v6.0.1:
+- Remove dependency on p8-platform
+- Update to use std::thread
+- Update to use std::mutex
+- Use kodi StringUtils
+
+v6.0.0:
+- Update PVR API 7.0.0
+- Rework addon to support new API interface
+- Change settings file to new format
+- Update depend libjson to version 1.9.2
+
+v5.0.0:
+- Update PVR API 6.5.1
+- Update Global API 1.2.0
+
+v4.1.7:
+- Update PVR API 6.5.0
+
+v4.1.6:
+- Update PVR API 6.4.0
+- Update license name and add forum url on addon.xml
+- Change source license to use SPDX
+- Minor cleanups
+
+v4.1.5
+- Update PVR API 6.3.0
+
+v4.1.4
+- Update Debian build code
+- Update with some minor cleanups
+- Add license name and source url to addon.xml
+- Add GPL2 license file and show GPL2 on README.md
+
+v4.1.3
+- Update libhdhomerun dependency to v20200303
+- Fix accuracy of EPG 'Program Information' Orignal Air Date values
+
+v4.1.2
+- Update PVR API 6.2.0
+
+v4.1.1
+- Replace AppVeyor with Azure for test build (better performance)
+- Add p8-platform to addon depends instead of from kodi
+- Fix debian install of multiarch libraries
+- Updated Language files from Transifex
+
+v4.1.0
+- Update: Recompile for 6.1.0 PVR Addon API compatibility
+
+v4.0.1
+- Update build system version and cleanup
+- Fix package check for JsonCpp and HDHomerun
+- Update Travis and AppVeyor test build system
+
+v4.0.0
+- Update to PVR addon API v6.0.0
+
+v3.5.0
+- Allow opening stream when multiple tuners are available
+
+v3.4.1
+- Update to PVR API v5.10.1
+
+v3.4.0
+- Update to PVR API v5.10.0
+
+v3.3.2
+- PVR API 5.9.0 changes implemented
+
+v3.3.0
+- PVR API 5.8.0 changes implemented
+
+v3.2.0
+- code cleanup
+- guide filters updated
+- additional epg_tag fields added, another episode number format added
+- handle discovering new tuners without an addon restart
+
+v3.1.9
+- Bump jsoncpp to version 1.8.3
+- Json::CharReaderBuilder implementation
+
+v3.1.8
+- Whitespace changes (tabs to spaces to make all files uniform)
+- jsoncpp 0.10.6 Update
+- code cleanup
+
+v3.1.4
+- Update to PVR API 5.7.0
+- Stub IsEPGTagPlayable as not implemented
+- Stub IsEPGTagRecordable as not implemented
+- Stub GetEPGTagStreamProperties as not implemented
+
+v3.1.3
+- Update to PVR API 5.6.0 dependency
+- Replace GetLiveStreamURL() with new API GetChannelStreamProperties()
+- Stub new unused API GetRecordingStreamProperties()
+- Fix channel change not working
+
+v3.1.2
+- Replace CStdString with std::string
+
+v3.1.1
+- Update to PVR addon API v5.5.0
+- Implement GetLiveStreamURL
+- Update to latest SiliconDust hdhomerun library
+
+v3.1.0
+- Update to PVR addon API v5.3.0
+
+v3.0.7
+- Remove of never used addon interface function
+
+v3.0.6
+- Update Debian package control
+- PVR addon callback way changes
+
+v3.0.5
+- Removed old no more needed version functions
+
+v3.0.4
+- set dependency versions automatic during build
+- removed never used kodi to addon functions
+- build system fixes
+
+v3.0.3
+- Fixed issue where if Guide's Affiliate is empty the channel would become an Unknown Channel
+
+v3.0.2
+- Correct channel Number if back-end provided channel number is used
+
+v3.0.0
+- Initial Kodi v18 version
+
+v2.4.2
+- Updated language files from Transifex
+
+v2.4.1
+- Updated language files from Transifex
+
+v2.4.0
+- Cmake: rename find_package kodi to Kodi
+
+v2.3.1
+- Fix includes
+
+v2.3.0
+- Update to PVR addon API v5.2.0
+
+v2.2.0
+- Update to PVR addon API v5.1.0
+
+v2.1.0
+- Update to PVR addon API v5.0.0
+
+v2.0.2
+- Updated to PVR API v4.2.0
+
+v2.0.1
+- Updated language files from Transifex
+
+v2.0.0
+- Initial Kodi Krypton version.
+
+v1.0.9
+- Updated language files from Transifex
+
+v1.0.8
+- Updated language files from Transifex
+
+v1.0.7
+- kodi.guilib is mandatory, enforce it
+
+v1.0.6
+- Add needs_configuration to addon.xml
+
+v1.0.5
+- Fix coverity scan issues
+
+v1.0.4
+- Fix addon.xml
+
+v1.0.3
+- Added icon
+- Added setting: Mark new show
+- Added setting: Hide protected channels
+- Added setting: Hide duplicate channels
+- Added setting: Debug
+- Added EPG_TAG categories
+
+v1.0.0
+- Initial version

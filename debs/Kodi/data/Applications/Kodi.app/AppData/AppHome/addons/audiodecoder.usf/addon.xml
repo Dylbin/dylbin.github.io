@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="audiodecoder.usf"
+  version="19.0.0"
+  name="USF Audio Decoder"
+  provider-name="spiff">
+  <requires>
+    
+<import addon="kodi.binary.global.main" minversion="1.2.0" version="1.3.0"/>
+<import addon="kodi.binary.global.filesystem" minversion="1.1.0" version="1.1.6"/>
+<import addon="kodi.binary.instance.audiodecoder" minversion="3.0.0" version="3.0.0"/>
+  </requires>
+  <extension
+    point="kodi.audiodecoder"
+    name="usf"
+    extension=".miniusf"
+    tags="true"
+    library_darwin_embedded="audiodecoder.usf.19.0.0.dylib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>ios-aarch64</platform>
+    <license>GPL-2.0-or-later</license>
+    <source>https://github.com/xbmc/audiodecoder.usf</source>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+    <summary lang="de_DE">USF - Nintendo Ultra 64 Sound Format Decoder</summary>
+    <summary lang="en_GB">USF - Nintendo Ultra 64 Sound Format Decoder</summary>
+    <summary lang="ko_KR">USF - 닌텐도 울트라 64 사운드 포맷 디코더</summary>
+    <summary lang="ru_RU">USF - декодер звукового формата Nintendo Ultra 64</summary>
+    <summary lang="zh_CN">USF - 任天堂 Ultra64 声音格式解码器</summary>
+    <description lang="de_DE">Dies ist ein Decoder, der die Wiedergabe von (Ultra) Nintendo 64 Sound-Format-Dateien (.USF / .MINIUSF) unterstützt.</description>
+    <description lang="en_GB">This is a decoder which adds support for playing (Ultra) Nintendo 64 Sound format (.USF/.MINIUSF) files.</description>
+    <description lang="ko_KR">(울트라) 닌텐도 64 사운드 형식(.USF/.MINIUSF) 파일 재생에 대한 지원을 추가하는 디코더입니다.</description>
+    <description lang="ru_RU">Этот декодер добавляет поддержку воспроизведения файлов формата (Ultra) Nintendo 64 Sound (.USF/.MINIUSF).</description>
+    <description lang="zh_CN">此解码器增加了对播放（Ultra）任天堂 64 声音格式（.USF/.MINIUSF）文件的支持。</description>
+  </extension>
+</addon>

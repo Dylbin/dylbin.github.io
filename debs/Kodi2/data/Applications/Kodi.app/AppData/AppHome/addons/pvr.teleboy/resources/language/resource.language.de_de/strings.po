@@ -1,0 +1,78 @@
+# Kodi Media Center language file
+# Addon Name: pvr.teleboy
+# Addon id: pvr.teleboy
+# Addon Provider: rbuehlma
+
+msgid ""
+msgstr ""
+
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Setting to set used stream username
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30000"
+msgid "Username"
+msgstr "Benutzername"
+
+#. Setting to set used stream password
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30001"
+msgid "Password"
+msgstr "Passwort"
+
+#. Boolean setting to use favourite streams only
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30002"
+msgid "Favourite channels only"
+msgstr "Nur favorisierte Kanäle nutzen"
+
+#. Help text to setting #30002
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30003"
+msgid "Load only channels which are in the favourite list."
+msgstr "Lädt nur Kanäle welche in favorisierter Liste enthalten sind."
+
+#. Boolean setting to enable dolby stream usage
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30004"
+msgid "Enable Dolby"
+msgstr "Aktiviere Dolby"
+
+#. Help text to setting #30010
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30005"
+msgid "Enable support for dolby."
+msgstr "Aktiviert die Unterstützung für Dolby Streams."
+
+#. Settings category label
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30006"
+msgid "Teleboy"
+msgstr "Teleboy"
+
+#. Settings group label
+#: pvr.teleboy/resources/settings.xml
+msgctxt "#30007"
+msgid "General"
+msgstr "Allgemein"
+
+#. Notification message to show on screen if username or password not set
+#: src/TeleBoy.cpp
+msgctxt "#30100"
+msgid "Missing username or password"
+msgstr "Fehlender Benutzername oder Passwort"
+
+#. Notification message to show on screen if login failed
+#: src/TeleBoy.cpp
+msgctxt "#30101"
+msgid "Login failed!"
+msgstr "Anmeldung fehlgeschlagen!"
+
+#. Notification message to show for inform not supported by used account
+msgctxt "#30102"
+msgid "Free accounts are not supported!"
+msgstr "Freie Konten nicht Verfügbar!"

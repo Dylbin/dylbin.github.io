@@ -1,0 +1,278 @@
+# Kodi Media Center language file
+# Addon Name: Screensaver Shadertoy
+# Addon id: screensaver.shadertoy
+# Addon Provider: afedchin
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: https://github.com/xbmc/screensaver.shadertoy/issues/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-04-03 07:37+0000\n"
+"Last-Translator: Edson Armando <edsonarmando78@outlook.com>\n"
+"Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-look-and-feel/screensaver-shadertoy/es_mx/>\n"
+"Language: es_mx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.5.3\n"
+
+msgctxt "Addon Summary"
+msgid "Random screensavers from Shadertoy"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Use the best shaders in the world with Shadertoy and add them if you want."
+msgstr ""
+
+msgctxt "#30000"
+msgid "ShaderToy"
+msgstr "ShaderToy"
+
+msgctxt "#30001"
+msgid "Ball"
+msgstr "Pelota"
+
+msgctxt "#30002"
+msgid "Ball Of Fire"
+msgstr "Pelota de fuego"
+
+msgctxt "#30003"
+msgid "Bleepy Blocks"
+msgstr "Bloques Pitantes"
+
+msgctxt "#30004"
+msgid "Bob Scanline"
+msgstr "Escaneo de línea Bob"
+
+msgctxt "#30005"
+msgid "Blobs"
+msgstr "Manchas"
+
+msgctxt "#30006"
+msgid "Blue Fire"
+msgstr "Fuego azul"
+
+msgctxt "#30007"
+msgid "Cellular"
+msgstr "Celular"
+
+msgctxt "#30008"
+msgid "Classic RGB Plasma"
+msgstr "Plasma RGB clásico"
+
+msgctxt "#30009"
+msgid "Coloured Circles"
+msgstr "Círculos coloreados"
+
+msgctxt "#30010"
+msgid "Dance Floor"
+msgstr "Pista de baile"
+
+msgctxt "#30011"
+msgid "Dot Dot Dot"
+msgstr "Punto Punto Punto"
+
+msgctxt "#30012"
+msgid "Effect Ringblobs"
+msgstr "Efecto manchas de anillo"
+
+msgctxt "#30013"
+msgid "Ether"
+msgstr "Éter"
+
+msgctxt "#30014"
+msgid "Fire"
+msgstr "Fuego"
+
+msgctxt "#30015"
+msgid "Flaring 1"
+msgstr "Destello 1"
+
+msgctxt "#30016"
+msgid "Flaring 2"
+msgstr "Destello 2"
+
+msgctxt "#30017"
+msgid "Flaring 3"
+msgstr "Destello 3"
+
+msgctxt "#30018"
+msgid "Flaring 4"
+msgstr "Destello 4"
+
+msgctxt "#30019"
+msgid "Flaring 5"
+msgstr "Destello 5"
+
+msgctxt "#30020"
+msgid "Fractal Tiling"
+msgstr "Mosaicos fractales"
+
+msgctxt "#30021"
+msgid "Infinite Fall"
+msgstr "Caída infinita"
+
+msgctxt "#30022"
+msgid "Input Time"
+msgstr "Tiempo de entrada"
+
+msgctxt "#30023"
+msgid "Interstellar"
+msgstr "Interestelar"
+
+msgctxt "#30024"
+msgid "Interweaving Sine Bands"
+msgstr "Bandas sinusoidales entrelazadas"
+
+msgctxt "#30025"
+msgid "Julia Trap"
+msgstr "Trampa de Julia"
+
+msgctxt "#30026"
+msgid "Layers Of Plasma"
+msgstr "Capas de plasma"
+
+msgctxt "#30027"
+msgid "Liquid Spectrum"
+msgstr "Espectro liquido"
+
+msgctxt "#30028"
+msgid "Noise Animation - Electric"
+msgstr "Animación de ruido - Eléctrico"
+
+msgctxt "#30029"
+msgid "Noise Animation - Flow"
+msgstr "Animación de ruido - Corriente"
+
+msgctxt "#30030"
+msgid "Noise Animation - Lava"
+msgstr "Animación de ruido - Lava"
+
+msgctxt "#30031"
+msgid "Noise Animation - Watery"
+msgstr "Animación de ruido - Acuoso"
+
+msgctxt "#30032"
+msgid "Overly Satisfying"
+msgstr "Bastante satisfactorio"
+
+msgctxt "#30033"
+msgid "Plasma Circles"
+msgstr "Círculos de plasma"
+
+msgctxt "#30034"
+msgid "Plasma Triangles"
+msgstr "Triángulos de plasma"
+
+msgctxt "#30035"
+msgid "Plasma Matrix Spin"
+msgstr "Giro de matriz de plasma"
+
+msgctxt "#30036"
+msgid "Pixellated Plasma"
+msgstr "Plasma pixelado"
+
+msgctxt "#30037"
+msgid "Silexars Creation"
+msgstr "Creación de Silexars"
+
+msgctxt "#30038"
+msgid "Sky at Night"
+msgstr "Cielo nocturno"
+
+msgctxt "#30039"
+msgid "Sphere"
+msgstr "Esfera"
+
+msgctxt "#30040"
+msgid "Star Tunnel"
+msgstr "Túnel de estrellas"
+
+msgctxt "#30041"
+msgid "Vector Field"
+msgstr "Campo de vectores"
+
+msgctxt "#30042"
+msgid "Venus"
+msgstr "Venus"
+
+msgctxt "#30043"
+msgid "Watch It Burn"
+msgstr "Míralo arder"
+
+msgctxt "#30044"
+msgid "Water Caustic"
+msgstr "Agua Cáustica"
+
+msgctxt "#30045"
+msgid "Wiggly (try mouse)"
+msgstr "Movido (try mouse)"
+
+msgctxt "#30046"
+msgid "Worley Noise Waters"
+msgstr "Las aguas caudalosas de Worley"
+
+msgctxt "#30100"
+msgid "Random"
+msgstr "Aleatorio"
+
+msgctxt "#30101"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30102"
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgctxt "#30103"
+msgid "Use your own shader, e.g. from https://www.shadertoy.com"
+msgstr "Utiliza tu propio shader, ej. de https://www.shadertoy.com"
+
+msgctxt "#30104"
+msgid "Selected shader code not found!"
+msgstr "¡Código de shader seleccionado no encontrado!"
+
+msgctxt "#30200"
+msgid "Choose one yourself"
+msgstr "Elige uno propio"
+
+msgctxt "#30201"
+msgid "Shader"
+msgstr "Shader"
+
+msgctxt "#30202"
+msgid "iChannel 1"
+msgstr "iCanal 1"
+
+msgctxt "#30203"
+msgid "iChannel 2"
+msgstr "iCanal 2"
+
+msgctxt "#30204"
+msgid "iChannel 3"
+msgstr "iCanal 3"
+
+msgctxt "#30205"
+msgid "iChannel 4"
+msgstr "iCanal 4"
+
+msgctxt "#30211"
+msgid "Shader as *.glsl"
+msgstr "Shader como *.glsl"
+
+msgctxt "#30212"
+msgid "iChannel 1 as *.png"
+msgstr "iCanal 1 como *.png"
+
+msgctxt "#30213"
+msgid "iChannel 2 as *.png"
+msgstr "iCanal 2 como *.png"
+
+msgctxt "#30214"
+msgid "iChannel 3 as *.png"
+msgstr "iCanal 3 como *.png"
+
+msgctxt "#30215"
+msgid "iChannel 4 as *.png"
+msgstr "iCanal 4 como *.png"

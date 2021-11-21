@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: OpenMPT Audio Decoder
+# Addon id: audiodecoder.openmpt
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: vdkbsd <valexgus@gmail.com>\n"
+"Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-openmpt/ru_ru/>\n"
+"Language: ru_ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "OpenMPT - Discover the music inside..."
+msgstr "OpenMPT - познайте музыку изнутри..."
+
+msgctxt "Addon Description"
+msgid "OpenMPT (short hand for Open ModPlug Tracker) is completely free and his library allows you play back some great music on your Kodi.[CR][CR]It supports loading of IT (Impulse Tracker), XM (FastTracker Extended Module), MOD (ProTracker and similar), S3M (Scream Tracker 3) and MPTM (its own file format) files, imports many more module and sample file formats.[CR][CR]See his website for complete list of supported types."
+msgstr "OpenMPT (сокращение от Open ModPlug Tracker) полностью бесплатен, и его библиотека позволяет воспроизводить отличную музыку на вашем Kodi.[CR][CR]Он поддерживает загрузку файлов IT (Impulse Tracker), XM (FastTracker Extended Module), MOD (ProTracker и подобные), S3M (Scream Tracker 3) и MPTM (собственный формат файлов), импортирует многие другие форматы файлов модулей и сэмплов.[CR][CR]Полный список поддерживаемых типов смотрите на его сайте."

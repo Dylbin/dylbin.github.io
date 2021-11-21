@@ -1,0 +1,1002 @@
+# Kodi Media Center language file
+# Addon Name: PVR IPTV Simple Client
+# Addon id: pvr.iptvsimple
+# Addon Provider: nightik
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Main\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-28 13:02+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-pvr-clients/pvr-iptvsimple/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "Kodi PVR addon for IPTV support."
+msgstr "IPTV 지원을 위한 Kodi PVR 애드온."
+
+msgctxt "Addon Description"
+msgid "IPTV Simple PVR Client support m3u playlists, streaming of Live TV for multicast/unicast sources, listening to Radio channels and EPG.&#10;    &#10;For documentation visit: https://github.com/kodi-pvr/pvr.iptvsimple/blob/Matrix/README.md&#10;    "
+msgstr "IPTV Simple PVR 클라이언트는 m3u 재생목록, 스트리밍, 멀티캐스트/유니캐스트 소스의 TV 시청, 라디오 채널과 EPG를 통한 청취를 지원합니다.&#10;    &#10;For documentation visit: https://github.com/kodi-pvr/pvr.iptvsimple/blob/Matrix/README.md&#10;    "
+
+msgctxt "Addon Disclaimer"
+msgid "The authors are in no way responsible for failed playings, incorrect EPG times, wasted hours, or any other undesirable effects."
+msgstr "이 소프트웨어는 불안정합니다! 재생 실패, 정확하지 않은 EPG 시각, 시간 낭비, 의도하지 않은 현상에 대해 제작자는 어떤 책임도 지지 않습니다."
+
+#. settings labels
+#. label: General - m3uPathType
+#. label: EPG Settings - epgPathType
+#. label: Channel Logos - logoPathType
+msgctxt "#30000"
+msgid "Location"
+msgstr "위치"
+
+#. label-option: General - m3uPathType
+#. label-option: General - epgPathType
+#. label-option: General - logoPathType
+#. label-option: General - genresPathType
+msgctxt "#30001"
+msgid "Local path (includes local network)"
+msgstr "로컬 경로 (로컬 네트웍 포함)"
+
+#. label-option: General - m3uPathType
+#. label-option: General - epgPathType
+#. label-option: General - logoPathType
+#. label-option: General - genresPathType
+msgctxt "#30002"
+msgid "Remote path (Internet address)"
+msgstr "원격 경로 (인터넷 주소)"
+
+#. label-option: General - m3uRefreshMode
+msgctxt "#30003"
+msgid "Disabled"
+msgstr "사용 안 함"
+
+#. label-option: General - m3uRefreshMode
+msgctxt "#30004"
+msgid "Repeated refresh"
+msgstr "새로 고침 반복"
+
+#. label-option: General - m3uRefreshMode
+msgctxt "#30005"
+msgid "Once per day"
+msgstr "하루에 한 번"
+
+#. label-category: general
+#. label-group: General - General
+msgctxt "#30010"
+msgid "General"
+msgstr "일반"
+
+#. label: General - m3uPath
+msgctxt "#30011"
+msgid "M3U playlist path"
+msgstr "M3U 재생 목록 경로"
+
+#. label: General - m3uUrl
+msgctxt "#30012"
+msgid "M3U playlist URL"
+msgstr "M3U 재생 목록 URL"
+
+#. label: General - startNum
+msgctxt "#30013"
+msgid "Start channel number"
+msgstr "채널 개수 시작"
+
+#. label: General - numberByOrder
+msgctxt "#30014"
+msgid "Only number by channel order in M3U"
+msgstr "M3U의 채널 순서에 따라서만 번호 매김"
+
+#. label: General - m3uRefreshMode
+msgctxt "#30015"
+msgid "Auto refresh mode"
+msgstr "자동 고침 모드"
+
+#. label: General - m3uRefreshIntervalMins
+msgctxt "#30016"
+msgid "Refresh interval"
+msgstr "새로 고침 주기"
+
+#. label: General - m3uRefreshHour
+msgctxt "#30017"
+msgid "Refresh hour (24h)"
+msgstr "새로 고침 시간 (24시)"
+
+#. label-group: General - Refresh
+msgctxt "#30018"
+msgid "Refresh"
+msgstr "새로 고침"
+
+#. label-category: epgsettings
+msgctxt "#30019"
+msgid "EPG Settings"
+msgstr "EPG 설정"
+
+#. label-group: EPG Settings - EPG Settings
+msgctxt "#30020"
+msgid "EPG"
+msgstr "EPG"
+
+#. label: EPG Settings - epgPath
+msgctxt "#30021"
+msgid "XMLTV path"
+msgstr "XMLTV 경로"
+
+#. label: EPG Settings - epgUrl
+msgctxt "#30022"
+msgid "XMLTV URL"
+msgstr "XMLTV URL"
+
+#. label: EPG Settings - epgTSOverride
+msgctxt "#30023"
+msgid "Apply time shift to all channels"
+msgstr "모든 채널에 타임 시프트 적용"
+
+#. label: EPG Settings - epgTimeShift
+msgctxt "#30024"
+msgid "EPG time shift"
+msgstr "EPG 타임 시프트"
+
+#. label: General - m3uCache
+msgctxt "#30025"
+msgid "Cache m3u at local storage"
+msgstr "로컬 저장소에 m3u 캐시"
+
+#. label: EPG Settings - epgCache
+msgctxt "#30026"
+msgid "Cache XMLTV at local storage"
+msgstr "로컬 저장소에 XMLTV 캐시"
+
+#. format-label: EPG Settings - epgTimeShift
+msgctxt "#30027"
+msgid "{0:.1f} hours"
+msgstr "{0:.1f} 시간"
+
+#. label: General - tvChannelGroupsOnly
+msgctxt "#30028"
+msgid "Only load TV channels in groups"
+msgstr "TV 채널을 그룹으로만 열기"
+
+#. label-group: General - TV Groups
+msgctxt "#30029"
+msgid "TV Groups"
+msgstr "TV 그룹"
+
+#. label-category: channellogos
+#. label-group: Channel Logos - Channel Logos
+msgctxt "#30030"
+msgid "Channel Logos"
+msgstr "채널 로고"
+
+#. label: Channel Logos - logoPath
+msgctxt "#30031"
+msgid "Channel logos folder"
+msgstr "채널 로고 폴더"
+
+#. label: Channel Logos - logoBaseUrl
+msgctxt "#30032"
+msgid "Channel logos base URL"
+msgstr "채널 로고 기본 URL"
+
+#. label-group: General - Radio Groups
+msgctxt "#30033"
+msgid "Radio Groups"
+msgstr "라디오 그룹"
+
+#. label: General - tvGroupMoade
+msgctxt "#30034"
+msgid "TV group mode"
+msgstr "TV 그룹 모드"
+
+#. label: General - radioGroupMoade
+msgctxt "#30035"
+msgid "Radio group mode"
+msgstr "라디오 그룹 모드"
+
+#. label-option: Channels - tvGroupmode
+#. label-option: Channels - radioGroupGode
+msgctxt "#30036"
+msgid "All groups"
+msgstr "모든 그룹"
+
+#. label-option: Channels - tvGroupMode
+#. label-option: Channels - radioGroupGode
+msgctxt "#30037"
+msgid "Some groups"
+msgstr "일부 그룹"
+
+#. label-option: General - tvGroupMode
+#. label-option: General - radioGroupGode
+msgctxt "#30038"
+msgid "Custom groups"
+msgstr "사용자 지정 그룹"
+
+#. label: Channels - numTvGroups
+msgctxt "#30039"
+msgid "Number of TV groups"
+msgstr "TV 그룹 수"
+
+#. label-group: Channel Logos - XMLTV Logos Options
+msgctxt "#30040"
+msgid "XMLTV Logos Options"
+msgstr "XMLTV 로고 옵션"
+
+#. label: Channel Logos - logoFromEpg
+msgctxt "#30041"
+msgid "Channels logos from XMLTV"
+msgstr "XMLTV 채널 로고"
+
+#. label-option: Channel Logos - logoFromEpg
+msgctxt "#30042"
+msgid "Ignore"
+msgstr "무시"
+
+#. label-option: Channel Logos - logoFromEpg
+msgctxt "#30043"
+msgid "Prefer M3U"
+msgstr "M3U 우선"
+
+#. label-option: Channel Logos - logoFromEpg
+msgctxt "#30044"
+msgid "Prefer XMLTV"
+msgstr "XMLTV 우선"
+
+#. label: General - oneTvGroup
+msgctxt "#30045"
+msgid "TV group 1"
+msgstr "TV 그룹 1"
+
+#. label: General - twoTvGroup
+msgctxt "#30046"
+msgid "TV group 2"
+msgstr "TV 그룹 2"
+
+#. label: General - threeTvGroup
+msgctxt "#30047"
+msgid "TV group 3"
+msgstr "TV 그룹 3"
+
+#. label: General - fourTvGroup
+msgctxt "#30048"
+msgid "TV group 4"
+msgstr "TV 그룹 4"
+
+#. label: General - fiveTvGroup
+msgctxt "#30049"
+msgid "TV group 5"
+msgstr "TV 그룹 5"
+
+#. label-category: genres
+#. label-group: Genres - Genres
+msgctxt "#30050"
+msgid "Genres"
+msgstr "장르"
+
+#. label: Genres - useEpgGenreText
+msgctxt "#30051"
+msgid "Use genre text from XMLTV when mapping genres"
+msgstr "장르를 지정할 때 XMLTV의 장르 문서 사용"
+
+#. label: Genres - genresPath
+msgctxt "#30052"
+msgid "Genres path"
+msgstr "장르 경로"
+
+#. label: Genres - genresUrl
+msgctxt "#30053"
+msgid "Genres URL"
+msgstr "장르 URL"
+
+#. label: Channels - customTvGroupsFile
+msgctxt "#30054"
+msgid "Custom TV groups file"
+msgstr "사용자 지정 TV 그룹 파일"
+
+#. label: General - oneRadioGroup
+msgctxt "#30055"
+msgid "Radio group 1"
+msgstr "라디오 그룹 1"
+
+#. label: General - twoRadioGroup
+msgctxt "#30056"
+msgid "Radio group 2"
+msgstr "라디오 그룹 2"
+
+#. label: General - threeRadioGroup
+msgctxt "#30057"
+msgid "Radio group 3"
+msgstr "라디오 그룹 3"
+
+#. label: General - fourRadioGroup
+msgctxt "#30058"
+msgid "Radio group 4"
+msgstr "라디오 그룹 4"
+
+#. label: General - fiveRadioGroup
+msgctxt "#30059"
+msgid "Radio group 5"
+msgstr "라디오 그룹 5"
+
+#. label-category: advanced
+msgctxt "#30060"
+msgid "Advanced"
+msgstr "고급"
+
+#. label-group: Advanced - Multicast relay
+msgctxt "#30061"
+msgid "Multicast relay (udpxy)"
+msgstr "다중 방송 중계 (udpxy)"
+
+#. label: Advanced - transformMulticastStreamUrls
+msgctxt "#30062"
+msgid "Transform multicast stream URLs"
+msgstr "다중 방송 스트림 URL 변경"
+
+#. label: Advanced - udpxyHost
+msgctxt "#30063"
+msgid "Relay hostname or IP address"
+msgstr "호스트명이나 IP 주소 중계"
+
+#. label: Advanced - udpxyPort
+msgctxt "#30064"
+msgid "Relay port"
+msgstr "중계 포트"
+
+#. label-group: Advanced - Streaming
+msgctxt "#30065"
+msgid "Streaming"
+msgstr "스트리밍"
+
+#. label: Advanced - useInputstreamAdaptiveforHls
+msgctxt "#30066"
+msgid "Use inputstream.adaptive for m3u8 (HLS) streams"
+msgstr "m3u8(HLS) 스트림에 inputstream.adaptive 사용"
+
+#. label: Advanced - useFFmpegReconnect
+msgctxt "#30067"
+msgid "Use FFmpeg http reconnect options if possible"
+msgstr "가능하면 FFmpeg http 다시 연결 옵션 사용"
+
+#. label: Advanced - defaultUserAgent
+msgctxt "#30068"
+msgid "User-Agent"
+msgstr "사용자 에이전트"
+
+#. label: Advanced - defaultInputstream
+msgctxt "#30069"
+msgid "Inputstream name"
+msgstr "입력 스트림 이름"
+
+#. label: Advanced - defaultMimeType
+msgctxt "#30070"
+msgid "MIME type"
+msgstr "MIME 유형"
+
+#. label-group: Advanced - Channel defaults
+msgctxt "#30071"
+msgid "Channel defaults"
+msgstr "채널 기본값"
+
+#. label: General - numRadioGroups
+msgctxt "#30072"
+msgid "Number of Radio groups"
+msgstr "라디오 그룹 수"
+
+#. label: Channels - customRadioGroupsFile
+msgctxt "#30073"
+msgid "Custom Radio groups file"
+msgstr "사용자 정의 라디오 그룹 파일"
+
+#. label: General - radioChannelGroupsOnly
+msgctxt "#30074"
+msgid "Only load Radio channels in groups"
+msgstr "그룹의 라디오 채널만 읽기"
+
+#. help: Channel Logos - useLogosLocalPathOnly
+msgctxt "#30075"
+msgid "For local logos path ignore M3U logos"
+msgstr "로컬 로고 경로의 경우 M3U 로고 무시"
+
+# empty strings from id 30075 to 30099
+#. label-category: catchup
+#. label-group: Catchup - Catchup
+msgctxt "#30100"
+msgid "Catchup"
+msgstr "따라잡기"
+
+#. label: Catchup - enableCatchup
+msgctxt "#30101"
+msgid "Enable catchup"
+msgstr "따라잡기 사용함"
+
+#. label: Catchup - catchupQueryFormat
+msgctxt "#30102"
+msgid "Query format string"
+msgstr "검색 형식 문자열"
+
+#. label: Catchup - catchupDays
+msgctxt "#30103"
+msgid "Catchup window"
+msgstr "따라잡기 창"
+
+#. label: Catchup - allChannelsCatchupMode
+msgctxt "#30104"
+msgid "Channels support catchup using mode"
+msgstr "채널은 모드를 사용하여 따라잡기 지원"
+
+#. label-group: Catchup - Watch From EPG
+msgctxt "#30105"
+msgid "Watch From EPG"
+msgstr "EPG에서 보기"
+
+#. label: Catchup - catchupPlayEpgAsLive
+msgctxt "#30106"
+msgid "Play from EPG in Live TV mode (using timeshift)"
+msgstr "라이브 TV 모드에서 EPG 재생(시간이동 사용)"
+
+#. label: Catchup - catchupWatchEpgBeginBuffer
+msgctxt "#30107"
+msgid "Buffer before program start"
+msgstr "프로그램 시작 전 버퍼"
+
+#. label: Catchup - catchupWatchEpgEndBuffer
+msgctxt "#30108"
+msgid "Buffer after program end"
+msgstr "프로그램 종료 후 버퍼"
+
+#. label: Catchup - catchupOnlyOnFinishedProgrammes
+msgctxt "#30109"
+msgid "Catchup only available on finished programmes"
+msgstr "종료된 프로그램만 따라잡기 가능"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30110"
+msgid "Disabled"
+msgstr "사용 안 함"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30111"
+msgid "Default"
+msgstr "기본값"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30112"
+msgid "Append"
+msgstr "추가"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30113"
+msgid "Shift (SIPTV)"
+msgstr "이동 (SIPTV)"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30114"
+msgid "Flussonic"
+msgstr "Flussonic"
+
+#. label-option: Catchup - allChannelsCatchupMode
+msgctxt "#30115"
+msgid "Xtream codes"
+msgstr "Xtream 코드"
+
+#. label: Catchup - catchupOverrideMode
+msgctxt "#30116"
+msgid "Include channels"
+msgstr "채널 포함"
+
+#. label-option: Catchup - catchupOverrideMode
+msgctxt "#30117"
+msgid "without catchup mode"
+msgstr "따라잡기 모드 없이"
+
+#. label-option: Catchup - catchupOverrideMode
+msgctxt "#30118"
+msgid "with catchup mode"
+msgstr "따라잡기 모드로"
+
+#. label-option: Catchup - catchupOverrideMode
+msgctxt "#30119"
+msgid "with and without catchup mode (all channels)"
+msgstr "따라잡기 모드 포함 및 미포함(모든 채널)"
+
+#. label-category: timeshift
+#. label-group: Timeshift - Timeshift
+msgctxt "#30120"
+msgid "Timeshift"
+msgstr "시간이동"
+
+#. label: Timeshift - timeshiftEnabled
+msgctxt "#30121"
+msgid "Enable timeshift"
+msgstr "시간이동 사용함"
+
+#. label: Timeshift - timeshiftEnabledHttp
+msgctxt "#30122"
+msgid "Enable timeshift for HTTP based streams"
+msgstr "HTTP 기반 스트림에 대한 시간이동 사용"
+
+#. label: Timeshift - timeshiftFFmpegdirectSettings
+msgctxt "#30123"
+msgid "- Modify inputstream.ffmpegdirect settings..."
+msgstr "- inputstream.ffmpegdirect 설정 수정..."
+
+#. label-group: Timeshift - Inputstream Settings
+msgctxt "#30124"
+msgid "Inputstream Settings"
+msgstr "입력스트림 설정"
+
+#. label: Timeshift - timeshiftCustom
+msgctxt "#30125"
+msgid "Always enable timeshift stream mode if missing"
+msgstr "없으면 항상 시간이동 스트림 모드 사용함"
+
+#. label: Timeshift - timeshiftEnabledAll
+msgctxt "#30126"
+msgid "Enable timeshift for all streams"
+msgstr "모든 스트림에 대해 시간이동 사용함"
+
+#. label: Timeshift - timeshiftEnabledUdp
+msgctxt "#30127"
+msgid "Enable timeshift for UDP based streams"
+msgstr "UDP 기반 스트림에 시간이동 사용"
+
+#. label-option: Catchup - catchupCorrection
+msgctxt "#30128"
+msgid "Catchup correction"
+msgstr "따라잡기 수정"
+
+# empty strings from id 30128 to 30449
+#. label: TV
+msgctxt "#30450"
+msgid "TV"
+msgstr "TV"
+
+#. label: Radio
+msgctxt "#30451"
+msgid "Radio"
+msgstr "라디오"
+
+# empty strings from id 30452 to 30499
+#. notification: Inputstreams
+msgctxt "#30500"
+msgid "Inputstream error"
+msgstr "입력 스트림 오류"
+
+#. notification: Inputstreams
+msgctxt "#30501"
+msgid "The %s addon is not installed."
+msgstr "%s 애드온이 설치되지 않았습니다."
+
+#. notification: Inputstreams
+msgctxt "#30502"
+msgid "The %s addon is not enabled."
+msgstr "%s 애드온을 사용하지 않습니다."
+
+#. ############
+#. help info #
+#. ############
+#. help info - General
+#. help-category: General
+msgctxt "#30600"
+msgid "General settings required for the addon to function."
+msgstr "애드온 기능에 필요한 일반 설정입니다."
+
+#. help: General - m3uPathType
+msgctxt "#30601"
+msgid "Select where to find the M3U resource. The options are: [B]Local path[/B] - A path to an M3U file whether it be on the device or the local network; [B]Remote path[/B] - A URL specifying the location of the M3U file."
+msgstr "M3U 출처를 찾을 위치를 선택합니다. 옵션은 다음과 같습니다. [B]로컬 경로[/B] - 장치에 있든 로컬 네트워크에 있든 M3U 파일에 대한 경로입니다. [B]원격 경로[/B] - M3U 파일의 위치를 지정하는 URL입니다."
+
+#. help: General - m3uPath
+msgctxt "#30602"
+msgid "If location is [B]Local path[/B] this setting must contain a valid path for the addon to function."
+msgstr "위치가 [B]로컬 경로[/B]인 경우 이 설정에는 애드온이 작동하는 데 유효한 경로가 포함되어야 합니다."
+
+#. help: General - m3uUrl
+msgctxt "#30603"
+msgid "If location is [B]Remote path[/B] this setting must contain a valid URL for the addon to function."
+msgstr "위치가 [B]원격 경로[/B]인 경우 이 설정에는 애드온이 작동하는 데 유효한 URL이 포함되어야 합니다."
+
+#. help: General - m3uCache
+msgctxt "#30604"
+msgid "If location is [B]Remote path[/B] select whether or not the the M3U file should be cached locally."
+msgstr "위치가 [B]원격 경로[/B]인 경우 M3U 파일을 로컬로 캐시할지 여부를 선택합니다."
+
+#. help: General - startNum
+msgctxt "#30605"
+msgid "The number to start numbering channels from. Only used when [B]Use backend channel numbers[/B] from PVR settings is enabled and a channel number is not supplied in the M3U file."
+msgstr "채널 번호 매기기를 시작할 번호입니다. PVR 설정에서 [B]백엔드 채널 번호 사용[/B]이 활성화되고 채널 번호가 M3U 파일에 제공되지 않은 경우에만 사용됩니다."
+
+#. help: General - numberByOrder
+msgctxt "#30606"
+msgid "Ignore any 'tvg-chno' tags and only number channels by the order in the M3U starting at 'Start channel number'."
+msgstr "'tvg-chno' 모든 태그 무시하고 '채널 번호를 매길 때' M3U의 순서에 따라서만 번호 매김."
+
+#. help: General - m3uRefreshMode
+msgctxt "#30607"
+msgid "Select the auto refresh mode for the M3U/XMLTV files. Note that caching is disabled if auto refresh is used. The options are: [B]Disabled[/B] - Don't auto refresh the files; [B]Repeated refresh[/B] - Refresh the files on a minute based interval; [B]Once per day[/B] - Refresh the files once per day."
+msgstr "M3U/XMLTV 파일의 자동 새로 고침 모드를 선택합니다. 자동 새로 고침을 사용하는 경우 캐시를 사용하지 않습니다. 옵션은 다음과 같습니다. [B]사용 안 함[/B] - 파일을 자동으로 새로 고치지 않습니다. [B]반복해서 새로 고침[/B] - 분 단위 간격으로 파일을 새로 고칩니다. [B]하루에 한 번[/B] - 하루에 한 번 파일을 새로 고칩니다."
+
+#. help: General - m3uRefreshIntervalMins
+msgctxt "#30608"
+msgid "If M3U auto refresh mode is [B]Repeated refresh[/B] refresh the files every time this number of minutes passes. Max 120 minutes."
+msgstr "M3U 자동 새로 고침 모드가 [B]반복해서 새로 고침[/B]인 경우 이 시간(분)이 지날 때마다 파일을 새로 고칩니다. 최대 120분."
+
+#. help: General - m3uRefreshHour
+msgctxt "#30609"
+msgid "If auto refresh mode is [B]Once per day[/B] refresh the files every time this hour of the day is reached."
+msgstr "자동 새로 고침 모드가 [B]하루에 한 번[/B]인 경우, 매일 이 시간마다 파일을 새로 고칩니다."
+
+#. help: General - tvChannelGroupsOnly
+msgctxt "#30610"
+msgid "Only TV channels that belong to groups (i.e. have a [B]group-title[/B] attribute) will be loaded from the M3U file."
+msgstr "그룹에 속한(즉, [B]group-title[/B] 속성이 있는) TV 채널만 M3U 파일에서 읽습니다."
+
+#. help: Channels - tvGroupMode
+msgctxt "#30611"
+msgid "Choose from one of the following three modes: [B]All groups[/B] Load all TV groups from the M3U file; [B]Some groups[/B] Only load the groups specified in the next options; [B]Custom groups[/B] Load a set of groups from the M3U file whose names are loaded from an XML file."
+msgstr "다음 세 가지 모드 중 하나를 선택하십시오. [B]모든 그룹[/B] M3U 파일에서 모든 TV 그룹을 읽습니다. [B]일부 그룹[/B] 다음 옵션에 지정된 그룹만 읽습니다. [B]사용자 지정 그룹[/B] XML 파일에서 이름을 읽은 M3U 파일의 그룹 세트를 읽습니다."
+
+#. help: Channels - oneTvGroup
+#. help: Channels - twoTvGroup
+#. help: Channels - threeTvGroup
+#. help: Channels - fourTvGroup
+#. help: Channels - fiveTvGroup
+msgctxt "#30612"
+msgid "If the previous option has been has been set to 'Some groups' you need to specify a TV group to be loaded from the M3U file. Please note that this is the group name as shown in the group-title attribute (i.e. 'UK (TV)'). This setting is case-sensitive."
+msgstr "이전 옵션이 '일부 그룹'으로 설정된 경우 M3U 파일에서 읽을 TV 그룹을 지정해야 합니다. 이것은 group-title 속성에 표시되는 그룹 이름입니다(예: 'UK(TV)'). 이 설정은 대소문자를 구분합니다."
+
+#. help: Channels - radioGroupMode
+msgctxt "#30613"
+msgid "Choose from one of the following three modes: [B]All groups[/B] Load all Radio groups from the M3U file[/B]; [B]Some groups[/B] Only load the groups specified in the next options; [B]Custom groups[/B] Load a set of groups from the M3U file whose names are loaded from an XML file."
+msgstr "다음 세 가지 모드 중 하나를 선택하십시오. [B]모든 그룹[/B] M3U 파일에서 모든 라디오 그룹 읽습니다[/B]; [B]일부 그룹[/B] 다음 옵션에 지정된 그룹만 읽습니다. [B]사용자 지정 그룹[/B] XML 파일에서 이름을 읽은 M3U 파일의 그룹 세트를 읽습니다."
+
+#. help: Channels - oneRadioGroup
+#. help: Channels - twoRadioGroup
+#. help: Channels - threeRadioGroup
+#. help: Channels - fourRadioGroup
+#. help: Channels - fiveRadioGroup
+msgctxt "#30614"
+msgid "If the previous option has been has been set to 'Some groups' you need to specify a Radio group to be fetched from the M3U file. Please not that this is the group name as shown on the group-title attribute (i.e. 'UK (Radio)'). This setting is case-sensitive."
+msgstr "이전 옵션이 '일부 그룹'으로 설정된 경우 M3U 파일에서 가져올 라디오 그룹을 지정해야 합니다. 그룹 제목 속성에 표시된 그룹 이름(예: 'UK(라디오)')입니다. 이 설정은 대소문자를 구분합니다."
+
+#. help: Channels - customTvGroupsFile
+msgctxt "#30615"
+msgid "The file used to load the custom TV groups. The default file is `customTVGroups-example.xml`."
+msgstr "사용자 지정 TV 그룹을 읽는 데 사용되는 파일입니다. 기본 파일은 'customTVGroups-example.xml'입니다."
+
+#. help: Channels - customRadioGroupsFile
+msgctxt "#30616"
+msgid "The file used to load the custom Radio groups. The default file is `customRadioGroups-example.xml`."
+msgstr "사용자 정의 라디오 그룹을 읽는 데 사용되는 파일입니다. 기본 파일은 'customRadioGroups-example.xml'입니다."
+
+#. help: Channels - numTvGroups
+msgctxt "#30617"
+msgid "The number of TV groups to load when `Some groups` is the selected mode. Up to 5 can be chosen. If more than 5 are required the 'Custom groups' mode should be used instead."
+msgstr "'일부 그룹'이 선택된 모드일 때 읽을 TV 그룹 수입니다. 최대 5개까지 선택할 수 있습니다. 5개 이상이 필요한 경우 '사용자 지정 그룹' 모드를 대신 사용해야 합니다."
+
+#. help: Channels - numRadioGroups
+msgctxt "#30618"
+msgid "The number of Radio groups to load when `Some groups` is the selected mode. Up to 5 can be chosen. If more than 5 are required the 'Custom groups'  mode should be used instead."
+msgstr "'일부 그룹'이 선택된 모드일 때 읽을 라디오 그룹의 수입니다. 최대 5개까지 선택할 수 있습니다. 5개 이상이 필요한 경우 '사용자 지정 그룹' 모드를 대신 사용해야 합니다."
+
+#. help: General - radioChannelGroupsOnly
+msgctxt "#30619"
+msgid "Only Radio channels that belong to groups (i.e. have a [B]group-title[/B] attribute) will be loaded from the M3U file."
+msgstr "그룹에 속한 라디오 채널(예: [B]group-title[/B] 속성)만 M3U 파일에서 읽습니다."
+
+#. help info - EPG Settings
+#. help-category: EPG Settings
+msgctxt "#30620"
+msgid "Settings related to the EPG. Note that Kodi will only load the EPG data when it needs to. The add-on will force a load of the EPG data regardless of whether or not Kodi requests it if either catchup is enabled or XMLTV logos are required."
+msgstr "EPG와 관련된 설정입니다. Kodi는 필요할 때만 EPG 데이터를 읽습니다. 따라잡기가 활성화되어 있거나 XMLTV 로고가 필요한 경우, 이 애드온은 Kodi의 요청에 상관없이 EPG 데이터를 강제로 읽습니다."
+
+#. help: EPG Settings - epgPathType
+msgctxt "#30621"
+msgid "Select where to find the XMLTV resource. The options are: [B]Local path[/B] - A path to an XMLTV file whether it be on the device or the local network; [B]Remote path[/B] - A URL specifying the location of the XMLTV file."
+msgstr "XMLTV 리소스를 찾을 위치를 선택합니다. 옵션은 다음과 같습니다. [B]로컬 경로[/B] - 장치에 있든 로컬 네트워크에 있든 XMLTV 파일에 대한 경로입니다. [B]원격 경로[/B] - XMLTV 파일의 위치를 지정하는 URL입니다."
+
+#. help: EPG Settings - epgPath
+msgctxt "#30622"
+msgid "If location is [B]Local Path[/B] this setting should contain a valid path."
+msgstr "위치가 [B]로컬 경로[/B]인 경우 이 설정에는 유효한 경로가 포함되어야 합니다."
+
+#. help: EPG Settings - epgUrl
+msgctxt "#30623"
+msgid "If location is [B]Remote Path[/B] this setting should contain a valid URL."
+msgstr "위치가 [B]원격 경로[/B]인 경우 이 설정에는 유효한 URL이 포함되어야 합니다."
+
+#. help: EPG Settings - epgCache
+msgctxt "#30624"
+msgid "If location is [B]Remote path[/B] select whether or not the the XMLTV file should be cached locally."
+msgstr "위치가 [B]원격 경로[/B]인 경우 XMLTV 파일을 로컬로 캐시할지를 선택합니다."
+
+#. help: EPG Settings - epgTimeShift
+msgctxt "#30625"
+msgid "Adjust the EPG times by this value, from -12 hours to +14 hours."
+msgstr "이 값으로 EPG 시간을 -12시간에서 +14시간까지 조정합니다."
+
+#. help: EPG Settings - epgTSOverside
+msgctxt "#30626"
+msgid "Whether or not to override the time shift for all channels with `EPG time shift`. If not enabled `EPG time shift` plus the individual time shift per channel (if available) will be used."
+msgstr "모든 채널의 타임 시프트를 `EPG 타임 시프트`로 덮어쓸 지를 선택합니다. 선택하지 않으면 `EPG 타임 시프트`에 (사용 가능한)각 타임 시프트가 더해 집니다."
+
+#. help info - Channel Logos
+#. help-category: Channel Logos
+msgctxt "#30640"
+msgid "Settings related to Channel Logos."
+msgstr "채널 로고에 관련된 설정."
+
+#. help: Channel Logos - logoPathType
+msgctxt "#30641"
+msgid "Select where to find the channel logos. The options are: [B]Local path[/B] - A path to a folder whether it be on the device or the local network; [B]Remote path[/B] - A base URL specifying the location of the logos."
+msgstr "채널 로고를 찾을 위치를 선택합니다. 옵션은 다음과 같습니다. [B]로컬 경로[/B] - 장치에 있든 로컬 네트워크에 있든 폴더에 대한 경로입니다. [B]원격 경로[/B] - 로고의 위치를 지정하는 기본 URL입니다."
+
+#. help: Channel Logos - logo Path
+msgctxt "#30642"
+msgid "If location is [B]Local Path[/B] this setting should contain a valid folder."
+msgstr "위치가 [B]로컬 경로[/B]인 경우, 이 설정에는 유효한 폴더가 있어야 합니다."
+
+#. help: Channel Logos - logoBaseUrl
+msgctxt "#30643"
+msgid "If location is [B]Remote Path[/B] this setting should contain a valid base URL."
+msgstr "위치가 [B]원격 경로[/B]인 경우, 이 설정에는 유효한 기본 URL이 있어야 합니다."
+
+#. help: Channel Logos - logoFromEpg
+msgctxt "#30644"
+msgid "Preference on how to handle channel logos. The options are: [B]Ignore[/B] - Don't use channel logos from an XMLTV file; [B]Prefer M3U[/B] - Use the channel logo from the M3U if available otherwise use the XMLTV logo; [B]Prefer XMLTV[/B] - Use the channel logo from the XMLTV file if available otherwise use the M3U logo."
+msgstr "채널 로고 처리 방법에 대한 선호. 옵션은 다음과 같습니다. [B]무시[/B] - XMLTV 파일의 채널 로고를 사용하지 않습니다. [B]M3U 선호[/B] - 가능한 경우 M3U의 채널 로고를 사용하고 그렇지 않으면 XMLTV 로고를 사용합니다. [B]XMLTV 선호[/B] - 가능한 경우 XMLTV 파일의 채널 로고를 사용하고 그렇지 않으면 M3U 로고를 사용합니다."
+
+#. help: Channel Logos - useLogosLocalPathOnly
+msgctxt "#30645"
+msgid "If a local path is selected for logos ignore any logos from the M3U file."
+msgstr "로고에 로컬 경로를 선택한 경우, M3U 파일의 모든 로고를 무시합니다."
+
+#. help info - Genres
+#. help-category: Genres
+msgctxt "#30660"
+msgid "Settings related to genres."
+msgstr "장르에 관련된 설정."
+
+#. help: Genres - useEpgGenreText
+msgctxt "#30661"
+msgid "If enabled, and a genre mapping file is used to get a genre type and sub type use the EPG's genre text (i.e. 'category' text) for the genre instead of the kodi default text."
+msgstr "사용하면, 기본 문서대신에 장르 지정 파일이 장르 종류에 사용되고 아래 종류는 EPG 장르 문서(예. '카테고리' 문서)가 장르에 사용됩니다."
+
+#. help: Genres - genresPathType
+msgctxt "#30662"
+msgid "Select where to find the genres XML resource. The options are: [B]Local path[/B] - A path to a genres XML file whether it be on the device or the local network; [B]Remote path[/B] - A URL specifying the location of the genres XML file."
+msgstr "장르 XML 리소스를 찾을 위치를 선택합니다. 옵션은 다음과 같습니다. [B]로컬 경로[/B] - 장치에 있든 로컬 네트워크에 있든 장르 XML 파일의 경로입니다. [B]원격 경로[/B] - 장르 XML 파일의 위치를 지정하는 URL입니다."
+
+#. help: Genres - genresPath
+msgctxt "#30663"
+msgid "If location is [B]Local Path[/B] this setting should contain a valid path."
+msgstr "위치가 [B]로컬 경로[/B]인 경우, 이 설정에는 유효한 경로가 있어야 합니다."
+
+#. help: Genres - genresUrl
+msgctxt "#30664"
+msgid "If location is [B]Remote Path[/B] this setting should contain a valid URL."
+msgstr "위치가 [B]원격 경로[/B]인 경우, 이 설정에는 유효한 URL이 있어야 합니다."
+
+# empty strings from id 30665 to 30679
+#. help info - Advanced
+#. help-category: Advanced
+msgctxt "#30680"
+msgid "Advanced settings including multicast relays, streaming properties etc."
+msgstr "멀티캐스트 릴레이, 스트리밍 속성 등을 포함한 고급 설정."
+
+#. help: Advanced - transformMulticastStreamUrls
+msgctxt "#30681"
+msgid "Multicast (UDP/RTP) streams do not work well on Wifi networks. A multicast relay can convert the stream from UDP/RTP multicast to HTTP. Enabling this option will transform multicast stream URLs from the M3U file to HTTP addresses so they can be accesssed via a 'udpxy' relay on the local network. E.g. a UDP multicast stream URL like 'udp://@239.239.3.38:5239' would get transformed to something like 'http://192.168.1.1:4000/udp/239.239.3.38:5239'."
+msgstr "다중 방송 (UDP/RTP) 스트림은 무선 네트워크에서 제대로 동작하지 않습니다. 다중 방송 중계는 스트림을 UDP/RTP 다중 중계에서 HTTP로 바꿀 수 있습니다. 이 옵션은 다중 중계 URL을 M3U 파일에서 HTTP 주소로 바꾸어서 로컬 네트워크의 'udpxy' 중계로 접속할 수 있습니다. 예. UDP 다중 방송 중계 스트림 URL 'udp://@239.239.3.38:5239'는 'http://192.168.1.1:4000/udp/239.239.3.38:5239'처럼 바뀝니다."
+
+#. help: Advanced - udpxyHost
+msgctxt "#30682"
+msgid "The hostname or ip address of the multicast relay (udpxy) on the local network."
+msgstr "로컬 네트워크의 다중 방송 중계 (udpxy) 호스트명이나 ip 주소."
+
+#. help: Advanced - udpxyPort
+msgctxt "#30683"
+msgid "The port of the multicast relay (udpxy) on the local network."
+msgstr "로컬 네트워크의 다중 방송 중계 (udpxy) 포트."
+
+#. help: Advanced - useInputstreamAdaptiveforHls
+msgctxt "#30684"
+msgid "Use inputstream.adaptive instead of ffmpeg's libavformat for m3u8 (HLS) streams."
+msgstr "m3u8(HLS) 스트림에 ffmpeg의 libavformat 대신 inputstream.adaptive를 사용합니다."
+
+#. help: Advanced - useFFmpegReconnect
+msgctxt "#30685"
+msgid "Note this can only apply to http/https streams that are processed by libavformat (e.g. M3u8/HLS). Using libavformat can be specified in an M3U file by setting the property `inputstream` as `inputstream.ffmpeg` for kodi's internal implementation or `inputstream.ffmpegdirect` for addon version. I.e. adding the line: `#KODIPROP:inputstream=inputstream.ffmpeg`. If this option is not enabled it can still be enabled per stream/channel by adding a kodi property, i.e.: `#KODIPROP:http-reconnect=true`."
+msgstr "이것은 libavformat(예: M3u8/HLS)으로 처리되는 http/https 스트림에만 적용할 수 있습니다. libavformat 사용은 kodi의 내부 구현에 대해 `inputstream' 속성을 `inputstream.ffmpeg`로 설정하거나 애드온 버전에 대해 `inputstream.ffmpegdirect`로 설정하여 M3U 파일에서 지정할 수 있습니다. 즉. 줄 추가: `#KODIPROP:inputstream=inputstream.ffmpeg`. 이 옵션 없이도 kodi 속성을 추가하여 스트림/채널별로 사용할 수 있습니다(예: `#KODIPROP:http-reconnect=true`)."
+
+#. help: Advanced - defaultUserAgent
+msgctxt "#30686"
+msgid "Use this User-Agent if there is not one supplied as a property or as part of the channel stream URL."
+msgstr "속성이나 채널 스트림 URL의 일부로 제공된 사용자 에이전트가 없는 경우 이 사용자 에이전트를 사용하십시오."
+
+#. help: Advanced - defaultInputstream
+msgctxt "#30687"
+msgid "Use this inputsream as the default if there is not one supplied as a property (KODIPROP) of the channel. Use with care as this will disable any use of the addon's default stream inspection behaviour. Note that for `inputstream.ffmpegdirect` if both `mimetype` and `inputstream.ffmpegdirect.manifest_type` are unset stream inspection will still occur if required."
+msgstr "채널의 속성(KODIPROP)이 없으면 이 inputream을 기본값으로 사용합니다. 애드온의 기본 스트림 검사를 하지 않도록 설정하므로 주의해야 합니다. `inputstream.ffmpegdirect`의 경우 `mimetype`과 `inputstream.ffmpegdirect.manifest_type`이 모두 설정되지 않으면 필요에 따라 스트림을 계속 검사합니다."
+
+#. help: Advanced - defaultMimeType
+msgctxt "#30688"
+msgid "Use this MIME type as the default if there is not one supplied as a property (KODIPROP) of the channel. Use with care as this will disable any use of the addon's default stream inspection behaviour."
+msgstr "채널의 속성(KODIPROP)의 MIME 유형이 없으면 이 MIME 유형을 기본값으로 사용합니다. 애드온의 기본 스트림 검사를 하지 않으므로 주의해야 합니다."
+
+# empty strings from id 30689 to 30699
+#. help info - Catchup
+#. help-category: Catchup
+msgctxt "#30700"
+msgid "Catchup settings for viewing archived live programmes. Allows the option of 'Play programme' when viewing EPG entry info."
+msgstr "저장된 라이브 프로그램을 보기 위한 따라잡기 설정. EPG 항목 정보를 볼 때 '프로그램 재생' 옵션을 허용합니다."
+
+#. help: Catchup - enableCatchup
+msgctxt "#30701"
+msgid "Should be enabled if there are channels supporting catchup in your M3U list."
+msgstr "M3U 목록에 따라잡기를 지원하는 채널이 있는 경우 활성화해야 합니다."
+
+#. help: Catchup - catchupQueryFormat
+msgctxt "#30702"
+msgid "A query format string (provider dependent) allowing timestamp information to be appended to a URL to denote when to catchup from. E.g. `&cutv={Y}-{m}-{d}T{H}:{M}:{S}`, which allows year, month, day, hour minute and second to be inserted to give: `&cutv=2019-11-26T22:00:32`. If the M3U entry using has a catchup mode of 'default' or 'append' and a 'catchup-source' tag is provided in the M3U entry this setting will be ignored."
+msgstr "타임스탬프 정보를 URL에 추가하여 언제부터 따라잡을 수 있는지 나타내는 쿼리 형식 문자열(제공자에 따라 다름). 예를 들어 `&cutv={Y}-{m}-{d}T{H}:{M}:{S}`는 연, 월, 일, 시 분 및 초를 입력할 수 있습니다: `&cutv=2019-11-26T22:00:32`. M3U 항목에 '기본' 또는 '추가'의 따라잡기 모드가 있고, M3U 항목에 '따라잡기 출처' 태그가 있으면, 이 설정은 무시됩니다."
+
+#. help: Catchup - catchupDays
+msgctxt "#30703"
+msgid "A number of days into the past in which it is possible to catchup on a programme. Can be overidden in an M3U entry using a 'catchup-days' tag."
+msgstr "프로그램을 따라잡을 수 있는 과거의 일 수. 'catchup-days' 태그를 사용하여 M3U 항목에서 재정의할 수 있습니다."
+
+#. help: Catchup - allChannelsCatchupMode
+msgctxt "#30704"
+msgid "If enabled it is assumed that channels support catchup using the selected catchup mode while also obeying the override mode. If required the 'Query format string' and 'Catchup window' number of days will come from the addon settings. If this option is disabled then an M3U entry must have at least a 'catchup=' tag to enable catchup. The options for how to build the catch URL are: [B]Disabled[/B] - Do not assume all channel support catchup; [B]Default[/B] - Use catchup source as the full catchup URL, if there is no catchup source use Append mode; [B]Append[/B] - Append the catchup source to the channel URL, if there is no catchup source using the 'Query format string'; [B]Shift (SIPTV)[/B] - Append the standard SIPTV catchup string to the channel URL; [B]Flussonic[/B] - Build a flussonic URL from the channel URL; [B]Xtream codes[/B] - Build an Xtream codes URL from the channel URL."
+msgstr "사용하면 채널은 덮어쓰기 모드를 따르는 동안 선택된 따라잡기 모드를 사용하여 따라잡기를 지원한다고 가정합니다. 필요한 경우 '검색 형식 문자열' 및 '따라잡기 창' 일수가 애드온 설정에서 제공됩니다. 이 옵션을 사용하지 않으면 M3U 항목에는 따라잡기를 쓰려면 최소한 'catchup=' 태그가 있어야 합니다. 따라잡기 URL을 작성하는 방법에 대한 옵션은 다음과 같습니다. [B]사용 안 함[/B] - 모든 채널이 따라잡기를 지원한다고 가정하지 않습니다. [B]기본값[/B] - 따라잡기 출처를 전체 따라잡기 URL로 사용하고 따라잡기 출처가 추가 모드를 사용합니다. [B]추가[/B] - '검색 형식 문자열'을 사용하여 따라잡기 출처가 없는 경우 채널 URL에 따라잡기 출처를 추가합니다. [B]이동 (SIPTV)[/B] - 표준 SIPTV 따라잡기 문자열을 채널 URL에 추가합니다. [B]Flussonic[/B] - 채널 URL에서 Flussonic URL을 만듭니다. [B]Xtream 코드[/B] - 채널 URL에서 Xtream 코드 URL을 만듭니다."
+
+#. help: Catchup - catchupPlayEpgAsLive
+msgctxt "#30705"
+msgid "When disabled any catchup programme from the past will be played like a video (bounded by start and end times). If enabled, it will instead act like a live stream with timeshift, also allowing the ability to skip back and forward programmes. Note that the only effect this option has on streams that do not support timeshifting is whether or not to apply the before/after buffer."
+msgstr "사용하지 않으면 과거의 모든 따라잡기 프로그램이 비디오처럼 재생됩니다(시작 및 종료 시간으로 제한됨). 사용하면 대신 시간이동이 있는 라이브 스트림처럼 작동하여 프로그램을 앞뒤로 건너뛸 수 있습니다. 이 옵션이 시간이동을 지원하지 않는 스트림에 미치는 유일한 영향은 이전/이후 버퍼를 적용할지 여부입니다."
+
+#. help: Catchup - catchupWatchEpgBeginBuffer
+msgctxt "#30706"
+msgid "The amount of buffer to give before the playback start point of an EPG entry that will be watched as a video."
+msgstr "비디오로 볼 EPG 항목의 재생 시작 지점 전에 줄 버퍼의 양입니다."
+
+#. help: Catchup - catchupWatchEpgEndBuffer
+msgctxt "#30707"
+msgid "The amount of buffer to give after the playback end point of an EPG entry that will be watched as a video."
+msgstr "비디오로 볼 EPG 항목의 재생 종료 지점 이후에 줄 버퍼의 양입니다."
+
+#. help: Catchup - catchupOnlyOnFinishedProgrammes
+msgctxt "#30708"
+msgid "When selected from the EPG the current live programme cannot be watched as catchup until finished."
+msgstr "EPG에서 선택하면 현재 라이브 프로그램이 끝날 때까지 따라잡기로 시청할 수 없습니다."
+
+#. help: Catchup - catchupOverrideMode
+msgctxt "#30709"
+msgid "Set the scope for overriding the catchup mode. Options are: [B]without catchup mode[/B] - Only include channels with no catchup mode set (except legacy SIP [I]timeshift[/I] catchup mode); [B]with catchup mode[/B] - Only include channels with catchup mode set (ignore those without a catchup mode); [B]with and without catchup mode (all channels)[/B] - Include all channels ignoring any catchup mode from the M3U."
+msgstr "따라잡기 모드를 재정의할 범위를 설정합니다. 옵션은 다음과 같습니다. [B]따라잡기 모드 없음[/B] - 따라잡기 모드가 설정되지 않은 채널만 포함합니다(기존 SIP [I]시간이동[/I] 따라잡기 모드 제외). [B]따라잡기 모드 포함[/B] - 따라잡기 모드가 설정된 채널만 포함합니다(따라잡기 모드가 없는 채널은 무시). [B]따라잡기 모드 포함 및 미포함(모든 채널)[/B] - M3U의 따라잡기 모드를 무시하고 모든 채널을 포함합니다."
+
+#. help: Catchup - catchupCorrection
+msgctxt "#30710"
+msgid "Adjust the time used for catchup stream URL generation by this value, from -12 hours to +14 hours. Useful for catchup streams which are geo mis-matched to the wrong time. Note that this value can be overridden by values in the M3U file."
+msgstr "이 값으로 따라잡기 스트림 URL 생성에 사용되는 시간을 -12시간에서 +14시간까지 조정합니다. 잘못된 시간과 지리적으로 일치하지 않는 따라잡기 스트림에 유용합니다. 이 값은 M3U 파일의 값으로 재정의될 수 있습니다."
+
+# empty strings from id 30710 to 307019
+#. help info - Timeshift
+#. help-category: Timeshift
+msgctxt "#30720"
+msgid "Timeshift settings for pausing/rewinding and fast-forwarding live streams."
+msgstr "라이브 스트림 일시 중지/되감기 및 빨리 감기를 위한 시간이동 설정."
+
+#. help: Timeshift - timeshiftEnabled
+msgctxt "#30721"
+msgid "Enable the timeshift feature."
+msgstr "시간이동 기능을 사용합니다."
+
+#. help: Timeshift - timeshiftEnabledHttp
+msgctxt "#30722"
+msgid "Enable the timeshift feature for HTTP based streams. Will only apply to streams that do not select a specific inputstream addon for playback. . The inputstream.ffmpegdirect addon will be used for timeshift."
+msgstr "HTTP 기반 스트림에 대해 시간이동 기능을 사용합니다. 재생을 위해 특정 입력 스트림 애드온을 선택하지 않는 스트림에만 적용됩니다. . inputstream.ffmpegdirect 애드온은 시간이동에 사용됩니다."
+
+#. help: Timeshift - timeshiftFFmpegdirectSettings
+msgctxt "#30723"
+msgid "Open settings dialog for inputstream.ffmpegdirect for modification of timeshift and other settings."
+msgstr "시간이동 및 기타 설정 수정을 위해 inputstream.ffmpegdirect의 설정 대화 상자를 엽니다."
+
+#. help: Timeshift - timeshiftEnabledCustom
+msgctxt "#30724"
+msgid "If a stream_mode property is not specified along with an inputstream.ffmpegdirect property always add it for any supported stream types. Note that this setting has no effect on catchup VOD streams that are not live."
+msgstr "stream_mode 속성이 inputstream.ffmpegdirect 속성과 함께 지정되지 않은 경우, 지원되는 스트림 유형에 대해 항상 추가하세요. 이 설정은 라이브가 아닌 따라잡기 VOD 스트림에는 영향을 미치지 않습니다."
+
+#. help: Timeshift - timeshiftEnabledAll
+msgctxt "#30725"
+msgid "Enable the timeshift feature for all streams. Will only apply to streams that do not select a specific inputstream addon for playback. The inputstream.ffmpegdirect addon will be used for timeshift."
+msgstr "모든 스트림에 대해 시간이동 기능을 활성화합니다. 재생을 위해 특정 입력 스트림 애드온을 선택하지 않는 스트림에만 적용됩니다. inputstream.ffmpegdirect 애드온은 시간이동에 사용됩니다."
+
+#. help: Timeshift - timeshiftEnabledUdp
+msgctxt "#30726"
+msgid "Enable the timeshift feature for UDP based streams. Will only apply to streams that do not select a specific inputstream addon for playback. The inputstream.ffmpegdirect addon will be used for timeshift."
+msgstr "UDP 기반 스트림에 대해 시간이동 기능을 활성화합니다. 재생을 위해 특정 입력 스트림 애드온을 선택하지 않는 스트림에만 적용됩니다. inputstream.ffmpegdirect 애드온은 시간이동에 사용됩니다."
+
+#~ msgctxt "#30620"
+#~ msgid "Settings related to the EPG."
+#~ msgstr "EPG에 관련된 설정."
+
+#~ msgctxt "#30001"
+#~ msgid "Local path (include local network)"
+#~ msgstr "로컬 경로 (로컬 네트워크 포함)"
+
+#~ msgctxt "#30625"
+#~ msgid "Adjust the EPG times by this value in minutes, range is from -720 mins to +840 mins (- 12 hours to +14 hours)."
+#~ msgstr "EPG를 조정할 분 시간으로, 범위는 -720분에서 +840분(-12시간에서 +14시간)입니다."
+
+#~ msgctxt "#30601"
+#~ msgid "Select where to find the M3U resource. The options are: [Local path] - A path to an M3U file whether it be on the device or the local network; [Remote path] - A URL specifying the location of the M3U file."
+#~ msgstr "M3U 정보를 찾을 곳을 선택합니다. 옵션: [로컬 경로] - 장치나 로컬 네트워크에서 M3U 파일을 찾을 경로; [원격 경로] - M3U 파일 위치를 지정할 URL."
+
+#~ msgctxt "#30602"
+#~ msgid "If location is [Local path] this setting must contain a valid path for the addon to function."
+#~ msgstr "위치가 [로컬 경로]이면, 이 설정은 애드온 기능을 위한 유효한 경로를 포함해야 합니다."
+
+#~ msgctxt "#30603"
+#~ msgid "If location is [Remote path] this setting must contain a valid URL for the addon to function."
+#~ msgstr "위치가 [원격 경로]이면, 이 설정은 애드온 기능을 위한 유효한 URL을 포함해야 합니다."
+
+#~ msgctxt "#30604"
+#~ msgid "If location is [Remote path] select whether or not the the M3U file should be cached locally."
+#~ msgstr "위치가 [원격 경로]이면, M3U 파일의 로컬 캐시를 선택합니다."
+
+#~ msgctxt "#30605"
+#~ msgid "The number to start numbering channels from. Only used when [Use backend channel numbers] from PVR settings is enabled and a channel number is not supplied in the M3U file."
+#~ msgstr "채널을 매기기 시작할 번호. M3U 파일이 없고 PVR 설정의 [백엔드 채널 번호 사용]에만 쓰입니다."
+
+#~ msgctxt "#30621"
+#~ msgid "Select where to find the XMLTV resource. The options are: [Local path] - A path to an XMLTV file whether it be on the device or the local network; [Remote path] - A URL specifying the location of the XMLTV file."
+#~ msgstr "XMLTV 정보를 찾을 곳을 선택합니다. 옵션: [로컬 경로] - 장치나 로컬 네트워크에서 XMLTV 파일을 찾을 경로; [원격 경로] - XMLTV 파일 위치를 지정할 URL."
+
+#~ msgctxt "#30622"
+#~ msgid "If location is [Local Path] this setting should contain a valid path."
+#~ msgstr "위치가 [로컬 경로]이면, 이 설정은 유효한 경로를 포함해야 합니다."
+
+#~ msgctxt "#30623"
+#~ msgid "If location is [Remote Path] this setting should contain a valid URL."
+#~ msgstr "위치가 [원격 경로]이면, 이 설정은 유효한 URL을 포함해야 합니다."
+
+#~ msgctxt "#30624"
+#~ msgid "If location is [Remote path] select whether or not the the XMLTV file should be cached locally."
+#~ msgstr "위치가 [원격 경로]이면, XMLTV 파일의 로컬 캐시를 선택합니다."
+
+#~ msgctxt "#30641"
+#~ msgid "Select where to find the channel logos. The options are: [Local path] - A path to a folder whether it be on the device or the local network; [Remote path] - A base URL specifying the location of the logos."
+#~ msgstr "채널 로고를 찾을 곳을 선택합니다. 옵션: [로컬 경로] - 장치나 로컬 네트워크에서 찾을 경로; [원격 경로] - 로고 위치를 지정할 URL."
+
+#~ msgctxt "#30642"
+#~ msgid "If location is [Local Path] this setting should contain a valid folder."
+#~ msgstr "위치가 [로컬 경로]이면, 이 설정은 유효한 폴더를 포함해야 합니다."
+
+#~ msgctxt "#30643"
+#~ msgid "If location is [Remote Path] this setting should contain a valid base URL."
+#~ msgstr "위치가 [원격 경로]이면, 이 설정은 유효한 기본 URL을 포함해야 합니다."
+
+#~ msgctxt "#30644"
+#~ msgid "Preference on how to handle channel logos. The options are: [Ignore] - Don't use channel logos from an XMLTV file; [Prefer M3U] - Use the channel logo from the M3U if available otherwise use the XMLTV logo; [Prefer XMLTV] - Use the channel logo from the XMLTV file if available otherwise use the M3U logo."
+#~ msgstr "채널 로고를 관리할 방법. 옵션: [무시] - XMLTV 파일의 채널 로고를 사용하지 않음; [M3U 우선] - 가능하면 M3U 파일의 채널 로고 사용하고 아니면 XMLTV 로고 사용; [XMLTV 우선] - 가능하면 XMLTV 의 채널 로고 사용하고 아니면 M3U 로고 사용."
+
+#~ msgctxt "#30662"
+#~ msgid "Select where to find the genres XML resource. The options are: [Local path] - A path to a genres XML file whether it be on the device or the local network; [Remote path] - A URL specifying the location of the genres XML file."
+#~ msgstr "XML 정보를 찾을 곳을 선택합니다. 옵션: [로컬 경로] - 장치나 로컬 네트워크에서 XML 파일을 찾을 경로; [원격 경로] - XML 파일 위치를 지정할 URL."
+
+#~ msgctxt "#30663"
+#~ msgid "If location is [Local Path] this setting should contain a valid path."
+#~ msgstr "위치가 [로컬 경로]이면, 이 설정은 유효한 경로를 포함해야 합니다."
+
+#~ msgctxt "#30664"
+#~ msgid "If location is [Remote Path] this setting should contain a valid URL."
+#~ msgstr "위치가 [원격 경로]이면, 이 설정은 유효한 URL을 포함해야 합니다."

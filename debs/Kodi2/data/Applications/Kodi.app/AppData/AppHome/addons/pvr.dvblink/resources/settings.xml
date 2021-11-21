@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<settings version="1">
+  <section id="pvr.dvbviewer">
+    <!-- Connection -->
+    <category id="connection" label="30000">
+      <group id="1">
+        <setting id="host" type="string" label="30001">
+          <level>0</level>
+          <default>127.0.0.1</default>
+          <control type="edit" format="string" />
+        </setting>
+        <setting id="port" type="integer" label="30002">
+          <level>0</level>
+          <default>9270</default>
+          <constraints>
+            <minimum>1</minimum>
+            <step>1</step>
+            <maximum>65535</maximum>
+          </constraints>
+          <control type="edit" format="integer" />
+        </setting>
+        <setting id="username" type="string" label="30005">
+          <level>0</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string" />
+        </setting>
+        <setting id="password" type="string" label="30006">
+          <level>0</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string">
+            <hidden>true</hidden>
+          </control>
+          <dependencies>
+            <dependency type="enable" setting="username" operator="!is"></dependency>
+          </dependencies>
+        </setting>
+      </group>
+    </category>
+
+    <!-- Stream -->
+    <category id="stream" label="30100">
+      <group id="1">
+        <setting id="timeshift" type="boolean" label="30111">
+          <level>0</level>
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="enable_transcoding" type="boolean" label="30102">
+          <level>0</level>
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="bitrate" type="integer" label="30105">
+          <level>0</level>
+          <default>512</default>
+          <control type="edit" format="integer" />
+          <dependencies>
+            <dependency type="visible" setting="enable_transcoding">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="audiotrack" type="string" label="30106">
+          <level>0</level>
+          <default>eng</default>
+          <control type="edit" format="string" />
+          <dependencies>
+            <dependency type="visible" setting="enable_transcoding">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="height" type="integer" label="30103">
+          <level>0</level>
+          <default>0</default>
+          <control type="edit" format="integer" />
+          <dependencies>
+            <dependency type="visible" setting="enable_transcoding">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="width" type="integer" label="30104">
+          <level>0</level>
+          <default>0</default>
+          <control type="edit" format="integer" />
+          <dependencies>
+            <dependency type="visible" setting="enable_transcoding">true</dependency>
+          </dependencies>
+        </setting>
+      </group>
+    </category>
+
+    <!-- Advanced -->
+    <category id="advanced" label="30200">
+      <group id="1">
+        <setting id="showinfomsg" type="boolean" label="30202">
+          <level>0</level>
+          <default>false</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="add_rec_episode_info" type="boolean" label="30203">
+          <level>0</level>
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="group_recordings_by_series" type="boolean" label="30204">
+          <level>0</level>
+          <default>true</default>
+          <control type="toggle" />
+        </setting>
+        <setting id="no_group_for_single_record" type="boolean" label="32025">
+          <level>0</level>
+          <default>false</default>
+          <control type="toggle" />
+          <dependencies>
+            <dependency type="visible" setting="group_recordings_by_series">true</dependency>
+          </dependencies>
+        </setting>
+        <setting id="default_update_interval" type="integer" label="19071">
+          <level>0</level>
+          <default>4</default>
+          <constraints>
+            <options>
+              <option label="30120">0</option> <!-- UPDATE_INTERVAL_60_SEC -->
+              <option label="30121">1</option> <!-- UPDATE_INTERVAL_120_SEC -->
+              <option label="30122">2</option> <!-- UPDATE_INTERVAL_180_SEC -->
+              <option label="30123">3</option> <!-- UPDATE_INTERVAL_240_SEC -->
+              <option label="30124">4</option> <!-- UPDATE_INTERVAL_300_SEC -->
+              <option label="30125">5</option> <!-- UPDATE_INTERVAL_360_SEC -->
+              <option label="30126">6</option> <!-- UPDATE_INTERVAL_420_SEC -->
+              <option label="30127">7</option> <!-- UPDATE_INTERVAL_480_SEC -->
+              <option label="30128">8</option> <!-- UPDATE_INTERVAL_540_SEC -->
+              <option label="30129">9</option> <!-- UPDATE_INTERVAL_600_SEC -->
+              <option label="30130">10</option> <!-- UPDATE_INTERVAL_1200_SEC -->
+              <option label="30131">11</option> <!-- UPDATE_INTERVAL_1800_SEC -->
+              <option label="30132">12</option> <!-- UPDATE_INTERVAL_2400_SEC -->
+              <option label="30133">13</option> <!-- UPDATE_INTERVAL_3000_SEC -->
+              <option label="30134">14</option> <!-- UPDATE_INTERVAL_3600_SEC -->
+            </options>
+          </constraints>
+          <control type="list" format="integer" />
+        </setting>
+        <setting id="default_record_show_type" type="integer" label="812">
+          <level>0</level>
+          <default>1</default>
+          <constraints>
+            <options>
+              <option label="32035">0</option> <!-- Record all episodes -->
+              <option label="32036">1</option> <!-- Record only new episodes -->
+            </options>
+          </constraints>
+          <control type="list" format="integer" />
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

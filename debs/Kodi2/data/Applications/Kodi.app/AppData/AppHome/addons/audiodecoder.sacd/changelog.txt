@@ -1,0 +1,33 @@
+v19.0.0:
+- Fixed fallback if selected tracks not available
+  - If user select multichannel tracks and not available it fallback now to use stereo, just as well in others, if he prefers stereo.
+  - If desired, it can also be deactivated using a new boolean setting and the list then remains empty if not available.
+- Added new setting option to split sort between stereo and multichannels
+  - Before was Multichannel and Stereo with same track numbers only, this adds a new boolean setting option to sort first all stereo and then multichannels behind.
+  - The setting is false as default.
+- Allow also SACD iso images with line ending as ".sacd"
+- Added fanart image
+- Translations updates using Weblate
+  - Danish (da_dk), German (de_de), Russian (ru_ru), Spanish (Spain) (es_es), Korean (ko_kr), Chinese (China) (zh_cn)
+- Updated library WavPack dependency to version 5.4.0
+- Updated library id3v2lib to version from 9. May 2021
+- Updated library libdstdec to version 1.3.7
+- Updated library libdsdpcm to version 1.3.7
+- Minor cleanups:
+  - Addon creation changed to C++17 as default
+    - To avoid changes in external libraries that are already based on it.
+    - It will become the standard starting with Kodi 20
+  - Removed wrong added newline '\n' on kodi::Log calls
+  - Updated copyright year to 2021
+  - Updated en_gb strings.po with add of label descriptions
+- Increase version to 19.0.0
+  - With start of Kodi 20 Nexus, takes addon as major the same version number as Kodi.
+  - This done to know easier to which Kodi the addon works.
+
+v0.1.2:
+- Added translation to Portuguese (Brazil)
+- Fix with revert "remove unused 'tracks="true"' from addon.xml"
+  - Was needed by this addon and wrongly removed
+
+v0.1.1:
+- Initial relase about addon

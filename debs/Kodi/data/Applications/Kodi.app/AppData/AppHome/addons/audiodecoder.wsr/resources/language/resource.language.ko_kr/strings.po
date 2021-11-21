@@ -1,0 +1,26 @@
+# Kodi Media Center language file
+# Addon Name: WSR Audio Decoder
+# Addon id: audiodecoder.wsr
+# Addon Provider: Team Kodi
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-10-03 11:47+0000\n"
+"Last-Translator: Minho Park <parkmino@gmail.com>\n"
+"Language-Team: Korean <https://kodi.weblate.cloud/projects/kodi-add-ons-audio-decodersencoders/audiodecoder-wsr/ko_kr/>\n"
+"Language: ko_kr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.8\n"
+
+msgctxt "Addon Summary"
+msgid "WonderSwan R Audio Decoder"
+msgstr "WonderSwan R 오디오 디코더"
+
+msgctxt "Addon Description"
+msgid "WonderSwan R (WSR) is a container format, that holds audio code ripped from the ROMs of games for the WonderSwan and WonderSwan Color handheld game system. Both the original and color versions used the same audio chip which could handle 4 PCM audio channels."
+msgstr "WonderSwan R(WSR)은 WonderSwan 및 WonderSwan 컬러 휴대용 게임 시스템용 게임 ROM에서 추출한 오디오 코드를 포함하는 컨테이너 형식입니다. 오리지널 버전과 컬러 버전 모두 4개의 PCM 오디오 채널을 처리할 수 있는 동일한 오디오 칩을 사용했습니다."
