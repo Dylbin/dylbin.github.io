@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Welcome to my website! (site under construction.)
 
 [Link to another page](./another-page.html).
 
@@ -10,15 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Dylan i'm 19 years old and I live in Sweden. I enjoy playing video games, going out with friends and sometimes I do some programming. :)
+I am also very interested in iOS security, jailbreaking and hack devices!
 
-## Header 2
+## What i'm currently working on.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> I maintain an iOS APT Repository for jailbroken iPhones, iPads and iPod touches where I upload emulators, tweaks and other useful tools.
+> My repo supports every single package manager including Cydia, Sileo, Saily, Installer5 and Zebra.
+> It supports iOS 4.x - 15.x, has beautiful depictions for users using the Sileo package manager.
 
 ### Header 3
 
