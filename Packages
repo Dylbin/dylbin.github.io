@@ -1540,7 +1540,7 @@ Description: Add a fifth column of icons to your homescreen, works on iOS 13/14.
 Author: DylbinTheDev
 Conflicts: gsc.ipad
 Pre-Depends: firmware (>= 13.0)
-Depends: mobilesubstrate, com.dylbin.iconstate14
+Depends: mobilesubstrate, com.dylbinthedev.iconstate14
 Name: FiveColumnHomeScreen14
 
 Package: com.dylbinthedev.stfu
