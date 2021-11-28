@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my website! (site under construction.)
 
-[page under construction](./another-page.html).
+[Discord Server](./532aX3TCaJ).
 
 # About Me
 
