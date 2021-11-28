@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my website! (site under construction.)
 
-[Discord Server](./532aX3TCaJ).
+[Discord](https://bit.ly/32H5ee8)
 
 # About Me
 
