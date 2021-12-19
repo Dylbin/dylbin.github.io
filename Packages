@@ -323,6 +323,23 @@ Depiction: https://dylbin.github.io/assets/CydiaDepictions/Spotilife/Spotilife.h
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Spotilife.json
 
 Package: org.brandonplank.flappybird15
+Version: 4.1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/FlappyBird4.1.0.deb
+Size: 2040728
+MD5sum: 6735a4b692054fe3d9bb98311386775f
+SHA1: 4906b37d36e9a41349cc5074209f74eb1a9730f5
+SHA256: e1f880475bb7517a96b667b56e1246224d45da2e32a31d8ff70061b7589b0abb
+Section: Games
+Description: A Flappy Bird clone that runs on the latest iOS!
+Author: Brandon Plank
+Name: Flappy Bird
+Icon: https://dylbin.github.io/icons/org.brandonplank.flappybird.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/FlappyBird/FlappyBird.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/FlappyBird.json
+
+Package: org.brandonplank.flappybird15
 Version: 4.0.6
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>

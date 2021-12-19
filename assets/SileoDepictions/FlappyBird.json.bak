@@ -48,12 +48,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "4.1.0",
+                    "text": "4.0.6",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "12-19-2021",
+                    "text": "11-09-2021",
                     "title": "Updated",
                     "class": "DepictionTableTextView"
                 },
