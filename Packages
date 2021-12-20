@@ -15,23 +15,6 @@ Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Delta.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
 
-Package: com.rileytestut.Delta.Beta
-Version: 1.3rc1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/DeltaBeta.deb
-Size: 19686998
-MD5sum: 84c059fb9faaa7fe253804ce16a9296f
-SHA1: 602adbf6c2f79971abcf181785b4cd429bc9e5fc
-SHA256: 7d38afd21cddf77174fb0d95ce3690a1e08889f4d9b715ed87c952c9bd9c533b
-Section: Games
-Description: Delta (Beta) multi-emulator for iOS 12/13/14
-Author: Riley Testut
-Name: Delta Beta
-Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/DeltaBeta/DeltaBeta.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/DeltaBeta.json
-
 Package: net.nerd.inds
 Version: 1.10.8
 Architecture: iphoneos-arm
@@ -556,23 +539,6 @@ Icon: https://dylbin.github.io/icons/com.dylbinthedev.vnodebypass.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
 Name: vnodebypass
 
-Package: com.antique.Popcorn-iOS
-Version: 3.0.1.2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/Popcorn.deb
-Size: 63312314
-MD5sum: 6128b0c6a0dbe67e95f63be61e75e7ee
-SHA1: 1043cd012b2e71018184fee0dc72c5593ebc8860
-SHA256: 273fdab8c4531ec87a9276b61f1c7fa513ad25ab447e5ec81670979a5f195942
-Section: Multimedia
-Description: Successor to PopcornTime for iOS, Supports iOS 12/13/14.
-Author: AntiqueDev
-Icon: https://dylbin.github.io/icons/com.antique.Popcorn-iOS.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/Popcorn/Popcorn.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Popcorn.json
-Name: Popcorn
-
 Package: com.dylbinthedev.zinitv
 Version: 1.4.3
 Architecture: iphoneos-arm
@@ -606,24 +572,6 @@ Icon: https://dylbin.github.io/icons/com.dylbinthedev.zinitv.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
-
-Package: me.oatmealdome.dolphinios-patreon-beta
-Version: 3.2.0b1-146
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: me.oatmealdome.csdbgd
-Filename: /debs/DolphinBeta.deb
-Size: 52035600
-MD5sum: ec613a229aae4607ec8ea7468ca7578c
-SHA1: 0d92a67f16baf64a6964e2b5cbe607c647adeeb0
-SHA256: 9f6c8b194461b878388a1cfcdbb3cff8118fc2fecb248af1228b6086b7dc8363
-Section: Games
-Description: DolphiniOS Beta Wii/Gamecube Emulator for iOS 12-14
-Author: OatmealDome
-Icon: https://dylbin.github.io/icons/me.oatmealdome.dolphinios-patreon-beta.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/DolphinBeta.json
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/DolphinBeta/DolphinBeta.html
-Name: DolphiniOS Beta
 
 Package: me.oatmealdome.csdbgd
 Version: 2.1.0-248
@@ -809,75 +757,6 @@ Author: DylbinTheDev
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.bigsurtheme.png
 Name: Big Sur Theme
 
-Package: com.dylbinthedev.animeglare
-Version: 3.0.5-rc65
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/AnimeGlare3.0.5.deb
-Size: 32399940
-MD5sum: 15ad7bf14462bdde62b1d97e4a059b53
-SHA1: dfda9be662bb10016c28a6171004660db519ab1b
-SHA256: 10281978927f1ce8f1368d5bca98063be82fe06a162bd1b1434921995da70f1e
-Section: Multimedia
-Description: Watch anime for free without ads
-Author: BlackKnit
-Icon: https://dylbin.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
-Name: AnimeGlare
-
-Package: com.dylbinthedev.animeglare
-Version: 3.0.4-rc60
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/AnimeGlare3.0.4.deb
-Size: 35252280
-MD5sum: b6dcd131548741b1edb394bc750e414d
-SHA1: 65db13575593f875cf584512a85c5c4aa225cb96
-SHA256: e92d972397a5f4f247d6b159ef708f690a34537d0d588a3e74228ed657f99610
-Section: Multimedia
-Description: Watch anime for free without ads
-Author: BlackKnit
-Icon: https://dylbin.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
-Name: AnimeGlare
-
-Package: com.dylbinthedev.animeglare
-Version: 3.0.4-rc58
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/AnimeGlare-RC58.deb
-Size: 35239732
-MD5sum: 9dd9d4af879e30a9abd7e8c6d71a9de5
-SHA1: 66a32a153f557e41c4483e9ca106abd44f543049
-SHA256: 34a0ac871786eb6f51d2a4ccab2be6acf6b29321bad5c0a7e0608b2d367a3595
-Section: Multimedia
-Description: Watch anime for free without ads
-Author: BlackKnit
-Icon: https://dylbin.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
-Name: AnimeGlare
-
-Package: com.dylbinthedev.animeglare
-Version: 3.0.3
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/AnimeGlare3.0.3.deb
-Size: 40396700
-MD5sum: e8df3703629855f6b5d705d7b0d81498
-SHA1: 26c2a0ba660a5cb1dc06283e937cd3dcf7e8bb26
-SHA256: 69f5d16cd60eb66109e2dfa0969158ec256748c3e96e9384c975a1f9fed8d90b
-Section: Multimedia
-Description: Watch anime for free without ads
-Author: BlackKnit
-Icon: https://dylbin.github.io/icons/com.black.animeglare.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeGlare/AnimeGlare.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeGlare.json
-Name: AnimeGlare
-
-
 Package: com.chr1s.current
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -1051,23 +930,6 @@ Author: TelaGBA
 Name: Tela GBA
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.telagba.png
 
-Package: com.dylbinthedev.appstoreplus
-Version: 0.9.16-2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/AppstorePlus.deb
-Size: 3014100
-Depends: firmware (>=11.0), mobilesubstrate
-MD5sum: c04fe0bde3de7b3de703dfb3d68115d8
-SHA1: 054fbc035e326f927fd437b0439baf9a0526dee9
-SHA256: a0f4ff525f351f6a09e94ac23e988e036d7fb6515ccb0fb82393b1fc65b56478
-Section: Tweaks
-Description: Allows you to downgrade/upgrade apps in the AppStore
-Author: CokePokes
-Name: AppStore++
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AppstorePlus/AppstorePlus.html
-Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
-
 Package: com.dylbinthedev.juicewrld
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1147,305 +1009,6 @@ Description: An ancient NES emulator
 Author: Unknown
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.nestopia.png
 Name: Nestopia
-
-Package: com.evad3rs.evasi0n
-Version: 0.4-1
-Architecture: iphoneos-arm
-Maintainer: evad3rs <info@evad3rs.com>
-Filename: /debs/evasi0n6.deb
-Size: 98678
-Priority: optional
-MD5sum: cb193d8cf0eea61ac62d68fff3a55902
-SHA1: 28670c455d96b56c944ef5593d1391aebfb9809f
-SHA256: 2b3d720a52bdb38d7a6d3bb9cfed37ca9aaac58c151b6aad1892f7654401f09a
-Section: System
-Depends: coreutils-bin, firmware (>= 6.0), firmware (<= 6.1.2)
-Description: untethered jailbreak based on planetbeing and nikias exploits
-Author: evad3rs <info@evad3rs.com>
-Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n/
-Icon: https://dylbin.github.io/icons/com.evad3rs.evasi0n.png
-Name: evasi0n 6.0-6.1.2 Untether
-
-Package: com.evad3rs.evasi0n7
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: evad3rs <info@evad3rs.com>
-Filename: /debs/evasi0n7.deb
-Size: 156658
-Priority: optional
-MD5sum: 1c924f4fb095c49511a5f089091bf80d
-SHA1: ded7e3bcf86e43783e86de6938790c1546565077
-SHA256: f226da9a2aef11449261aa8dfa3f1d84350d55e6b8ae7a8b0e6fcd589ba1d4e6
-Section: System
-Depends: coreutils-bin, firmware (>= 7.0), firmware (<= 7.1)
-Description: untethered jailbreak based on evad3rs exploits
-Author: evad3rs <info@evad3rs.com>
-Icon: https://dylbin.github.io/icons/com.evad3rs.evasi0n7.png
-Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n7/
-Name: evasi0n 7.x Untether
-
-Package: com.ih8sn0w-squiffy-winocm.p0sixspwn
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: iH8sn0w, SquiffyPwn, winocm
-Filename: /debs/p0sixspwn.deb
-Size: 24748
-MD5sum: 1c924f4fb095c49511a5f089091bf80d
-SHA1: ded7e3bcf86e43783e86de6938790c1546565077
-SHA256: f226da9a2aef11449261aa8dfa3f1d84350d55e6b8ae7a8b0e6fcd589ba1d4e6
-Section: System
-Depends: firmware (>= 6.1.3), firmware (<< 7.0)
-Description: A drama free 6.1.3/6.1.4/6.1.5/6.1.6 untether.
-Author: iH8sn0w, SquiffyPwn, winocm
-Depiction: https://cydia.saurik.com/info/com.ih8sn0w-winocm.p0sixspwn/
-Icon: https://dylbin.github.io/icons/com.ih8sn0w-squiffy-winocm.p0sixspwn.png
-Name: p0sixspwn
-
-Package: com.chronic-dev.greenpois0n.corona
-Version: 1.0-8
-Architecture: iphoneos-arm
-Maintainer: iH8sn0w, SquiffyPwn, winocm
-Filename: /debs/Corona.deb
-Size: 102934
-MD5sum: 97e871eb40d78659930a029a4244744e
-SHA1: ede87dd2cae910c968d9739be8cb76d3f78cbc6e
-SHA256: 6af9629fd11c790f4523f528b56228c2eb2424c05a48f333a63cf752a9e31c96
-Section: System
-Depends: coreutils-bin, firmware (= 5.0)
-Description: untethered jailbreak based on pod2g's exploit 
-Author: Chronic-Dev Team <info@chronic-dev.com>
-Icon: https://dylbin.github.io/icons/com.chronic-dev.greenpois0n.corona.png
-Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.corona/
-Name: Corona 5.0.1 Untether
-
-Package: io.pangu.axe7
-Version: 0.3
-Architecture: iphoneos-arm
-Maintainer: Pangu <axe@pangu.io>
-Filename: /debs/Pangu7.deb
-Size: 107276
-MD5sum: 3d86ef34bda9287e6081dda95b7593dd
-SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
-SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
-Section: System
-Priority: optional
-Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 7.1.2)
-Description: untethered jailbreak based on pangu exploits
-Author: Pangu <axe@pangu.io>
-Icon: https://dylbin.github.io/icons/io.pangu.axe7.png
-Depiction: https://cydia.saurik.com/info/io.pangu.axe7/
-Name: Pangu 7.1-7.1.x Untether
-
-
-Package: io.pangu.xuanyuansword8
-Version: 0.4
-Priority: optional
-Architecture: iphoneos-arm
-Maintainer: Pangu <axe@pangu.io>
-Filename: /debs/Pangu8.deb
-Size: 457432
-MD5sum: a08eec22eabc8e4eb3f1055e795967e8
-SHA1: 4ef977e3c4b00bb4ab3231b92df1e4c6819f1a00
-SHA256: 8b4d98f5ce4991671877c24bde7947bca42c3db2ce02396c87a4472c84daab6f
-Section: System
-Depends: coreutils-bin, firmware (>= 8.0), firmware (<< 8.2)
-Description: untethered jailbreak based on pangu exploits
-Author: Pangu <axe@pangu.io>
-Depiction: https://cydia.saurik.com/info/io.pangu.xuanyuansword8/
-Icon: https://dylbin.github.io/icons/io.pangu.loader.png
-Name: Pangu 8.0-8.1.x Untether
-
-Package: io.pangu.fuxiqin9
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Pangu <axe@pangu.io>
-Filename: /debs/Pangu9.deb
-Size: 208682
-Priority: optional
-MD5sum: bd3016250078ec73f159e44595dc06d1
-SHA1: 2d71baf97247cf14192884b488eb73339e673ec1
-SHA256: a88add11dc027df34aa3979866d0ef863c038e32ef906f5c8a53cba607b88ae1
-Section: System
-Depends: coreutils-bin, firmware (>= 9.0), firmware (<= 9.1)
-Description: untethered jailbreak based on pangu exploits
-Author: Pangu <axe@pangu.io>
-Depiction: https://cydia.saurik.com/info/io.pangu.fuxiqin9/
-Icon: https://dylbin.github.io/icons/io.pangu.fuxiqin9.png
-Name: Pangu 9.0-9.1 Untether
-
-Package: taiguntether83x
-Version: 2.3
-Architecture: iphoneos-arm
-Maintainer: TaiG
-Filename: /debs/TaiG.deb
-Size: 96784
-Priority: optional
-MD5sum: e372f4c35ecfd6408ab4d5643e675a44
-SHA1: 2bc010570b59a27e740710c843765a7a39dd10c4
-SHA256: 9afbd8d323a9c0e1908986efc62c5dfa928af40cd206219b04d4549cdb4c7877
-Section: System
-Breaks: taiguicache (<< 2.0), cydia (<< 1.1.19)
-Depends: uikittools (>= 1.1.10), firmware (>= 8.1.3), firmware (<= 8.4)
-Description: taig untether jailbreak for ios8.1.3-ios8.4
-Author: TaiG
-Depiction: https://cydia.saurik.com/info/update8.html
-Icon: https://dylbin.github.io/icons/taiguntether83x.png
-Name: TaiG 8.1.3-8.x Untether
-
-Package: com.coolbooter.coolbooter
-Version: 1.6-release
-Architecture: iphoneos-arm
-Maintainer: CoolBooter <coolbooterios@gmail.com>
-Filename: /debs/CoolBooter.deb
-Size: 33805256
-MD5sum: a9a390a10541ccaf617a901118554ec9
-SHA1: c713f8ac4e1ffd266f6d8bdd3c41f7bea8a22b3f
-SHA256: a1cc1907e4c0a62325ddf0654796dcaa3623ea57db0c9456125c9e0744caa1c3
-Section: System
-Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
-Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32-bit iOS devices.
-Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
-Name: CoolBooter
-
-Package: com.coolbooter.cbuntether
-Version: 1.0-release
-Architecture: iphoneos-arm
-Maintainer: CoolBooter <coolbooterios@gmail.com>
-Filename: /debs/CoolBooterUntether.deb
-Size: 21320
-MD5sum: 41731a3a85e57af4e98653cce88dc419
-SHA1: 05e010563d17ab831e9047b68e2d1c1140667078
-SHA256: 2adb5e835a46bddfeccaa569906430f3fb1749cfa32f2fcb0a53b37cb418e9f9
-Section: System
-Depends: mobilesubstrate
-Description: "Untethers" an existing CoolBooter install. CoolBooter Untetherer is an extension for CoolBooter that allows the user to boot into their second OS automatically. To disable the untether, hold volume down during boot.
-Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
-Name: CoolBooter Untetherer
-
-Package: com.coolbooter.coolbootercli
-Version: 1.1-beta2-release
-Architecture: iphoneos-arm
-Maintainer: CoolBooter <coolbooterios@gmail.com>
-Filename: /debs/CoolBooterCLI.deb
-Size: 23627008
-MD5sum: 93f671a006d4f83ef76cde27b499d828
-SHA1: bacb638d66c159f26548aafeeb86a866398f6fa6
-SHA256: 40f03dd383d09290d12af650c7b78e7fe57b8c77f12b13d3c44e0a525f6f8c0a
-Section: System
-Depends: xpwn, zip, unzip, ldid, diskdev-cmds, wget, firmware (>= 5.0)
-Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32-bit iOS devices.
-Author: CoolBooter <coolbooterios@gmail.com>
-Icon: https://dylbin.github.io/icons/com.coolbooter.coolbooter.png
-Name: CoolBooter CLI
-
-Package: com.chronic-dev.greenpois0n.rocky-racoon
-Version: 1.0-3
-Architecture: iphoneos-arm
-Maintainer: tihmstar
-Filename: /debs/RockyRacoon.deb
-Size: 236562
-MD5sum: 3ab8fa97b5a7bbdb8e16a04d8619a7a6
-SHA1: dfc79da4faa7d5195c0a4cbb4f956bc403e17c1b
-SHA256: 8d22644d220464ab941079fc445e5cd9f5a8159ca17df2b9c3f6a85e00a2c1ae
-Section: System
-Depends: coreutils-bin, firmware (= 5.1.1)
-Description: untethered jailbreak based on pod2g and planetbeing's exploits
-Author: Chronic-Dev Team
-Icon: https://dylbin.github.io/icons/com.chronic-dev.greenpois0n.corona.png
-Name: Rocky Racoon 5.1.1 Untether
-
-Package: com.saurik.impactor
-Version: 0.9.43
-Architecture: iphoneos-arm
-Maintainer: Jay Freeman (saurik)
-Filename: /debs/CydiaEraser.deb
-Size: 386560
-Priority: optional
-MD5sum: 21cb7131e2949c1696ece268d6056c6d
-SHA1: 2efe3eab846d97b60308c59a11a40c32d91ffbe7
-SHA256: b91be52acef2b18455b16285f9ba105b404cc2aa9cb6439626517a47061e8727
-Section: Utilities
-Depends: firmware (>= 7.1), firmware (>= 10.3.3)
-Breaks: com.saurik.patych (<< 1.0.1)
-Description: specific utility to unjailbreak most devices
-Author: Jay Freeman (saurik)
-Icon: https://dylbin.github.io/icons/com.saurik.impactor.png
-Depiction: https://cydia.saurik.com/info/com.saurik.impactor/
-Name: Cydia Eraser
-
-Package: net.tihmstar.untetherhomedepot
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: tihmstar
-Filename: /debs/UntetherHomeDepot.deb
-Size: 22650
-MD5sum: 94e2ea5ebaac343ffc1a7514accc5c24
-SHA1: 375628b9348b730bf75108e5675ed74295909b28
-SHA256: 0988d513c1d7960f63b7944f7d7baae43aa49e63c8995411dd24ad7b1254e5f6
-Section: System
-Depends: firmware (>= 9.1), firmware (<= 9.3.4)
-Conflicts: cy+cpu.arm64
-Priority: optional
-Description: Untether for 9.1-9.3.4 32bit, it exploits the Pegasus jsc bug and bootstraps HomeDepot jailbreak. This has only been tested on iPhone 4,1 running 9.3.4
-Author: tihmstar
-Icon: https://dylbin.github.io/icons/net.tihmstar.untetherhomedepot.png
-Name: UntetherHomeDepot
-
-Package: net.tihmstar.untetherhomedepotoffsets
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: tihmstar
-Filename: /debs/UntetherHomeDepotOffsets.deb
-Size: 2330
-MD5sum: f284b5c82faca2168f79752d66631e70
-SHA1: 04fec8b0fae7d14b9e2dab7eea7b19310c8cc2e3
-SHA256: 58bebcdd287a598d0ed58bd36decc1dfbc5a2978cdb4297c8d707d01ed27ce61
-Section: System
-Depends: firmware (>= 9.1), firmware (<= 9.3.4)
-Conflicts: cy+cpu.arm64
-Priority: optional
-Pre-Depends: net.tihmstar.untetherhomedepot (>= 1.4.2)
-Description: Community Offsets for UntetherHomeDepot
-Author: stek29
-Icon: https://dylbin.github.io/icons/net.tihmstar.untetherhomedepot.png
-Name: UntetherHomeDepot Community Offsets
-
-Package: net.tihmstar.etasonuntether
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: tihmstar
-Filename: /debs/etasonUntether.deb
-Size: 87484
-MD5sum: 762010191bc23aaffca652fdb394cf39
-SHA1: dad2ca193e486b1aa4ca90ac60c312fd8c1a429a
-SHA256: 0457e069e0f72c49ce17e5f8795f5b8f23e6bc34ba3637a147b357ebacdef83e
-Section: System
-Depends: firmware (= 8.4.1)
-Conflicts: cy+cpu.arm64
-Provices: net.tihmstar.daemonloader
-Priority: optional
-Description: Untether for 8.4.1 32bit, It exploits the Pegasus jsc bug and bootstraps etason jailbreak.
-Author: tihmstar
-Icon: https://dylbin.github.io/icons/net.tihmstar.etasonuntether.png
-Name: Etason Untether
-
-Package: org.coolstar.stash933
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/Stashing933.deb
-Size: 30418
-Depends: firmware (>= 9.2), firmware (<= 9.3.5), org.coolstar.cctools
-MD5sum: 81a9f4e9af445759c828beb9047a555e
-SHA1: 953a9cc097cf5ae8e8bca018a79d7b679db6565f
-SHA256: c215419ea69cd7bcb582edc6c60ba0095280a396897d930716352e6ba0f2da02
-Section: System
-Description: Stash 3rd party components to make more space for them!
-Author: CoolStar
-Conflicts: com.tigisoftware.filza (<= 3.1.0-16)
-Name: Stashing for iOS 9.2 - 9.3.5
 
 Package: re.frida.server
 Version: 15.1.1
@@ -1649,3 +1212,130 @@ Description: Hopefully avoid Pegasus spyware's zero-click iOS exploit called "FO
 Author: Mario Cheung
 Depends: firmware (<< 14.8), mobilesubstrate
 Name: FORCED EXIT
+
+Package: love.litten.libkitten
+Version: 1.3.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/LibKitten.deb
+MD5sum: 3286f5b579d8980f668f7106c63c055b
+SHA1: a48c99d21e65bdfd154f8e92f2ed1c2f48efcab9
+SHA256: 61a442af9d7c560a9bba9bc12ab80c66b3fc9c2487150944802d512eb54268de
+Section: System
+Size: 11658
+Description: Library to get three different colors from an image and detect if one is light or dark
+Author: Litten
+Tag: role::developer
+Depends: firmware (>= 12.0)
+Name: libKitten 🐱
+
+Package: love.litten.diary
+Version: 1.2.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Diary.deb
+MD5sum: 186716e7a58a9db9c170c3c7ae7c5288
+SHA1: 471968b35ebee464807a3307187fcea30d7af367
+SHA256: a2d20f42bf40ecc5843bb31701037afd6d0649d096b451a78bad35c2de123111
+Section: Tweaks
+Size: 2782372
+Description: Dear diary..
+Author: Litten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Name: Diary 📖
+Icon: https://dylbin.github.io/icons/love.litten.diary.png
+
+Package: love.litten.batterybuddy
+Version: 1.0.2-2+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/BatteryBuddy.deb
+MD5sum: c494cef1c7563a13c16c303b2e4f9768
+SHA1: 2d313b5819b5e6955305e2e67ad696b097b52e19
+SHA256: afb8970d9a4393f499890985937a9699e3bff98e558ad5a77c4bb807775fe2bc
+Section: Tweaks
+Size: 13084
+Description: Battery indicator, but cute
+Author: Litten & neilsardesai
+Name: BatteryBuddy ⚡️
+
+Package: love.litten.ve
+Version: 1.0-945+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Ve.deb
+MD5sum: 38b05dce6f0fcc771c24bc6b8063f2c8
+SHA1: 60227f267508ad919e774b7ad723a34248e6f27d
+SHA256: 76ef4655c48773864e5be34a8c0dd4f1c403ad71a218d1588256c1e4b14666b1
+Section: Tweaks
+Size: 1918156
+Description: Natively integrated notification logger
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Author: Litten & 74k1_
+Name: Vē 💌
+Icon: https://dylbin.github.io/icons/love.litten.ve.png
+
+Package: love.litten.heartlines
+Version: 1.5.3-6+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Heartlines.deb
+MD5sum: 1cd104a6985c46e068797ed9e8655de9
+SHA1: 3019cdec76da15c1b627a906a8e13b501b2fec19
+SHA256: 1e7073e42c60d3a7164016997ea5b0a8dc215d05e225fd12ffb593fc36a3b05d
+Section: Tweaks
+Size: 1221182
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Description: I know there's trembling in your heartlines
+Author: Litten
+Name: Heartlines 🌺
+Icon: https://dylbin.github.io/icons/love.litten.heartlines.png
+
+Package: love.litten.eneko
+Version: 1.0-945+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Eneko.deb
+MD5sum: e23509ccc00daa4789c44ce3c0b13dec
+SHA1: 7b2b4395443acb05a5b5495c7faa6c9124e2c172
+SHA256: 2a32c9e22c78fb4873bb6d0d14370d158f3609cdab6cf6c4853f38a0e3f85088
+Section: Tweaks
+Size: 1014238
+Description: Set a video as your wallpaper
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.mrgcgamer.libgcuniversal
+Author: Litten
+Name: Eneko 🎬
+Icon: https://dylbin.github.io/icons/love.litten.eneko.png
+
+Package: love.litten.astolfo
+Version: 1.2.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Astolfo.deb
+MD5sum: 29564caf1a31b8f5352efb4685f7316c
+SHA1: dc6f0aaff300e392b6e9261313fe7ce6e3cf2d62
+SHA256: a7805bafbadc0776179918d5c4f2b884e6c0e4c861a74b8b5245d39f7b99adee
+Section: Tweaks
+Size: 1969638
+Description: Astolfo siri
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.mrgcgamer.libgcuniversal
+Author: Litten
+Name: Astolfo 👒
+Icon: https://dylbin.github.io/icons/love.litten.astolfo.png
+
+Package: love.litten.liddell
+Version: 1.2.2-83+debug
+Architecture: iphoneos-arm
+Maintainer: Litten
+Filename: /debs/Liddell.deb
+MD5sum: dbc10daf3a16a42fd26cc5afcdc7db91
+SHA1: 866cc4046284c9da6ae97c1da55be3a71af5360d
+SHA256: 4fbc4572a42abc038fdc6a310badb3ec440d3977475be0196f03f43d24085da4
+Section: Tweaks
+Size: 612500
+Description: Liddell notification banners
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.mrgcgamer.libgcuniversal, love.litten.libkitten (>= 1.3)
+Author: Litten
+Name: Liddell 🎀
+Icon: https://dylbin.github.io/icons/love.litten.liddell.png
