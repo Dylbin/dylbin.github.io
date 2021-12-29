@@ -45,9 +45,26 @@ Section: Utilities
 Description: Spotify++ for iOS 11/12/13/14/15
 Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
-Icon: https://dylbin.github.io/icons/com.dylbinthedev.spotifyplus.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/Spotify++/Spotify++.html
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/SpotifyApp.json
+Icon: https://dylbin.me/icons/com.dylbinthedev.spotifyplus.png
+Depiction: https://dylbin.me/assets/CydiaDepictions/Spotify++/Spotify++.html
+SileoDepiction: https://dylbin.me/assets/SileoDepictions/SpotifyApp.json
+
+Package: com.dylbinthedev.mbp
+Version: 10.4
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/MovieBoxPro10.4.deb
+Size: 53310318
+MD5sum: 5b9b36c3fb6692eb0fc2854c044022e6
+SHA1: 5f561a586e873e047223931e355e511d04ed9f80
+SHA256: 977a65a4b079d23bd6b357e7088ec5b22f6901d45a91c6aee9085069ef275b5e
+Section: Multimedia
+Description: MovieBoxPro for iOS 12/13/14/15
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbin.me/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbin.me/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.me/assets/SileoDepictions/MovieBoxPro.json
 
 Package: com.dylbinthedev.mbp
 Version: 10.3
