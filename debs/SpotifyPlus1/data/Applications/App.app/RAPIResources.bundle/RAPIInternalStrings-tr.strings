@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-tr.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Bilgi";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Cihaz %0 sesi düşük ayarlandı.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Önceki parça";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Cihaz %0 sesi çok düşük ayarlandı.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Sonraki parça";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Güvenlik bilgisi";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Uygulamanın sürüş esnasında kullanılması önerilmemektedir. Fakat kilitli ekranı açabilir ve mesuliyet size ait olmak üzere uygulamayı kullanabilirsiniz.";
+"SID_SPELLER_HISTORY_EMPTY" = "Geçmiş kaydı yok.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Son aranan";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Sonuçlar \"%0\"";

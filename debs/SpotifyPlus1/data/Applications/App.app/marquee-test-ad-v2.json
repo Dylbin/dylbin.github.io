@@ -1,0 +1,50 @@
+{
+  "pod": {
+    "marquee": [
+      {
+        "id": "ad000000000000000000000000000001",
+        "dummy": false,
+        "clickthrough": "spotify:album:35s58BRTGAEWztPo9WqCIs",
+        "tracking_events": {
+          "clicked": [
+            "https://admocker.spotify.com/track?doc_id=99b0d835-e313-4f97-968c-37e5261b3fd7&session_id=90B3601E-FA5E-4924-85D0-66F110E0FD2E&ad_event_type=clickthrough&adurl=https%3A%2F%2Fopen.spotify.com%2Falbum%35s58BRTGAEWztPo9WqCIs"
+          ],
+          "viewed": [
+            "https://admocker.spotify.com/track?doc_id=99b0d835-e313-4f97-968c-37e5261b3fd7&session_id=90B3601E-FA5E-4924-85D0-66F110E0FD2E&ad_event_type=creativeView",
+            "https://admocker.spotify.com/track?doc_id=99b0d835-e313-4f97-968c-37e5261b3fd7&session_id=90B3601E-FA5E-4924-85D0-66F110E0FD2E&ad_event_type=impression"
+          ],
+          "ended": [
+            "https://admocker.spotify.com/track?doc_id=99b0d835-e313-4f97-968c-37e5261b3fd7&session_id=90B3601E-FA5E-4924-85D0-66F110E0FD2E&ad_event_type=complete"
+          ]
+        },
+        "metadata": {
+          "version": "2",
+          "header": "Brand new music for you!",
+          "coverImageUrl": "https://i.scdn.co/image/ab67616d00001e0245c08029e3bc57686c62e32c",
+          "title": "Marquee",
+          "subtitle": "Various Artists",
+          "ctaText": "GO TO ALBUM",
+          "promotionUri": "spotify:album:2TXJY5SZuZOhijws6nlk3h",
+          "releaseDate": "1983-12-31",
+          "albumUri": "spotify:album:2TXJY5SZuZOhijws6nlk3h",
+          "footer": "Sponsored recommendation.",
+          "footerCta": "What’s this?",
+          "optoutText": "This is a new music update about an artist you listen to or follow, and is sponsored by one of our music partners.",
+          "optoutTextCta": "Learn more",
+          "primaryArtistUri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
+          "optoutArtistCta": "Don't show for Various Artists",
+          "optoutMarqueeCta": "Don't show these updates"
+        },
+        "cover_art": [],
+        "display": [
+          {
+            "width": 0,
+            "height": 0,
+            "mimetype": "image/png",
+            "media_file": "https://i.scdn.co/image/3aa37254a41cf96e81572524ec523cb870f2bb89"
+          }
+        ]
+      }
+    ]
+  }
+}

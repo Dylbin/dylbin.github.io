@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDApplicationManifest</key>
+	<dict>
+		<key>name</key>
+		<string>SpotifyRAPI</string>
+		<key>requiresAudioService</key>
+		<true/>
+		<key>requiresCarDataService</key>
+		<true/>
+		<key>requiresMapService</key>
+		<false/>
+		<key>requiresPiaService</key>
+		<false/>
+		<key>requiresSpeechDialogService</key>
+		<false/>
+		<key>requiresTtsService</key>
+		<false/>
+		<key>requiresVoiceRecorderService</key>
+		<false/>
+		<key>supportedHmiTypes</key>
+		<array>
+			<string>ID4</string>
+			<string>ID5</string>
+		</array>
+		<key>token</key>
+		<string>AAABAAYAIgBIAHYASQByAEUAGQA/ABoASgBQACwAEABZABwAIAAJAE4APgBFAHEATwB1AE0AagBdAGAARAAOADYALAB+AFsAWwACACQALABzABkAUQAfADcAOgB0AEcAVQBbAGIALwAhAG8AOQBqADgAbwAvAAgAQgBCAGcAaAAkABoAXQAZADkAJABpACEAOwAjACAANQB6ABAAUgBTAGEAKQA=</string>
+		<key>uniqueIdentifier</key>
+		<string>1F88295E-9916-4EFA-9BC9-222432160335</string>
+		<key>vendor</key>
+		<string>3rd Party A4A Developer</string>
+		<key>version</key>
+		<string>3.2.1</string>
+	</dict>
+	<key>LaunchUrl</key>
+	<string>spotifyexternal://com.bmw.a4a/</string>
+	<key>Signatures</key>
+	<dict>
+		<key>IDApplicationManifestSignature</key>
+		<data>
+		jE5nmbZxMjHNkyxWTCmFSsKIILqve7ORxB4r/NWVlfM+4tR2brbKm/1xkyKP
+		Co8H6Cc13oVPNiO8rG+nxFiyU2zCTGn2aSZMtE1zNh5yucRFqWOZP/fAV3tC
+		XdrzDU+yapI8qjTt7sSCMv6zmURfYEL870CF6hoJmpImVmMfrfyl1lTRRA8X
+		ednPMZ+G/tXY5NAco1VcGrngNDNXEdN1eBlFGFBmHpwe6CIkRI4CJRgaDQ5Q
+		8cam7bsZl3HWfhs+
+		</data>
+	</dict>
+</dict>
+</plist>

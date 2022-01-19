@@ -1,0 +1,366 @@
+{
+   "header": {
+      "component": {
+         "id": "glue:header",
+         "category" : "header"
+      },
+      "images": {
+         "main": {
+            "uri": "https://i.scdn.co/image/cb080366dc8af1fe4dc90c4b9959794794884c66",
+            "placeholder": "user"
+         },
+         "background": {
+            "uri": "https://i.scdn.co/image/cb080366dc8af1fe4dc90c4b9959794794884c66"
+         }
+      },
+      "text": {
+         "title": "Welcome Developer",
+         "accessory": "Add your name and a short bio here."
+      },
+      "custom" : {
+         "style" : "entity",
+         "verified": true
+      }
+   },
+   "body": [
+      {
+         "component": {
+            "id": "glue:sectionHeader"
+         },
+         "text": {
+            "title": "Personal details"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityRow"
+         },
+         "text": {
+            "title": "Developer Johnson",
+            "subtitle": "Job position - Squad name"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityRow"
+         },
+         "text": {
+            "title": "Where in the world are you from?",
+            "subtitle": "Answer here"
+         },
+         "custom": {
+            "glue:subtitleStyle": "metadata"
+         },
+         "images": {
+            "main": {
+               "placeholder": "public"
+            }
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityRow"
+         },
+         "text": {
+            "title": "Are you a cat person or a dog person?",
+            "subtitle": "Cat/dog"
+         },
+         "custom": {
+            "label": "premium",
+            "secondary_icon": "me_alt_active"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityRow"
+         },
+         "text": {
+            "title": "What's your favourite band?",
+            "subtitle": "Answer here"
+         },
+         "custom": {
+            "glue:subtitleStyle": "metadata"
+         },
+         "images": {
+            "main": {
+               "placeholder": "highlight"
+            }
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityRow"
+         },
+         "text": {
+            "title": "Share anything you wish"
+         }
+      },
+      {
+         "id": "artist-navigation-row",
+         "component": {
+             "id": "glue:navigationRow"
+         },
+         "text": {
+             "title": "Navigation to artist page"
+         },
+         "events": {
+            "click": {
+               "name": "navigate",
+               "data": {
+                  "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+               }
+            }
+         }
+      },
+      {
+         "component": {
+            "id": "glue:sectionHeader"
+         },
+         "text": {
+            "title": "My favourite music"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:carousel"
+         },
+         "children": [
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "Favourite song",
+                  "subtitle": "Song"
+               },
+               "images": {
+                  "main": {
+                     "placeholder": "track"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:track:4uLU6hMCjMI75M1A2tKUQC"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "Favourite artist",
+                  "subtitle": "Artist"
+               },
+               "images": {
+                  "main": {
+                     "placeholder": "artist"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "You get the gist",
+                  "subtitle": "Band"
+               },
+               "images": {
+                  "main": {
+                    "placeholder": "artist"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:artist:6XyY86QOPPrYVGvF9ch6wz"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "Something",
+                  "subtitle": "Playlist"
+               },
+               "images": {
+                  "main": {
+                    "placeholder": "playlist"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "Other",
+                  "subtitle": "Genre"
+               },
+               "images": {
+                  "main": {
+                    "placeholder": "playlist"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:user:spotify:playlist:37i9dQZF1DX4UtSsGT1Sbe"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "Lorem ipsum",
+                  "subtitle": "Concert"
+               },
+               "images": {
+                  "main": {
+                    "placeholder": "events"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:concert:3lzedK54G73QUJUqJf7Tzh"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            },
+            {
+               "component": {
+                  "id": "glue:entityCard"
+               },
+               "text": {
+                  "title": "And so forth",
+                  "subtitle": "Album"
+               },
+               "images": {
+                  "main": {
+                    "placeholder": "album"
+                  }
+               },
+               "events": {
+                  "click": {
+                     "name": "navigate",
+                     "data": {
+                        "uri": "spotify:album:0Tg76MY2wNK4j37iCb6qyH"
+                     }
+                  }
+               },
+               "custom": {
+                  "glue:subtitleStyle": "metadata"
+               }
+            }
+         ]
+      },
+      {
+         "component": {
+            "id": "glue:sectionHeader"
+         },
+         "text": {
+            "title": "Anything else?"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityCard"
+         },
+         "images": {
+            "main": {
+               "uri": "https://upload.wikimedia.org/wikipedia/commons/4/49/Paraglider_towed_launch.jpg"
+            }
+         },
+         "text": {
+            "title": "An interest"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityCard"
+         },
+         "images": {
+            "main": {
+               "uri": "http://i0.kym-cdn.com/photos/images/facebook/000/029/398/Iareseriouscat.jpg"
+            }
+         },
+         "text": {
+            "title": "Random fact"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityCard"
+         },
+         "images": {
+            "main": {
+               "uri": "https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/s0ec3240e4131113e/image/i0f8066b53658fa81/version/1490851462/image.jpg"
+            }
+         },
+         "text": {
+            "title": "Funny word"
+         }
+      },
+      {
+         "component": {
+            "id": "glue:entityCard"
+         },
+         "images": {
+            "main": {
+               "uri": "https://s3.amazonaws.com/infinum.web.production/repository_items/files/000/000/286/original/hello_world.png?1399563049"
+            }
+         },
+         "text": {
+            "title": "One last thing"
+         }
+      }
+   ]
+}

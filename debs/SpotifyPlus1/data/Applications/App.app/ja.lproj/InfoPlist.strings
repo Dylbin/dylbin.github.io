@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>これにより、インポートした音楽やポッドキャストを Spotify で再生できるようになります。</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>ほかのアクセサリーでSpotifyを楽しめるようになります。</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bluetooth 接続して外部機器で Spotify が使えるようになります。</string>
+	<key>NSCameraUsageDescription</key>
+	<string>使用を許可すると Spotify アプリで写真を撮れます。</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Face ID を使ったアクセス制限は、この設定からできます。</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>これにより、別のデバイスでも音源を聴くことができます。同時に、Spotifyがローカルオーディオファイルにアクセスするのを許可することになります。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>声で Spotify を操作できるようになります。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>この設定を有効にすると、フォトライブラリに画像を保存できるようになります。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>これで、フォトライブラリから画像を選択できるようになります。</string>
+</dict>
+</plist>

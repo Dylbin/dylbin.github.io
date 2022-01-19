@@ -1,0 +1,96 @@
+/**
+ * This file specifies fallback mappings for spotify: URIs that aren't handled explicitly in code.
+ *
+ * General syntax is that of a .strings file.
+ * URI patterns support variables and wildcard tail matches. Variables are specified with dollar signs:
+ *   "spotify:legacypattern:$arg1:component:$arg2" = "spotify:newpattern:$arg1:component:$arg2"
+ * Tail matches are an asterisk in the last component:
+ *   "spotify:legacynamespace:*" = "spotify:newnamespace:*"
+ *
+ * See SPTSpotifyURIFallbackResolver for details.
+ */
+
+// Compatibility URIs for PlayerState
+"spotify:app:charts" = "spotify:charts";
+"spotify:app:charts:*" = "spotify:charts:*";
+"spotify:app:chart:*" = "spotify:chart:*";
+
+// Compatibility URIs for Charts
+"spotify:internal:charts" = "spotify:charts";
+"spotify:internal:charts:*" = "spotify:charts:*";
+"spotify:internal:chart:*" = "spotify:chart:*";
+
+// Compatibility URIs for Radio
+"spotify:internal:radio" = "spotify:radio";
+"spotify:internal:radio:*" = "spotify:radio:*";
+
+// Compatibility URIs for Collection
+"spotify:internal:collection:overview" = "spotify:collection";
+"spotify:internal:collection:albums" = "spotify:collection:albums";
+"spotify:internal:collection:artists" = "spotify:collection:artists";
+"spotify:internal:collection:tracks" = "spotify:collection:tracks";
+"spotify:internal:collection:shows" = "spotify:collection:shows";
+"spotify:internal:collection:unplayed-episodes" = "spotify:collection:unplayed-episodes";
+"spotify:internal:collection:offlined-episodes" = "spotify:collection:offline-episodes";
+"spotify:internal:playlists" = "spotify:playlists";
+"spotify:user::rootlist" = "spotify:playlists";
+"spotify:user::roottree" = "spotify:playlists";
+"spotify:user:$user_name:playlist:$playlist_id:play:$track_id" =
+    "spotify:track:$track_id?context=spotify:user:$user_name:playlist:$playlist_id";
+
+// Compatibility URIs for Browse
+"spotify:internal:browse" = "spotify:browse";
+"spotify:browse:$arg" = "spotify:genre:$arg"; // Still served by hubview endpoint (Ceramic Browse)
+"spotify:browse:category:$arg" = "spotify:genre:$arg";
+"spotify:discover" = "spotify:genre:discover-page"; // Still invoked via SPTInAppMessageScriptMessageHandler
+"spotify:internal:browse:$arg" = "spotify:genre:$arg"; // Still served by hubview endpoint (Ceramic Browse)
+"spotify:internal:discover" = "spotify:genre:discover-page"; // Still invoked via SPTInAppMessageScriptMessageHandler
+"spotify:internal:hub:moments:categories:$arg" = "spotify:genre:$arg"; // Still served by searchview
+"spotify:internal:hub:music:genres:$arg" = "spotify:genre:$arg"; // Still served by searchview
+"spotify:new-releases" = "spotify:genre:new-releases-page";
+"spotify:shows" = "spotify:genre:podcasts-page";
+"spotify:shows:shows-all-audio" = "spotify:genre:shows-all-audio";
+"spotify:shows:shows-all-video" = "spotify:genre:shows-all-video";
+"spotify:special:$arg" = "spotify:genre:$arg";
+
+// Compatibility URIs for Concerts
+"spotify:app:concerts" = "spotify:concerts";
+"spotify:internal:concerts" = "spotify:concerts";
+"spotify:internal:concerts-location-search" = "spotify:concerts:location-search";
+"spotify:internal:concerts:*" = "spotify:concerts:*";
+"spotify:app:concerts:*" = "spotify:concerts:*";
+
+// Backward compatibility for User & Profile URIs
+"spotify:internal:profile" = "spotify:user";
+"spotify:internal:profile:*" = "spotify:user:*";
+
+// Routing for Home URI
+"spotify:internal:hub:now" = "spotify:home";
+
+// shows
+"spotify:internal:hub:shows" = "spotify:shows";
+"spotify:internal:hub:shows:shows-all-audio" = "spotify:shows:shows-all-audio";
+"spotify:internal:hub:shows:shows-all-video" = "spotify:shows:shows-all-video";
+
+// Redirects from Spotify for iOS 6
+"spotifymainapp:spotify:*" = "spotify:*";
+
+// Spotify SDK authorization
+"spotify-action://authorize" = "spotify:internal:authorize";
+
+// Pin Pairing Authentication
+"spotify:internal:pair" = "spotify:pair";
+
+// Compatibility URI for Now Playing
+"spotify:internal:now-playing" = "spotify:now-playing";
+
+// NFT remappings
+"spotify:allsongs:*" = "spotify:*";
+
+// Premium remapping
+"spotify:internal:iap:upsell" = "spotify:home";
+
+// Daily Mix Hub
+"spotify:daily-mix-hub" = "spotify:made-for-you";
+"spotify:internal:daily-mix-hub" = "spotify:made-for-you";
+

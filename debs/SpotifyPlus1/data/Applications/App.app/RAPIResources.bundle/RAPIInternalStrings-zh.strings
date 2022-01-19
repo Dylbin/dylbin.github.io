@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-zh.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "提示";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "设备 %0 音量设置较低。";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "上一个曲目";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "设备 %0 音量设置极低。";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "下一个曲目";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "安全提示";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "不建议在行程中使用此应用。但是，您可以解锁锁定屏幕，并在自行承担责任下使用此应用。";
+"SID_SPELLER_HISTORY_EMPTY" = "無歷史記錄資料。";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "上次搜尋";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "结果\"%0\"";

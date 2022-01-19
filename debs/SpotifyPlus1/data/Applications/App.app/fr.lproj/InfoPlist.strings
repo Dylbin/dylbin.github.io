@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Ceci vous permettra d'écouter votre musique importée ou vos podcasts sur Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cette boîte de dialogue vous permet d'utiliser Spotify avec des accessoires externes.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Cette boîte de dialogue vous permet d'utiliser Spotify avec des accessoires externes.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Cela vous permet de prendre des photos dans l'appli Spotify.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Vous pouvez ainsi définir des restrictions d'accès à l'aide de Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Vous pourrez écouter votre contenu sur différents appareils. Spotify aura également accès aux fichiers audio locaux.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Cette boîte de dialogue vous permet de contrôler vocalement Spotify.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Cette boîte de dialogue vous permet d'enregistrer des images dans votre Bibliothèque de photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Cette boîte de dialogue vous permet de sélectionner des images dans votre bibliothèque de photos.</string>
+</dict>
+</plist>

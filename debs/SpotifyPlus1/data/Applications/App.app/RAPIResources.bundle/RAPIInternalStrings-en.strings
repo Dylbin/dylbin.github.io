@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-en.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Note";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "The volume setting on the device %0 is low.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Previous track";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "The volume setting on the device %0 is very low.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Next track";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Safety note";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "It is not recommended to use the app while driving. You can, however, unlock the lock screen and use the app at your own risk.";
+"SID_SPELLER_HISTORY_EMPTY" = "No history entries.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Last searched for";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Results \"%0\"";

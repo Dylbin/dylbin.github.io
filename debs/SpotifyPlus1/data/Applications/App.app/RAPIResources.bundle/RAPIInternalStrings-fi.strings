@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-fi.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Huomautus";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Laitteen %0 äänenvoimakkuus on säädetty alhaiseksi.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Edellinen kappale";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Laitteen %0 äänenvoimakkuus on säädetty hyvin alhaiseksi.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Seuraava kappale";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Turvallisuusohje";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Emme suosittele sovelluksen käyttöä ajon aikana. Voit kuitenkin avata lukitusnäytön ja käyttää sovellusta omalla vastuullasi.";
+"SID_SPELLER_HISTORY_EMPTY" = "Ei historiamerkintöjä.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Viimeksi haettu";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Tulokset \"%0\"";

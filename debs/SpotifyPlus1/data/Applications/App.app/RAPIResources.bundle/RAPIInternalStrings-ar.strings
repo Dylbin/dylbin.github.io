@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-ar.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "إرشاد";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "تم ضبط شدة الصوت في الجهاز 0% بشكل منخفض.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "الملف الصوتي السابق";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "تم ضبط شدة الصوت في الجهاز 0% بشكل منخفض للغاية.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "الملف الصوتي التالي";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "إرشاد السلامة";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "لا ينصح بإستخدام التطبيق أثناء القيادة. لكن يمكنك تحرير شاشة المنع وإستخدام التطبيق على مسؤوليتك.";
+"SID_SPELLER_HISTORY_EMPTY" = "لا توجد إدخالات في السجل.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "آخر ما تم البحث عنه";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "\"النتائج \"%0";

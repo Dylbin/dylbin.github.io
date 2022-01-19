@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-hu.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Megjegyzés";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "%0 készülék hangereje halkra van állítva.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Előző zeneszám";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "%0 készülék hangereje nagyon halkra van állítva.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Következő zeneszám";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Biztonsági utasítás";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Nem ajánlatos menet közben használni az alkalmazást. A zárolási képernyő azonban kikapcsolható, és az alkalmazás saját felelősségre használható.";
+"SID_SPELLER_HISTORY_EMPTY" = "Nincsenek előzmények bejegyzések.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Legutóbb keresett";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "\"%0\" eredmények";

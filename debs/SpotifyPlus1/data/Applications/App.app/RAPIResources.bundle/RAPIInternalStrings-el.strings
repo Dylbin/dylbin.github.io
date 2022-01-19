@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-el.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Υπόδειξη";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Η ένταση της συσκευής %0 είναι χαμηλή.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Προηγούμενο κομμάτι";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Η ένταση της συσκευής %0 είναι πολύ χαμηλή.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Επόμενο κομμάτι";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Υπόδειξη ασφαλείας";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Η χρησιμοποίηση της εφαρμογής κατά την οδήγηση δεν συνιστάται. Ωστόσο, μπορείτε να ξεκλειδώσετε την οθόνη κλειδώματος και να χρησιμοποιήσετε την εφαρμογή με δική σας ευθύνη.";
+"SID_SPELLER_HISTORY_EMPTY" = "Χωρίς καταχωρήσεις ιστορικού.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Πρόσφατη αναζήτηση";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Αποτελέσματα \"%0\"";

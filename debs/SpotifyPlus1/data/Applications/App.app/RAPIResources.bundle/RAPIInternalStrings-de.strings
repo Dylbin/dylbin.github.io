@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-de.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Hinweis";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Die Lautstärke am Gerät „%0“ ist niedrig eingestellt.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Vorheriger Titel";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Die Lautstärke am Gerät „%0“ ist sehr niedrig eingestellt.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Nächster Titel";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Sicherheitshinweis";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Es wird nicht empfohlen, die App während der Fahrt zu nutzen. Sie können jedoch den Sperrbildschirm entsperren und die App auf eigene Gefahr nutzen.";
+"SID_SPELLER_HISTORY_EMPTY" = "Keine Historien-Einträge.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Zuletzt gesucht";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Ergebnisse „%0“";

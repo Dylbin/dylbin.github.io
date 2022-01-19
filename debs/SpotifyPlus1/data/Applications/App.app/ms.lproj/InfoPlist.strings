@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Ini akan membolehkan anda memainkan muzik atau podcast yang anda import di Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Ini membolehkan anda menggunakan Spotify dengan aksesori luaran.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Ini membolehkan anda menggunakan Spotify dengan aksesori luaran.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Ini membolehkan anda mengambil gambar dalam aplikasi Spotify.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Ini membolehkan anda menetapkan sekatan akses menggunakan Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Ini membolehkan anda mendengar pada peranti berlainan. Spotify juga akan memperoleh akses kepada fail audio setempat.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Ini membolehkan anda mengawal Spotify menggunakan suara anda.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Ini membolehkan anda menyimpan imej ke Pustaka Foto anda.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Ini membolehkan anda memilih imej dari Pustaka Foto anda.</string>
+</dict>
+</plist>

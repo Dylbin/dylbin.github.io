@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Hiermee kun je je geïmporteerde muziek of podcasts afspelen op Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Hiermee kun je Spotify gebruiken met externe accessoires.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Hiermee kun je Spotify gebruiken met externe accessoires.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Hiermee kun je foto's maken in de Spotify-app.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Hiermee kun je toegangsbeperkingen instellen met Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Dit zorgt ervoor dat je op verschillende apparaten kunt luisteren. Spotify krijgt ook toegang tot lokale audiobestanden.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Hiermee kun je Spotify op al je apparaten bedienen met je stem.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Hiermee kun je foto's opslaan in je fotobibliotheek.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Hiermee kun je foto's uit je fotobibliotheek selecteren.</string>
+</dict>
+</plist>

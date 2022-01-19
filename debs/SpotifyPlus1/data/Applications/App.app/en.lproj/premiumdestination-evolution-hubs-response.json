@@ -1,0 +1,436 @@
+{
+ "id": "premiumPage",
+ "header": {
+     "id": "unique-visual",
+     "component": {
+           "id": "premiumPage:visualHeader"
+     },
+     "text": {
+           "title": "Don’t wait to hear what you love",
+           "description": "One Month Free",
+           "accessory": "Premium"
+
+     },
+     "images":{
+             "main": {
+                 "uri": "https:\/\/i.postimg.cc\/Gh0q0Qp1\/Mobile-Header-Image-2x.jpg"
+             },
+             "icon": "spotify_logo"
+     }
+ },
+ "body": [
+     {
+       "id": "premiumPage-primaryCTA",
+       "component": {
+           "id": "premiumPage:primaryButton"
+       },
+       "text": {
+           "title": "Show Me The Plans!"
+       },
+       "events": {
+           "click": {
+               "name": "scroll",
+               "data": {
+                   "component": "premiumPage-sectionHeader-premiumPlans"
+               }
+           }
+       }
+     },
+  {
+    "component": {
+      "id": "premiumPage:legalText"
+    },
+    "custom": {
+      "legalText": "You can't upgrade to Premium in the app. We know, it's not ideal.",
+      "legalTextColor": "#FFFFFF",
+      "legalUrlLabel": "",
+      "legalUrlLabelColor": "#FFFFFF",
+      "alignment": "natural"
+    }
+  },
+  {
+    "id": "premiumPage-currentPlanCard",
+    "component": {
+      "id": "premiumPage:currentPlanCard"
+    },
+    "text": {
+      "title": "Spotify Free",
+      "subtitle": "CURRENT PLAN"
+    }
+  },
+  {
+      "id": "premiumPage-sectionHeader-1",
+      "component": {
+          "id": "premiumPage:sectionHeader"
+      },
+      "text": {
+          "title": "Carousel of offer cards"
+      }
+  },
+  {
+     "id": "premiumPage-carousel",
+     "component": {
+       "id": "premiumPage:carousel"
+     },
+     "children": [
+      {
+          "id": "premiumPage-carousel_offerCard0",
+          "component": {
+              "id": "premiumPage:offerCard"
+          },
+          "children": [
+              {
+                  "component": {
+                      "id": "premiumPage:offerTitle",
+                      "category": "row"
+                  },
+                  "text": {
+                      "title": "Premium Individual"
+                  }
+              },
+              {
+                  "component": {
+                      "id": "premiumPage:offerDescription",
+                      "category": "row"
+                  },
+                  "text": {
+                      "description": "1 month of Premium for free • Ad-free music • Download to listen offline • Unlimited skips • On-demand playback • Cancel anytime"
+                  }
+              }
+          ],
+          "custom": {
+              "gradient": {
+                  "startColor": "#045545",
+                  "endColor": "#18BB74",
+                  "direction": "topLeftBottomRight"
+              }
+          }
+      },
+      {
+          "id": "premiumPage-carousel_offerCard1",
+          "component": {
+              "id": "premiumPage:offerCard"
+          },
+          "children": [
+              {
+                  "component": {
+                      "id": "premiumPage:offerTitle",
+                      "category": "row"
+                  },
+                  "text": {
+                      "title": "Premium Family"
+                  }
+              },
+              {
+                  "component": {
+                      "id": "premiumPage:offerDescription",
+                      "category": "row"
+                  },
+                  "text": {
+                      "description": "Up to 6 Premium accounts • Block explicit music • Family Mix: shared playlist"
+                  }
+              }
+          ],
+          "custom": {
+              "gradient": {
+                  "startColor": "#F59B23",
+                  "endColor": "#C87D55",
+                  "direction": "topLeftBottomRight"
+              }
+          }
+      },
+      {
+          "id": "premiumPage-carousel_offerCard2",
+          "component": {
+              "id": "premiumPage:offerCard"
+          },
+          "children": [
+              {
+                  "component": {
+                      "id": "premiumPage:offerTitle",
+                      "category": "row"
+                  },
+                  "text": {
+                      "title": "Premium Student"
+                  }
+              },
+              {
+                  "component": {
+                      "id": "premiumPage:offerDescription",
+                      "category": "row"
+                  },
+                  "text": {
+                      "description": "3 apps, 1 low price: Includes access to Hulu (ad-supported plan) and SHOWTIME"
+                  }
+              }
+          ],
+          "custom": {
+              "gradient": {
+                  "startColor": "#1E3264",
+                  "endColor": "#AF2896",
+                  "direction": "topLeftBottomRight"
+              }
+          }
+      }
+    ]
+  },
+  {
+      "id": "premiumPage-sectionHeader-3",
+      "component": {
+          "id": "premiumPage:sectionHeader"
+      },
+      "text": {
+          "title": "Benefits List"
+      }
+  },
+  {
+        "id": "benefit-list-0",
+        "component": {
+            "id": "premiumPage:benefitList"
+        },
+        "text": {
+            "title": "Why join Premium?"
+        },
+        "custom": {
+            "items": [
+                {
+                  "title":"Music without audio ads",
+                  "icon": "check"
+                },
+                {
+                  "title":"Play in any order, with unlimited skips",
+                 "icon": "check"
+                },
+                {
+                "title":"2x better sound quality",
+                "icon": "check"
+              },
+              {
+                "title":"Download and listen offline",
+                "icon": "check"
+              },
+              {
+                "title":"Cancel online anytime",
+                "icon": "check"
+              },
+              {
+                "title":"We'll notify you a week before your free month ends.",
+                "icon": "notifications"
+              }
+          ]
+      }
+  },
+  {
+      "id": "premiumPage-sectionHeader-2",
+      "component": {
+          "id": "premiumPage:sectionHeader"
+      },
+      "text": {
+          "title": "Benefits Chart"
+      }
+  },
+  {
+      "id": "benefit-chart-0",
+      "component": {
+          "id": "premiumPage:benefitChart"
+      },
+      "text": {
+          "title": "Why join Premium?"
+      },
+      "custom": {
+           "chartHeader": {
+                "title": "Feature",
+                "column_0": "Free",
+                "column_1": "Premium"
+          },
+          "items": [
+              {
+                  "title": "Music without audio ads",
+                  "columns": [
+                      {
+                      "id":"column_0",
+                      "text": "Shuffle play"
+                      },
+                      {
+                      "id":"column_1",
+                      "text": "Play any order"
+                      }
+                  ]
+              },
+              {
+                  "title": "Play in any order, with unlimited skips",
+                  "columns": [
+                      {
+                      "id":"column_0",
+                      "text": "14 char max"
+                      },
+                      {
+                      "id":"column_1",
+                      "icon": "check"
+                      }
+                  ]
+              },
+              {
+                  "title": "Play in any order",
+                  "columns": [
+                      {
+                      "id":"column_0",
+                      "icon": "check"
+                      }
+                  ]
+              },
+              {
+                  "title": "2x better sound quality",
+                  "columns": [
+                      {
+                      "id":"column_0",
+                      "icon": "check"
+                      },
+                      {
+                      "id":"column_1",
+                      "icon": "check"
+                      }
+                  ]
+              },
+              {
+                  "title": "Download and listen offline",
+                  "columns": [
+                      {
+                      "id":"column_1",
+                      "text": "14 char max"
+                      }
+                  ]
+              }
+          ]
+      }
+  },
+  {
+      "id": "premiumPage-sectionHeader-premiumPlans",
+      "component": {
+          "id": "premiumPage:sectionHeader"
+      },
+      "text": {
+          "title": "Pick your Premium"
+      }
+  },
+  {
+      "id": "premiumPage-planCard0",
+      "component": {
+          "id": "premiumPage:offerCard"
+      },
+      "children": [
+          {
+              "component": {
+                  "id": "premiumPage:offerTitle",
+                  "category": "row"
+              },
+              "text": {
+                  "title": "Spotify Premium"
+              }
+          },
+          {
+              "component": {
+                  "id": "premiumPage:offerDescription",
+                  "category": "row"
+              },
+              "text": {
+                  "description": "Ad-free music • Unlimited skips • Play any song • Offline listening"
+              }
+          }
+      ],
+      "custom": {
+          "gradient": {
+              "startColor": "#045545",
+              "endColor": "#18BB74",
+              "direction": "topLeftBottomRight"
+          }
+      }
+  },
+  {
+      "id": "premiumPage-planCard1",
+      "component": {
+          "id": "premiumPage:offerCard"
+      },
+      "children": [
+          {
+              "component": {
+                  "id": "premiumPage:offerTitlePricePeriod",
+                  "category": "row"
+              },
+              "text": {
+                  "title": "Premium for Students + Hulu and SHOWTIME",
+                  "subtitle": "$9.99",
+                  "accessory": "per month"
+              }
+          },
+          {
+              "component": {
+                  "id": "premiumPage:offerDescription",
+                  "category": "row"
+              },
+              "text": {
+                  "description": "3 apps, 1 plan • Hit shows and movies • All Premium benefits"
+              }
+          },
+          {
+              "component": {
+                  "id": "premiumPage:offerCta",
+                  "category": "row"
+              },
+              "text": {
+                  "title": "Learn More"
+              }
+          }
+      ],
+      "custom": {
+          "gradient": {
+              "startColor": "#F59B23",
+              "endColor": "#C87D55",
+              "direction": "topLeftBottomRight"
+          }
+      }
+  },
+  {
+      "id": "premiumPage-planCard2",
+      "component": {
+          "id": "premiumPage:offerCard"
+      },
+      "children": [
+          {
+              "component": {
+                  "id": "premiumPage:offerTitle",
+                  "category": "row"
+              },
+              "text": {
+                  "title": "Premium for Family"
+              }
+          },
+          {
+              "component": {
+                  "id": "premiumPage:offerDescription",
+                  "category": "row"
+              },
+              "text": {
+                  "description": "Up to 6 individual accounts • One simple bill • All Premium benefits • Keep your saved music"
+              }
+          },
+          {
+              "component": {
+                  "id": "premiumPage:offerCta",
+                  "category": "row"
+              },
+              "text": {
+                  "title": "Learn More"
+              }
+          }
+      ],
+      "custom": {
+          "gradient": {
+              "startColor": "#1E3264",
+              "endColor": "#AF2896",
+              "direction": "topLeftBottomRight"
+          }
+      }
+  }
+ ]
+  }

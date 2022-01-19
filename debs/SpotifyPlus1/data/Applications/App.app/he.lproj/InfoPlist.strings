@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>מאפשר הפעלה של מוזיקה או פודקסטים שייבאתם ב-Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>מאפשר שימוש באביזרים חיצוניים ב-Spotify.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>מאפשר שימוש באביזרים חיצוניים ב-Spotify.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>כך תוכלו לצלם תמונות באפליקציית Spotify.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>מאפשר הגדרה של הגבלות גישה באמצעות Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>הרשאה זו מאפשרת לכם להאזין במכשירים שונים. Spotify תקבל גישה גם לקובצי שמע מקומיים.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>מאפשר שליטה ב-Spotify באמצעות הקול.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>מאפשר שמירת תמונות בספריית התמונות שלכם.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>מאפשר בחירה בתמונות מספריית התמונות שלכם.</string>
+</dict>
+</plist>

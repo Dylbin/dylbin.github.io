@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Sedan kan du spela upp din importerade musik eller podcast på Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Det här låter dig använda Spotify med externa tillbehör.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Det här låter dig använda Spotify med externa tillbehör.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Det här låter dig ta bilder i Spotify-appen.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Det här låter dig ange åtkomstbegränsningar för Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Det gör det möjligt för dig att lyssna på flera olika enheter. Spotify får även åtkomst till lokala ljudfiler.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Det här låter dig styra Spotify med rösten.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Det här låter dig spara bilder till ditt bildbibliotek.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Det här låter dig välja bilder från ditt bildbibliotek.</string>
+</dict>
+</plist>

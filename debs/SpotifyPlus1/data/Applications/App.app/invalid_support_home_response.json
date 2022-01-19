@@ -1,0 +1,160 @@
+{
+    "page_items": [
+        {
+            "id": null,
+            "item_type": "page_title",
+            "page_title": {
+                "title": "We've got your back."
+            }
+        },
+        {
+            "id": "search_bar_0",
+            "item_type": "search_bar",
+            "search_bar": {
+                "placeholder_title": "How can we help you?",
+                "accessory_icon": 33,
+                "accessibilityLabel": "search accessibility label"
+            }
+        },
+        {
+            "id": "category_grid_0",
+            "category_grid": {
+                "items": [{
+                        "id": "category_grid_item_0",
+                        "accessibilityLabel": "Payment",
+                        "title": "Payment",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_1",
+                        "accessibilityLabel": "Account",
+                        "title": "Account",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_2",
+                        "accessibilityLabel": "Plans",
+                        "title": "Plans",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_3",
+                        "accessibilityLabel": "Using Spotify",
+                        "title": "Using Spotify",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_4",
+                        "accessibilityLabel": "Devices",
+                        "title": "Devices",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_5",
+                        "accessibilityLabel": "Data and privacy",
+                        "title": "Data & Privacy",
+                        "uri": "spotify:support:category:someId",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "pill_grid_0",
+            "item_type": "pill_grid",
+            "pill_grid": {
+                "items": [{
+                        "id": "pill_grid_item_0",
+                        "accessibilityLabel": "Payment",
+                        "title": "Payment",
+                        "selected": true
+                    },
+                    {
+                        "id": "pill_grid_item_1",
+                        "accessibilityLabel": "Profile",
+                        "title": "Profile",
+                        "selected": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": "faq_table_0",
+            "item_type": "faq_table",
+            "faq_table": {
+                "title": "FAQ",
+                "rows": [{
+                        "id": "faq_table_row_0",
+                        "accessibilityLabel": "Why isn't my Premium working?",
+                        "title": "Why isn't my Premium working?",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:faq_table_row_0"
+                    },
+                    {
+                        "id": "faq_table_row_1",
+                        "accessibilityLabel": "Getting started",
+                        "title": "Getting Started",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:faq_table_row_1"
+                    },
+                    {
+                        "id": "faq_table_row_2",
+                        "accessibilityLabel": "Update payment details",
+                        "title": "Update payment details",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:faq_table_row_2"
+                    },
+                    {
+                        "id": "faq_table_row_3",
+                        "accessibilityLabel": "Failed payment help",
+                        "title": "Failed payment help",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:faq_table_row_3"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "standalone_row_0",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Change your email address"
+            }
+        },
+        {
+            "id": "standalone_row_1",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Reset your password"
+            }
+        },
+        {
+            "id": "standalone_row_2",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Manage notifications"
+            }
+        },
+        {
+            "id": "contact_support_0",
+            "item_type": "contact_support",
+            "contact_support": {
+                "title": "Tried everything?",
+                "action_title": "CONTACT US",
+                "accessibilityLabel": "contact accessibility label",
+                "uri": "spotify:support:contact:contact_support_0"
+            }
+        }
+    ]
+}

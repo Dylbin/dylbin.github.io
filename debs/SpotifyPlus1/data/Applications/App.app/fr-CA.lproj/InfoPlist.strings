@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Cela vous permettra de faire jouer la musique ou les podcasts que vous avez importés sur Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cela vous permet d'utiliser Spotify avec des accessoires externes.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Cela vous permet d'utiliser Spotify avec des accessoires externes.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Cela vous permet de prendre des photos à partir de l'application Spotify.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Cela vous permet de définir les restrictions d’accès au moyen de la fonctionnalité Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Cela vous permettra d'écouter sur différents appareils. Spotify aura également accès aux fichiers audio locaux.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Cela vous permet de contrôler Spotify avec votre voix.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Cela vous permet de sauvegarder des images dans votre bibliothèque de photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Cela vous permet de sélectionner des images dans votre bibliothèque de photos.</string>
+</dict>
+</plist>

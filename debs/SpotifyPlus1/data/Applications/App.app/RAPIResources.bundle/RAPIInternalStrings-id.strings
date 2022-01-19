@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-id.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Catatan";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Volume di perangkat %0 diatur rendah.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Trek sebelumnya";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Volume di perangkat %0 diatur sangat rendah.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Trek berikutnya";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Informasi keselamatan";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Tidak disarankan menggunakan aplikasi selama berkendara. Tapi Anda dapat membuka layar kunci dan menggunakan aplikasi atas risiko sendiri.";
+"SID_SPELLER_HISTORY_EMPTY" = "Tidak ada entri riwayat.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Terakhir dicari";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Hasil \"%0\"";

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Это нужно, чтобы импортировать треки и подкасты в Spotify.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Это нужно, чтобы подключать Spotify к внешним устройствам.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Это нужно, чтобы подключать Spotify к внешним устройствам.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Ты сможешь делать фото в приложении Spotify.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Это нужно, чтобы защитить приложение с помощью Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Ты сможешь слушать музыку на разных устройствах. Кроме того, Spotify получит доступ к аудиофайлам в локальной сети.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Это нужно, чтобы управлять Spotify с помощью голосовых команд.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Это нужно, чтобы сохранять фото в память устройства.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Это нужно, чтобы выбирать фото из памяти устройства.</string>
+</dict>
+</plist>

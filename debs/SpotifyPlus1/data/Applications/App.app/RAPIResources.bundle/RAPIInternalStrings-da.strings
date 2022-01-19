@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-da.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Henvisning";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Lydstyrken på apparat %0 er lavt indstillet.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Forrige nummer";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Lydstyrken på apparat %0 er meget lavt indstillet.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Næste nummer";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Sikkerhedshenvisning";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Appen bør ikke bruges under kørslen. Du kan dog afspærre pauseskærmen og bruge appen på eget ansvar.";
+"SID_SPELLER_HISTORY_EMPTY" = "Ingen historikdata.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Sidst søgte";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Resultater \"%0\"";

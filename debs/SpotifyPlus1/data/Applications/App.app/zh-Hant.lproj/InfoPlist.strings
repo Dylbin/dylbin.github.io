@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>這將讓你在 Spotify 播放匯入的音樂或 Podcast。</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>這可讓你外接週邊裝置來使用 Spotify。</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>這可讓你外接週邊裝置來使用 Spotify。</string>
+	<key>NSCameraUsageDescription</key>
+	<string>你可藉此在 Spotify App 中拍照。</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>這可讓你以 Face ID 設定存取限制。</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>這可讓你能從不同的裝置聆聽音樂。Spotify 也會能夠存取本機音訊檔案。</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>這能讓你語音控制 Spotify。</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>這樣你就能把圖片存到「照片圖庫」。</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>這樣你就能從「相片庫」中選擇相片。</string>
+</dict>
+</plist>

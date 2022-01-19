@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Antaa sinun toistaa tuomaasi musiikkia ja podcasteja Spotifyssa.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Tämän avulla voit käyttää Spotifyta ulkoisten lisälaitteiden kanssa.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Tämän avulla voit käyttää Spotifyta ulkoisten lisälaitteiden kanssa.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Antamalla luvan voit ottaa kuvia Spotify-sovelluksesta käsin.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Tämän avulla voit asettaa rajoituksia Face ID:n käytölle.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Toiminnon ansiosta voit kuunnella Spotifyta eri laitteilla. Spotify saa samalla pääsyn paikallisiin äänitiedostoihin.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Tämän avulla voit ohjata Spotifyta äänelläsi.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Antamalla luvan voit tallentaa kuvia kuvakirjastoosi.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Tämän avulla voit valita valokuvia kuvakirjastostasi.</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Když přístup povolíš, budeš ve Spotify moci poslouchat i hudbu nebo podcasty, které si importuješ.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Když přístup povolíš, Spotify bude spolupracovat s externím příslušenstvím.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Když přístup povolíš, Spotify bude spolupracovat s externím příslušenstvím.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Když nastavení povolíš, budeš mít možnost v aplikaci Spotify fotit.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Tady můžeš nastavit omezení přístupu s použitím Face ID.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>To ti umožní poslouchat na různých zařízeních. Spotify zároveň získá přístup k místním zvukovým souborům.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Při tomto nastavení můžeš Spotify ovládat hlasovými příkazy.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Tato funkce ti umožní ukládat obrázky ze sbírky Knihovna fotografií.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Tato funkce umožňuje vybírat fotky ze sbírky Knihovna fotografií.</string>
+</dict>
+</plist>

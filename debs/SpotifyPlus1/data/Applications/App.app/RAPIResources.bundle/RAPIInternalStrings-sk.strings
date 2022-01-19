@@ -1,0 +1,17 @@
+/*
+  RAPIInternalStrings-sk.strings
+  RAPI
+
+  Copyright (c) 2016 BMW AG. All rights reserverd.
+*/
+
+"SID_RHMI_GENERAL_NOTE_TITLE" = "Upozornenie";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_LOW" = "Hlasitosť na zariadení %0 je nastavená na nízky stupeň.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_PREVIOUS" = "Predchádzajúci titul";
+"SID_RHMI_GENERAL_VOLUMEMESSAGE_VERYLOW" = "Hlasitosť na zariadení %0 je nastavená na veľmi nízky stupeň.";
+"SID_RHMI_GENERAL_AUDIO_TRACKLIST_NEXT" = "Nasledujúci titul";
+"SID_RHMI_GENERAL_SAFETYNOTE_TITLE" = "Bezpečnostné upozornenie";
+"SID_RHMI_GENERAL_SAFETYNOTE_APP_TEXT" = "Neodporúča sa používať app počas jazdy. Blokovaciu obrazovku môžete však odblokovať a app používať na vlastné riziko.";
+"SID_SPELLER_HISTORY_EMPTY" = "Žiadne položky v histórii.";
+"SID_COM_DIALNUMBER_CALL_RESULTLIST_TITLEBAR" = "Naposledy hľadané";
+"SID_ENT_MC_SEARCH_AZ_RESULTS_FROM_TITLE" = "Výsledky \"%0\"";

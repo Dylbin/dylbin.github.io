@@ -15,6 +15,23 @@ Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Delta.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
 
+Package: com.rileytestut.Delta
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Filename: /debs/Delta1.3.1.deb
+Size: 15545204
+MD5sum: 865a41e5a2afc829191258eae30e53ba
+SHA1: 996dd1a9785871bfeafbfe00c0115e971df03209
+SHA256: 5747f7812b6f396e30bd95aa5f9bba4704401a7efefc6cf8a043c41014f4f72f
+Section: Games
+Description: Delta multi-emulator for iOS 12.2 - 15.x
+Author: Riley Testut
+Name: Delta
+Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Delta.html
+SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
+
 Package: net.nerd.inds
 Version: 1.10.8
 Architecture: iphoneos-arm
@@ -32,15 +49,15 @@ Icon: https://dylbin.github.io/icons/net.nerd.inds.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/iNDS/iNDS.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/iNDS.json
 
-Package: com.dylbinthedev.spotifyplus
-Version: 8.6.42
+Package: com.spotify.client
+Version: 8.6.94
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/SpotifyPlus.deb
-Size: 49930588
-MD5sum: c50b03a7c6fe113e45c73292a7b035fe
-SHA1: 3ba07a80fae297f52d332ead983e3db625d3f873
-SHA256: f2e5bfb40263ab4cf9020c507bcd8b7dd509b68a3ea78f99bc764ed5a249f3ff
+Filename: /debs/SpotifyPlus1.deb
+Size: 24575768
+MD5sum: f9b7ab32fe74273644764fec6b279076
+SHA1: 1193c7f3c214c49171740314a1cc2f1c5478d121
+SHA256: d19ef507526dee0b0093ab247c7d6f9f9ac943ff8e819c3e00179309e421077a
 Section: Utilities
 Description: Spotify++ for iOS 11/12/13/14/15
 Author: DylbinTheDev & julioverne
@@ -50,16 +67,33 @@ Depiction: https://dylbin.me/assets/CydiaDepictions/Spotify++/Spotify++.html
 SileoDepiction: https://dylbin.me/assets/SileoDepictions/SpotifyApp.json
 
 Package: com.dylbinthedev.mbp
+Version: 10.5
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/MovieBoxPro10.5.deb
+Size: 38771332
+MD5sum: d893ef8ff896574d2996b097a77825f9
+SHA1: 6207f131a4a6a27b3b751715e659edd67baac698
+SHA256: dea978261c2b3de500cd03f0c4c5503006f91ae6fd798095a27b6eaef515cca6
+Section: Multimedia
+Description: MovieBoxPro for iOS 11/12/13/14/15
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Icon: https://dylbin.me/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbin.me/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.me/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
 Version: 10.4
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
 Filename: /debs/MovieBoxPro10.4.deb
-Size: 53310318
+Size: 24575768
 MD5sum: 5b9b36c3fb6692eb0fc2854c044022e6
 SHA1: 5f561a586e873e047223931e355e511d04ed9f80
 SHA256: 977a65a4b079d23bd6b357e7088ec5b22f6901d45a91c6aee9085069ef275b5e
 Section: Multimedia
-Description: MovieBoxPro for iOS 12/13/14/15
+Description: MovieBoxPro for iOS 11/12/13/14/15
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 Icon: https://dylbin.me/icons/com.dylbinthedev.mbp.png

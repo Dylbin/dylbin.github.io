@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'CircularSpUIp-Bold';
+    src: local('CircularSpUIp-Bold'),url('CircularSpUIp-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: 'CircularSpUIp-Book';
+    src: local('CircularSpUIp-Book'),url('CircularSpUIp-Book.otf') format('opentype');
+}
+body {
+    padding-top: 50%;
+    text-align: center;
+}
+button {
+    width: 43%;
+    height: 7.2%;
+    font-size: 29px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2.8px;
+    line-height: 16px;
+    border: none;
+    background: rgb(29, 185, 84);
+    border-radius: 100px;
+    color: rgb(255, 255, 255);
+    font-family: CircularSpUIp100-Bold, sans-serif;
+}
+.primary {
+    color: rgb(18, 18, 18);
+    font-size: 45px;
+    font-family: CircularSpUIp100-Bold, sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.36px;
+    line-height: 24px;
+    text-align: center;
+}
+.secondary {
+    height: 3.5%;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: CircularSpUIp100-Book, sans-serif;
+    font-weight: 300;
+    letter-spacing: 0px;
+    line-height: 24px;
+    text-align: center;
+}

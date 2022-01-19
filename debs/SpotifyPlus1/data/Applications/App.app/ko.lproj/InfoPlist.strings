@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>이렇게 하면 가져온 음악이나 팟캐스트를 Spotify에서 재생할 수 있습니다.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>이렇게 하면 Spotify를 외부 액세서리와 함께 이용할 수 있습니다.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>이렇게 하면 Spotify를 외부 액세서리와 함께 이용할 수 있습니다.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>이렇게 하면 Spotify 앱에서 사진을 찍을 수 있습니다.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>이렇게 하면 Face ID를 사용해 액세스 제한을 설정할 수 있습니다.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>이렇게 하면 다른 디바이스에서 청취할 수 있습니다. 또한 Spotify가 저장된 오디오 파일에 액세스할 수 있게 됩니다.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>이렇게 하면 음성으로 Spotify를 제어할 수 있습니다.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>이렇게 하면 사진 라이브러리에 이미지를 저장할 수 있습니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>이렇게 하면 사진 라이브러리에서 이미지를 선택할 수 있습니다.</string>
+</dict>
+</plist>

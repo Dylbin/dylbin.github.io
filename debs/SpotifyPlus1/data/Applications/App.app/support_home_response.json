@@ -1,0 +1,182 @@
+{
+    "page_items": [
+        {
+            "id": "page_title_0",
+            "item_type": "page_title",
+            "page_title": {
+                "title": "We've got your back."
+            }
+        },
+        {
+            "id": "search_bar_0",
+            "item_type": "search_bar",
+            "search_bar": {
+                "placeholder_title": "How can we help you?",
+                "accessory_icon": 33,
+                "accessibility_label": "search accessibility label"
+            }
+        },
+        {
+            "id": "category_grid_0",
+            "item_type": "category_grid",
+            "category_grid": {
+                "items": [{
+                        "id": "category_grid_item_0",
+                        "accessibility_label": "Payment",
+                        "title": "Payment",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_1",
+                        "accessibility_label": "Account",
+                        "title": "Account",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_2",
+                        "accessibility_label": "Plans",
+                        "title": "Plans",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_3",
+                        "accessibility_label": "Using Spotify",
+                        "title": "Using Spotify",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_4",
+                        "accessibility_label": "Devices",
+                        "title": "Devices",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    },
+                    {
+                        "id": "category_grid_item_5",
+                        "accessibility_label": "Data and privacy",
+                        "title": "Data & Privacy",
+                        "uri": "spotify:support:category:2SHhfs4BiDxGQ3oxqf0UHY",
+                        "background_color": "#A22389",
+                        "image_url": "http://someImage"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "pill_grid_0",
+            "item_type": "pill_grid",
+            "pill_grid": {
+                "items": [{
+                        "id": "pill_grid_item_0",
+                        "accessibility_label": "Payment",
+                        "title": "Payment",
+                        "selected": true
+                    },
+                    {
+                        "id": "pill_grid_item_1",
+                        "accessibility_label": "Profile",
+                        "title": "Profile",
+                        "selected": false
+                    }
+                ]
+            }
+        },
+        {
+            "id": "faq_table_0",
+            "item_type": "faq_table",
+            "faq_table": {
+                "title": "FAQ",
+                "rows": [{
+                        "id": "faq_table_row_0",
+                        "accessibility_label": "Why isn't my Premium working?",
+                        "title": "Why isn't my Premium working?",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+                    },
+                    {
+                        "id": "faq_table_row_1",
+                        "accessibility_label": "Getting started",
+                        "title": "Getting Started",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+                    },
+                    {
+                        "id": "faq_table_row_2",
+                        "accessibility_label": "Update payment details",
+                        "title": "Update payment details",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+                    },
+                    {
+                        "id": "faq_table_row_3",
+                        "accessibility_label": "Failed payment help",
+                        "title": "Failed payment help",
+                        "accessory_icon": 0,
+                        "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "section_title_0",
+            "item_type": "section_title",
+            "section_title": {
+                "title": "Log In",
+                "accessibility_label": "Log in section accessibility label"
+            }
+        },
+        {
+            "id": "standalone_row_0",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Change your email address",
+                "accessibility_label": "Change your email address accessibility label",
+                "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+            }
+        },
+        {
+            "id": "standalone_row_1",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Reset your password",
+                "accessibility_label": "Reset your password accessibility label",
+                "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+            }
+        },
+        {
+            "id": "standalone_row_2",
+            "item_type": "standalone_row",
+            "standalone_row": {
+                "title": "Manage notifications",
+                "accessibility_label": "Manage notifications accessibility label",
+                "uri": "spotify:support:article:2SHhfs4BiDxGQ3oxqf0UHY"
+            }
+        },
+        {
+            "id": "static_article_0",
+            "item_type": "static_article",
+            "static_article": {
+                "html_body": "<div class=\"legacy-raw-content RawContent_rawContent__Ue9I8\"><p></p><h2>Old email address?</h2><p>You need access to the email address on your Spotify account to open the password reset link we email you.</p><p>If you don't have access, here are some options:</p><ul><li>Regain access to the email address if possible</li><li><a rel=\"noreferrer noopener\" href=\"https://support.spotify.com/contact-spotify-anonymous/\">Contact us</a>&nbsp;and we can update the email address for you</li><li><a rel=\"noreferrer noopener\" href=\"http://www.spotify.com/signup\">Create a new account</a> and start fresh</li></ul><h2>No account associated with email address?</h2><p>If the password reset says there’s no account with the email you entered, try again with any other email addresses you have.</p><p><strong>Note:</strong> There are a few ways to sign up e.g. with your email, phone number, Facebook, or Apple. Try logging in with these to find your account.&nbsp;</p><p>If you think your email changed without your permission, see <a rel=\"noreferrer noopener\" href=\"https://support.spotify.com/article/account_help/someone-has-gained-access-to-my-account/\">Think your account's been hacked?</a></p><h2>Didn’t get reset email?</h2><p>Check your spam/junk folders, or any other filtered folders.</p><p>If you don’t have access to your email address, see “Old email address”.</p><p></p><h2>Invalid password reset link?</h2><p>Reset your password again, but this time open the emailed link in a private or incognito browser.</p><p><a rel=\"noreferrer noopener\" href=\"http://www.spotify.com/password-reset\">Reset your password</a></p></div>\""
+            }
+        },
+        {
+            "id": "contact_support_0",
+            "item_type": "contact_support",
+            "contact_support": {
+                "title": "Tried everything?",
+                "action_title": "CONTACT US",
+                "accessibility_label": "contact accessibility label",
+                "uri": "spotify:support:contact"
+            }
+        }
+    ]
+}

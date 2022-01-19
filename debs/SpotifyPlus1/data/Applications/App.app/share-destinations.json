@@ -1,0 +1,75 @@
+[
+  {
+    "title" : "Snapchat",
+    "locale_id" : "snapchat",
+    "icon" : "snapchat_icon",
+    "url_schema" : "snapchat",
+    "id" : "1"
+  },
+  {
+    "title" : "Messages",
+    "locale_id" : "sms",
+    "icon" : "message_icon",
+    "url_schema" : "sms",
+    "id" : "2"
+  },
+  {
+    "title" : "WhatsApp",
+    "locale_id" : "whatsapp",
+    "icon" : "whatsapp_icon",
+    "url_schema" : "whatsapp",
+    "url_format" : "send?text={text}",
+    "id" : "3"
+  },
+  {
+    "title" : "Instagram Stories",
+    "locale_id" : "instagram-stories",
+    "icon" : "instagram_stories_icon",
+    "url_schema" : "instagram-stories",
+    "id" : "0"
+  },
+  {
+    "title" : "Facebook",
+    "locale_id" : "facebook-stories",
+    "icon" : "facebook_icon",
+    "url_schema" : "facebook-stories",
+    "id" : "6"
+  },
+  {
+    "title" : "Facebook",
+    "locale_id" : "facebook",
+    "icon" : "facebook_icon",
+    "url_schema" : "fbshareextension",
+    "id" : "7"
+  },
+  {
+    "title" : "Twitter",
+    "locale_id" : "twitter",
+    "icon" : "twitter_icon",
+    "url_schema" : "twitter",
+    "id" : "8"
+  },
+  {
+    "title" : "Line",
+    "locale_id" : "line",
+    "icon" : "line_icon",
+    "url_schema" : "line",
+    "url_format" : "msg/text/{text}",
+    "id" : "5"
+  },
+  {
+    "title" : "Copy Link",
+    "locale_id" : "copylink",
+    "icon" : "copy_link_icon",
+    "url_schema" : "spotify",
+    "id" : "9"
+  },
+  {
+    "title" : "More",
+    "locale_id" : "more",
+    "icon" : "more_icon",
+    "url_schema" : "spotify",
+    "id" : "10"
+  }
+]
+

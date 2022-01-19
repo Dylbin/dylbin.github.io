@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Spotify</string>
+	<key>CFBundleName</key>
+	<string>Spotify</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Bu, içe aktardığın müzik veya podcast'leri Spotify'da çalabilmeni sağlar.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Bu, Spotify'ı harici aksesuarlarla kullanmanı sağlar.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Bu Spotify'ı harici aksesuarlarla kullanmanı sağlar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Bu, Spotify uygulamasında fotoğraf çekmeni sağlar.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Bu, Face ID kullanarak erişim sınırlamaları koymanı sağlar.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Bu özelliği kullanarak farklı cihazlarda dinleyebilirsin. Spotify yerel ses dosyalarına da erişir.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Bu, sesini kullanarak Spotify'ı kontrol edebilmeni sağlar.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Bu, Fotoğraf Kitaplığına görüntüler kaydetmeni sağlar.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Bu özellik, Fotoğraf Kitaplığından görüntüler seçmene olanak sağlar.</string>
+</dict>
+</plist>
