@@ -3,13 +3,13 @@
 <html class=" cytyle-flat"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  
  <title>Substitute · Elucubratus</title>
- <link rel="stylesheet" type="text/css" href="./Delta/depiction.css">
+ <link rel="stylesheet" type="text/css" href="./iNDS/depiction.css">
  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
  <meta name="format-detection" content="telephone=yes">
  <!-- <script type="text/javascript" src="/fastclick/lib/fastclick.js"> -->
  
 
- <script type="text/javascript" src="./Delta/depiction.js.nedladdning"></script><!--<base target="_top">--><base href="." target="_top"><style type="text/css"> p, input[type="password"], input[type="text"], select { top: 0.051470588235294115em; } </style>
+ <script type="text/javascript" src="./iNDS/depiction.js.nedladdning"></script><!--<base target="_top">--><base href="." target="_top"><style type="text/css"> p, input[type="password"], input[type="text"], select { top: 0.051470588235294115em; } </style>
  <script type="text/javascript">if(navigator.userAgent.search(/Cydia/)!=-1){var title=document.title;var dot=title.indexOf('·');if(dot!=-1) document.title=title.substring(0,dot);}</script>
 </head>
 <body class="pinstripe">
