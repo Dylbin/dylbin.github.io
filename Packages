@@ -1390,3 +1390,33 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common 
 Author: Litten
 Name: Liddell 🎀
 Icon: https://dylbin.github.io/icons/love.litten.liddell.png
+
+Package: it.ned.appdb-ios
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/appdb.deb
+MD5sum: b7f012d71eeec28cd04d410feec16f3f
+SHA1: 66f79c584fb01cc82d6c436839d86cf897ad8184
+SHA256: 83fc2fbb1b50a3cc8e6dfef919d5565eecc7acc1bc714c066e897c351f49303c
+Section: Packaging
+Size: 15378628
+Description: AppDB Client for iOS 12/13/14/15
+Author: ned
+Name: AppDB
+Icon: https://dylbin.github.io/icons/it.ned.appdb-ios.png
+
+Package: com.icoou.sanguo
+Version: 1.5.8.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/HappyChick.deb
+MD5sum: 7c340786b93ea2cda1b5f8f8a6531ba1
+SHA1: 720a992b2d461ac44003459ba9f5f65ea2b33e74
+SHA256: a0bed641a5749285d1ddac837006c54602a484320be240df5d84f8006ee39fe5
+Section: Packaging
+Size: 62040804
+Description: Multi-Emulator for iOS 9/10/11/12/13/14
+Author: Xiaoji
+Name: Happy Chick (Beta)
+Icon: https://dylbin.github.io/icons/com.icoou.sanguo.png
