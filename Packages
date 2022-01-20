@@ -1414,7 +1414,7 @@ Filename: /debs/HappyChick.deb
 MD5sum: 7c340786b93ea2cda1b5f8f8a6531ba1
 SHA1: 720a992b2d461ac44003459ba9f5f65ea2b33e74
 SHA256: a0bed641a5749285d1ddac837006c54602a484320be240df5d84f8006ee39fe5
-Section: Packaging
+Section: Games
 Size: 62040804
 Description: Multi-Emulator for iOS 9/10/11/12/13/14
 Author: Xiaoji
