@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>label</key>
+                <string>Settings</string>
+                <key>footerText</key>
+                <string>When this is disabled, Eliza will not run and iOS will use the default colours.</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSSwitchCell</string>
+                <key>label</key>
+                <string>Enabled</string>
+                <key>defaults</key>
+                <string>com.wilsonthewolf.elizaprefrences</string>
+                <key>default</key>
+                <true/>
+                <key>key</key>
+                <string>enabled</string>
+                <key>PostNotification</key>
+                <string>batteryRefresh</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>footerText</key>
+                <string>When this is enabled Eliza will use its colours instead of the default low power mode colours.</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSSwitchCell</string>
+                <key>label</key>
+                <string>Override LPM Colours</string>
+                <key>defaults</key>
+                <string>com.wilsonthewolf.elizaprefrences</string>
+                <key>default</key>
+                <true/>
+                <key>key</key>
+                <string>lpm</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>footerText</key>
+                <string>When this is enabled Eliza will use its colours instead of the default charging colours.</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSSwitchCell</string>
+                <key>label</key>
+                <string>Override Charging Colours</string>
+                <key>defaults</key>
+                <string>com.wilsonthewolf.elizaprefrences</string>
+                <key>default</key>
+                <true/>
+                <key>key</key>
+                <string>charging</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>footerText</key>
+                <string>Click here to update your settings.</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSButtonCell</string>
+                <key>label</key>
+                <string>Apply Changes</string>
+                <key>action</key>
+                <string>applyChanges</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSGroupCell</string>
+                <key>label</key>
+                <string>Links</string>
+            </dict>
+            <dict>
+                <key>cell</key>
+                <string>PSButtonCell</string>
+                <key>label</key>
+                <string>GitHub</string>
+                <key>action</key>
+                <string>openGithub</string>
+            </dict>
+        </array>
+        <key>title</key>
+        <string>Eliza</string>
+    </dict>
+</plist>

@@ -440,21 +440,6 @@ Name: Spork
 Icon: https://dylbin.github.io/icons/NoahEvans.Spork.png
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Spork.json
 
-Package: io.pangu.loader
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/PanguLoader.deb
-Size: 1320044
-MD5sum: d497c2ecbf6fc7adec667fa9a8fa080b
-SHA1: 63ba199937d8e39ee6ecb006f45db74fe9fcea54
-SHA256: 3dd6e5150209c1be6cb8953ff756992be5c3ad234fbe2a4812d3851dc00cc5a0
-Section: Packaging
-Description: Pangu's package manager installed by the Pangu8 untethered jailbreak. Supports iOS 8.0 - 8.1.x only
-Author: Pangu Team	
-Name: Pangu Loader (iOS 8)
-Icon: https://dylbin.github.io/icons/io.pangu.loader.png
-
 Package: com.dylbinthedev.ppsspp
 Version: 1.11.3
 Architecture: iphoneos-arm
@@ -574,22 +559,6 @@ Depiction: https://dylbin.github.io/assets/CydiaDepictions/Provenance/Provenance
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Provenance.json
 Name: Provenance
 
-Package: kr.xsf1re.vnodebypass
-Version: 0.2.5
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/VNodeBypass.deb
-Size: 348038
-MD5sum: 43ed2824bb12219ebd65b0276394c175
-SHA1: 8a5000d58fe175c30dbb350a3e088a08148aeaba
-SHA256: 4e7ddcf7388ff18c2c8c4ad22bd21fbe11711c9c91853fc22c19d733be252f7c
-Section: System
-Description: jailbreak detection bypass for iOS 14. Requires libkrw (on the unc0ver jailbreak.) Requires libKernRW (on the Taurine jailbreak.) this special version is modified to work for iPoGo.
-Author: XsF1re
-Icon: https://dylbin.github.io/icons/com.dylbinthedev.vnodebypass.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/vnodebypass/VNode.html
-Name: vnodebypass
-
 Package: com.dylbinthedev.zinitv
 Version: 1.4.3
 Architecture: iphoneos-arm
@@ -623,40 +592,6 @@ Icon: https://dylbin.github.io/icons/com.dylbinthedev.zinitv.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/ZiniTV/ZiniTV.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ZiniTV.json
 Name: ZiniTV
-
-Package: me.oatmealdome.csdbgd
-Version: 2.1.0-248
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends:
-Filename: /debs/csdbgd.deb
-Size: 4464
-MD5sum: 3306e05bac8a1c93c90ac0b862cb688f
-SHA1: ce35a06baebd0a416806adf65fe15253f08c3cba
-SHA256: f107376805dfc52c5a90f1f412ffe6dd72d645e206d95a3064199853c624d864
-Section: Utilities
-Description: Sets processes as debugged on request.
-Author: OatmealDome
-Icon: https://dylbin.github.io/icons/me.oatmealdome.csdbgd.png
-Name: csdbgd
-
-Package: me.oatmealdome.dolphinios
-Version: 3.1.1-129
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: me.oatmealdome.csdbgd
-Filename: /debs/Dolphin.deb
-Size: 52016724
-MD5sum: a45b4f89b078fad6cd3ab9ca724d1b00
-SHA1: 28f340a2417cfdb15425255e7b0940badefdcd08
-SHA256: 80c1899fcfd5f24310f6b1b1593a20f33caa9e93ade5e893c915663eae706eee
-Section: Games
-Description: DolphiniOS Wii/Gamecube Emulator for iOS 12-14
-Author: OatmealDome
-Icon: https://dylbin.github.io/icons/me.oatmealdome.dolphinios.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Dolphin.json
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/Dolphin/Dolphin.html
-Name: DolphiniOS
 
 Package: com.ichitaso.altstore
 Version: 1.4.5
@@ -694,42 +629,6 @@ SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AltStore.json
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/AltStore/AltStore.html
 Name: AltStore
 
-Package: com.dylbinthedev.odysseytheme
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: /debs/OdysseyOS.deb
-Size: 3228536
-MD5sum: 55ab4cc73d84e331be1d5d003c383803
-SHA1: cf3533edf23aea6bfe762a6b539c9a55df155736
-SHA256: 37af3a11c684e48e969d2bf111dec6e946c726b93f2e08ccf99ed2339fbf31b3
-Section: Themes
-Description: Odyssey themed icons for iOS 11-15!
-Author: DylbinTheDev
-Icon: https://dylbin.github.io/icons/com.dylbinthedev.odysseytheme.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/OdysseyOS.json
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/OdysseyOS/OdysseyOS.html
-Name: OdysseyOS
-
-Package: com.dylbinthedev.chimeratheme
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: /debs/ChimeraOS.deb
-Size: 3748904
-MD5sum: ac0d1966d7312926b1dc048bbed72007
-SHA1: 01675da1887d5fdaba88ec2cfa26398f25aa0a44
-SHA256: 12afa691a7c2ad93ee575c8f88b1b01288283f1266addaae639f27fe0959acbc
-Section: Themes
-Description: Chimera themed icons for iOS 11-15!
-Author: DylbinTheDev
-Icon: https://dylbin.github.io/icons/com.dylbinthedev.chimeratheme.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/ChimeraOS.json
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/ChimeraOS/ChimeraOS.html
-Name: ChimeraOS
-
 Package: com.dylbinthedev.bigsurwallpaper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -747,20 +646,21 @@ Icon: https://dylbin.github.io/icons/com.dylbinthedev.bigsurwallpaper.png
 Depiction: https://dylbin.github.io/assets/CydiaDepictions/BigSurWallpaper/BigSurWallpaper.html
 Name: Big Sur Wallpaper
 
-Package: com.dylbinthedev.webshade
-Version: 0.0.1
+Package: com.wilsonthewolf.webshade
+Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: WilsontheWolf
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: /debs/WebShade.deb
-Size: 52124
-MD5sum: d11238cd1439d986c28f1d70d9d5751b
-SHA1: 8b784eb4d1ca4a2d68d09d4a277e023ca8157cf1
-SHA256: 39504acda163744f7906877a103b88e989f3c7c7e7466fc14c8b2099ea564621
+Size: 24626
+MD5sum: 87d79d2af3eb478596c7d7ea39e6f002
+SHA1: e1176f7e106d74929c0c211a46934170d4fe239c
+SHA256: 30f9648634b94226d3673495fbf6edf307f4ea2cbeb583305cabe1b335c4ebd3
 Section: Tweaks
 Description: Make your websites dark!
 Author: WilsontheWolf
-Icon: https://dylbin.github.io/icons/com.dylbinthedev.webshade.png
+Icon: https://dylbin.github.io/icons/com.wilsonthewolf.webshade.png
+Depiction: https://wilsonthewolf.github.io/repo/depictions/web/?p=com.wilsonthewolf.webshade
 Name: WebShade
 
 Package: com.dylbinthedev.iphone12wallpapers
@@ -808,39 +708,6 @@ Author: DylbinTheDev
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.bigsurtheme.png
 Name: Big Sur Theme
 
-Package: com.chr1s.current
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/Current.deb
-Size: 37864
-MD5sum: 2c53a2dd4fd1c42c3aa04ddcbdf53794
-SHA1: a129aa8589a86f19902f0d0d23d285c34fc01ee5
-SHA256: 5c04078ac0107bbf8a9a4e12eef55be4ea0d372b5c1b93fbf2228e651939cb33
-Section: Tweaks
-Description: Animated wave battery indicator
-Author: Chr1s
-Icon: https://dylbin.github.io/icons/com.chr1s.current.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Current.json
-Name: Current
-
-Package: com.chr1s.current
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
-Filename: /debs/Current2.deb
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.15.1), ws.hbang.alderis (>= 1.1)
-Size: 39264
-MD5sum: b73b989bc2e1e30837391e15f289aefa
-SHA1: fca48ebe4b53c2d424c89c4f29fd6874cbef6baa
-SHA256: 2a7407e6b29df01d4e523d423893d34f1671fcc6311adc18fcc77d2e31b6e8f8
-Section: Tweaks
-Description: Animated wave battery indicator
-Author: Chr1s
-Icon: https://dylbin.github.io/icons/com.chr1s.current.png
-SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Current.json
-Name: Current
-
 Package: com.dylbinthedev.gba4ios
 Version: 2.1
 Architecture: iphoneos-arm
@@ -887,7 +754,7 @@ MD5sum: 12a0499a1ce5ef4e54e06fe54e1aac3f
 SHA1: 55de8d3dea6b25a37dbbfc561e3ae17c336e4fb4
 SHA256: 75cac31d67c68a08d98c67f86edeb742ddf04bc636e8f432c2575557a8a19342
 Section: Utilities
-Description: Cydia Extender
+Description: Modified version of Cydia Extender with extra features.
 Author: saurik
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.ext3nder-installer.png
 Name: Cydia Extender
@@ -1061,40 +928,6 @@ Author: Unknown
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.nestopia.png
 Name: Nestopia
 
-Package: re.frida.server
-Version: 15.1.1
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/Frida64.deb
-Size: 16391564
-MD5sum: e8a96d4a1e50038c55f5afe25c7601b2
-SHA1: 60f8a432916730820d5502e76228e1928018510f
-SHA256: 61d5db597ba256735b688b910437a3edffc5ec16c8db5ff09377a8f5bcd686c9
-Section: Development
-Description: Inject JavaScript to explore iOS apps over USB.
-Author: Frida Developers
-Priority: optional
-Conflicts: re.frida.server64
-Icon: https://dylbin.github.io/icons/re.frida.server.png
-Name: Frida
-
-Package: re.frida.server64
-Version: 14.2.13
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/Frida64E.deb
-Size: 12064904
-MD5sum: ffbc876d5e4958ebf1a7385555fe906c
-SHA1: 4243deffcc47857dfcb6634a151cfdf4881afe41
-SHA256: af574c5a6f9e0cc321155d1c9d402da740734d28e85f18b6977dd0732dc750d6
-Section: Development
-Description: Inject JavaScript to explore iOS apps over USB.
-Author: Frida Developers
-Priority: optional
-Conflicts: re.frida.server
-Icon: https://dylbin.github.io/icons/re.frida.server.png
-Name: Frida for A12+ devices
-
 Package: org.xbmc.kodi-ios64
 Version: 19.2-0
 Architecture: iphoneos-arm
@@ -1173,36 +1006,6 @@ Conflicts: gsc.ipad
 Pre-Depends: firmware (>= 13.0)
 Depends: mobilesubstrate, com.dylbinthedev.iconstate14
 Name: FiveColumnHomeScreen14
-
-Package: com.dylbinthedev.stfu
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/STFU.deb
-MD5sum: e325b29808be4ccc4d1456fbf7c64688
-SHA1: bf5d2479de96a627870907bff8917de51a63c693
-SHA256: a8bdc5a1967a81806586990493624a211a1862ef54b897d2f898e7d281fdd06d
-Section: Tweaks
-Size: 27434
-Description: Removes auto turn down of volume due to "health" reasons, whatever that fucking means.
-Author: Arcas
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11)
-Name: Shut The Fuck Up
-
-Package: com.dylbinthedev.btrenamer
-Version: 1.51
-Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/BluetoothRenamer.deb
-MD5sum: 6f8f0015d0a54e521e0b618f413e1781
-SHA1: 4399f425686a7a9d1aa00e43ba95b2874ba358c9
-SHA256: 10059abfa83e76134c9ab30237574e98dd68b85778d9d954464c19147316b516
-Section: Tweaks
-Size: 16068
-Description: Rename your bluetooth devices on iOS 8 - 14
-Author: Arthur Da Paz
-Depends: mobilesubstrate
-Name: Bluetooth Renamer
 
 Package: com.dylbinthedev.iconshadow14
 Version: 0.0.3.2
@@ -1406,17 +1209,69 @@ Author: ned
 Name: AppDB
 Icon: https://dylbin.github.io/icons/it.ned.appdb-ios.png
 
-Package: com.icoou.sanguo
-Version: 1.5.8.2
+Package: com.wilsonthewolf.eliza
+Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev
-Filename: /debs/HappyChick.deb
-MD5sum: 7c340786b93ea2cda1b5f8f8a6531ba1
-SHA1: 720a992b2d461ac44003459ba9f5f65ea2b33e74
-SHA256: a0bed641a5749285d1ddac837006c54602a484320be240df5d84f8006ee39fe5
-Section: Games
-Size: 62040804
-Description: Multi-Emulator for iOS 9/10/11/12/13/14
-Author: Xiaoji
-Name: Happy Chick (Beta)
-Icon: https://dylbin.github.io/icons/com.icoou.sanguo.png
+Maintainer: WilsontheWolf
+Filename: /debs/Eliza.deb
+MD5sum: 90218f32f473965ddbdf06abc8cff9dd
+SHA1: aca76fe745173a70bd8905730fbb9fa5a9fadd2f
+SHA256: 6fc4e3b9d4b79b77def6af426cf1fa3d1be9f1915e86ccf0e1684c3fc438bf0f
+Section: Tweaks
+Size: 7270
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0)
+Description: Make your battery colourful!
+Author: WilsontheWolf
+Name: Eliza
+Depiction: https://wilsonthewolf.github.io/repo/depictions/web/?p=com.wilsonthewolf.eliza
+Icon: https://dylbin.github.io/icons/com.wilsonthewolf.eliza.png
+
+Package: net.cadoth.otaenabler
+Version: 0.4.0
+Architecture: iphoneos-arm
+Maintainer: nyuszika7h <nyuszika7h@gmail.com>
+Filename: /debs/OTAEnabler.deb
+MD5sum: 4ca2a889e92bc2f176c4b8cf13951295
+SHA1: 13a7cedf23a8958a874a448be0f1292483f1d059
+SHA256: 264a0e5c19fa05b070871987d346fa2f132656b40c90c58448a8724aaf6e4280
+Section: System
+Size: 1762
+Depends: bash, com.bingner.plutil, file-cmds, gawk
+Conflicts: com.apple.memecity, jp.akusio.kernbypass, jp.akusio.kernbypassbeta, jp.akusio.kernbypass-unofficial
+Description: Re-enable OTA software updates blocked by various methods
+Author: nyuszika7h <nyuszika7h@gmail.com>
+Name: OTAEnabler
+SileoDepiction: https://repo.cadoth.net/sileo-depictions/net.cadoth.otaenabler.json
+Depiction: https://repo.cadoth.net/depictions/net.cadoth.otaenabler.html
+
+Package: com.ichitaso.otadisabler
+Version: 0.1-9
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Filename: /debs/OTADisabler.deb
+MD5sum: 80c13c2d4662ffbf5ab39da62014a207
+SHA1: 9d8fc427dcc3cea56f266be706216e6f0b2ba827
+SHA256: db3df0ff5bcefac7bcb8f9ea7b67a1799e65b558ea3440255ab54a1e067fcb75
+Section: System
+Size: 28300
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Description: Delete and disable OTA badge
+Author: ichitaso
+Name: OTADisabler
+Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+
+Package: com.ichitaso.youtubepatcher
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Filename: /debs/YouTubePatcher.deb
+MD5sum: 60a9631384a97620ba45247a1c4b0632
+SHA1: bb780eaece198ea23053c007038629514b0f7e8b
+SHA256: 1587823b61249bd69b77f5d659870313f36a11b5e058f795deca4f85d4dc8e57
+Section: Tweaks
+Size: 3178
+Depends: mobilesubstrate
+Description: No inline Ads/Background Play back
+Author: ichitaso
+Name: YouTubePatcher
+Depiction: https://cydia.ichitaso.com/depiction/youtubepatcher.html
