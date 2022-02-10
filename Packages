@@ -29,7 +29,7 @@ Description: Delta multi-emulator for iOS 12.2 - 15.x
 Author: Riley Testut
 Name: Delta
 Icon: https://dylbin.github.io/icons/com.rileytestut.delta.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Delta.html
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/Delta/Depiction.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
 
 Package: net.nerd.inds
