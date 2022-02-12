@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/InstaReport.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/AFNetworking.framework/SC_Info/AFNetworking.sinf</string>
+		<string>Frameworks/AHKNavigationController.framework/SC_Info/AHKNavigationController.sinf</string>
+		<string>Frameworks/ActionSheetPicker_3_0.framework/SC_Info/ActionSheetPicker_3_0.sinf</string>
+		<string>Frameworks/Adjust.framework/SC_Info/Adjust.sinf</string>
+		<string>Frameworks/Appirater.framework/SC_Info/Appirater.sinf</string>
+		<string>Frameworks/CocoaAsyncSocket.framework/SC_Info/CocoaAsyncSocket.sinf</string>
+		<string>Frameworks/DateTools.framework/SC_Info/DateTools.sinf</string>
+		<string>Frameworks/FBSDKCoreKit.framework/SC_Info/FBSDKCoreKit.sinf</string>
+		<string>Frameworks/FBSDKLoginKit.framework/SC_Info/FBSDKLoginKit.sinf</string>
+		<string>Frameworks/FBSDKShareKit.framework/SC_Info/FBSDKShareKit.sinf</string>
+		<string>Frameworks/GoogleUtilities.framework/SC_Info/GoogleUtilities.sinf</string>
+		<string>Frameworks/KTVCocoaHTTPServer.framework/SC_Info/KTVCocoaHTTPServer.sinf</string>
+		<string>Frameworks/KTVHTTPCache.framework/SC_Info/KTVHTTPCache.sinf</string>
+		<string>Frameworks/MagicalRecord.framework/SC_Info/MagicalRecord.sinf</string>
+		<string>Frameworks/Masonry.framework/SC_Info/Masonry.sinf</string>
+		<string>Frameworks/MoPub.framework/SC_Info/MoPub.sinf</string>
+		<string>Frameworks/OCSkeleton.framework/SC_Info/OCSkeleton.sinf</string>
+		<string>Frameworks/PocketSVG.framework/SC_Info/PocketSVG.sinf</string>
+		<string>Frameworks/Realm.framework/SC_Info/Realm.sinf</string>
+		<string>Frameworks/SDWebImage.framework/SC_Info/SDWebImage.sinf</string>
+		<string>Frameworks/SVProgressHUD.framework/SC_Info/SVProgressHUD.sinf</string>
+		<string>Frameworks/SocketIO.framework/SC_Info/SocketIO.sinf</string>
+		<string>Frameworks/Starscream.framework/SC_Info/Starscream.sinf</string>
+		<string>Frameworks/SwiftyRSA.framework/SC_Info/SwiftyRSA.sinf</string>
+		<string>Frameworks/TTTAttributedLabel.framework/SC_Info/TTTAttributedLabel.sinf</string>
+		<string>Frameworks/XHAmazingLoading.framework/SC_Info/XHAmazingLoading.sinf</string>
+		<string>Frameworks/nanopb.framework/SC_Info/nanopb.sinf</string>
+		<string>Frameworks/pop.framework/SC_Info/pop.sinf</string>
+		<string>Frameworks/protobuf.framework/SC_Info/protobuf.sinf</string>
+		<string>PlugIns/NotificationExtension.appex/SC_Info/NotificationExtension.sinf</string>
+		<string>SC_Info/InstaReport.sinf</string>
+	</array>
+</dict>
+</plist>

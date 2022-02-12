@@ -1275,3 +1275,63 @@ Description: No inline Ads/Background Play back
 Author: ichitaso
 Name: YouTubePatcher
 Depiction: https://dylbin.me/assets/CydiaDepictions/AnimeClient/Depiction.html
+
+Package: com.unveilapp.unveil
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/Unveil.deb
+MD5sum: a9baa40c259cfd632e9bda975ac83c0c
+SHA1: d97ff657e094a9721e403dcbcc4b1ff24850fab6
+SHA256: 0b27ee6e39266eb0722afb55ee3102f69190d9d64edd5ee51ee7662636d9cd9e
+Section: System
+Size: 1490928
+Description: Detect system security issues
+Author: Unveil Security LLC
+Name: Unveil
+Icon: https://dylbin.github.io/icons/com.unveilapp.unveil.png
+
+Package: com.dylbinthedev.reportsplus
+Version: 5.8.3
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/ReportsPlus.deb
+MD5sum: 33f25fea5d698d71b438dac98e46666e
+SHA1: e8d0411cc9e8248c8d43e97e8bd264559247ab5e
+SHA256: af7bb31ed7f32cdf46f3586b9402a16ccf3eafdce8bd112f9d9acfe59287d1dc
+Section: Social
+Size: 17594632
+Description: Ultimate stalking application for Instagram
+Author: DylbinTheDev
+Name: Reports+ (Tweaked)
+Icon: https://dylbin.github.io/icons/com.dylbinthedev.reportsplus.png
+
+Package: com.dylbinthedev.123movies
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/123Movies.deb
+MD5sum: 80507865dd69c3b3be920ba1fb2b8028
+SHA1: 322176b8b7ae3f6fa9a3892d7c4563f22e11ad57
+SHA256: 4876ea4069fc26187e0d781017d8dc4832c49ff057a14aac2850c7bb0b39fad9
+Section: Multimedia
+Size: 4544720
+Description: App which scraps 123Movies websites and provides you with a Netflix type expierience
+Author: DylbinTheDev
+Name: 123Movies
+Icon: https://dylbin.github.io/icons/com.dylbinthedev.123movies.png
+
+Package: com.kramermedia.obamarun
+Version: 1.95
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/ObamaRun.deb
+MD5sum: a8a168520c70eaaf121a4d3b4dcaa9d0
+SHA1: 0db201df353ded1d2e0cdc2f25c02055a56c9d28
+SHA256: 22a124fe38fe11d67080389c93ed59ab14da6e3ccbab65f88b9040c9d427f032
+Section: Games
+Size: 32544952
+Description: Obama is everywhere!
+Author: Markus Kramer
+Name: OBAMA RUN
+Icon: https://dylbin.github.io/icons/com.kramermedia.obamarun.png
