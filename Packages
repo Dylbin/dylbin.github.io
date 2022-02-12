@@ -1335,3 +1335,18 @@ Description: Obama is everywhere!
 Author: Markus Kramer
 Name: OBAMA RUN
 Icon: https://dylbin.github.io/icons/com.kramermedia.obamarun.png
+
+Package: com.partumapps.dagame
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/DaGame.deb
+MD5sum: c827bbae868271d3622c8fdd83118afd
+SHA1: 78c529d7a8810133d272d3e4992ceb1c9ce8280c
+SHA256: 12dff4efa7e19bf0b958843764e0cbd4e7ba35f72f58fda75d14bf8c94bf2432
+Section: Games
+Size: 48087740
+Description: LETS GOOOO
+Author: PartumApps
+Name: DaGame
+Icon: https://dylbin.github.io/icons/com.partumapps.dagame.png

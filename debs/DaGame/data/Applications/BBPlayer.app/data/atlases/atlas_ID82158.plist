@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>PTModelSprite_ID82157</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 0}, {1750, 791}}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>offset</key>
+                <string>{5.0, -2.5}</string>
+                <key>sourceSize</key>
+                <string>{2000, 2000}</string>
+                <key>sourceColorRect</key>
+                <string>{{130, 607}, {1750, 791}}</string>
+            </dict>
+            <key>PTModelSprite_ID102023</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0, 795}, {1068, 601}}</string>
+                <key>rotated</key>
+                <string>false</string>
+                <key>offset</key>
+                <string>{0.0, -0.0}</string>
+                <key>sourceSize</key>
+                <string>{1068, 601}</string>
+                <key>sourceColorRect</key>
+                <string>{{0, 0}, {1068, 601}}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <string>2</string>
+            <key>realTextureFileName</key>
+            <string>atlas_ID82158.png</string>
+            <key>textureFileName</key>
+            <string>atlas_ID82158.png</string>
+            <key>size</key>
+            <string>{2048, 2048}</string>
+            <key>smartupdate</key>
+            <string>$Potion:Smartupdate:$</string>
+        </dict>
+    </dict>
+</plist>
