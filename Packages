@@ -894,7 +894,7 @@ Section: Multimedia
 Description: The best free iOS anime client
 Author: Marcus Zhou
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.animeclient.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeClient/AnimeClient.html
+Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeClient/Depiction.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeClient.json
 Name: AnimeClient
 
