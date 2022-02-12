@@ -1350,3 +1350,18 @@ Description: LETS GOOOO
 Author: PartumApps
 Name: DaGame
 Icon: https://dylbin.github.io/icons/com.partumapps.dagame.png
+
+Package: com.partumapps.glizzyrush
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/GlizzyRush.deb
+MD5sum: dcb20b1767b8d15fb1517feb0b2b52d3
+SHA1: d9da75d5890f9503631f1f375f8a436599a5e857
+SHA256: b8b75632d97331d6c526cfa3d6766d01ab330cacd7d1828f6dd31b34a8f5a38d
+Section: Games
+Size: 53491960
+Description: Put a beam on the glizzy, don't get caught between the lines.
+Author: PartumApps
+Name: Glizzy Rush
+Icon: https://dylbin.github.io/icons/com.partumapps.glizzyrush.png

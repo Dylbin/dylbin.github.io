@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>PTModelSprite_ID21685</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 0}, {4000, 2000}}</string>
+			<key>offset</key>
+			<string>{0.0, -0.0}</string>
+			<key>rotated</key>
+			<string>false</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {4000, 2000}}</string>
+			<key>sourceSize</key>
+			<string>{4000, 2000}</string>
+		</dict>
+		<key>PTModelSprite_ID40976</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 2546}, {1844, 534}}</string>
+			<key>offset</key>
+			<string>{13.0, 12.0}</string>
+			<key>rotated</key>
+			<string>false</string>
+			<key>sourceColorRect</key>
+			<string>{{91, 221}, {1844, 534}}</string>
+			<key>sourceSize</key>
+			<string>{2000, 1000}</string>
+		</dict>
+		<key>PTModelSprite_ID40983</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0, 2004}, {1871, 538}}</string>
+			<key>offset</key>
+			<string>{19.5, 10.0}</string>
+			<key>rotated</key>
+			<string>false</string>
+			<key>sourceColorRect</key>
+			<string>{{84, 221}, {1871, 538}}</string>
+			<key>sourceSize</key>
+			<string>{2000, 1000}</string>
+		</dict>
+		<key>PTModelSprite_ID40985</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1875, 2004}, {1844, 534}}</string>
+			<key>offset</key>
+			<string>{13.0, 12.0}</string>
+			<key>rotated</key>
+			<string>false</string>
+			<key>sourceColorRect</key>
+			<string>{{91, 221}, {1844, 534}}</string>
+			<key>sourceSize</key>
+			<string>{2000, 1000}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<string>2</string>
+		<key>realTextureFileName</key>
+		<string>atlas_ID21686.png</string>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>smartupdate</key>
+		<string>$Potion:Smartupdate:$</string>
+		<key>textureFileName</key>
+		<string>atlas_ID21686.png</string>
+	</dict>
+</dict>
+</plist>
