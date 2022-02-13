@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://cydia.ichitaso.com/depiction/otadisabler.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript" async="" src="./Depiction_files/analytics.js.nedladdning"></script><script async="" src="./Depiction_files/js" type="text/javascript"></script>
+<script type="text/javascript">
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		  gtag('config', 'UA-20262423-4');
+		</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="shortcut icon" href="https://cydia.ichitaso.com/common/favicon.ico">
+<title>OTADisabler | ichitaso's Repository</title>
+<link rel="stylesheet" href="./Depiction_files/bootstrap.min.css">
+<style>
+			.StripeElement {
+				box-sizing: border-box;
+				height: 40px;
+				padding: 10px 12px;
+				border: 1px solid transparent;
+				border-radius: 4px;
+				background-color: white;
+				box-shadow: 0 1px 3px 0 #e6ebf1;
+				-webkit-transition: box-shadow 150ms ease;
+				transition: box-shadow 150ms ease;
+			}
+			.StripeElement--focus {
+				box-shadow: 0 1px 3px 0 #cfd7df;
+			}
+			.StripeElement--invalid {
+				border-color: #fa755a;
+			}
+			.StripeElement--webkit-autofill {
+				background-color: #fefde5 !important;
+			}
+			
+			.carousel-indicators li {
+				background-color: #999;
+				background-color: rgba(70,70,70,.25);
+			}
+			.carousel-indicators .active {
+				background-color: #444;
+			}			
+			.carousel-control-prev-icon {
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='https://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+			}
+			.carousel-control-next-icon {
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='https://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+			}
+			div#main-container {
+				padding: 0;
+			}
+			h1.text-white {
+				font-size: 1.5rem;
+				text-align: center;
+				margin: 0;
+			}
+			#main-container .bg-dark hr {
+				border-top:1px solid #878787
+			}
+			#footer-links a {
+				border: #878787 solid 1px;
+				overflow: hidden;
+				display: block;
+				padding: 10px;
+				margin-bottom: 1em;
+			}
+			#footer-links a img.icon {
+				width: auto;
+				height: 32px;
+				margin: 5px 0;
+				float: left;
+			}
+			#footer-links a label {
+				margin: 7px 0 0 14px;
+ 				width: auto;
+				color: #fff;
+				cursor: pointer;
+				font-weight: 700;
+				font-size: 17px;
+				text-overflow: ellipsis;
+				overflow: hidden;
+				max-width: 75%;
+				white-space: nowrap;
+				clear: both;
+			}
+			#main-container div.bg-dark p.text-muted {
+				color: #fff!important;
+				margin-bottom: 0;
+				text-align: center;
+				padding: 1em 0;
+			}
+			ins.adsbygoogle {
+				background-color: #343a40;
+			}
+			#images .horizontal-list {
+				overflow-x: auto;
+				white-space: nowrap;
+				-webkit-overflow-scrolling: touch;
+			}
+			#images .item {
+				display: inline-block;
+				margin: 1em 1em 1em 0;
+			}
+			@media screen and (max-width:600px) {
+			 #images .item {
+				width: 90%;
+			 }
+			}
+			#images .item:first-child {
+				margin-left: -2em;
+			}
+			#images .item:last-child {
+				margin-right:0;
+			}
+			#images img {
+				max-width:300px;
+			}
+			hr {
+				clear: both
+			}
+			.youtube {
+				position: relative;
+				width: 100%;
+				padding-top: 56.25%;
+			}
+			.youtube iframe {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 100% !important;
+				height: 100% !important;
+			}
+		</style>
+<script async="" src="./Depiction_files/f.txt" type="text/javascript"></script>
+</head>
+<body class="bg-dark">
+<div id="main-container" class="container-fluid">
+<div class="m-1 text-white">
+<div class="p-3 bg-dark"><h1 class="text-white">OTADisabler</h1></div>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4554747198274828" data-ad-slot="7242175630" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<div class="p-3 bg-dark">
+<h4>Compatibility</h4>
+<p><b>iOS 9, 10, 11, 12, 13, 14</b></p>
+<hr>
+<h4>Price</h4>
+<p>Free</p>
+<hr>
+<h4>Depends</h4>
+<p>mobilesubstrate</p>
+<hr>
+<h4>Description</h4>
+<p>This package is for yalu + mach_portal &amp; Extra_recipe &amp; Electra &amp; unc0ver &amp; chackra1n &amp; Odyssey etc.</p>
+<strong style="color: #f00;">First, delete the OTA data.</strong>
+<p>Settings -&gt; General -&gt; Strage &amp; iCloud Usage -&gt; Manage Storage</p>
+<p>tvOS beta profile and Reboot is not required.</p>
+<strong style="color: #f00;">Cydia Substrate is required to erase the badge.</strong>
+<strong style="color: #f00;">For iOS 12.2 unc0ver, please turn off "Disable Updates".</strong>
+<p>Once put a badge on the software update of the Settings app, try ldrestart or userspace reboot or reboot.</p>
+<strong style="color: #f00;">Re-enable OTA updates</strong>
+<p>Run the following after removing the package</p>
+<ul>
+<li>launchctl reboot userspace</li>
+<li>reboot</li>
+</ul>
+<p>PowerSelector recommended</p>
+<hr>
+<h4>Images</h4>
+<div id="images">
+<ul class="horizontal-list">
+<li class="item"><img class="d-block w-100" src="./Depiction_files/iPm8ohR.jpg" alt="Image01"></li>
+<li class="item"><img class="d-block w-100" src="./Depiction_files/4O9uMoW.jpg" alt="Image02"></li>
+</ul>
+</div>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4554747198274828" data-ad-slot="2204373878"></ins>
+<script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<hr>
+<h4>Changes Logs</h4>
+<p><b>0.1-9</b></p>
+<p>pseudo-install tvOS 14 beta profile</p>
+<p><b>0.1-8</b></p>
+<p>Re-enable OTA updates</p>
+<p><b>0.1-7</b></p>
+<p>Support for iOS 13</p>
+<p><b>0.1-6</b></p>
+<p>Support for iOS 12 arm64e.</p>
+<p><b>0.1-1</b></p>
+<p>First release</p>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4554747198274828" data-ad-slot="7242175630" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script type="text/javascript">(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<hr>
+<div id="footer-links">
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia.ichitaso.com/" target="_blank">
+<img class="icon" src="./Depiction_files/cydia7.png" alt="Cydia">
+<label>Add ichitaso repo</label>
+</a>
+<a href="https://ichitaso.com/" target="_blank">
+<img class="icon" src="./Depiction_files/Willfeeltips.png">
+<label>Will feel Tips</label>
+</a>
+<a href="https://twitter.com/ichitaso" target="_blank">
+<img class="icon" src="./Depiction_files/twitter.jpg">
+<label>Follow on Twitter</label>
+</a>
+<a href="https://www.facebook.com/WillFeelTips" target="_blank">
+<img class="icon" src="./Depiction_files/facebook.jpg">
+<label>Follow on Facebook</label>
+</a>
+<a href="https://www.youtube.com/c/ichitaso2?sub_confirmation=1" target="_blank">
+<img class="icon" src="./Depiction_files/youtube.jpg">
+<label>Subscribe YouTube</label>
+</a>
+<a href="https://cydia.ichitaso.com/donation.html" target="_blank">
+<img class="icon" src="./Depiction_files/donate.jpg">
+<label>Donate</label>
+</a>
+</div>
+</div>
+<div class="p-3 bg-dark"><p class="text-muted">© Will feel Tps by ichitaso</p></div>
+</div>
+</div>
+<script src="./Depiction_files/jquery-3.4.1.min.js.nedladdning" defer="" type="text/javascript"></script>
+<script src="./Depiction_files/popper.min.js.nedladdning" defer="" type="text/javascript"></script>
+<script src="./Depiction_files/bootstrap.min.js.nedladdning" defer="" type="text/javascript"></script>
+
+</body></html>

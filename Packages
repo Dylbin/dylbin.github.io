@@ -894,7 +894,7 @@ Section: Multimedia
 Description: The best free iOS anime client
 Author: Marcus Zhou
 Icon: https://dylbin.github.io/icons/com.dylbinthedev.animeclient.png
-Depiction: https://dylbin.github.io/assets/CydiaDepictions/AnimeClient/Depiction.html
+Depiction: https://dylbin.me/assets/CydiaDepictions/AnimeClient/Depiction.html
 SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/AnimeClient.json
 Name: AnimeClient
 
@@ -1258,7 +1258,7 @@ Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
 Description: Delete and disable OTA badge
 Author: ichitaso
 Name: OTADisabler
-Depiction: https://cydia.ichitaso.com/depiction/otadisabler.html
+Depiction: https://dylbin.me/assets/CydiaDepictions/OTADisabler/Depiction.html
 
 Package: com.ichitaso.youtubepatcher
 Version: 0.3
@@ -1274,7 +1274,7 @@ Depends: mobilesubstrate
 Description: No inline Ads/Background Play back
 Author: ichitaso
 Name: YouTubePatcher
-Depiction: https://dylbin.me/assets/CydiaDepictions/AnimeClient/Depiction.html
+Depiction: https://dylbin.me/assets/CydiaDepictions/YouTubePatcher/Depiction.html
 
 Package: com.unveilapp.unveil
 Version: 1.0.0
