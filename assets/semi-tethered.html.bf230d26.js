@@ -1,0 +1,1 @@
+const e={key:"v-15c8a229",path:"/en_US/jailbreak/checkra1n/include/semi-tethered.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"en_US/jailbreak/checkra1n/include/semi-tethered.md",git:{updatedTime:1638671858e3,contributors:[{name:"emiyl",email:"me@emiyl.com",commits:2}]}};export{e as data};

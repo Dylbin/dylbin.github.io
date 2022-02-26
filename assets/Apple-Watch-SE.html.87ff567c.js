@@ -1,0 +1,1 @@
+const e={key:"v-520fa6b8",path:"/get-started/Apple-Watch-SE.html",title:"Firmware Selection (Apple Watch SE)",lang:"en-US",frontmatter:{title:"Firmware Selection (Apple Watch SE)",description:"Find out what jailbreaks you can use on your Apple Watch SE",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};
