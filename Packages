@@ -81,7 +81,7 @@ Author: DylbinTheDev & julioverne
 Name: Spotify++ (App)
 Depends: firmware (>= 10.0)
 Icon: https://dylbin.me/icons/com.dylbinthedev.spotifyplus.png
-Depiction: https://dylbin.me/assets/CydiaDepictions/Spotify++/Spotify++.html
+Depiction: https://dylbin.me/assets/CydiaDepictions/Spotify++/Spotify.html
 SileoDepiction: https://dylbin.me/assets/SileoDepictions/SpotifyApp.json
 
 Package: com.dylbinthedev.mbp
