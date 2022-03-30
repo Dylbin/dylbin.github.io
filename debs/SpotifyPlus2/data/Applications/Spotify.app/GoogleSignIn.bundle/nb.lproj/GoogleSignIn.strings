@@ -1,0 +1,11 @@
+"Cancel"="Avbryt";
+"EmmConnectLabel"="Koble til";
+"EmmConnectText"="For å beskytte dataene til organisasjonen din må du koble til med Device Policy-appen før du logger på.";
+"EmmConnectTitle"="Vil du koble til med Device Policy-appen?";
+"EmmErrorTitle"="Kan ikke logge på kontoen";
+"EmmGeneralError"="Enheten overholder ikke retningslinjene for sikkerhet som ble angitt av administratoren din.";
+"EmmPasscodeRequired"="Administratoren din krever at du angir en adgangskode på denne enheten for å få tilgang til kontoen. Angi en adgangskode, og prøv på nytt.";
+"OK"="OK";
+"SettingsAppName"="Innstillinger";
+"Sign in"="Logg på";
+"Sign in with Google"="Logg på med Google";

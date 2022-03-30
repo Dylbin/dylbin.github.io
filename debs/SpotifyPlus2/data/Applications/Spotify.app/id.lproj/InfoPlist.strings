@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Ini memungkinkanmu untuk memutar musik atau podcast yang kamu impor di Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Ini memungkinkan kamu memakai Spotify dengan aksesori eksternal.";
+"NSBluetoothPeripheralUsageDescription"="Ini memungkinkan kamu menggunakan Spotify dengan aksesori eksternal.";
+"NSCameraUsageDescription"="Ini memungkinkanmu memindai Kode Spotify dan mengambil foto untuk profil dan playlist.";
+"NSFaceIDUsageDescription"="Hal ini membuat kamu bisa mengatur pembatasan akses menggunakan Face ID.";
+"NSLocalNetworkUsageDescription"="Dengan fitur ini, kamu bisa mendengarkan dari perangkat yang berbeda. Spotify juga bisa mengakses file audio lokal.";
+"NSMicrophoneUsageDescription"="Ini membuatmu dapat mengontrol Spotify menggunakan suaramu.";
+"NSPhotoLibraryAddUsageDescription"="Dengan ini kamu bisa menyimpan gambar di Koleksi Foto kamu.";
+"NSPhotoLibraryUsageDescription"="Kamu dapat memilih gambar dari Koleksi Fotomu.";
+"NSUserTrackingUsageDescription"="Datamu akan digunakan untuk menyajikan iklan atau konten yang dipersonalisasi untukmu.";

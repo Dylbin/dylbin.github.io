@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Това ще ви позволи да пускате импортираната си музика или подкасти в Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Това ви позволява да използвате Spotify с външни аксесоари.";
+"NSBluetoothPeripheralUsageDescription"="Това ви позволява да използвате Spotify с външни аксесоари.";
+"NSCameraUsageDescription"="Това ви позволява да сканирате Spotify кодове и да правите снимки за профила и плейлистите си.";
+"NSFaceIDUsageDescription"="Това ви позволява да зададете ограничения за достъп, като използвате Face ID.";
+"NSLocalNetworkUsageDescription"="Това ви позволява да слушате на различни устройства. Spotify също ще получи достъп до локалните аудио файлове.";
+"NSMicrophoneUsageDescription"="Това ви позволява да управлявате Spotify, като използвате гласа си.";
+"NSPhotoLibraryAddUsageDescription"="Това ви позволява да запазвате изображения във вашата Photo Library.";
+"NSPhotoLibraryUsageDescription"="Това ви позволява да избирате изображения от вашата Photo Library.";
+"NSUserTrackingUsageDescription"="Вашите данни ще бъдат използвани, за да ви бъдат предоставяни персонализирани реклами или съдържание.";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Sauti";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Tuma";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Hali ya muunganisho";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Hali ya kuendelea kuunganisha";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Hali ya kutounganishwa";
+"CAST_DIALOG_CONNECTING_TITLE"="Inaunganisha kwenye";
+"CAST_DIALOG_TITLE"="Tuma kwenye";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="Asilimia %d";
+"CAST_ENABLE_IN_SETTINGS"="Nenda kwenye Mipangilio";
+"CAST_LEARN_MORE"="Pata maelezo zaidi";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="MOJA KWA MOJA";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Ili kuunganisha kwenye vifaa vyako, programu hii inahitaji idhini ya kufikia mtandao wako wa Wi-Fi.
+
+Ili uweze kutuma, nenda kwenye Mipangilio yako kisha uwashe “Idhini ya Kufikia Mtandao wa Karibu” kwa ajili ya programu hii.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Programu hii inahitaji Idhini ya Kufikia Mtandao wa Karibu ili iweze Kutuma";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Ili kuunganisha kwenye vifaa vyako, programu hii inahitaji idhini ya kufikia mtandao wako wa Wi-Fi.
+
+Ili uweze kutuma, chagua “Sawa” programu itakapoomba ruhusa ya kuunganisha kwenye mtandao wako wa karibu. Unaweza pia kuiruhusu baadaye katika Mipangilio ya iOS ya programu hii.";
+"CAST_NETWORK_PERMISSION_TITLE"="Programu hii inahitaji Idhini ya Kufikia Mtandao wa Karibu ili iweze Kutuma";
+"CAST_OK"="Sawa";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Kipindi cha kutuma kimeanza";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Kipindi cha kutuma kimekwisha";
+"DEFAULT_AUDIO_TRACK_NAME"="Wimbo wa %d";
+"DEFAULT_TEXT_TRACK_NAME"="Wimbo wa %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Tuma kwenye %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Nenda kwenye Mipangilio kwenye simu hii na uhakikishe umewasha kipengele cha Idhini ya Kufikia Mtandao wa Karibu kwa ajili ya programu hii";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Hakikisha kwamba umewasha kipengele cha Idhini ya Kufikia Mtandao wa Karibu";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Chagua wimbo wenye manukuu";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Sogeza mbele kwa sekunde 30";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Geuza hali ya kuzima sauti";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Endelea";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Kitufe cha cheza sitisha geuza";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Iliyotangulia";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Rudisha nyuma kwa sekunde 30";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Sitisha kucheza maudhui";
+"NO_DEVICES_AVAILABLE"="Hakuna vifaa vinavyopatikana";
+"NO_TEXT_TRACK_ITEM"="Hamna";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="simu";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Sitisha";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Cheza";
+"SETTINGS"="Mipangilio";
+"SKIP_AD_LABEL"="Unaweza kuruka tangazo hili baada ya %ld ...";
+"TABLET_LOWERCASE"="kompyuta kibao";
+"TEXT_TRACKS_TITLE"="Manukuu";
+"TRACK_NAME_CLOSED_CAPTIONS"="Manukuu";
+"WIFI_ERROR_DESCRIPTION"="Hakikisha kuwa %@ yako na kifaa kinachotuma maudhui vinatumia mtandao mmoja wa Wi-Fi";
+"WIFI_ERROR_TITLE"="Kagua mtandao wako wa Wi-Fi";

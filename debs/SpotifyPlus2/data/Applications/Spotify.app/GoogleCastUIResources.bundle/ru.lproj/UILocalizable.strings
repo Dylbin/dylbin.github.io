@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Звуковые дорожки";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Транслировать";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Подключено";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Выполняется подключение";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Не подключено";
+"CAST_DIALOG_CONNECTING_TITLE"="Выполняется подключение…";
+"CAST_DIALOG_TITLE"="Выберите устройство";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="Открыть настройки";
+"CAST_LEARN_MORE"="Подробнее";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ПРЯМАЯ ТРАНСЛЯЦИЯ";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Приложению необходимо подключение к вашей сети Wi-Fi.
+
+Чтобы можно было транслировать контент, откройте настройки и предоставьте приложению доступ к сети.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Для трансляции этому приложению нужен доступ к локальной сети";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Приложению необходимо подключение к вашей сети Wi-Fi.
+
+Чтобы можно было транслировать контент, нажмите \"ОК\", когда оно запросит доступ к сети. Разрешить подключение можно позже в настройках iOS.";
+"CAST_NETWORK_PERMISSION_TITLE"="Для трансляции этому приложению нужен доступ к локальной сети";
+"CAST_OK"="ОК";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Трансляция запущена";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Трансляция завершена";
+"DEFAULT_AUDIO_TRACK_NAME"="Дорожка %d";
+"DEFAULT_TEXT_TRACK_NAME"="Дорожка %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Трансляция на устройство \"%@\"";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Откройте настройки телефона и убедитесь, что этому приложению разрешен доступ по локальной сети.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Необходим доступ по локальной сети";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Выбрать дорожку субтитров";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Перемотать на 30 секунд вперёд";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Включить или выключить звук";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Далее";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Воспроизведение/пауза";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Назад";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Перемотать на 30 секунд назад";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Остановить воспроизведение";
+"NO_DEVICES_AVAILABLE"="Нет доступных устройств";
+"NO_TEXT_TRACK_ITEM"="–";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="телефон";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Пауза";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Воспроизведение";
+"SETTINGS"="Настройки";
+"SKIP_AD_LABEL"="Рекламу можно пропустить через %ld…";
+"TABLET_LOWERCASE"="планшет";
+"TEXT_TRACKS_TITLE"="Субтитры";
+"TRACK_NAME_CLOSED_CAPTIONS"="Субтитры";
+"WIFI_ERROR_DESCRIPTION"="Убедитесь, что %@ и устройство для трансляции подключены к одной и той же сети Wi-Fi.";
+"WIFI_ERROR_TITLE"="Проверьте подключение к сети Wi-Fi";

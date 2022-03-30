@@ -1,0 +1,11 @@
+"Cancel"="Annuleren";
+"EmmConnectLabel"="Verbinden";
+"EmmConnectText"="Ter bescherming van de gegevens van uw organisatie moet u verbinding maken met de Device Policy-app voordat u inlogt.";
+"EmmConnectTitle"="Verbinden met Device Policy-app?";
+"EmmErrorTitle"="Kan niet inloggen op account";
+"EmmGeneralError"="Het apparaat voldoet niet aan het beveiligingsbeleid dat is ingesteld door uw beheerder.";
+"EmmPasscodeRequired"="Uw beheerder vereist dat u een toegangscode instelt op dit apparaat om toegang te krijgen tot dit account. Stel een toegangscode in en probeer het opnieuw.";
+"OK"="OK";
+"SettingsAppName"="Instellingen";
+"Sign in"="Inloggen";
+"Sign in with Google"="Inloggen met Google";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Conținut audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Proiectați";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Stare: conectat";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Stare: se conectează";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Stare: neconectat";
+"CAST_DIALOG_CONNECTING_TITLE"="Se conectează la";
+"CAST_DIALOG_TITLE"="Proiectați pe";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d procente";
+"CAST_ENABLE_IN_SETTINGS"="Accesați Settings (Setări)";
+"CAST_LEARN_MORE"="Aflați mai multe";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Pentru a se conecta la dispozitive, aplicația necesită acces la rețeaua Wi-Fi.
+
+Pentru a proiecta, accesați Settings (Setări) și activați „Local Network Access” (Accesul în rețeaua locală) pentru aplicație.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Aplicația necesită acces în rețeaua locală pentru a proiecta";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Pentru a se conecta la dispozitive, aplicația necesită acces la rețeaua Wi-Fi.
+
+Pentru a proiecta, selectați „OK” când aplicația solicită conectarea la rețeaua locală. Puteți permite mai târziu accesul aplicației în Settings (Setări) de pe dispozitivul iOS.";
+"CAST_NETWORK_PERMISSION_TITLE"="Aplicația necesită acces în rețeaua locală pentru a proiecta";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesiunea de proiecție a început";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesiunea de proiecție s-a încheiat";
+"DEFAULT_AUDIO_TRACK_NAME"="Melodia %d";
+"DEFAULT_TEXT_TRACK_NAME"="Melodia %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Se proiectează pe %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Accesați Setări pe telefon și verificați dacă ați activat Accesul în rețeaua locală pentru această aplicație";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Asigurați-vă că ați activat Accesul în rețeaua locală";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Selectați o subtitrare";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Înainte cu 30 de secunde";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Activați/dezactivați sunetul";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Înainte";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Comutați între redare/pauză";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Înapoi";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Derulați înapoi 30 de secunde";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Opriți redarea conținutului media";
+"NO_DEVICES_AVAILABLE"="Nu sunt disponibile dispozitive";
+"NO_TEXT_TRACK_ITEM"="Fără";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefonul";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Întrerupeți";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Redați";
+"SETTINGS"="Setări";
+"SKIP_AD_LABEL"="Puteți închide anunțul în %ld...";
+"TABLET_LOWERCASE"="tableta";
+"TEXT_TRACKS_TITLE"="Subtitrări";
+"TRACK_NAME_CLOSED_CAPTIONS"="Subtitrări";
+"WIFI_ERROR_DESCRIPTION"="Asigurați-vă că %@ și dispozitivul de proiecție sunt conectate la aceeași rețea Wi-Fi";
+"WIFI_ERROR_TITLE"="Verificați rețeaua Wi-Fi";

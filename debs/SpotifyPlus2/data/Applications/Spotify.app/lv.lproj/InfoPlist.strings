@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Tādējādi varēsi atskaņot importēto mūziku vai raidierakstus pakalpojumā Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Tādējādi varēsi izmantot pakalpojumu Spotify ar ārējiem piederumiem.";
+"NSBluetoothPeripheralUsageDescription"="Tādējādi varēsi izmantot pakalpojumu Spotify ar ārējiem piederumiem.";
+"NSCameraUsageDescription"="Tas ļaus tev skenēt Spotify kodus un uzņemt fotoattēlus savam profilam un mūzikas sarakstiem.";
+"NSFaceIDUsageDescription"="Tādējādi varēsi iestatīt piekļuves ierobežojumus, izmantojot Face ID.";
+"NSLocalNetworkUsageDescription"="Izmantojot šo iespēju, vari klausīties dažādās ierīcēs. Spotify arī iegūst piekļuvi vietējiem audio failiem.";
+"NSMicrophoneUsageDescription"="Tādējādi varēsi vadīt pakalpojumu Spotify, izmantojot balss komandas.";
+"NSPhotoLibraryAddUsageDescription"="Tādējādi varēsi saglabāt attēlus savā fotoattēlu bibliotēkā.";
+"NSPhotoLibraryUsageDescription"="Tādējādi varēsi atlasīt attēlus savā fotoattēlu bibliotēkā.";
+"NSUserTrackingUsageDescription"="Tavi dati tiks izmantoti personalizētu reklāmu vai satura nodrošināšanai.";

@@ -1,0 +1,11 @@
+"Cancel"="إلغاء";
+"EmmConnectLabel"="ربط";
+"EmmConnectText"="يجب الربط مع تطبيق Device Policy قبل تسجيل الدخول لحماية بيانات مؤسستك.";
+"EmmConnectTitle"="هل تريد الربط بتطبيق Device Policy؟";
+"EmmErrorTitle"="يتعذَّر تسجيل الدخول إلى الحساب";
+"EmmGeneralError"="لا يتوافق هذا الجهاز مع سياسة الأمان التي أعدها مشرفك";
+"EmmPasscodeRequired"="يطلب منك المشرف تعيين رمز مرور على هذا الجهاز للدخول إلى هذا الحساب. يُرجى تعيين رمز المرور وإعادة المحاولة.";
+"OK"="موافق";
+"SettingsAppName"="إعدادات";
+"Sign in"="تسجيل الدخول";
+"Sign in with Google"="تسجيل الدخول باستخدام Google";

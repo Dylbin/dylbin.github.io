@@ -1,0 +1,11 @@
+"Cancel"="Odbaci";
+"EmmConnectLabel"="Poveži";
+"EmmConnectText"="Da biste zaštitili podatke svoje organizacije, morate se povezati s aplikacijom Pravila za uređaje prije prijave.";
+"EmmConnectTitle"="Želite li se povezati s aplikacijom Pravila za uređaje?";
+"EmmErrorTitle"="Prijava na račun nije moguća";
+"EmmGeneralError"="Uređaj nije usklađen sa sigurnosnim pravilima koja je postavio vaš administrator.";
+"EmmPasscodeRequired"="Vaš administrator zahtijeva da postavite šifru zaporke na ovom uređaju da biste pristupili računu. Postavite šifru zaporke i pokušajte ponovo.";
+"OK"="U redu";
+"SettingsAppName"="Postavke";
+"Sign in"="Prijava";
+"Sign in with Google"="Prijavite se putem Googlea";

@@ -1,0 +1,11 @@
+"Cancel"="Anuluj";
+"EmmConnectLabel"="Połącz";
+"EmmConnectText"="Aby chronić dane organizacji, przed zalogowaniem musisz się połączyć z aplikacją Device Policy.";
+"EmmConnectTitle"="Połączyć z aplikacją Device Policy?";
+"EmmErrorTitle"="Nie można zalogować się na konto";
+"EmmGeneralError"="Urządzenie nie jest zgodne z zasadami bezpieczeństwa ustanowionymi przez Twojego administratora.";
+"EmmPasscodeRequired"="Administrator wymaga ustawienia kodu dostępu do konta na tym urządzeniu. Ustaw kod dostępu i spróbuj ponownie.";
+"OK"="OK";
+"SettingsAppName"="Ustawienia";
+"Sign in"="Zaloguj się";
+"Sign in with Google"="Zaloguj się przez Google";

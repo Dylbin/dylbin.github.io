@@ -1,0 +1,11 @@
+"Cancel"="ביטול";
+"EmmConnectLabel"="התחברות";
+"EmmConnectText"="על מנת להגן על נתוני הארגון שלך, יש להתחבר באמצעות אפליקציית Device Policy לפני הכניסה לחשבון.";
+"EmmConnectTitle"="האם להתחבר באמצעות האפליקציית Device Policy?";
+"EmmErrorTitle"="לא ניתן להיכנס לחשבון";
+"EmmGeneralError"="המכשיר אינו פועל בהתאם למדיניות האבטחה שנקבעה על-ידי מנהל המערכת.";
+"EmmPasscodeRequired"="מנהל המערכת דורש ממך להגדיר קוד סיסמה במכשיר זה כדי לגשת לחשבון זה. יש להגדיר קוד סיסמה ולנסות שוב.";
+"OK"="אישור";
+"SettingsAppName"="הגדרות";
+"Sign in"="היכנס";
+"Sign in with Google"="היכנס באמצעות Google";

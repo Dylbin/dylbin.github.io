@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Hljóð";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Senda út";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Tengd staða";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Tengist";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Ótengd staða";
+"CAST_DIALOG_CONNECTING_TITLE"="Tengist";
+"CAST_DIALOG_TITLE"="Senda út í";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d prósent";
+"CAST_ENABLE_IN_SETTINGS"="Opna Stillingar";
+"CAST_LEARN_MORE"="Frekari upplýsingar";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="Í BEINNI";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Þetta forrit þarf aðgang að Wi-Fi netinu þínu til að tengjast tækjunum þínum.
+
+Til að senda út skaltu fara í stillingarnar og kveikja á „Local Network Access“ fyrir þetta forrit.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Þetta forrit þarf aðgang að staðarnetinu til að senda út";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Þetta forrit þarf aðgang að Wi-Fi netinu þínu til að tengjast tækjunum þínum.
+
+Til að senda út skaltu velja „OK“ þegar forritið biður um að tengjast staðarnetinu þínu. Þú getur einnig leyft þetta síðar í iOS-stillingum fyrir þetta forrit.";
+"CAST_NETWORK_PERMISSION_TITLE"="Þetta forrit þarf aðgang að staðarnetinu til að senda út";
+"CAST_OK"="Í lagi";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Útsendingarlota hafin";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Útsendingarlotu lokið";
+"DEFAULT_AUDIO_TRACK_NAME"="Hljóðrás %d";
+"DEFAULT_TEXT_TRACK_NAME"="Rás %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Sendir út í %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Opnaðu stillingar í þessum síma og athugaðu hvort kveikt sé á aðgangi að staðarneti fyrir þetta forrit";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Gakktu úr skugga um að kveikt sé á aðgangi að staðarneti";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Veldu skjátextarás";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Áfram um 30 sekúndur";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Slökkva/kveikja á hljóði";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Áfram";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Spila eða gera hlé";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Fyrra";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Aftur um 30 sekúndur";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Stöðva spilun á efni";
+"NO_DEVICES_AVAILABLE"="Engin tæki í boði";
+"NO_TEXT_TRACK_ITEM"="Enginn";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="sími";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Hlé";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Spila";
+"SETTINGS"="Stillingar";
+"SKIP_AD_LABEL"="Þú getur sleppt auglýsingu eftir %ld ...";
+"TABLET_LOWERCASE"="spjaldtölva";
+"TEXT_TRACKS_TITLE"="Skjátexti";
+"TRACK_NAME_CLOSED_CAPTIONS"="Skjátextar";
+"WIFI_ERROR_DESCRIPTION"="Gakktu úr skugga um að %@ og útsendingartækið séu á sama Wi-Fi neti";
+"WIFI_ERROR_TITLE"="Athugaðu Wi-Fi netið þitt";

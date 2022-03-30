@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Điều này sẽ giúp bạn phát nhạc hoặc podcast đã nhập trên Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Điều này cho phép bạn sử dụng Spotify với các phụ kiện bên ngoài.";
+"NSBluetoothPeripheralUsageDescription"="Điều này cho phép bạn sử dụng Spotify với các phụ kiện bên ngoài.";
+"NSCameraUsageDescription"="Quyền này cho phép bạn quét Mã Spotify cũng như chụp ảnh cho hồ sơ và danh sách phát.";
+"NSFaceIDUsageDescription"="Việc này sẽ cho phép bạn cài đặt các giới hạn truy cập bằng Face ID.";
+"NSLocalNetworkUsageDescription"="Điều này cho phép bạn nghe trên nhiều thiết bị. Spotify cũng sẽ có quyền truy cập vào các tệp âm thanh trên thiết bị.";
+"NSMicrophoneUsageDescription"="Điều này cho phép bạn điều khiển Spotify bằng giọng nói của bạn.";
+"NSPhotoLibraryAddUsageDescription"="Điều này cho phép bạn lưu ảnh vào Thư viện Ảnh của mình.";
+"NSPhotoLibraryUsageDescription"="Điều này cho phép bạn lựa chọn hình ảnh từ Thư viện Ảnh của bạn.";
+"NSUserTrackingUsageDescription"="Dữ liệu của bạn sẽ được dùng để cung cấp nội dung hoặc quảng cáo phù hợp với bạn.";

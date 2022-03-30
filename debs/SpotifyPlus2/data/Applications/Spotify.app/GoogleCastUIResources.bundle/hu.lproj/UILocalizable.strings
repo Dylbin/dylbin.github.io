@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Hangsáv";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Átküldés";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="„Csatlakoztatott” állapot";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="„Csatlakozás folyamatban” állapot";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="„Nem csatlakoztatott” állapot";
+"CAST_DIALOG_CONNECTING_TITLE"="Kapcsolódás";
+"CAST_DIALOG_TITLE"="Átküldés a következőre:";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d százalék";
+"CAST_ENABLE_IN_SETTINGS"="Beállítások";
+"CAST_LEARN_MORE"="További információ";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ÉLŐ";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Ahhoz, hogy az alkalmazás csatlakozni tudjon az eszközeihez, hozzá kell férnie az Ön Wi-Fi-hálózatához.
+
+Az átküldéshez lépjen a Beállításokba, majd kapcsolja be az alkalmazásnál a „Hozzáférés helyi hálózaton” beállítást.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Az átküldéshez az alkalmazásnak hozzá kell férnie a helyi hálózathoz";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Ahhoz, hogy az alkalmazás csatlakozni tudjon az eszközeihez, hozzá kell férnie az Ön Wi-Fi-hálózatához.
+
+Az átküldéshez válassza az „OK” lehetőséget, amikor az alkalmazás csatlakozni szeretne a helyi hálózathoz. Ezt később is engedélyezheti az alkalmazásnál az iOS beállításaiban.";
+"CAST_NETWORK_PERMISSION_TITLE"="Az átküldéshez az alkalmazásnak hozzá kell férnie a helyi hálózathoz";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Átküldési munkamenet megkezdve";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Átküldési munkamenet befejezve";
+"DEFAULT_AUDIO_TRACK_NAME"="%d. hangsáv";
+"DEFAULT_TEXT_TRACK_NAME"="%d. feliratsáv";
+"EXPANDED_CONTROLS_CASTING_TO"="Átküldés ide: %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Lépjen a telefon Beállítások pontjába, és ellenőrizze, hogy be van-e kapcsolva a helyi hálózathoz való hozzáférés ennél az alkalmazásnál";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Győződjön meg arról, hogy a helyi hálózathoz való hozzáférés be van kapcsolva";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Feliratsáv kiválasztása";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Előre 30 másodpercet";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Némítás be- és kikapcsolása";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Tovább";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Lejátszás/szüneteltetés";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Előző";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Vissza 30 másodpercet";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Médialejátszás leállítása";
+"NO_DEVICES_AVAILABLE"="Nincs rendelkezésre álló eszköz";
+"NO_TEXT_TRACK_ITEM"="Nincs";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Szüneteltetés";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Lejátszás";
+"SETTINGS"="Beállítások";
+"SKIP_AD_LABEL"="A hirdetést %ld másodperc múlva ugorhatja át…";
+"TABLET_LOWERCASE"="táblagép";
+"TEXT_TRACKS_TITLE"="Feliratok";
+"TRACK_NAME_CLOSED_CAPTIONS"="Feliratok";
+"WIFI_ERROR_DESCRIPTION"="Győződjön meg arról, hogy a(z) %@ és a Cast-eszköz ugyanazon a Wi-Fi-hálózaton van.";
+"WIFI_ERROR_TITLE"="Ellenőrizze a Wi-Fi-hálózatot";

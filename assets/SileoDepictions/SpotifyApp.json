@@ -46,12 +46,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "8.6.94",
+                    "text": "8.7.12",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "01-19-2022",
+                    "text": "03-30-2022",
                     "title": "Updated",
                     "class": "DepictionTableTextView"
                 },

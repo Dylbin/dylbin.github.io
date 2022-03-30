@@ -1,0 +1,11 @@
+"Cancel"="Peruuta";
+"EmmConnectLabel"="Muodosta yhteys";
+"EmmConnectText"="Suojaa organisaatiosi dataa muodostamalla yhteys Device Policy ‑sovellukseen ennen kirjautumista.";
+"EmmConnectTitle"="Muodostetaanko yhteys Device Policy ‑sovellukseen?";
+"EmmErrorTitle"="Kirjautuminen tilille ei onnistu";
+"EmmGeneralError"="Laite ei noudata järjestelmänvalvojan määrittämää verkkotunnuskäytäntöä.";
+"EmmPasscodeRequired"="Järjestelmänvalvoja edellyttää tunnuskoodin määrittämistä, ennen kuin voit käyttää tiliä tällä laitteella. Määritä tunnuskoodi ja yritä uudelleen.";
+"OK"="OK";
+"SettingsAppName"="Asetukset";
+"Sign in"="Kirjaudu sisään";
+"Sign in with Google"="Kirjaudu Google-tilin tunnuksilla";

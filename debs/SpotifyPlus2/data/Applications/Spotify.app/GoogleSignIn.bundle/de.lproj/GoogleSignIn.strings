@@ -1,0 +1,11 @@
+"Cancel"="Abbrechen";
+"EmmConnectLabel"="Verknüpfen";
+"EmmConnectText"="Zum Schutz der Daten Ihrer Organisation müssen Sie Ihr Gerät zuerst mit der Device Policy App verknüpfen, bevor Sie sich anmelden.";
+"EmmConnectTitle"="Mit der Device Policy App verknüpfen?";
+"EmmErrorTitle"="Anmelden im Konto nicht möglich";
+"EmmGeneralError"="Das Gerät ist nicht mit den von Ihrem Administrator festgelegten Sicherheitsrichtlinien konform.";
+"EmmPasscodeRequired"="Ihr Administrator hat festgelegt, dass auf diesem Gerät ein Sicherheitscode eingerichtet werden muss, um auf dieses Konto zuzugreifen. Bitte legen Sie einen Sicherheitscode fest und versuchen Sie es noch einmal.";
+"OK"="OK";
+"SettingsAppName"="Einstellungen";
+"Sign in"="Anmelden";
+"Sign in with Google"="Über Google anmelden";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Streamen";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Verbunden";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Verbindung wird hergestellt";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Nicht verbunden";
+"CAST_DIALOG_CONNECTING_TITLE"="Verbindung wird hergestellt zu";
+"CAST_DIALOG_TITLE"="Streamen auf";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="Zu den Einstellungen";
+"CAST_LEARN_MORE"="Weitere Informationen";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Diese App benötigt Zugriff auf dein WLAN, um eine Verbindung zu deinen Geräten herzustellen.
+
+Wenn du streamen möchtest, ruf deine Einstellungen auf und gewähre der App Zugriff auf das lokale Netzwerk.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Diese App benötigt zum Streamen Zugriff auf das lokale Netzwerk";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Diese App benötigt Zugriff auf dein WLAN, um eine Verbindung zu deinen Geräten herzustellen.
+
+Wähle \"OK\" aus, wenn die App zum Streamen eine Verbindung zu deinem lokalen Netzwerk herstellen möchte. Du kannst das auch später in den iOS-Einstellungen für diese App tun.";
+"CAST_NETWORK_PERMISSION_TITLE"="Diese App benötigt zum Streamen Zugriff auf das lokale Netzwerk";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Stream gestartet";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Stream beendet";
+"DEFAULT_AUDIO_TRACK_NAME"="Titel %d";
+"DEFAULT_TEXT_TRACK_NAME"="Titel %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Inhalte werden an \"%@\" gestreamt";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Gehen Sie zu den Einstellungen auf diesem Smartphone und prüfen Sie, ob der Zugriff auf das lokale Netzwerk für diese App aktiviert ist";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Prüfen, ob der Zugriff auf das lokale Netzwerk aktiviert ist";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Titel mit Untertiteln auswählen";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 Sekunden vor";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Stummschaltung aktivieren oder deaktivieren";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Weiter";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Umschalten zwischen Wiedergabe und Pause";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Zurück";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 Sekunden zurück";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Wiedergabe beenden";
+"NO_DEVICES_AVAILABLE"="Keine Geräte verfügbar";
+"NO_TEXT_TRACK_ITEM"="Keine";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="Smartphone";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pausieren";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Wiedergabe";
+"SETTINGS"="Einstellungen";
+"SKIP_AD_LABEL"="Werbung überspringen in %ld…";
+"TABLET_LOWERCASE"="Tablet";
+"TEXT_TRACKS_TITLE"="Untertitel";
+"TRACK_NAME_CLOSED_CAPTIONS"="Untertitel";
+"WIFI_ERROR_DESCRIPTION"="Prüfen Sie, ob sich Ihr %@ und das Übertragungsgerät im selben WLAN befinden";
+"WIFI_ERROR_TITLE"="WLAN prüfen";

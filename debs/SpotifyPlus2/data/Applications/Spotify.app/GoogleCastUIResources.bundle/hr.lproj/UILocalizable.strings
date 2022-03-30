@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Zvuk";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Emitiraj";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Povezano";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Povezivanje";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Nije povezano";
+"CAST_DIALOG_CONNECTING_TITLE"="Povezivanje sa";
+"CAST_DIALOG_TITLE"="Emitiranje na uređaju";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d posto";
+"CAST_ENABLE_IN_SETTINGS"="Idite na Postavke";
+"CAST_LEARN_MORE"="Saznajte više";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="UŽIVO";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Da biste povezali svoje uređaje, ovoj aplikaciji potreban je pristup vašoj Wi-Fi mreži.
+
+Za emitiranje idite na Postavke i uključite \"Pristup lokalnoj mreži\" za ovu aplikaciju.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Ovoj aplikaciji potreban je pristup lokalnoj mreži za emitiranje";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Da biste povezali svoje uređaje, ovoj aplikaciji potreban je pristup vašoj Wi-Fi mreži.
+
+Za emitiranje odaberite \"U redu\" kad aplikacija zatraži povezivanje s vašom lokalnom mrežom. To možete dopustiti i kasnije u iOS postavkama za ovu aplikaciju.";
+"CAST_NETWORK_PERMISSION_TITLE"="Ovoj aplikaciji potreban je pristup lokalnoj mreži za emitiranje";
+"CAST_OK"="U redu";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesija emitiranja započela";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesija emitiranja završila";
+"DEFAULT_AUDIO_TRACK_NAME"="Zapis %d";
+"DEFAULT_TEXT_TRACK_NAME"="Zapis %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Emitiranje na uređaj %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="U postavkama na ovom telefonu provjerite je li pristup lokalnoj mreži uključen za ovu aplikaciju";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Provjerite je li uključen pristup lokalnoj mreži";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Odabir zapisa titlova";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 sekundi naprijed";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Uključivanje/isključivanje zvuka";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Dalje";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Izmjena reprodukcije i pauziranja";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Prethodno";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 sekundi unatrag";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Zaustavljanje reprodukcije medija";
+"NO_DEVICES_AVAILABLE"="Nema dostupnih uređaja";
+"NO_TEXT_TRACK_ITEM"="Ništa";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pauziraj";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Pokreni";
+"SETTINGS"="Postavke";
+"SKIP_AD_LABEL"="Oglas možete preskočiti za %ld...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Titlovi";
+"TRACK_NAME_CLOSED_CAPTIONS"="Titlovi";
+"WIFI_ERROR_DESCRIPTION"="Provjerite jesu li vaš %@ i uređaj za emitiranje na istoj Wi-Fi mreži";
+"WIFI_ERROR_TITLE"="Provjerite Wi-Fi mrežu";

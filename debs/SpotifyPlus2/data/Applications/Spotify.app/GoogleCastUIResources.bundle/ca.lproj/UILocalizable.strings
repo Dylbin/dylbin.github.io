@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Àudio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Emet";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Estat: connectat";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Estat: s'està connectant";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Estat: no connectat";
+"CAST_DIALOG_CONNECTING_TITLE"="S'està connectant a";
+"CAST_DIALOG_TITLE"="Emet a";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d per cent";
+"CAST_ENABLE_IN_SETTINGS"="Ves a Configuració";
+"CAST_LEARN_MORE"="Més informació";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="EN DIRECTE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Aquesta aplicació necessita accedir a la xarxa Wi‑Fi per connectar-se als teus dispositius.
+
+Per emetre contingut, ves a Configuració i activa l'opció Accés a la xarxa local per a aquesta aplicació.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Aquesta aplicació necessita accedir a la xarxa local per emetre contingut";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Aquesta aplicació necessita accedir a la xarxa Wi‑Fi per connectar-se als teus dispositius.
+
+Per emetre contingut, selecciona “D'acord” quan l'aplicació sol·liciti connectar-se a la xarxa local. També pots activar aquesta opció més endavant a la configuració d'iOS per a aquesta aplicació.";
+"CAST_NETWORK_PERMISSION_TITLE"="Aquesta aplicació necessita accedir a la xarxa local per emetre contingut";
+"CAST_OK"="D'acord";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="La sessió d'emissió ha començat";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="La sessió d'emissió ha acabat";
+"DEFAULT_AUDIO_TRACK_NAME"="Pista %d";
+"DEFAULT_TEXT_TRACK_NAME"="Pista %d";
+"EXPANDED_CONTROLS_CASTING_TO"="S'està emetent a %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="En aquest telèfon, ves a Configuració i comprova que l'opció Accés a la xarxa local estigui activada per a aquesta aplicació";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Assegura't que l'opció Accés a la xarxa local estigui activada";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Selecciona una pista de subtítols";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Avança 30 segons";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Silencia o deixa de silenciar";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Següent";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Reprodueix o posa en pausa";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Anterior";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Rebobina 30 segons";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Atura la reproducció de contingut multimèdia";
+"NO_DEVICES_AVAILABLE"="No hi ha cap dispositiu disponible";
+"NO_TEXT_TRACK_ITEM"="Cap";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="el telèfon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Posa en pausa";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Juga";
+"SETTINGS"="Configuració";
+"SKIP_AD_LABEL"="Pots ometre l'anunci d'aquí a %ld...";
+"TABLET_LOWERCASE"="la tauleta";
+"TEXT_TRACKS_TITLE"="Subtítols";
+"TRACK_NAME_CLOSED_CAPTIONS"="Subtítols";
+"WIFI_ERROR_DESCRIPTION"="Comprova que %@ i el dispositiu d'emissió estiguin connectats a la mateixa xarxa Wi-Fi";
+"WIFI_ERROR_TITLE"="Comprova la xarxa Wi-Fi";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Hantar";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Keadaan bersambung";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Keadaan menyambung";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Keadaan tidak bersambung";
+"CAST_DIALOG_CONNECTING_TITLE"="Menyambung ke";
+"CAST_DIALOG_TITLE"="Hantar ke";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d peratus";
+"CAST_ENABLE_IN_SETTINGS"="Pergi ke Tetapan";
+"CAST_LEARN_MORE"="Ketahui lebih lanjut";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LANGSUNG";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Untuk menyambung ke peranti anda, apl ini memerlukan akses kepada rangkaian Wi-Fi anda.
+
+Untuk membuat Penghantaran, pergi ke Tetapan anda dan hidupkan “Akses Rangkaian Setempat” untuk apl ini.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Apl ini memerlukan Akses Rangkaian Setempat untuk Menghantar";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Untuk menyambung ke peranti anda, apl ini memerlukan akses kepada rangkaian Wi-Fi anda.
+
+Untuk membuat Penghantaran, pilih “OK” apabila apl meminta untuk menyambung kepada rangkaian setempat anda. Anda juga boleh membenarkan perkara ini dalam Tetapan iOS untuk apl ini.";
+"CAST_NETWORK_PERMISSION_TITLE"="Apl ini memerlukan Akses Rangkaian Setempat untuk Menghantar";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesi Hantar bermula";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesi Hantar tamat";
+"DEFAULT_AUDIO_TRACK_NAME"="Lagu %d";
+"DEFAULT_TEXT_TRACK_NAME"="Lagu %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Menghantar ke %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Pergi ke Tetapan pada telefon ini dan semak bahawa Akses Rangkaian Setempat dihidupkan untuk apl ini";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Pastikan Akses Rangkaian Setempat dihidupkan";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Pilih runut sari kata";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Mundar 30 saat";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Togol keadaan redam";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Seterusnya";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Togol main jeda";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Sebelumnya";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Mandir 30 saat";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Hentikan main balik media";
+"NO_DEVICES_AVAILABLE"="Tiada peranti yang tersedia";
+"NO_TEXT_TRACK_ITEM"="Tiada";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Jeda";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Main";
+"SETTINGS"="Tetapan";
+"SKIP_AD_LABEL"="Anda boleh melangkau iklan dalam masa %ld ...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Sari Kata";
+"TRACK_NAME_CLOSED_CAPTIONS"="Kapsyen Tertutup";
+"WIFI_ERROR_DESCRIPTION"="Pastikan %@ anda dan peranti cast menggunakan rangkaian Wi-Fi yang sama";
+"WIFI_ERROR_TITLE"="Semak rangkaian Wi-Fi anda";

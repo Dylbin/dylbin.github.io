@@ -1,0 +1,11 @@
+"Cancel"="Annuller";
+"EmmConnectLabel"="Opret forbindelse";
+"EmmConnectText"="Du skal oprette forbindelse til appen Device Policy, inden du logger ind, for at beskytte din organisations data.";
+"EmmConnectTitle"="Vil du oprette forbindelse til appen Device Policy?";
+"EmmErrorTitle"="Der kunne ikke logges ind på kontoen";
+"EmmGeneralError"="Enheden overholder ikke den sikkerhedspolitik, der er angivet af din administrator.";
+"EmmPasscodeRequired"="Din administrator kræver, at du angiver en adgangskode på enheden for at få adgang til kontoen. Angiv en adgangskode, og prøv igen.";
+"OK"="OK";
+"SettingsAppName"="Indstillinger";
+"Sign in"="Log ind";
+"Sign in with Google"="Log ind med Google";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Casten";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Status Verbonden";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Status Verbinding maken";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Status Niet verbonden";
+"CAST_DIALOG_CONNECTING_TITLE"="Verbinding maken met";
+"CAST_DIALOG_TITLE"="Casten naar";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d procent";
+"CAST_ENABLE_IN_SETTINGS"="Ga naar 'Instellingen'";
+"CAST_LEARN_MORE"="Meer informatie";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Deze app heeft toegang tot je wifi-netwerk nodig om verbinding te maken met je apparaten.
+
+Als je wilt casten, ga je naar 'Instellingen' en schakel je 'Lokale netwerktoegang' in voor deze app.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Deze app heeft lokale netwerktoegang nodig om te casten";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Deze app heeft toegang tot je wifi-netwerk nodig om verbinding te maken met je apparaten.
+
+Als je wilt casten, selecteer je OK als de app toestemming vraagt om verbinding te maken met je lokale netwerk. Je kunt dit ook later doen in de iOS-instellingen voor deze app.";
+"CAST_NETWORK_PERMISSION_TITLE"="Deze app heeft lokale netwerktoegang nodig om te casten";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Cast-sessie gestart";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Cast-sessie beëindigd";
+"DEFAULT_AUDIO_TRACK_NAME"="Track %d";
+"DEFAULT_TEXT_TRACK_NAME"="Track %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Er wordt gecast naar %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Ga naar Instellingen op deze telefoon en ga na of lokale netwerktoegang aanstaat voor deze app";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Zorg dat lokale netwerktoegang aanstaat";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Een ondertitelingstrack selecteren";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 seconden vooruit";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Dempen in-/uitschakelen";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Volgende";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Schakelaar voor afspelen/onderbreken";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Vorige";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 seconden terug";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Afspelen van media stoppen";
+"NO_DEVICES_AVAILABLE"="Geen apparaten beschikbaar";
+"NO_TEXT_TRACK_ITEM"="Geen";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefoon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Onderbreken";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Afspelen";
+"SETTINGS"="Instellingen";
+"SKIP_AD_LABEL"="Je kunt de advertentie overslaan over %ld ...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Ondertitels";
+"TRACK_NAME_CLOSED_CAPTIONS"="Ondertiteling";
+"WIFI_ERROR_DESCRIPTION"="Zorg dat je %@ en het cast-apparaat verbinding hebben met hetzelfde wifi-netwerk";
+"WIFI_ERROR_TITLE"="Check je wifi-netwerk";

@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="This will let you play your imported music or podcasts on Spotify.";
+"NSBluetoothAlwaysUsageDescription"="This lets you use Spotify with external accessories.";
+"NSBluetoothPeripheralUsageDescription"="This lets you use Spotify with external accessories.";
+"NSCameraUsageDescription"="This lets you scan Spotify Codes and take photos for your profile and playlists.";
+"NSFaceIDUsageDescription"="This lets you set access restrictions using Face ID.";
+"NSLocalNetworkUsageDescription"="This lets you listen on different devices. Spotify will also get access to local audio files.";
+"NSMicrophoneUsageDescription"="This lets you control Spotify using your voice.";
+"NSPhotoLibraryAddUsageDescription"="This lets you save images to your Photo Libary.";
+"NSPhotoLibraryUsageDescription"="This lets you select images from your Photo Library.";
+"NSUserTrackingUsageDescription"="Your data will be used to deliver personalized ads or content to you.";

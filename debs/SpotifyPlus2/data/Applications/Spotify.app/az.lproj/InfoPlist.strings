@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Bu, idxal etdiyin musiqi və ya podkastları Spotify-da oxutmağa imkan verəcək.";
+"NSBluetoothAlwaysUsageDescription"="Bu, Spotify-ı xarici aksesuarlar ilə istifadə etməyinə imkan verəcək.";
+"NSBluetoothPeripheralUsageDescription"="Bu, Spotify-ı xarici aksesuarlar ilə istifadə etməyinə imkan verəcək.";
+"NSCameraUsageDescription"="Bu, Spotify Kodlarını skanlamağa, eləcə də profiliniz və pleylistləriniz üçün foto çəkməyə imkan verir.";
+"NSFaceIDUsageDescription"="Bu, Face ID vasitəsilə girişi məhdudlaşdırmağa imkan verəcək.";
+"NSLocalNetworkUsageDescription"="Bu, müxtəlif cihazlarda dinləməyə imkan verir. Spotify həmçinin lokal audio fayllarına daxil olacaq.";
+"NSMicrophoneUsageDescription"="Bu, səsindən istifadə edərək Spotify-ı idarə etməyə imkan verəcək.";
+"NSPhotoLibraryAddUsageDescription"="Bu, Foto Kitabxananda şəkilləri yaddaşda saxlamağa imkan verəcək.";
+"NSPhotoLibraryUsageDescription"="Bu, Foto Kitabxanandan şəkillər seçməyə imkan verəcək.";
+"NSUserTrackingUsageDescription"="Məlumatlarınız sizə fərdiləşdirilmiş reklam və ya məzmun çatdırmaq üçün istifadə ediləcək.";

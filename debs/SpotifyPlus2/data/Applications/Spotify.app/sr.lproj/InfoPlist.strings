@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Ovo će vam omogućiti da puštate uvezenu muziku ili podkaste u usluzi Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Ovo vam omogućava da koristite Spotify pomoću spoljne dodatne opreme.";
+"NSBluetoothPeripheralUsageDescription"="Ovo vam omogućava da koristite Spotify pomoću spoljne dodatne opreme.";
+"NSCameraUsageDescription"="Ovo vam omogućava da skenirate Spotify kodove i snimate fotografije za profil i plejliste.";
+"NSFaceIDUsageDescription"="Ovo vam omogućava da postavite ograničenja pristupa koristeći identifikaciju lica.";
+"NSLocalNetworkUsageDescription"="Ovo vam omogućava slušanje na različitim uređajima. Spotify će dobiti i pristup lokalnim audio fajlovima.";
+"NSMicrophoneUsageDescription"="Ovo vam omogućava da kontrolišete Spotify pomoću glasa.";
+"NSPhotoLibraryAddUsageDescription"="Ovo vam omogućava da sačuvate slike u biblioteci fotografija.";
+"NSPhotoLibraryUsageDescription"="Ovo vam omogućava da izaberete slike iz biblioteke fotografija.";
+"NSUserTrackingUsageDescription"="Vaši podaci će se koristiti za pružanje personalizovanih oglasa i sadržaja.";

@@ -1,0 +1,11 @@
+"Cancel"="Zrušiť";
+"EmmConnectLabel"="Prepojiť";
+"EmmConnectText"="Na to, aby bolo možné chrániť dáta vašej organizácie, je nutné pred prihlásením aktivovať prepojenie s aplikáciou Pravidlá pre zariadenie.";
+"EmmConnectTitle"="Prepojiť s aplikáciou Pravidlá pre zariadenie?";
+"EmmErrorTitle"="Nedá sa prihlásiť do účtu";
+"EmmGeneralError"="Zariadenie nespĺňa pravidlá zabezpečenia nastavené vaším správcom.";
+"EmmPasscodeRequired"="Správca vyžaduje, aby ste v tomto zariadení nastavili vstupný kód na prístup do príslušného účtu. Nastavte vstupný kód a skúste to znova.";
+"OK"="OK";
+"SettingsAppName"="Nastavenia";
+"Sign in"="Prihlásiť sa";
+"Sign in with Google"="Prihlásiť sa pomocou účtu Google";

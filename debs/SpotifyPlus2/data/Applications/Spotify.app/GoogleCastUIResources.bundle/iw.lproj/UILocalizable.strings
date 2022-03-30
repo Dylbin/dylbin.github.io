@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="אודיו";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="‏העברה (cast)";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="מצב 'מחובר'";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="מצב 'מתחבר'";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="מצב 'לא מחובר'";
+"CAST_DIALOG_CONNECTING_TITLE"="מתבצעת התחברות אל";
+"CAST_DIALOG_TITLE"="‏העברה (cast) אל";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d אחוזים";
+"CAST_ENABLE_IN_SETTINGS"="מעבר להגדרות";
+"CAST_LEARN_MORE"="מידע נוסף";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="בשידור חי";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="‏כדי להתחבר למכשירים שלך, האפליקציה הזו צריכה גישה לרשת ה-Wi-Fi שלך.
+
+כדי להעביר (cast), יש לעבור להגדרות ולהפעיל את \"גישה לרשת המקומית\" לאפליקציה הזו.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="‏כדי להעביר (cast) באמצעות האפליקציה הזו, יש להעניק לה גישה לרשת המקומית";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="‏כדי להתחבר למכשירים שלך, האפליקציה הזו צריכה גישה לרשת ה-Wi-Fi שלך.
+
+כדי להעביר (cast), יש לבחור באפשרות \"אישור\" כשתוצג בקשה באפליקציה להתחבר לרשת המקומית. אפשר גם לאשר זאת מאוחר יותר בהגדרות iOS של האפליקציה הזו.";
+"CAST_NETWORK_PERMISSION_TITLE"="‏כדי להעביר (cast) באמצעות האפליקציה הזו, יש להעניק לה גישה לרשת המקומית";
+"CAST_OK"="אישור";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="‏פעולת ההעברה (cast) התחילה";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="‏סשן ההעברה (cast) הסתיים";
+"DEFAULT_AUDIO_TRACK_NAME"="טראק %d";
+"DEFAULT_TEXT_TRACK_NAME"="טראק %d";
+"EXPANDED_CONTROLS_CASTING_TO"="‏מתבצעת העברה (cast) אל %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="יש לעבור להגדרות בטלפון הזה ולבדוק שהגישה לרשת המקומית מופעלת לאפליקציה זו.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="יש לוודא שהגישה לרשת המקומית מופעלת";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="בחירת טראק כתוביות";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="קפיצה 30 שניות קדימה";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="השתקה או ביטול השתקה";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="הבא";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="לחצן הפעלה/השהייה";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="הקודם";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="קפיצה 30 שניות אחורה";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="הפסקת הפעלה של מדיה";
+"NO_DEVICES_AVAILABLE"="אין מכשירים זמינים";
+"NO_TEXT_TRACK_ITEM"="ללא";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="טלפון";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="השהיה";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="הפעלה";
+"SETTINGS"="הגדרות";
+"SKIP_AD_LABEL"="אפשר לדלג על המודעה בעוד %ld ...";
+"TABLET_LOWERCASE"="טאבלט";
+"TEXT_TRACKS_TITLE"="כתוביות";
+"TRACK_NAME_CLOSED_CAPTIONS"="כתוביות";
+"WIFI_ERROR_DESCRIPTION"="‏יש לוודא שה%@ ומכשיר ה-CAST שלך מחוברים לאותה רשת Wi-Fi.";
+"WIFI_ERROR_TITLE"="‏בדיקה של רשת ה-Wi-Fi";

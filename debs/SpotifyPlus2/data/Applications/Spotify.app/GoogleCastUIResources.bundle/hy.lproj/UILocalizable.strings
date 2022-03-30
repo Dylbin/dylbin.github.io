@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Աուդիո";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Հեռարձակել";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Միացված կարգավիճակ";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Միացման կարգավիճակ";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Չմիացված կարգավիճակ";
+"CAST_DIALOG_CONNECTING_TITLE"="Հասանելի սարքեր";
+"CAST_DIALOG_TITLE"="Ընտրեք սարքը";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="Անցնել կարգավորումներ";
+"CAST_LEARN_MORE"="Իմանալ ավելին";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ՈՒՂԻՂ ԵԹԵՐ";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Սարքերին միանալու համար այս հավելվածին անհրաժեշտ է ձեր Wi-Fi ցանցն օգտագործելու թույլտվություն։
+
+Հեռարձակելու համար անցեք կարգավորումներ և միացրեք «Լոկալ ցանցի հասանելիություն» պարամետրն այս հավելվածի համար։";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Հեռարձակելու համար այս հավելվածին անհրաժեշտ է լոկալ ցանցի հասանելիություն";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Սարքերին միանալու համար այս հավելվածին պետք է հասանելի լինի ձեր Wi-Fi ցանցը։
+
+Հեռարձակելու համար ընտրեք «Եղավ», երբ հավելվածը լոկալ ցանցին միանալու թույլտվություն խնդրի։ Դուք կարող եք ավելի ուշ թույլատրել դա iOS-ի կարգավորումներում։";
+"CAST_NETWORK_PERMISSION_TITLE"="Հեռարձակելու համար այս հավելվածին անհրաժեշտ է լոկալ ցանցի հասանելիություն";
+"CAST_OK"="Եղավ";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Հեռարձակումը սկսվեց";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Հեռարձակումն ավարտվեց";
+"DEFAULT_AUDIO_TRACK_NAME"="Կատարում %d";
+"DEFAULT_TEXT_TRACK_NAME"="Կատարում %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Հեռարձակում «%@» սարքին";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Այս հեռախոսում անցեք կարգավորումներ և ստուգեք՝ արդյոք լոկալ ցանցի հասանելիությունը միացված է այս հավելվածի համար։";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Համոզվեք, որ լոկալ ցանցի հասանելիությունը միացված է";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Ընտրեք ենթագրերի ձայնուղին";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 վայրկյան առաջ տալ";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Միացնել/անջատել ձայնը";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Առաջ";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="«Նվագարկել/դադարեցնել» կոճակ";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Հետ";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 վայրկյան հետ անցնել";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Դադարեցնել նվագարկումը";
+"NO_DEVICES_AVAILABLE"="Հասանելի սարքեր չկան";
+"NO_TEXT_TRACK_ITEM"="Ոչ մեկը";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="հեռախոս";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Դադար";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Նվագարկում";
+"SETTINGS"="Կարգավորումներ";
+"SKIP_AD_LABEL"="Գովազդը կարող եք բաց թողնել %ldից…";
+"TABLET_LOWERCASE"="պլանշետ";
+"TEXT_TRACKS_TITLE"="Ենթագրեր";
+"TRACK_NAME_CLOSED_CAPTIONS"="Ենթագրեր";
+"WIFI_ERROR_DESCRIPTION"="Համոզվեք, որ ձեր %@ը և Google Cast սարքը նույն Wi-Fi ցանցում են";
+"WIFI_ERROR_TITLE"="Ստուգեք ձեր Wi-Fi ցանցը";

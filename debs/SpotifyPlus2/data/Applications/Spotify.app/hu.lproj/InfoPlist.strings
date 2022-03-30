@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Ha engedélyezed, az importált zenéid vagy podcastjaid is lejátszhatod a Spotifyon.";
+"NSBluetoothAlwaysUsageDescription"="Engedélyezi a Spotify külső kiegészítőkkel való használatát.";
+"NSBluetoothPeripheralUsageDescription"="Engedélyezi a Spotify külső kiegészítőkkel való használatát.";
+"NSCameraUsageDescription"="Így beszkennelheted a Spotify-kódokat, és fényképet készíthetsz a profilodhoz és a műsorlistáidhoz.";
+"NSFaceIDUsageDescription"="Hozzáférési korlátozások állíthatók be vele a Face ID-hoz.";
+"NSLocalNetworkUsageDescription"="Így más készülékeken is hallgathatod a tartalmakat. Továbbá a Spotify hozzáférést kap a helyi audiofájlokhoz.";
+"NSMicrophoneUsageDescription"="Engedélyezi a Spotify hangvezérlését.";
+"NSPhotoLibraryAddUsageDescription"="Ezzel engedélyezheted a képek mentését a fényképalbumodba.";
+"NSPhotoLibraryUsageDescription"="Engedélyezi a képek választását a fényképalbumodból.";
+"NSUserTrackingUsageDescription"="Adataidat arra használjuk, hogy személyre szabott hirdetéseket vagy tartalmakat nyújthassunk.";

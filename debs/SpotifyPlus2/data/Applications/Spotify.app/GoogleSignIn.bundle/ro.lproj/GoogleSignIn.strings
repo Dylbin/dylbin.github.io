@@ -1,0 +1,11 @@
+"Cancel"="Anulați";
+"EmmConnectLabel"="Conectați";
+"EmmConnectText"="Pentru a vă proteja datele organizației, trebuie să vă conectați cu aplicația Device Policy înainte de a vă conecta.";
+"EmmConnectTitle"="Vă conectați cu aplicația Device Policy?";
+"EmmErrorTitle"="Nu vă puteți conecta la cont";
+"EmmGeneralError"="Dispozitivul nu respectă politica de securitate stabilită de administrator.";
+"EmmPasscodeRequired"="Administratorul impune să setați o parolă pe acest dispozitiv ca să accesați contul. Setați o parolă și încercați din nou.";
+"OK"="OK";
+"SettingsAppName"="Setări";
+"Sign in"="Conectați-vă";
+"Sign in with Google"="Conectați-vă cu Google";

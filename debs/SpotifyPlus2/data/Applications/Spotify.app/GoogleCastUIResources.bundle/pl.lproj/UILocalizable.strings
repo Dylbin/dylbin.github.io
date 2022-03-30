@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Dźwięk";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Przesyłaj";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Stan: połączono";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Stan: łączę";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Stan: nie połączono";
+"CAST_DIALOG_CONNECTING_TITLE"="Łączę z";
+"CAST_DIALOG_TITLE"="Prześlij na";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d procent";
+"CAST_ENABLE_IN_SETTINGS"="Otwórz Ustawienia";
+"CAST_LEARN_MORE"="Więcej informacji";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="NA ŻYWO";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Aby ta aplikacja mogła połączyć się z Twoimi urządzeniami, potrzebuje dostępu do sieci Wi-Fi.
+
+Aby włączyć przesyłanie, przejdź do ustawień i włącz dla tej aplikacji „Dostęp przez sieć lokalną”.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Przesyłanie za pomocą tej aplikacji wymaga dostępu przez sieć lokalną";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Aby ta aplikacja mogła połączyć się z Twoimi urządzeniami, potrzebuje dostępu do sieci Wi-Fi.
+
+Aby włączyć przesyłanie, wybierz „OK”, gdy aplikacja poprosi o połączenie z siecią lokalną. Możesz też zezwolić na to później w ustawieniach iOS dotyczących tej aplikacji.";
+"CAST_NETWORK_PERMISSION_TITLE"="Przesyłanie za pomocą tej aplikacji wymaga dostępu przez sieć lokalną";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Przesyłanie rozpoczęte";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Przesyłanie zakończone";
+"DEFAULT_AUDIO_TRACK_NAME"="Utwór %d";
+"DEFAULT_TEXT_TRACK_NAME"="Utwór %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Przesyłam na: %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Otwórz ustawienia na tym telefonie i sprawdź, czy dla tej aplikacji włączono Dostęp przez sieć lokalną";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Sprawdź, czy włączono Dostęp przez sieć lokalną";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Wybierz ścieżkę napisów";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 sekund do przodu";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Przełącz wyciszenie";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Dalej";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Odtwórz/wstrzymaj";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Wstecz";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Przewiń 30 s do tyłu";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Zatrzymaj odtwarzanie multimediów";
+"NO_DEVICES_AVAILABLE"="Brak dostępnych urządzeń";
+"NO_TEXT_TRACK_ITEM"="Brak";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Wstrzymaj";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Odtwórz";
+"SETTINGS"="Ustawienia";
+"SKIP_AD_LABEL"="Możesz pominąć reklamę za %ld…";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Napisy";
+"TRACK_NAME_CLOSED_CAPTIONS"="Napisy";
+"WIFI_ERROR_DESCRIPTION"="Upewnij się, że %@ oraz urządzenie przesyłające są w tej samej sieci Wi-Fi";
+"WIFI_ERROR_TITLE"="Sprawdź sieć Wi-Fi";

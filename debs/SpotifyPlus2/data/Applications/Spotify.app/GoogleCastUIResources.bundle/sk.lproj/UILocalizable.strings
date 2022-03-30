@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Zvuk";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Prenášať";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Stav: pripojené";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Stav: pripájanie";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Stav: nepripojené";
+"CAST_DIALOG_CONNECTING_TITLE"="Pripája sa k zariadeniu";
+"CAST_DIALOG_TITLE"="Prenášať do";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d percent";
+"CAST_ENABLE_IN_SETTINGS"="Prejsť do Nastavení";
+"CAST_LEARN_MORE"="Ďalšie informácie";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="NAŽIVO";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Táto aplikácia vyžaduje na pripojenie sa k zariadeniam prístup k vašej sieti Wi-Fi.
+
+Ak chcete spustiť prenos, prejdite do Nastavení a zapnite pre túto aplikáciu Prístup k miestnej sieti.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Táto aplikácia vyžaduje na prenos prístup k miestnej sieti";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Táto aplikácia vyžaduje na pripojenie sa k zariadeniam prístup k vašej sieti Wi-Fi.
+
+Ak chcete spustiť prenos, vyberte OK, keď aplikácia požiada o pripojenie k vašej miestnej sieti. Aplikácii to môžete tiež povoliť neskôr v Nastaveniach systému iOS.";
+"CAST_NETWORK_PERMISSION_TITLE"="Táto aplikácia vyžaduje na prenos prístup k miestnej sieti";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Relácia prenosu bola spustená";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Relácia prenosu sa skončila";
+"DEFAULT_AUDIO_TRACK_NAME"="Stopa %d";
+"DEFAULT_TEXT_TRACK_NAME"="Stopa %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Prebieha prenos do zariadenia %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Prejdite v tomto telefóne do Nastavení a skontrolujte, či je pre túto aplikáciu zapnutý prístup k miestnej sieti";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Skontrolujte, či je zapnutý prístup k miestnej sieti";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Vybrať stopu skrytých titulkov";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="O 30 sekúnd vpred";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Vypnúť alebo zapnúť zvuk";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Ďalej";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Prepínač prehrať/pozastaviť";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Naspäť";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="O 30 sekúnd späť";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Zastaviť prehrávanie mediálneho obsahu";
+"NO_DEVICES_AVAILABLE"="Nie sú k dispozícii žiadne zariadenia";
+"NO_TEXT_TRACK_ITEM"="Žiadne";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefón";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pozastaviť";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Prehrať";
+"SETTINGS"="Nastavenia";
+"SKIP_AD_LABEL"="Reklamu môžete preskočiť o %ld …";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Titulky";
+"TRACK_NAME_CLOSED_CAPTIONS"="Skryté titulky";
+"WIFI_ERROR_DESCRIPTION"="Skontrolujte, či sú vaše zariadenie %@ a zariadenie na prenos pripojené k rovnakej sieti Wi‑Fi";
+"WIFI_ERROR_TITLE"="Skontrolujte sieť Wi‑Fi";

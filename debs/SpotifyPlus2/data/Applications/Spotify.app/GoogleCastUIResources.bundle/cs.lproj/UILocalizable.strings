@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Zvuk";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Odeslat";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Stav: připojeno";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Stav: připojování";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Stav: nepřipojeno";
+"CAST_DIALOG_CONNECTING_TITLE"="Připojování k";
+"CAST_DIALOG_TITLE"="Odesílat do";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="Přejít do Nastavení";
+"CAST_LEARN_MORE"="Další informace";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ŽIVĚ";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Aby bylo možné připojit tuto aplikaci k zařízením, musíte jí udělit přístup k síti Wi-Fi.
+
+Přejděte do Nastavení a zapněte pro tuto aplikaci přístup k místní síti. Pak budete moci odesílat.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Aby bylo možné z této aplikace odesílat, musíte jí udělit přístup k místní síti";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Aby bylo možné připojit tuto aplikaci k zařízením, musíte jí udělit přístup k síti Wi-Fi.
+
+Až aplikace požádá o připojení k místní síti, vyberte OK a budete moci odesílat. Přístup můžete udělit také později v nastavení iOS pro tuto aplikaci.";
+"CAST_NETWORK_PERMISSION_TITLE"="Aby bylo možné z této aplikace odesílat, musíte jí udělit přístup k místní síti";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Relace odesílání byla zahájena";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Relace odesílání byla ukončena";
+"DEFAULT_AUDIO_TRACK_NAME"="Stopa %d";
+"DEFAULT_TEXT_TRACK_NAME"="Stopa %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Odesílání do zařízení %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Na tomto telefonu přejděte do Nastavení a zkontrolujte, zda je pro tuto aplikaci povolen přístup k místní síti";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Musí být povolen přístup k místní síti";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Vybrat stopu skrytých titulků";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="O 30 sekund vpřed";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Přepnout ztlumení zvuku";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Další";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Přepínač přehrávání a pauzy";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Předchozí";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="O 30 sekund zpět";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Zastavit přehrávání mediálního obsahu";
+"NO_DEVICES_AVAILABLE"="Nejsou k dispozici žádná zařízení";
+"NO_TEXT_TRACK_ITEM"="Žádné";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pozastavit";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Přehrát";
+"SETTINGS"="Nastavení";
+"SKIP_AD_LABEL"="Reklamu můžete přeskočit za %ld…";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Titulky";
+"TRACK_NAME_CLOSED_CAPTIONS"="Skryté titulky";
+"WIFI_ERROR_DESCRIPTION"="Zkontrolujte, zda jsou %@ a streamovací zařízení připojeny ke stejné síti Wi-Fi";
+"WIFI_ERROR_TITLE"="Zkontrolujte síť Wi-Fi";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="صوتی";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="ارسال محتوا";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="حالت متصل";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="حالت اتصال";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="حالت عدم اتصال";
+"CAST_DIALOG_CONNECTING_TITLE"="درحال اتصال به";
+"CAST_DIALOG_TITLE"="ارسال محتوا به";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d درصد";
+"CAST_ENABLE_IN_SETTINGS"="رفتن به تنظیمات";
+"CAST_LEARN_MORE"="بیشتر بدانید";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="زنده";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="‏این برنامه برای متصل شدن به دستگاه‌های شما باید به شبکه Wi-Fi دسترسی داشته باشد.
+
+برای «ارسال محتوا»، به «تنظیمات» بروید و «دسترسی به شبکه محلی» را برای این برنامه روشن کنید.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="این برنامه برای «ارسال محتوا» به «دسترسی به شبکه محلی» نیاز دارد";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="‏این برنامه برای متصل شدن به دستگاه‌های شما باید به شبکه Wi-Fi دسترسی داشته باشد.
+
+برای «ارسال محتوا»، وقتی برنامه برای متصل شدن به شبکه محلی شما درخواست می‌کند، «تأیید» را انتخاب کنید. همچنین می‌توانید این دسترسی را بعداً در «تنظیمات» iOS برای این برنامه مجاز کنید.";
+"CAST_NETWORK_PERMISSION_TITLE"="این برنامه برای «ارسال محتوا» به «دسترسی به شبکه محلی» نیاز دارد";
+"CAST_OK"="تأیید";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="جلسه ارسال محتوا آغاز شد";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="جلسه ارسال محتوا پایان یافت";
+"DEFAULT_AUDIO_TRACK_NAME"="آهنگ %d";
+"DEFAULT_TEXT_TRACK_NAME"="آهنگ %d";
+"EXPANDED_CONTROLS_CASTING_TO"="ارسال محتوا به %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="در این تلفن، به «تنظیمات» بروید و بررسی کنید «دسترسی به شبکه محلی» برای این برنامه روشن باشد";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="مطمئن شوید «دسترسی به شبکه محلی» روشن باشد";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="ترک زیرنویس ناشنوایان را انتخاب کنید";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="۳۰ ثانیه به جلو";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="روشن خاموش کردن حالت صامت";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="بعدی";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="جابه‌جایی بین پخش/مکث";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="قبلی";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="۳۰ ثانیه به عقب";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="توقف پخش رسانه";
+"NO_DEVICES_AVAILABLE"="دستگاهی دردسترس نیست";
+"NO_TEXT_TRACK_ITEM"="هیچ‌کدام";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="تلفن";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="مکث";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="پخش";
+"SETTINGS"="تنظیمات";
+"SKIP_AD_LABEL"="در %ld، می‌توانید از آگهی رد شوید ...";
+"TABLET_LOWERCASE"="رایانه لوحی";
+"TEXT_TRACKS_TITLE"="زیرنویس";
+"TRACK_NAME_CLOSED_CAPTIONS"="زیرنویس ناشنوایان";
+"WIFI_ERROR_DESCRIPTION"="‏مطمئن شوید %@ و دستگاه Cast در یک شبکه Wi-Fi باشند";
+"WIFI_ERROR_TITLE"="‏شبکه Wi-Fi را بررسی کنید";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Аудио";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Пребаци";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Статус Повезано";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Статус Повезује се";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Статус Није повезано";
+"CAST_DIALOG_CONNECTING_TITLE"="Повезује се са";
+"CAST_DIALOG_TITLE"="Пребаците на";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d%";
+"CAST_ENABLE_IN_SETTINGS"="Иди у Подешавања";
+"CAST_LEARN_MORE"="Сазнајте више";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="УЖИВО";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Да би се повезала са уређајима, овој апликацији треба приступ WiFi мрежи.
+
+Да бисте пребацивали, идите у Settings (Подешавања) и укључите Local Network Access (Приступ локалној мрежи) за ову апликацију.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Овој апликацији треба приступ локалној мрежи за пребацивање";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Да би се повезала са уређајима, овој апликацији треба приступ WiFi мрежи.
+
+Да бисте пребацивали, изаберите OK (Потврди) када апликација затражи да се повеже на локалну мрежу. Ово можете да дозволите и касније у iOS Settings (Подешавања iOS-а) за ову апликацију.";
+"CAST_NETWORK_PERMISSION_TITLE"="Овој апликацији треба приступ локалној мрежи за пребацивање";
+"CAST_OK"="Потврди";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесија пребацивања је започета";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесија пребацивања је завршена";
+"DEFAULT_AUDIO_TRACK_NAME"="Аудио снимак %d";
+"DEFAULT_TEXT_TRACK_NAME"="Аудио снимак %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Пребацује се на %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Идите у Подешавања на овом телефону и уверите се да је приступ локалној мрежи укључен за ову апликацију";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Уверите се да је укључен приступ локалној мрежи";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Изаберите опционални титл";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Премотај унапред 30 секунди";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Укључите или искључите звук";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Следеће";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Прекидач за команде Пусти и Паузирај";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Претходно";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Премотај уназад 30 секунди";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Заустави репродукцију медија";
+"NO_DEVICES_AVAILABLE"="Није доступан ниједан уређај";
+"NO_TEXT_TRACK_ITEM"="Нема";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="телефон";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Паузирај";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Пусти";
+"SETTINGS"="Подешавања";
+"SKIP_AD_LABEL"="Можете да прескочите овај оглас за %ld ...";
+"TABLET_LOWERCASE"="таблет";
+"TEXT_TRACKS_TITLE"="Титлови";
+"TRACK_NAME_CLOSED_CAPTIONS"="Титл";
+"WIFI_ERROR_DESCRIPTION"="Уверите се да су %@ и уређај за пребацивање на истој WiFi мрежи.";
+"WIFI_ERROR_TITLE"="Проверите WiFi мрежу";

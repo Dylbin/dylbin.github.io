@@ -1,0 +1,11 @@
+"Cancel"="Annuler";
+"EmmConnectLabel"="Connexion";
+"EmmConnectText"="Pour protéger les données de votre organisation, vous devez vous connecter à l'application Device Policy avant de vous connecter.";
+"EmmConnectTitle"="Connexion avec l'application Device Policy?";
+"EmmErrorTitle"="Impossible de se connecter au compte";
+"EmmGeneralError"="L'appareil n'est pas conforme à la politique de sécurité définie par votre administrateur.";
+"EmmPasscodeRequired"="Pour que votre administrateur puisse accéder à ce compte, vous devez définir un mot de passe sur cet appareil. Veuillez définir un mot de passe et réessayer.";
+"OK"="OK";
+"SettingsAppName"="Paramètres";
+"Sign in"="Se connecter";
+"Sign in with Google"="Se connecter à Google";

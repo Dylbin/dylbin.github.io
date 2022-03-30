@@ -1,0 +1,11 @@
+"Cancel"="Mégse";
+"EmmConnectLabel"="Csatlakozás";
+"EmmConnectText"="A szervezet adatainak védelme érdekében a bejelentkezés előtt csatlakoznia kell a Device Policy alkalmazáshoz.";
+"EmmConnectTitle"="Csatlakozik a Device Policy alkalmazáshoz?";
+"EmmErrorTitle"="Nem sikerült bejelentkezni a fiókba";
+"EmmGeneralError"="Az eszköz nem felel meg a rendszergazda által beállított biztonsági házirendnek.";
+"EmmPasscodeRequired"="Adminisztrátora biztonsági kód beállítását kéri ezen az eszközön a fiókhoz való hozzáféréshez. Kérjük, állítson be biztonsági kódot, majd próbálja újra.";
+"OK"="OK";
+"SettingsAppName"="Beállítások";
+"Sign in"="Bejelentkezés";
+"Sign in with Google"="Bejelentkezés Google-fiókkal";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Zvok";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Predvajanje";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Stanje vzpostavljene povezave";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Stanje vzpostavljanja povezave";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Stanje brez povezave";
+"CAST_DIALOG_CONNECTING_TITLE"="Vzpostavljanje povezave z napravo";
+"CAST_DIALOG_TITLE"="Predvajanje v napravi";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="V nastavitve";
+"CAST_LEARN_MORE"="Več o tem";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="V ŽIVO";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Če želite vzpostaviti povezavo z napravami, ta aplikacija potrebuje dostop do omrežja Wi-Fi.
+
+Če želite predvajati, odprite nastavitve in vklopite »Dostop do lokalnega omrežja« za to aplikacijo.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Ta aplikacija potrebuje dostop do lokalnega omrežja, če želite predvajati";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Če želite vzpostaviti povezavo z napravami, ta aplikacija potrebuje dostop do omrežja Wi-Fi.
+
+Če želite predvajati, izberite »V redu«, ko vas aplikacija pozove k vzpostavitvi povezave z lokalnim omrežjem. To lahko tudi omogočite pozneje v nastavitvah sistema iOS za to aplikacijo.";
+"CAST_NETWORK_PERMISSION_TITLE"="Ta aplikacija potrebuje dostop do lokalnega omrežja, če želite predvajati";
+"CAST_OK"="V redu";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Seja predvajanja se je začela";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Seja predvajanja je končana";
+"DEFAULT_AUDIO_TRACK_NAME"="Posnetek %d";
+"DEFAULT_TEXT_TRACK_NAME"="Posnetek %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Predvajanje v napravi %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Odprite nastavitve v tem telefonu in preverite, ali je dostop do lokalnega omrežja za to aplikacijo omogočen.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Dostop do lokalnega omrežja mora biti omogočen";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Izbira podnapisov";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 sekund naprej";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Vklop in izklop zvoka";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Naprej";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Preklop med predvajanjem in začasno zaustavitvijo";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Nazaj";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 sekund nazaj";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Ustavitev predvajanja predstavnosti";
+"NO_DEVICES_AVAILABLE"="Nobena naprava ni na voljo";
+"NO_TEXT_TRACK_ITEM"="Brez";
+"NO_TIME_DISPLAY"="--.--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Začasna zaustavitev";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Predvajanje";
+"SETTINGS"="Nastavitve";
+"SKIP_AD_LABEL"="Oglas lahko preskočite čez %ld ...";
+"TABLET_LOWERCASE"="tablični računalnik";
+"TEXT_TRACKS_TITLE"="Podnapisi";
+"TRACK_NAME_CLOSED_CAPTIONS"="Podnapisi";
+"WIFI_ERROR_DESCRIPTION"="Naprava %@ in naprava za predvajanje morata biti povezani v isto omrežje Wi-Fi.";
+"WIFI_ERROR_TITLE"="Preverite omrežje Wi-Fi";

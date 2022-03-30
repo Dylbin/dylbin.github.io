@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="See võimaldab sul Spotify’s kuulata oma imporditud muusikat või netisaateid.";
+"NSBluetoothAlwaysUsageDescription"="See võimaldab sul Spotify’d kasutada väliste lisaseadmetega.";
+"NSBluetoothPeripheralUsageDescription"="See võimaldab sul Spotify’d kasutada väliste lisaseadmetega.";
+"NSCameraUsageDescription"="Seejärel saad skannida Spotify koode ja teha oma profiili ning esitusloendite jaoks pilte.";
+"NSFaceIDUsageDescription"="See võimaldab sul määrata juurdepääsupiirangu Face ID abil.";
+"NSLocalNetworkUsageDescription"="See võimaldab sul erinevate seadmete kaudu kuulata. Lisaks saab Spotify juurdepääsu kohalikele helifailidele.";
+"NSMicrophoneUsageDescription"="See võimaldab sul Spotify’d häälega juhtida.";
+"NSPhotoLibraryAddUsageDescription"="See võimaldab sul oma fototeeki pilte salvestada.";
+"NSPhotoLibraryUsageDescription"="See võimaldab sul oma fototeegist pilte valida.";
+"NSUserTrackingUsageDescription"="Sinu andmeid kasutatakse sulle isikupärastatud reklaamide või sisu edastamiseks.";

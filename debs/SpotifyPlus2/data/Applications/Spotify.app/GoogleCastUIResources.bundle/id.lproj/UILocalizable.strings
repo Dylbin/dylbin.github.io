@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Transmisi";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Status tersambung";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Status sedang menghubungkan";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Status tidak tersambung";
+"CAST_DIALOG_CONNECTING_TITLE"="Menghubungkan ke";
+"CAST_DIALOG_TITLE"="Transmisikan ke";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d persen";
+"CAST_ENABLE_IN_SETTINGS"="Buka Setelan";
+"CAST_LEARN_MORE"="Pelajari lebih lanjut";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Untuk menghubungkan ke perangkat, aplikasi ini memerlukan akses ke jaringan Wi-Fi Anda.
+
+Untuk melakukan Transmisi, buka Setelan dan aktifkan “Akses Jaringan Lokal” untuk aplikasi ini.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Aplikasi ini memerlukan Akses Jaringan Lokal untuk melakukan Transmisi";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Untuk menghubungkan ke perangkat, aplikasi ini memerlukan akses ke jaringan Wi-Fi Anda.
+
+Untuk melakukan Transmisi, pilih “Oke” saat aplikasi meminta terhubung ke jaringan lokal Anda. Anda juga dapat mengizinkannya nanti di iOS Settings untuk aplikasi ini.";
+"CAST_NETWORK_PERMISSION_TITLE"="Aplikasi ini memerlukan Akses Jaringan Lokal untuk melakukan Transmisi";
+"CAST_OK"="Oke";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesi transmisi dimulai";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Sesi transmisi berakhir";
+"DEFAULT_AUDIO_TRACK_NAME"="Lagu %d";
+"DEFAULT_TEXT_TRACK_NAME"="Teks %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Mentransmisi ke %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Buka Setelan di ponsel ini dan pastikan Akses Jaringan Lokal diaktifkan untuk aplikasi ini";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Pastikan Akses Jaringan Lokal aktif";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Pilih teks subtitel";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Maju 30 detik";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Alihkan status penonaktifan";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Berikutnya";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Tombol putar/jeda";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Sebelumnya";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Putar ulang 30 detik";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Hentikan pemutaran media";
+"NO_DEVICES_AVAILABLE"="Perangkat tidak tersedia";
+"NO_TEXT_TRACK_ITEM"="Tidak ada";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="ponsel";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Jeda";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Putar";
+"SETTINGS"="Setelan";
+"SKIP_AD_LABEL"="Anda dapat melewati iklan dalam %ld ...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Subtitel";
+"TRACK_NAME_CLOSED_CAPTIONS"="Subtitel";
+"WIFI_ERROR_DESCRIPTION"="Pastikan %@ dan perangkat transmisi berada pada jaringan Wi-Fi yang sama";
+"WIFI_ERROR_TITLE"="Periksa jaringan Wi-Fi Anda";

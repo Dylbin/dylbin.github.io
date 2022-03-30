@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Это нужно, чтобы импортировать треки и подкасты в Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Это нужно, чтобы подключать Spotify к внешним устройствам.";
+"NSBluetoothPeripheralUsageDescription"="Это нужно, чтобы подключать Spotify к внешним устройствам.";
+"NSCameraUsageDescription"="Вы сможете сканировать коды Spotify и создавать фотографии для профиля и плейлистов.";
+"NSFaceIDUsageDescription"="Это нужно, чтобы защитить приложение с помощью Face ID.";
+"NSLocalNetworkUsageDescription"="Ты сможешь слушать музыку на разных устройствах. Кроме того, Spotify получит доступ к аудиофайлам в локальной сети.";
+"NSMicrophoneUsageDescription"="Это нужно, чтобы управлять Spotify с помощью голосовых команд.";
+"NSPhotoLibraryAddUsageDescription"="Это нужно, чтобы сохранять фото в память устройства.";
+"NSPhotoLibraryUsageDescription"="Это нужно, чтобы выбирать фото из памяти устройства.";
+"NSUserTrackingUsageDescription"="Твои данные будут использоваться для персонализации рекламы или контента.";

@@ -1,0 +1,11 @@
+"Cancel"="Batal";
+"EmmConnectLabel"="Sambungkan";
+"EmmConnectText"="Untuk melindungi data organisasi, Anda harus tersambung dengan aplikasi Device Policy sebelum login.";
+"EmmConnectTitle"="Sambungkan dengan Aplikasi Device Policy?";
+"EmmErrorTitle"="Tidak dapat login ke akun";
+"EmmGeneralError"="Perangkat ini tidak sesuai dengan kebijakan keamanan yang disetel oleh administrator.";
+"EmmPasscodeRequired"="Administrator mengharuskan Anda menyetel kode sandi di perangkat ini untuk mengakses akun ini. Setel kode sandi dan coba lagi.";
+"OK"="Oke";
+"SettingsAppName"="Setelan";
+"Sign in"="Masuk";
+"Sign in with Google"="Masuk dengan Google";

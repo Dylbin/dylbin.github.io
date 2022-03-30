@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Аудио";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Дамжуулах";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Холбогдсон байдал";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Холбогдож буй байдал";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Холбогдоогүй байдал";
+"CAST_DIALOG_CONNECTING_TITLE"="Холбогдож байна";
+"CAST_DIALOG_TITLE"="Дамжуулах";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d хувь";
+"CAST_ENABLE_IN_SETTINGS"="Тохиргоо руу очих";
+"CAST_LEARN_MORE"="Нэмэлт мэдээлэл авах";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ШУУД";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Таны төхөөрөмжид холбогдохын тулд энэ апп нь таны Wi-Fi сүлжээнд хандах шаардлагатай.
+
+Cast хийхийн тулд, Тохиргоо руугаа очиж тус аппын \"Дотоод сүлжээний хандалт\"-ыг асаана уу.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Энэ апп нь Cast хийхийн тулд Дотоод сүлжээний хандалт шаарддаг";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Таны төхөөрөмжид холбогдохын тулд энэ апп нь таны Wi-Fi сүлжээнд хандах шаардлагатай.
+
+Cast хийхийн тулд, апп танаас дотоод сүлжээнд холбогдохыг хүсэх үед \"ОК\"-г сонгоно уу. Та мөн үүнийг энэ аппын iOS тохиргоон дээр хожим зөвшөөрөх боломжтой.";
+"CAST_NETWORK_PERMISSION_TITLE"="Энэ апп нь Cast хийхийн тулд Дотоод сүлжээний хандалт шаарддаг";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Дамжуулах харилцан үйлдлийг эхлүүлсэн";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Дамжуулах харилцан үйлдлийг дууссан";
+"DEFAULT_AUDIO_TRACK_NAME"="Бичлэг %d";
+"DEFAULT_TEXT_TRACK_NAME"="Бичлэг %d";
+"EXPANDED_CONTROLS_CASTING_TO"="%@-д дамжуулж байна";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Энэ утсан дээрх Тохиргоо руу очиж, Дотоод сүлжээний хандалтыг энэ аппад асаасан эсэхийг шалгана уу";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Дотоод сүлжээний хандалт асаалттай эсэхийг шалгана уу";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Хаалттай тайлбарын шинжлэлийг сонгох";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 секунд урагшлуулах";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Дууг хаах төлөвийг идэвхжүүлэх";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Дараах";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Тоглуулах түр зогсоохыг идэвхжүүлэх";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Өмнөх";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 секунд ухраах";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Медиа тоглуулахыг зогсоох";
+"NO_DEVICES_AVAILABLE"="Боломжтой төхөөрөмж байхгүй";
+"NO_TEXT_TRACK_ITEM"="Байхгүй";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="утас";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Түр зогсоох";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Тоглуулах";
+"SETTINGS"="Тохиргоо";
+"SKIP_AD_LABEL"="Та зарыг %ld-н дараа алгасах боломжтой ...";
+"TABLET_LOWERCASE"="таблет";
+"TEXT_TRACKS_TITLE"="Хадмал";
+"TRACK_NAME_CLOSED_CAPTIONS"="Хаалттай тайлбарууд";
+"WIFI_ERROR_DESCRIPTION"="Таны %@ болон дамжуулагч төхөөрөмж нэг Wi-Fi сүлжээнд холбогдсон эсэхийг шалгана уу";
+"WIFI_ERROR_TITLE"="Wi-Fi сүлжээгээ шалгах";

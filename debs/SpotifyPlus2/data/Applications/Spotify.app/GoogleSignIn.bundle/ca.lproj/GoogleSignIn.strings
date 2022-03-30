@@ -1,0 +1,11 @@
+"Cancel"="Cancel·la";
+"EmmConnectLabel"="Vull connectar-me";
+"EmmConnectText"="Per protegir les dades de la teva organització, t'has de connectar amb l'aplicació Device Policy abans d'iniciar la sessió.";
+"EmmConnectTitle"="Vols connectar-te amb l'aplicació Device Policy?";
+"EmmErrorTitle"="No es pot iniciar la sessió al compte";
+"EmmGeneralError"="El dispositiu no compleix la política de seguretat establerta pel teu administrador.";
+"EmmPasscodeRequired"="L'administrador requereix que estableixis una contrasenya en aquest dispositiu per accedir al compte. Estableix una contrasenya i torna-ho a provar.";
+"OK"="D’acord";
+"SettingsAppName"="Configuració";
+"Sign in"="Inicia la sessió";
+"Sign in with Google"="Inicia la sessió amb Google";

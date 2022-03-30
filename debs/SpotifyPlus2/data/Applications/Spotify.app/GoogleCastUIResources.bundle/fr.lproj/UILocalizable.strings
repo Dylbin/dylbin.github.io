@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Caster";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="État Connecté";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="État Connexion en cours";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="État Non connecté";
+"CAST_DIALOG_CONNECTING_TITLE"="Connexion à";
+"CAST_DIALOG_TITLE"="Caster sur";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d pour cent";
+"CAST_ENABLE_IN_SETTINGS"="Accéder aux paramètres";
+"CAST_LEARN_MORE"="En savoir plus";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="EN DIRECT";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Pour se connecter à vos appareils, cette application doit pouvoir accéder à votre réseau Wi-Fi.
+
+Pour caster du contenu, accédez aux paramètres et activez \"Accès au réseau local\" pour l'application.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Cette application doit avoir accès au réseau local pour caster du contenu";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Pour se connecter à vos appareils, cette application doit pouvoir accéder à votre réseau Wi-Fi.
+
+Pour caster du contenu, sélectionnez \"OK\" lorsque l'application demande à se connecter à votre réseau local. Vous pouvez également accorder cette autorisation par la suite dans les réglages iOS pour cette application.";
+"CAST_NETWORK_PERMISSION_TITLE"="Cette application doit avoir accès au réseau local pour caster du contenu";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="La session de diffusion a commencé";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="La session de diffusion est terminée";
+"DEFAULT_AUDIO_TRACK_NAME"="Piste %d";
+"DEFAULT_TEXT_TRACK_NAME"="Piste %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Diffusion sur %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Accédez aux paramètres de ce téléphone et vérifiez que l'accès au réseau local est activé pour cette appli";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Assurez-vous que l'accès au réseau local est activé";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Sélectionner une piste de sous-titres";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Avancer de 30 secondes";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Activer/Désactiver le son";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Suivant";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Lecture/Pause";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Précédent";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Revenir en arrière de 30 secondes";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Arrêter la lecture du contenu multimédia";
+"NO_DEVICES_AVAILABLE"="Aucun appareil disponible";
+"NO_TEXT_TRACK_ITEM"="Pas de sous-titres";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="téléphone";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pause";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Lire";
+"SETTINGS"="Paramètres";
+"SKIP_AD_LABEL"="Vous pourrez passer l'annonce dans %ld…";
+"TABLET_LOWERCASE"="tablette";
+"TEXT_TRACKS_TITLE"="Sous-titres";
+"TRACK_NAME_CLOSED_CAPTIONS"="Sous-titres";
+"WIFI_ERROR_DESCRIPTION"="Assurez-vous que votre %@ et l'appareil Cast sont connectés au même réseau Wi-Fi";
+"WIFI_ERROR_TITLE"="Vérifiez le réseau Wi-Fi";

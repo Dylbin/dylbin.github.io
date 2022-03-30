@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="מאפשר הפעלה של מוזיקה או פודקסטים שייבאתם ב-Spotify.";
+"NSBluetoothAlwaysUsageDescription"="מאפשר שימוש באביזרים חיצוניים ב-Spotify.";
+"NSBluetoothPeripheralUsageDescription"="מאפשר שימוש באביזרים חיצוניים ב-Spotify.";
+"NSCameraUsageDescription"="כך תוכלו לסרוק קודים של Spotify ולצלם תמונות לפרופיל ולפלייליסטים שלכם.";
+"NSFaceIDUsageDescription"="מאפשר הגדרה של הגבלות גישה באמצעות Face ID.";
+"NSLocalNetworkUsageDescription"="הרשאה זו מאפשרת לכם להאזין במכשירים שונים. Spotify תקבל גישה גם לקובצי שמע מקומיים.";
+"NSMicrophoneUsageDescription"="מאפשר שליטה ב-Spotify באמצעות הקול.";
+"NSPhotoLibraryAddUsageDescription"="מאפשר שמירת תמונות בספריית התמונות שלכם.";
+"NSPhotoLibraryUsageDescription"="מאפשר בחירה בתמונות מספריית התמונות שלכם.";
+"NSUserTrackingUsageDescription"="הנתונים שלכם ישמשו כדי להציג לכם פרסומות או תוכן מותאמים אישית.";

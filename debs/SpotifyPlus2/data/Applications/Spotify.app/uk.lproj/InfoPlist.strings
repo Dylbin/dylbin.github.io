@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Ви зможете слухати імпортовану музику й подкасти в Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Ви зможете використовувати Spotify із зовнішніми пристроями.";
+"NSBluetoothPeripheralUsageDescription"="Ви зможете використовувати Spotify із зовнішніми пристроями.";
+"NSCameraUsageDescription"="Так ви зможете сканувати коди Spotify, а також робити фото для профілю й плейлістів.";
+"NSFaceIDUsageDescription"="Ви зможете захистити додаток за допомогою Face ID.";
+"NSLocalNetworkUsageDescription"="Ви зможете слухати треки на різних пристроях. Spotify також отримає доступ до локальних аудіофайлів.";
+"NSMicrophoneUsageDescription"="Ви зможете керувати додатком Spotify за допомогою голосових команд.";
+"NSPhotoLibraryAddUsageDescription"="Ви зможете зберігати зображення в галереї.";
+"NSPhotoLibraryUsageDescription"="Ви зможете вибрати зображення з галереї.";
+"NSUserTrackingUsageDescription"="Ваші дані використовуватимуться, щоб персоналізувати для вас рекламу та інші матеріали.";

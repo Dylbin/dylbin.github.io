@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Ήχος";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Μετάδοση";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Κατάσταση: Σε σύνδεση";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Κατάσταση: Πραγματοποιείται σύνδεση";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Κατάσταση: Χωρίς σύνδεση";
+"CAST_DIALOG_CONNECTING_TITLE"="Σύνδεση σε";
+"CAST_DIALOG_TITLE"="Μετάδοση σε";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d τοις εκατό";
+"CAST_ENABLE_IN_SETTINGS"="Μετάβαση στις Ρυθμίσεις";
+"CAST_LEARN_MORE"="Μάθετε περισσότερα";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ΖΩΝΤΑΝΑ";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Για να συνδεθεί στις συσκευές σας, αυτή η εφαρμογή χρειάζεται πρόσβαση στο δίκτυο Wi-Fi.
+
+Για μετάδοση, μεταβείτε στις Ρυθμίσεις και ενεργοποιήστε την Πρόσβαση στο τοπικό δίκτυο για αυτήν την εφαρμογή.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Αυτή η εφαρμογή χρειάζεται πρόσβαση στο τοπικό δίκτυο για μετάδοση";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Για να συνδεθεί στις συσκευές σας, αυτή η εφαρμογή χρειάζεται πρόσβαση στο δίκτυο Wi-Fi.
+
+Για μετάδοση, όταν η εφαρμογή σας ζητήσει να συνδεθεί στο τοπικό σας δίκτυο, επιλέξτε OK. Μπορείτε να παραχωρήσετε αυτήν την άδεια αργότερα από τις ρυθμίσεις iOS για αυτήν την εφαρμογή.";
+"CAST_NETWORK_PERMISSION_TITLE"="Αυτή η εφαρμογή χρειάζεται πρόσβαση στο τοπικό δίκτυο για μετάδοση";
+"CAST_OK"="ΟΚ";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Η περίοδος λειτουργίας μετάδοσης ξεκίνησε";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Η περίοδος λειτουργίας μετάδοσης ολοκληρώθηκε";
+"DEFAULT_AUDIO_TRACK_NAME"="Κομμάτι %d";
+"DEFAULT_TEXT_TRACK_NAME"="Κομμάτι %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Μετάδοση στη συσκευή %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Μεταβείτε στις Ρυθμίσεις σε αυτό το τηλέφωνο και ελέγξτε ότι η επιλογή Πρόσβαση στο τοπικό δίκτυο είναι ενεργή για αυτήν την εφαρμογή.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Βεβαιωθείτε ότι η επιλογή Πρόσβαση στο τοπικό δίκτυο είναι ενεργή";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Επιλέξτε ένα κομμάτι υποτίτλων";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Μπροστά κατά 30 δευτερόλεπτα";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Εναλλαγή της κατάστασης σίγασης";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Επόμενο";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Εναλλαγή αναπαραγωγής/παύσης";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Προηγούμενο";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Πίσω κατά 30 δευτερόλεπτα";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Διακοπή αναπαραγωγής μέσων";
+"NO_DEVICES_AVAILABLE"="Δεν υπάρχουν διαθέσιμες συσκευές";
+"NO_TEXT_TRACK_ITEM"="Κανένας";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="τηλέφωνο";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Παύση";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Αναπαραγωγή";
+"SETTINGS"="Ρυθμίσεις";
+"SKIP_AD_LABEL"="Μπορείτε να παραβλέψετε τη διαφήμιση σε %ld …";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Υπότιτλοι";
+"TRACK_NAME_CLOSED_CAPTIONS"="Υπότιτλοι";
+"WIFI_ERROR_DESCRIPTION"="Βεβαιωθείτε ότι το %@ και η συσκευή μετάδοσης είναι στο ίδιο δίκτυο Wi-Fi.";
+"WIFI_ERROR_TITLE"="Ελέγξτε το δίκτυο Wi-Fi";

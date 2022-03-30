@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Аудио";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Емитувај";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Поврзано";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Се поврзува";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Не е поврзано";
+"CAST_DIALOG_CONNECTING_TITLE"="Се поврзува со";
+"CAST_DIALOG_TITLE"="Емитувајте на";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d проценти";
+"CAST_ENABLE_IN_SETTINGS"="Одете во „Поставки“";
+"CAST_LEARN_MORE"="Дознајте повеќе";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="ВО ЖИВО";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="За да се поврзе со уредите, на апликацијава ѝ е потребен пристап до вашата Wi-Fi мрежа.
+
+За да емитува, одете во „Поставки“ и вклучете „Пристап до локалната мрежа“ за апликацијава.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="На апликацијава ѝ е потребен пристап до локалната мрежа за да емитува";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="За да се поврзе со уредите, на апликацијава ѝ е потребен пристап до вашата Wi-Fi мрежа.
+
+За да емитува, изберете „Во ред“ кога апликацијата ќе побара да се поврзе со вашата локална мрежа. Ова може да го овозможите и подоцна во поставките за iOS за апликацијава.";
+"CAST_NETWORK_PERMISSION_TITLE"="На апликацијава ѝ е потребен пристап до локалната мрежа за да емитува";
+"CAST_OK"="Во ред";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесијата за емитување започна";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесијата за емитување заврши";
+"DEFAULT_AUDIO_TRACK_NAME"="Аудиозапис %d";
+"DEFAULT_TEXT_TRACK_NAME"="Запис %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Се емитува на „%@“";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Одете во „Поставки“ на телефонов и проверете дали „Пристапот до локалната мрежа“ е вклучен за оваа апликација";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Уверете се дека „Пристапот до локалната мрежа“ е вклучен";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Изберете запис со титлови";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Премотај нанапред 30 секунди";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Вклучи/исклучи звук";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Следно";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Пушти/пауза";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Претходно";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Премотај наназад 30 секунди";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Сопри ја репродукцијата на аудиовизуелни содржини";
+"NO_DEVICES_AVAILABLE"="Нема достапни уреди";
+"NO_TEXT_TRACK_ITEM"="Нема";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="телефон";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Паузирај";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Пушти";
+"SETTINGS"="Поставки";
+"SKIP_AD_LABEL"="Може да ја прескокнете рекламата за %ld…";
+"TABLET_LOWERCASE"="таблет";
+"TEXT_TRACKS_TITLE"="Титлови";
+"TRACK_NAME_CLOSED_CAPTIONS"="Затворени титлови";
+"WIFI_ERROR_DESCRIPTION"="Проверете дали вашиот %@ и уредот со Cast се на иста Wi-Fi мрежа";
+"WIFI_ERROR_TITLE"="Проверете ја Wi-Fi межата";

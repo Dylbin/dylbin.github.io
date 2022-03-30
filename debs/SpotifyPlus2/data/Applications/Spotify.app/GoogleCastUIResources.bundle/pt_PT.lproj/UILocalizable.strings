@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Áudio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Transmitir";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Estado: ligado";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Estado: em ligação";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Estado: não ligado";
+"CAST_DIALOG_CONNECTING_TITLE"="A ligar a…";
+"CAST_DIALOG_TITLE"="Transmita para:";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d por cento";
+"CAST_ENABLE_IN_SETTINGS"="Aceder às Definições";
+"CAST_LEARN_MORE"="Saber mais";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="EM DIRETO";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Para ligar aos seus dispositivos, esta app necessita de acesso à rede Wi-Fi.
+
+Para transmitir conteúdos, aceda às Definições e ative a opção \"Acesso à rede local\" para esta app.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Esta app necessita de acesso à rede local para transmitir conteúdos";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Para ligar aos seus dispositivos, esta app necessita de acesso à rede Wi-Fi.
+
+Para transmitir conteúdos, selecione \"OK\" quando a app pedir para estabelecer ligação à rede local. Também pode conceder autorização mais tarde nas Definições do iOS para esta app.";
+"CAST_NETWORK_PERMISSION_TITLE"="Esta app necessita de acesso à rede local para transmitir conteúdos";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="A sessão de transmissão de conteúdo foi iniciada";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="A sessão de transmissão de conteúdo foi terminada";
+"DEFAULT_AUDIO_TRACK_NAME"="Faixa %d";
+"DEFAULT_TEXT_TRACK_NAME"="Faixa %d";
+"EXPANDED_CONTROLS_CASTING_TO"="A transmitir para %@…";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Aceda às Definições neste telemóvel e verifique se o acesso à rede local está ativado para esta app.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Certifique-se de que o acesso à rede local está ativado";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Selecionar faixa de legendas";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Avançar 30 segundos";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Ativar/desativar som";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Seguinte";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Alternar entre reprodução/pausa";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Anterior";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Retroceder 30 segundos";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Parar reprodução de multimédia";
+"NO_DEVICES_AVAILABLE"="Nenhum dispositivo disponível";
+"NO_TEXT_TRACK_ITEM"="Nenhumas";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telemóvel";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pausar";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Reproduzir";
+"SETTINGS"="Definições";
+"SKIP_AD_LABEL"="Pode ignorar o anúncio dentro de %ld…";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Legendas";
+"TRACK_NAME_CLOSED_CAPTIONS"="Legendas";
+"WIFI_ERROR_DESCRIPTION"="Certifique-se de que o %@ e o dispositivo de transmissão estão ligados à mesma rede Wi-Fi.";
+"WIFI_ERROR_TITLE"="Verifique a sua rede Wi-Fi";

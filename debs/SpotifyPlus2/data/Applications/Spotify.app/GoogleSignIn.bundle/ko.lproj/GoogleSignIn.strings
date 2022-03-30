@@ -1,0 +1,11 @@
+"Cancel"="취소";
+"EmmConnectLabel"="연결";
+"EmmConnectText"="조직의 데이터를 보호하려면 로그인하기 전에 Device Policy 앱과 연결해야 합니다.";
+"EmmConnectTitle"="Device Policy 앱과 연결하시겠습니까?";
+"EmmErrorTitle"="계정에 로그인할 수 없음";
+"EmmGeneralError"="관리자가 설정한 보안 정책을 준수하지 않는 기기입니다.";
+"EmmPasscodeRequired"="관리자의 설정에 따라 이 계정에 액세스하려면 사용 중인 기기에 비밀번호를 설정해야 합니다. 비밀번호를 설정한 후 다시 시도해 주세요.";
+"OK"="확인";
+"SettingsAppName"="설정";
+"Sign in"="로그인";
+"Sign in with Google"="Google 계정으로 로그인";

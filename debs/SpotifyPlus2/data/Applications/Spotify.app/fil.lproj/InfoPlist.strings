@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Kapag nangyari 'to, pwede mong i-play ang na-import mong music o mga podcast sa Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Kapag nangyari 'to, pwede mong gamitin ang Spotify sa mga external na accessory.";
+"NSBluetoothPeripheralUsageDescription"="Kapag nangyari 'to, pwede mong gamitin ang Spotify sa mga external na accessory.";
+"NSCameraUsageDescription"="Sa pamamagitan nito, masa-scan mo ang mga Spotify Code at makakapag-picture ka para sa profile at mga playlist mo.";
+"NSFaceIDUsageDescription"="Kapag nangyari 'to, pwede kang mag-set ng mga limitasyon sa access gamit ang Face ID.";
+"NSLocalNetworkUsageDescription"="Kapag nangyari 'to, pwede kang makinig sa iba't ibang device. Magkaka-access din ang Spotify sa mga local audio file.";
+"NSMicrophoneUsageDescription"="Kapag nangyari 'to, pwede mong kontrolin ang Spotify gamit ang boses mo.";
+"NSPhotoLibraryAddUsageDescription"="Kapag nangyari 'to, pwede kang mag-save ng mga image sa Photo Library mo.";
+"NSPhotoLibraryUsageDescription"="Kapag nangyari 'to, pwede kang pumili ng mga image mula sa Photo Library mo.";
+"NSUserTrackingUsageDescription"="Gagamitin ang data mo para magpakita ng mga personalized na ad o content sa'yo.";

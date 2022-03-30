@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Garso įrašas";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Perduoti";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Būsena „Prisijungta“";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Būsena „Prisijungiama“";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Būsena „Neprisijungta“";
+"CAST_DIALOG_CONNECTING_TITLE"="Jungiamasi prie";
+"CAST_DIALOG_TITLE"="Perdavimas į";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d proc.";
+"CAST_ENABLE_IN_SETTINGS"="Eiti į nustatymus";
+"CAST_LEARN_MORE"="Sužinokite daugiau";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="TIESIOGIAI";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Kad galėtų prisijungti prie jūsų įrenginių, ši programa turi pasiekti jūsų „Wi-Fi“ tinklą.
+
+Kad būtų perduodama, eikite į nustatymus ir įjunkite šios programos nustatymą „Vietinio tinklo pasiekiamumas“.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Reikia įjungti šios programos nustatymą „Vietinio tinklo pasiekiamumas“, kad būtų galima perduoti";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Kad galėtų prisijungti prie jūsų įrenginių, ši programa turi pasiekti jūsų „Wi-Fi“ tinklą.
+
+Kad būtų perduodama, pasirinkite „Gerai“, kai programa paprašys prisijungti prie vietinio tinklo. Tai galite padaryti ir vėliau „iOS“ nustatymuose, skirtuose šiai programai.";
+"CAST_NETWORK_PERMISSION_TITLE"="Reikia įjungti šios programos nustatymą „Vietinio tinklo pasiekiamumas“, kad būtų galima perduoti";
+"CAST_OK"="Gerai";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Perdavimo sesija prasidėjo";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Perdavimo sesija baigėsi";
+"DEFAULT_AUDIO_TRACK_NAME"="%d takelis";
+"DEFAULT_TEXT_TRACK_NAME"="%d takelis";
+"EXPANDED_CONTROLS_CASTING_TO"="Perduodama į „%@“";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Eikite į šio telefono skiltį „Nustatymai“ ir patikrinkite, ar šios programos nustatymas „Vietinio tinklo pasiekiamumas“ įjungtas";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Įsitikinkite, kad nustatymas „Vietinio tinklo pasiekiamumas“ įjungtas";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Pasirinkti subtitrų takelį";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Persukti 30 sekundžių pirmyn";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Perjungti nutildymo būseną";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Kita";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Leidimo / pristabdymo perjungimas";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Ankstesnis";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Atsukti 30 sekundžių atgal";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Stabdyti medijos atkūrimą";
+"NO_DEVICES_AVAILABLE"="Nėra jokių pasiekiamų įrenginių";
+"NO_TEXT_TRACK_ITEM"="Nėra";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefonas";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pristabdyti";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Leisti";
+"SETTINGS"="Nustatymai";
+"SKIP_AD_LABEL"="Skelbimą galėsite praleisti po %ld...";
+"TABLET_LOWERCASE"="planšetinis kompiuteris";
+"TEXT_TRACKS_TITLE"="Subtitrai";
+"TRACK_NAME_CLOSED_CAPTIONS"="Subtitrai";
+"WIFI_ERROR_DESCRIPTION"="Įsitikinkite, kad %@ ir perdavimo įrenginys prijungti prie to paties „Wi-Fi“ tinklo";
+"WIFI_ERROR_TITLE"="Patikrinkite „Wi-Fi“ tinklą";

@@ -1,0 +1,11 @@
+"Cancel"="İptal";
+"EmmConnectLabel"="Bağlan";
+"EmmConnectText"="Kuruluşunuzun verilerini korumak için, giriş yapmadan önce Cihaz Politikası uygulamasına bağlanmalısınız.";
+"EmmConnectTitle"="Cihaz Politika Uygulamasına bağlanılsın mı?";
+"EmmErrorTitle"="Hesapta oturum açılamıyor";
+"EmmGeneralError"="Bu cihaz, yöneticinizin ayarladığı güvenlik politikasıyla uyumlu değil.";
+"EmmPasscodeRequired"="Yöneticiniz, bu hesaba erişmek için bu cihazda bir şifre kodu ayarlamanızı gerektiriyor. Lütfen şifre kodu ayarlayın ve tekrar deneyin.";
+"OK"="Tamam";
+"SettingsAppName"="Ayarlar";
+"Sign in"="Oturum aç";
+"Sign in with Google"="Google ile oturum aç";

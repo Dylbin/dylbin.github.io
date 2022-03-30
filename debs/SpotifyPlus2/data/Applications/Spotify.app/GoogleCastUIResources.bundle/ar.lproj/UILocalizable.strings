@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="الصوت";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="إرسال";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="الحالة \"متصل\"";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="الحالة \"جارٍ الاتصال\"";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="الحالة \"غير متصل\"";
+"CAST_DIALOG_CONNECTING_TITLE"="جارٍ الاتصال بـ";
+"CAST_DIALOG_TITLE"="إرسال إلى";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d بالمائة";
+"CAST_ENABLE_IN_SETTINGS"="الانتقال إلى \"الإعدادات\"";
+"CAST_LEARN_MORE"="مزيد من المعلومات";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="مباشر";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="‏للاتصال بأجهزتك، يحتاج هذا التطبيق إلى الدخول إلى شبكة Wi-Fi.
+
+لإرسال المحتوى، انتقِل إلى \"الإعدادات\" وفعِّل \"الدخول إلى الشبكة المحلية\" لهذا التطبيق.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="يحتاج هذا التطبيق إلى الدخول إلى الشبكة المحلية لإرسال المحتوى";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="‏للاتصال بأجهزتك، يحتاج هذا التطبيق إلى الدخول إلى شبكة Wi-Fi.
+
+لإرسال المحتوى، اختَر \"حسنًا\" عندما يطلب التطبيق الاتصال بالشبكة المحلية. ويمكنك أيضًا اتخاذ هذا الإجراء لاحقًا من خلال إعدادات نظام التشغيل iOS لهذا التطبيق.";
+"CAST_NETWORK_PERMISSION_TITLE"="يحتاج هذا التطبيق إلى الدخول إلى الشبكة المحلية لإرسال المحتوى";
+"CAST_OK"="حسنًا";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="تم بدء جلسة الإرسال.";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="تم إنهاء جلسة الإرسال.";
+"DEFAULT_AUDIO_TRACK_NAME"="المقطع الصوتي %d";
+"DEFAULT_TEXT_TRACK_NAME"="المقطع الصوتي %d";
+"EXPANDED_CONTROLS_CASTING_TO"="جارٍ الإرسال إلى %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="عليك الانتقال إلى \"الإعدادات\" على هذا الهاتف ثم التحقُّق من تفعيل ميزة \"الوصول إلى الشبكة المحلية\" لهذا التطبيق.";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="التأكّد من أنّ ميزة \"الوصول إلى الشبكة المحلية\" مفعّلة";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="اختيار مقطع ترجمة وشرح";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="تقديم 30 ثانية";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="تبديل حالة كتم الصوت";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="التالي";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="التبديل بين التشغيل والإيقاف المؤقت";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="السابق";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="ترجيع 30 ثانية";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="إيقاف تشغيل الوسائط";
+"NO_DEVICES_AVAILABLE"="ما مِن أجهزة متوفّرة";
+"NO_TEXT_TRACK_ITEM"="بدون ترجمة";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="الهاتف";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="إيقاف مؤقت";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="تشغيل";
+"SETTINGS"="الإعدادات";
+"SKIP_AD_LABEL"="يمكنك تخطّي الإعلان بعد %ld …";
+"TABLET_LOWERCASE"="الجهاز اللوحي";
+"TEXT_TRACKS_TITLE"="الترجمة";
+"TRACK_NAME_CLOSED_CAPTIONS"="الترجمة والشرح";
+"WIFI_ERROR_DESCRIPTION"="‏يُرجى التأكُّد من أنّ %@ وجهاز البث متصلان بشبكة Wi-Fi نفسها.";
+"WIFI_ERROR_TITLE"="‏يُرجى التحقُّق من اتصالك بشبكة Wi-Fi.";

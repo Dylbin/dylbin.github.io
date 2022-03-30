@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="يسمح لك هذا الاستماع إلى الموسيقى أو البودكاست التي قمت باستيرادها إلى Spotify.";
+"NSBluetoothAlwaysUsageDescription"="يتيح لك استخدام Spotify مع ملحقات خارجية.";
+"NSBluetoothPeripheralUsageDescription"="يتيح لك استخدام Spotify مع ملحقات خارجية.";
+"NSCameraUsageDescription"="يتيح لك ذلك مسح رموز Spotify والتقاط الصور لاستخدامها في صفحتك الشخصية وقوائم الأغاني.";
+"NSFaceIDUsageDescription"="يتيح لك وضع قيود على الاستخدام عن طريق معرّف الوجه.";
+"NSLocalNetworkUsageDescription"="ستتيح لك هذه الخدمة الاستماع إلى الموسيقى على أجهزة مختلفة. وسيتمكّن Spotify أيضاً من الوصول إلى الملفات الصوتية المحفوظة على الجهاز.";
+"NSMicrophoneUsageDescription"="يتيح لك ذلك التحكم بتطبيق Spotify باستخدام صوتك.";
+"NSPhotoLibraryAddUsageDescription"="يتيح لك ذلك حفظ الصور في مكتبة الصور الخاصة بك.";
+"NSPhotoLibraryUsageDescription"="يتيح لك ذلك اختيار الصور من مكتبة الصور الخاصة بك.";
+"NSUserTrackingUsageDescription"="ستُستخدم بياناتك لتخصيص ما يُعرض لك من إعلانات أو محتوى.";

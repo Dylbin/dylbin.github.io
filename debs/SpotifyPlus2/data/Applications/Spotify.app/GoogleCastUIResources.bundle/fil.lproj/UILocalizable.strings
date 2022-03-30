@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="I-cast";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Status na nakakonekta";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Status na kumokonekta";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Status na hindi nakakonekta";
+"CAST_DIALOG_CONNECTING_TITLE"="Kumokonekta sa";
+"CAST_DIALOG_TITLE"="I-cast sa";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d (na) porsyento";
+"CAST_ENABLE_IN_SETTINGS"="Pumunta sa Mga Setting";
+"CAST_LEARN_MORE"="Matuto pa";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Para kumonekta sa iyong mga device, kailangan ng app na ito ng access sa Wi-Fi network mo.
+
+Para Mag-cast, pumunta sa iyong Mga Setting at i-on ang \"Access sa Lokal na Network\" para sa app na ito.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Kailangan ng app na ito ng Access sa Lokal na Network para Mag-cast";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Para kumonekta sa iyong mga device, kailangan ng app na ito ng access sa Wi-Fi network mo.
+
+Para Mag-cast, piliin ang “OK” kapag hiniling ng app na kumonekta sa iyong lokal na network. Puwede mo rin itong payagan sa ibang pagkakataon sa iOS Settings para sa app na ito.";
+"CAST_NETWORK_PERMISSION_TITLE"="Kailangan ng app na ito ng Access sa Lokal na Network para Mag-cast";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Nagsimula na ang session ng pag-cast";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Natapos na ang session ng pag-cast";
+"DEFAULT_AUDIO_TRACK_NAME"="Track %d";
+"DEFAULT_TEXT_TRACK_NAME"="Track %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Nagka-cast sa %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Pumunta sa Mga Setting sa teleponong ito at tingnan kung naka-on ang Access sa Lokal na Network para sa app na ito";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Tiyaking naka-on ang Access sa Lokal na Network";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Pumili ng track ng mga closed caption";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="I-forward nang 30 segundo";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="I-toggle ang status na naka-mute";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Susunod";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Toggle ng pag-play at pag-pause";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Nakaraan";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="I-rewind nang 30 segundo";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Ihinto ang pag-playback ng media";
+"NO_DEVICES_AVAILABLE"="Walang available na device";
+"NO_TEXT_TRACK_ITEM"="Wala";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telepono";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="I-pause";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="I-play";
+"SETTINGS"="Mga Setting";
+"SKIP_AD_LABEL"="Puwede mong laktawan ang ad pagkalipas ng %ld ...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Mga Subtitle";
+"TRACK_NAME_CLOSED_CAPTIONS"="Mga Closed Caption";
+"WIFI_ERROR_DESCRIPTION"="Tiyaking nakakonekta sa iisang Wi-Fi network ang iyong %@ at ang cast device";
+"WIFI_ERROR_TITLE"="Tingnan ang iyong Wi-Fi network";

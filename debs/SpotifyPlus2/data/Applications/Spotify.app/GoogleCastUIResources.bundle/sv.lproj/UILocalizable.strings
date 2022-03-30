@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Ljud";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Casta";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Ansluten";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Ansluter";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Inte ansluten";
+"CAST_DIALOG_CONNECTING_TITLE"="Ansluter till";
+"CAST_DIALOG_TITLE"="Casta till";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d procent";
+"CAST_ENABLE_IN_SETTINGS"="Öppna Inställningar";
+"CAST_LEARN_MORE"="Läs mer";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Appen måste ha åtkomst till Wi-Fi-nätverket för att kunna ansluta till dina enheter.
+
+Om du vill casta öppnar du Inställningar och aktiverar Åtkomst till lokalt nätverk för den här appen.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Du måste ge appen åtkomst till det lokala nätverket för att casta";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Appen måste ha åtkomst till Wi-Fi-nätverket för att kunna ansluta till dina enheter.
+
+Om du vill casta väljer du OK när appen ber om att ansluta till det lokala nätverket. Du kan även tillåta detta senare i iOS-inställningarna för den här appen.";
+"CAST_NETWORK_PERMISSION_TITLE"="Du måste ge appen åtkomst till det lokala nätverket för att casta";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Castsessionen har startat";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Castsession har avslutats";
+"DEFAULT_AUDIO_TRACK_NAME"="Spår %d";
+"DEFAULT_TEXT_TRACK_NAME"="Spår %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Castar till %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Öppna inställningarna på telefonen och kontrollera att Åtkomst till lokalt nätverk har aktiverats för den här appen";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Kontrollera att Åtkomst till lokalt nätverk har aktiverats";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Välj ett textningsspår";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Spola framåt 30 sekunder";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Ljud av/på";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Nästa";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Spela upp och pausa";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Föregående";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Spola tillbaka 30 sekunder";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Stoppa medieuppspelning";
+"NO_DEVICES_AVAILABLE"="Inga tillgängliga enheter";
+"NO_TEXT_TRACK_ITEM"="Inga";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pausa";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Spela upp";
+"SETTINGS"="Inställningar";
+"SKIP_AD_LABEL"="Du kan hoppa över annonsen om %ld …";
+"TABLET_LOWERCASE"="surfplatta";
+"TEXT_TRACKS_TITLE"="Undertexter";
+"TRACK_NAME_CLOSED_CAPTIONS"="Textning";
+"WIFI_ERROR_DESCRIPTION"="Kontrollera att %@ och Cast-enheten är anslutna till samma Wi-Fi-nätverk";
+"WIFI_ERROR_TITLE"="Kontrollera Wi-Fi-nätverket";

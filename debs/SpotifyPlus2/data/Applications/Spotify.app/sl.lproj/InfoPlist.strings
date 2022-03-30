@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Omogoča ti predvajanje uvožene glasbe ali podkastov v Spotifyu.";
+"NSBluetoothAlwaysUsageDescription"="Omogoča ti uporabo Spotifya z zunanjimi dodatki.";
+"NSBluetoothPeripheralUsageDescription"="Omogoča ti uporabo Spotifya z zunanjimi dodatki.";
+"NSCameraUsageDescription"="Tako lahko skeniraš kode za Spotify in posnameš fotografije za svoj profil in sezname predvajanja.";
+"NSFaceIDUsageDescription"="Omogoča ti nastavitev omejitev dostopa s funkcijo Face ID.";
+"NSLocalNetworkUsageDescription"="Omogoča ti poslušanje v različnih napravah. Spotify bo pridobil tudi dostop do lokalnih zvočnih datotek.";
+"NSMicrophoneUsageDescription"="Omogoča ti glasovno upravljanje Spotifya.";
+"NSPhotoLibraryAddUsageDescription"="Omogoča ti shranjevanje slik v knjižnico fotografij.";
+"NSPhotoLibraryUsageDescription"="Omogoča ti izbiranje slik iz knjižnice fotografij.";
+"NSUserTrackingUsageDescription"="Tvoji podatki bodo uporabljeni za prikazovanje prilagojenih oglasov ali vsebine.";

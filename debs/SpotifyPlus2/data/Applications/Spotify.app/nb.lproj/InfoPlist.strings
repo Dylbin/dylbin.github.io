@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Dette lar deg spille av importert musikk eller podkaster på Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Med dette kan du bruke Spotify med eksternt tilbehør.";
+"NSBluetoothPeripheralUsageDescription"="Med dette kan du bruke Spotify med eksternt tilbehør.";
+"NSCameraUsageDescription"="Hvis du gir Spotify tilgang, kan du skanne Spotify-koder og ta bilder til profilen din og spillelistene dine.";
+"NSFaceIDUsageDescription"="Med dette kan du angi tilgangsbegrensninger med Face ID.";
+"NSLocalNetworkUsageDescription"="Med dette kan du lytte på forskjellige enheter. Spotify får også tilgang til lokale lydfiler.";
+"NSMicrophoneUsageDescription"="Med dette kan du styre Spotify med stemmen.";
+"NSPhotoLibraryAddUsageDescription"="Dette lar deg lagre bilder i bildebiblioteket.";
+"NSPhotoLibraryUsageDescription"="Dette lar deg velge bilder fra bildebiblioteket.";
+"NSUserTrackingUsageDescription"="Dataene dine vil bli brukt til å levere annonser eller innhold tilpasset deg.";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Heli";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Kanna üle";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Ühendatud olek";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Ühendamise olek";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Ühendamata olek";
+"CAST_DIALOG_CONNECTING_TITLE"="Ühendamine:";
+"CAST_DIALOG_TITLE"="Ülekandmine:";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d protsenti";
+"CAST_ENABLE_IN_SETTINGS"="Ava seaded";
+"CAST_LEARN_MORE"="Lisateave";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="OTSE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Teie seadmetega ühenduse loomiseks vajab see rakendus juurdepääsu teie WiFi-võrgule.
+
+Ülekandmiseks avage seaded ja lülitage valik „Juurdepääs kohalikule võrgule” selle rakenduse jaoks sisse.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="See rakendus vajab ülekandmiseks juurdepääsu kohalikule võrgule";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Teie seadmetega ühenduse loomiseks vajab see rakendus juurdepääsu teie WiFi-võrgule.
+
+Ülekandmiseks valige „OK”, kui rakendus palub luba kohaliku võrguga ühenduse loomiseks. Saate selle rakenduse puhul selle hiljem lubada ka iOS-i seadetes.";
+"CAST_NETWORK_PERMISSION_TITLE"="See rakendus vajab ülekandmiseks juurdepääsu kohalikule võrgule";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Ülekandmise seanss algas";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Ülekandmise seanss lõppes";
+"DEFAULT_AUDIO_TRACK_NAME"="%d. rada";
+"DEFAULT_TEXT_TRACK_NAME"="%d. rada";
+"EXPANDED_CONTROLS_CASTING_TO"="Ülekandmine seadmesse %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Avage selles telefonis menüü Seaded ja veenduge, et juurdepääs kohalikule võrgule oleks selle rakenduse jaoks sisse lülitatud";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Veenduge, et juurdepääs kohalikule võrgule oleks sisse lülitatud";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Vali subtiitrite rada";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Keri 30 sekundit edasi";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Vaigistamise oleku lüliti";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Järgmine";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Esitamise ja peatamise lüliti";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Eelmine";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Keri 30 sekundit tagasi";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Peata meedia taasesitus";
+"NO_DEVICES_AVAILABLE"="Saadaval pole ühtki seadet";
+"NO_TEXT_TRACK_ITEM"="Puudub";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Peata";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Esita";
+"SETTINGS"="Seaded";
+"SKIP_AD_LABEL"="Reklaami saab vahele jätta %ld sekundi pärast …";
+"TABLET_LOWERCASE"="tahvelarvuti";
+"TEXT_TRACKS_TITLE"="Subtiitrid";
+"TRACK_NAME_CLOSED_CAPTIONS"="Subtiitrid";
+"WIFI_ERROR_DESCRIPTION"="Veenduge, et %@ ja ülekandeseade oleksid samas WiFi-võrgus";
+"WIFI_ERROR_TITLE"="Kontrollige oma WiFi-võrku";

@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Ses";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Yayınla";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Bağlantı kuruldu durumu";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Bağlantı kuruluyor durumu";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Bağlantı kurulmadı durumu";
+"CAST_DIALOG_CONNECTING_TITLE"="Bağlanılacak cihaz:";
+"CAST_DIALOG_TITLE"="Yayınlanacak cihaz";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="Yüzde %d";
+"CAST_ENABLE_IN_SETTINGS"="Ayarlar'a git";
+"CAST_LEARN_MORE"="Daha fazla bilgi";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="CANLI";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Bu uygulamanın, cihazlarınıza bağlanmak için kablosuz ağınıza erişmesi gerekiyor.
+
+Yayınlamak için Ayarlarınıza gidip bu uygulama için “Yerel Ağ Erişimi”ni açın.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Bu uygulama, Yayınlamak için Yerel Ağ Erişimi gerektiriyor";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Bu uygulamanın, cihazlarınıza bağlanmak için kablosuz ağınıza erişmesi gerekiyor.
+
+Yayınlamak için, uygulama yerel ağınıza bağlanmak istediğinde \"Tamam\"ı seçin. Bu uygulama için bu izni daha sonra iOS Ayarları'nda da verebilirsiniz.";
+"CAST_NETWORK_PERMISSION_TITLE"="Bu uygulama, Yayınlamak için Yerel Ağ Erişimi gerektiriyor";
+"CAST_OK"="Tamam";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Yayınlama oturumu başlatıldı";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Yayınlama oturumu bitirildi";
+"DEFAULT_AUDIO_TRACK_NAME"="%d. Parça";
+"DEFAULT_TEXT_TRACK_NAME"="%d. Parça";
+"EXPANDED_CONTROLS_CASTING_TO"="%@ cihazına yayınlanıyor";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Bu telefonda Ayarlar'a gidip Yerel Ağ Erişimi'nin bu uygulama için açılmış olup olmadığını kontrol edin";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Yerel Ağ Erişiminin açık olduğundan emin olun";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Altyazı kanalı seç";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="30 saniye ileri git";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Sesi kapatma durumunu değiştir";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Sonraki";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Oynat/duraklat düğmesi";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Önceki";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="30 saniye geri git";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Medya oynatmayı durdur";
+"NO_DEVICES_AVAILABLE"="Kullanılabilir cihaz yok";
+"NO_TEXT_TRACK_ITEM"="Yok";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="telefon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Duraklat";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Oynat";
+"SETTINGS"="Ayarlar";
+"SKIP_AD_LABEL"="Reklamı %ld saniye içinde atlayabileceksiniz...";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Altyazılar";
+"TRACK_NAME_CLOSED_CAPTIONS"="Altyazılar";
+"WIFI_ERROR_DESCRIPTION"="%@ ve yayın cihazınızın aynı kablosuz ağa bağlı olduğundan emin olun.";
+"WIFI_ERROR_TITLE"="Kablosuz ağınızı kontrol edin";

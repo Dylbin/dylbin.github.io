@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Ääni";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Striimaa";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Yhdistetty-tila";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Yhdistetään-tila";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Ei yhteyttä ‑tila";
+"CAST_DIALOG_CONNECTING_TITLE"="Yhdistetään:";
+"CAST_DIALOG_TITLE"="Striimaa:";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d %";
+"CAST_ENABLE_IN_SETTINGS"="Avaa Asetukset";
+"CAST_LEARN_MORE"="Lue lisää";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Jotta tämä sovellus voi yhdistää laitteisiisi, se tarvitsee pääsyn Wi-Fi-verkkoosi.
+
+Avaa Asetukset ja laita tälle sovellukselle päälle \"Käyttö lähiverkossa\", niin pääset striimaamaan.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Tämä sovellus tarvitsee striimaukseen lähiverkkoyhteyden";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Jotta tämä sovellus voi yhdistää laitteisiisi, se tarvitsee pääsyn Wi-Fi-verkkoosi.
+
+Kun sovellus pyytää lupaa yhdistää lähiverkkoosi, valitse \"OK\", niin pääset striimaamaan. Voit myös sallia tämän myöhemmin sovelluksen iOS-asetuksista.";
+"CAST_NETWORK_PERMISSION_TITLE"="Tämä sovellus tarvitsee striimaukseen lähiverkkoyhteyden";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Striimaus aloitettu";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Striimaus päättynyt";
+"DEFAULT_AUDIO_TRACK_NAME"="Kappale %d";
+"DEFAULT_TEXT_TRACK_NAME"="Kappale %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Striimataan: %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Avaa tämän puhelimen asetukset ja tarkista, että lähiverkkoyhteys on päällä tässä sovelluksessa";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Varmista, että lähiverkkoyhteys on päällä";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Valitse tekstitysraita";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Eteenpäin 30 sekuntia";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Mykistystilan päälle/pois-valinta";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Seuraava";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Toista/keskeytä-painike";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Edellinen";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Taaksepäin 30 sekuntia";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Lopeta mediatoisto";
+"NO_DEVICES_AVAILABLE"="Ei laitteita käytettävissä";
+"NO_TEXT_TRACK_ITEM"="–";
+"NO_TIME_DISPLAY"="--.--";
+"PHONE_LOWERCASE"="puhelin";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Keskeytys";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Toista";
+"SETTINGS"="Asetukset";
+"SKIP_AD_LABEL"="Voit ohittaa mainoksen %ld sekunnin kuluttua…";
+"TABLET_LOWERCASE"="tabletti";
+"TEXT_TRACKS_TITLE"="Tekstitys";
+"TRACK_NAME_CLOSED_CAPTIONS"="Tekstitykset";
+"WIFI_ERROR_DESCRIPTION"="Varmista, että %@ ja striimauslaite ovat yhteydessä samaan Wi-Fi-verkkoon";
+"WIFI_ERROR_TITLE"="Tarkista Wi-Fi-verkko";

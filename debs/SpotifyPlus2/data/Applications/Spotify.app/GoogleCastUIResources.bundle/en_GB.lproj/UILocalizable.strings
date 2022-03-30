@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Audio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Cast";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Connected state";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Connecting state";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Not connected state";
+"CAST_DIALOG_CONNECTING_TITLE"="Connecting to";
+"CAST_DIALOG_TITLE"="Cast to";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d per cent";
+"CAST_ENABLE_IN_SETTINGS"="Go to Settings";
+"CAST_LEARN_MORE"="Learn more";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="LIVE";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="To connect to your devices, this app needs access to your Wi-Fi network.
+
+To cast, go to your settings and turn on 'Local network access' for this app.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="This app needs local network access to cast";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="To connect to your devices, this app needs access to your Wi-Fi network.
+
+To cast, select 'OK' when the app asks to connect to your local network. You can also allow this later in iOS settings for this app.";
+"CAST_NETWORK_PERMISSION_TITLE"="This app needs local network access to cast";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Cast session started";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Cast session ended";
+"DEFAULT_AUDIO_TRACK_NAME"="Track %d";
+"DEFAULT_TEXT_TRACK_NAME"="Track %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Casting to %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Go to Settings on this phone and check that local network access is turned on for this app";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Make sure that local network access is on";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Select a closed captions track";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Forward 30 seconds";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Toggle the mute state";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Next";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Play pause toggle";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Previous";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Rewind 30 seconds";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Stop media playback";
+"NO_DEVICES_AVAILABLE"="No devices available";
+"NO_TEXT_TRACK_ITEM"="None";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="phone";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Pause";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Play";
+"SETTINGS"="Settings";
+"SKIP_AD_LABEL"="You can skip ad in %ld…";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Subtitles";
+"TRACK_NAME_CLOSED_CAPTIONS"="Closed captions";
+"WIFI_ERROR_DESCRIPTION"="Make sure that your %@ and the cast device are on the same Wi-Fi network";
+"WIFI_ERROR_TITLE"="Check your Wi-Fi network";

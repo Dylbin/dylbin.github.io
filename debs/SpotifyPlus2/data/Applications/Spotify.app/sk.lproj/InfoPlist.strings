@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Budeš môcť prehrávať svoju importovanú hudbu alebo podcasty v Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Budeš môcť Spotify používať s externým príslušenstvom.";
+"NSBluetoothPeripheralUsageDescription"="Budeš môcť Spotify používať s externým príslušenstvom.";
+"NSCameraUsageDescription"="Umožní ti to skenovať kódy Spotify a zhotovovať fotky pre svoj profil a playlisty.";
+"NSFaceIDUsageDescription"="Budeš môcť nastaviť obmedzenia prístupu pomocou Face ID.";
+"NSLocalNetworkUsageDescription"="Budeš môcť počúvať na rôznych zariadeniach. Spotify tiež získa prístup k tvojim lokálnym audiosúborom.";
+"NSMicrophoneUsageDescription"="Budeš môcť ovládať Spotify pomocou hlasových príkazov.";
+"NSPhotoLibraryAddUsageDescription"="Budeš môcť uložiť obrázky do svojej galérie.";
+"NSPhotoLibraryUsageDescription"="Budeš môcť vybrať obrázky zo svojej galérie.";
+"NSUserTrackingUsageDescription"="Tvoje údaje sa budú používať na zobrazovanie prispôsobených reklám alebo obsahu.";

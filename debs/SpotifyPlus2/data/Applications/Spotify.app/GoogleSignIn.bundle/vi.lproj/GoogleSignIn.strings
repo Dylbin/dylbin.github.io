@@ -1,0 +1,11 @@
+"Cancel"="Hủy";
+"EmmConnectLabel"="Kết nối";
+"EmmConnectText"="Để bảo vệ dữ liệu của tổ chức của mình, bạn phải kết nối với ứng dụng Device Policy trước khi đăng nhập.";
+"EmmConnectTitle"="Kết nối với ứng dụng Device Policy?";
+"EmmErrorTitle"="Không thể đăng nhập vào tài khoản";
+"EmmGeneralError"="Thiết bị này không tuân thủ chính sách bảo mật do quản trị viên của bạn thiết lập.";
+"EmmPasscodeRequired"="Quản trị viên của bạn yêu cầu bạn phải đặt mật mã trên thiết bị này để truy cập vào tài khoản này. Hãy đặt mật mã và thử lại.";
+"OK"="OK";
+"SettingsAppName"="Cài đặt";
+"Sign in"="Đăng nhập";
+"Sign in with Google"="Đăng nhập bằng Google";

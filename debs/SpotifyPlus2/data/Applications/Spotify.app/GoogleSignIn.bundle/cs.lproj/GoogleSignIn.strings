@@ -1,0 +1,11 @@
+"Cancel"="Zrušit";
+"EmmConnectLabel"="Propojit";
+"EmmConnectText"="Aby bylo možné chránit data vaší organizace, před přihlášením je nutné aktivovat propojení s aplikací Device Policy.";
+"EmmConnectTitle"="Propojit s aplikací Device Policy?";
+"EmmErrorTitle"="Nelze se přihlásit k účtu";
+"EmmGeneralError"="Zařízení nevyhovuje bezpečnostním zásadám nastaveným administrátorem.";
+"EmmPasscodeRequired"="Administrátor vyžaduje, abyste v tomto zařízení nastavili heslo pro přístup k tomuto účtu. Nastavte prosím heslo a zkuste to znovu.";
+"OK"="OK";
+"SettingsAppName"="Nastavení";
+"Sign in"="Přihlásit se";
+"Sign in with Google"="Přihlásit se účtem Google";

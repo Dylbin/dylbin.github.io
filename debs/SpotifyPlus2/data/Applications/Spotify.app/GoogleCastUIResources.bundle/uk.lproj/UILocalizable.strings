@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Аудіофайли";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Транслювати";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Підключено";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Підключення";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Не підключено";
+"CAST_DIALOG_CONNECTING_TITLE"="Підключення до пристрою:";
+"CAST_DIALOG_TITLE"="Транслювати на";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d%";
+"CAST_ENABLE_IN_SETTINGS"="Параметри";
+"CAST_LEARN_MORE"="Докладніше";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="НАЖИВО";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Щоб підключитися до ваших пристроїв, цьому додатку потрібен доступ до мережі Wi-Fi.
+
+Щоб транслювати контент, відкрийте параметри й увімкніть \"Доступ до локальної мережі\" для цього додатка.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Щоб транслювати контент, цьому додатку потрібен доступ до локальної мережі";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Щоб підключитися до ваших пристроїв, цьому додатку потрібен доступ до мережі Wi-Fi.
+
+Щоб транслювати контент, натисніть \"OK\", коли в додатку з'являється запит на підключення до локальної мережі. Ви також можете надати цей дозвіл у параметрах iOS.";
+"CAST_NETWORK_PERMISSION_TITLE"="Щоб транслювати контент, цьому додатку потрібен доступ до локальної мережі";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Сеанс трансляції почався";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Сеанс трансляції закінчився";
+"DEFAULT_AUDIO_TRACK_NAME"="Композиція %d";
+"DEFAULT_TEXT_TRACK_NAME"="Композиція %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Трансляція на пристрій \"%@\"";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Щоб перевірити, чи має цей додаток доступ до локальної мережі, відкрийте налаштування телефона";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Переконайтеся, що доступ до локальної мережі ввімкнено";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Вибрати субтитри";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Перемотати вперед на 30 секунд";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Увімкнути або вимкнути звук";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Далі";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Перемикач відтворення/призупинення";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Назад";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Перемотати назад на 30 секунд";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Зупинити відтворення медіафайлів";
+"NO_DEVICES_AVAILABLE"="Немає доступних пристроїв";
+"NO_TEXT_TRACK_ITEM"="Немає";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="телефон";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Призупинити";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Відтворити";
+"SETTINGS"="Налаштування";
+"SKIP_AD_LABEL"="Рекламу можна пропустити через %ld…";
+"TABLET_LOWERCASE"="планшет";
+"TEXT_TRACKS_TITLE"="Субтитри";
+"TRACK_NAME_CLOSED_CAPTIONS"="Субтитри";
+"WIFI_ERROR_DESCRIPTION"="Переконайтеся, що %@ і пристрій для трансляції підключено до однієї мережі Wi-Fi";
+"WIFI_ERROR_TITLE"="Перевірте підключення до мережі Wi-Fi";

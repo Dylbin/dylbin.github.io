@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Аудиозаписи";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Предаване";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Състояние: Свързано";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Състояние: Свързва се";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Състояние: Не е свързано";
+"CAST_DIALOG_CONNECTING_TITLE"="Установява се връзка със:";
+"CAST_DIALOG_TITLE"="Предаване към";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d%";
+"CAST_ENABLE_IN_SETTINGS"="Към настройките";
+"CAST_LEARN_MORE"="Научете повече";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="НА ЖИВО";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Приложението се нуждае от достъп до Wi-Fi мрежата ви, за да установи връзка с устройствата ви.
+
+За да предавате, отворете настройките и включете опцията за достъп до локалната мрежа за това приложение.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Това приложение се нуждае от достъп до локалната мрежа, за да предава";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Приложението се нуждае от достъп до Wi-Fi мрежата ви, за да установи връзка с устройствата ви.
+
+За да предавате, изберете OK, когато приложението поиска да се свърже с локалната ви мрежа. Можете да предоставите това разрешение и по-късно от настройките на iOS.";
+"CAST_NETWORK_PERMISSION_TITLE"="Това приложение се нуждае от достъп до локалната мрежа, за да предава";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесията за предаване започна";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Сесията за предаване завърши";
+"DEFAULT_AUDIO_TRACK_NAME"="Запис %d";
+"DEFAULT_TEXT_TRACK_NAME"="Запис %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Предава се към „%@“";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Отворете настройките на този телефон и проверете дали достъпът до локалната мрежа е включен за приложението";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Уверете се, че достъпът до локалната мрежа е включен";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Избиране на запис с надписи";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Напред с 30 секунди";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Включване и изключване на звука";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Напред";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Превключване между възпроизвеждане и пауза";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Назад";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Превъртане назад с 30 секунди";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Спиране на възпроизвеждането";
+"NO_DEVICES_AVAILABLE"="Няма налични устройства";
+"NO_TEXT_TRACK_ITEM"="Няма";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="телефонът ви";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Поставяне на пауза";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Пускане";
+"SETTINGS"="Настройки";
+"SKIP_AD_LABEL"="Можете да пропуснете рекламата след %ld...";
+"TABLET_LOWERCASE"="таблетът ви";
+"TEXT_TRACKS_TITLE"="Субтитри";
+"TRACK_NAME_CLOSED_CAPTIONS"="Надписи";
+"WIFI_ERROR_DESCRIPTION"="Уверете се, че %@ и устройството Cast са в една и съща Wi-Fi мрежа";
+"WIFI_ERROR_TITLE"="Проверете използваната Wi-Fi мрежа";

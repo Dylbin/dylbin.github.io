@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Oudio";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Saai uit";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Gekoppel";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Besig om te koppel";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Nie gekoppel nie";
+"CAST_DIALOG_CONNECTING_TITLE"="Koppel tans aan";
+"CAST_DIALOG_TITLE"="Saai uit na";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d persent";
+"CAST_ENABLE_IN_SETTINGS"="Gaan na Instellings";
+"CAST_LEARN_MORE"="Kom meer te wete";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="REGSTREEKS";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Hierdie program het toegang tot jou Wi-Fi-netwerk nodig om aan jou toestelle te koppel.
+
+Om uit te saai, moet jy na jou Instellings toe gaan en \"Toegang tot plaaslike netwerk\" vir hierdie program aanskakel.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Hierdie program het toegang tot die plaaslike netwerk nodig om uit te saai";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Hierdie program het toegang tot jou Wi-Fi-netwerk nodig om aan jou toestelle te koppel.
+
+Om uit te saai, moet jy “OK” kies wanneer die program vra om aan jou plaaslike netwerk te koppel. Jy kan dit ook later in iOS-instellings vir hierdie program toelaat.";
+"CAST_NETWORK_PERMISSION_TITLE"="Hierdie program het toegang tot die plaaslike netwerk nodig om uit te saai";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Uitsaaisessie is begin";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Uitsaaisessie is beëindig";
+"DEFAULT_AUDIO_TRACK_NAME"="Snit %d";
+"DEFAULT_TEXT_TRACK_NAME"="Snit %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Saai tans uit na %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Gaan na Instellings op hierdie foon en kyk of Toegang tot Plaaslike Netwerk aangeskakel is vir hierdie program";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Maak seker Toegang tot Plaaslike Netwerk is aan";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Kies 'n onderskrifsnit";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Spoel 30 sekondes vorentoe";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Wissel die dempstand";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Volgende";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Speel-onderbreek-wisselknoppie";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Vorige";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Spoel 30 sekondes terug";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Stop terugspeel van media";
+"NO_DEVICES_AVAILABLE"="Geen toestelle beskikbaar nie";
+"NO_TEXT_TRACK_ITEM"="Geen";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="foon";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Laat wag";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Speel";
+"SETTINGS"="Instellings";
+"SKIP_AD_LABEL"="Jy kan advertensie oor %ld oorslaan …";
+"TABLET_LOWERCASE"="tablet";
+"TEXT_TRACKS_TITLE"="Onderskrifte";
+"TRACK_NAME_CLOSED_CAPTIONS"="Geslote onderskrifte";
+"WIFI_ERROR_DESCRIPTION"="Maak seker dat jou %@ en die uitsaaitoestel in dieselfde wi-fi-netwerk is.";
+"WIFI_ERROR_TITLE"="Gaan jou wi-fi-netwerk na";

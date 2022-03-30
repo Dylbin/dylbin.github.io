@@ -1,0 +1,11 @@
+"Cancel"="Cancel";
+"EmmConnectLabel"="Connect";
+"EmmConnectText"="In order to protect your organization's data, you must connect with the Device Policy app before logging in.";
+"EmmConnectTitle"="Connect with Device Policy App?";
+"EmmErrorTitle"="Unable to sign in to account";
+"EmmGeneralError"="The device is not compliant with the security policy set by your administrator.";
+"EmmPasscodeRequired"="Your administrator requires you to set a passcode on this device to access this account. Please set a passcode and try again.";
+"OK"="OK";
+"SettingsAppName"="Settings";
+"Sign in"="Sign in";
+"Sign in with Google"="Sign in with Google";

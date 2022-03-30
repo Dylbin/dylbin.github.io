@@ -1,0 +1,48 @@
+"AUDIO_TRACKS_TITLE"="Âm thanh";
+"CAST_BUTTON_ACCESSIBILITY_LABEL"="Truyền";
+"CAST_BUTTON_CONNECTED_ACCESSIBILITY_LABEL"="Trạng thái đã kết nối";
+"CAST_BUTTON_CONNECTING_ACCESSIBILITY_LABEL"="Trạng thái đang kết nối";
+"CAST_BUTTON_NOT_CONNECTED_ACCESSIBILITY_LABEL"="Trạng thái chưa kết nối";
+"CAST_DIALOG_CONNECTING_TITLE"="Đang kết nối với";
+"CAST_DIALOG_TITLE"="Truyền tới";
+"CAST_DIALOG_VOLUME_SLIDER_PERCENT_FORMAT_ACCESSIBILITY_LABEL"="%d phần trăm";
+"CAST_ENABLE_IN_SETTINGS"="Chuyển đến phần Cài đặt";
+"CAST_LEARN_MORE"="Tìm hiểu thêm";
+"CAST_LIVE_INDICATOR_LIVE_TEXT"="TRỰC TIẾP";
+"CAST_NETWORK_PERMISSION_DENIED_SUBTITLE"="Để kết nối với các thiết bị của bạn, ứng dụng này cần có quyền truy cập vào mạng Wi-Fi.
+
+Để truyền, hãy chuyển đến phần Cài đặt rồi bật “Quyền truy cập mạng cục bộ” cho ứng dụng này.";
+"CAST_NETWORK_PERMISSION_DENIED_TITLE"="Ứng dụng này cần có Quyền truy cập mạng cục bộ để truyền";
+"CAST_NETWORK_PERMISSION_SUBTITLE"="Để kết nối với các thiết bị của bạn, ứng dụng này cần có quyền truy cập vào mạng Wi-Fi.
+
+Để truyền, hãy chọn “OK” khi ứng dụng này muốn kết nối với mạng cục bộ của bạn. Bạn cũng có thể cấp quyền này vào lúc khác trong phần Cài đặt iOS cho ứng dụng này.";
+"CAST_NETWORK_PERMISSION_TITLE"="Ứng dụng này cần có Quyền truy cập mạng cục bộ để truyền";
+"CAST_OK"="OK";
+"CAST_STATE_CONNECTED_ACCESSIBILITY_NOTIFICATION"="Phiên truyền đã bắt đầu";
+"CAST_STATE_DISCONNECTED_ACCESSIBILITY_NOTIFICATION"="Phiên truyền đã kết thúc";
+"DEFAULT_AUDIO_TRACK_NAME"="Bản số %d";
+"DEFAULT_TEXT_TRACK_NAME"="Bản số %d";
+"EXPANDED_CONTROLS_CASTING_TO"="Đang truyền tới %@";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_DESCRIPTION"="Chuyển đến phần Cài đặt trên điện thoại này và kiểm tra để đảm bảo rằng bạn đã bật Quyền truy cập mạng cục bộ cho ứng dụng này";
+"LOCAL_NETWORK_ACCESS_PERMISSION_ERROR_TITLE"="Đảm bảo bạn đã bật Quyền truy cập mạng cục bộ";
+"MINI_CONTROLLER_CLOSEDCAPTIONS_BUTTON_ACCESSIBILITY_LABEL"="Chọn một bản phụ đề";
+"MINI_CONTROLLER_FORWARD30_BUTTON_ACCESSIBILITY_LABEL"="Tua đi 30 giây";
+"MINI_CONTROLLER_MUTETOGGLE_BUTTON_ACCESSIBILITY_LABEL"="Bật tiếng/tắt tiếng";
+"MINI_CONTROLLER_NEXT_BUTTON_ACCESSIBILITY_LABEL"="Tiếp theo";
+"MINI_CONTROLLER_PLAYPAUSE_BUTTON_ACCESSIBILITY_LABEL"="Nút phát/tạm dừng";
+"MINI_CONTROLLER_PREVIOUS_BUTTON_ACCESSIBILITY_LABEL"="Trước";
+"MINI_CONTROLLER_REWIND30_BUTTON_ACCESSIBILITY_LABEL"="Tua lại 30 giây";
+"MINI_CONTROLLER_STOP_BUTTON_ACCESSIBILITY_LABEL"="Dừng phát lại nội dung đa phương tiện";
+"NO_DEVICES_AVAILABLE"="Không có thiết bị nào";
+"NO_TEXT_TRACK_ITEM"="Không";
+"NO_TIME_DISPLAY"="--:--";
+"PHONE_LOWERCASE"="điện thoại";
+"PLAYPAUSE_BUTTON_PAUSE_STATE_ACCESSIBILITY_LABEL"="Tạm dừng";
+"PLAYPAUSE_BUTTON_PLAY_STATE_ACCESSIBILITY_LABEL"="Phát";
+"SETTINGS"="Cài đặt";
+"SKIP_AD_LABEL"="Bạn có thể bỏ qua quảng cáo sau %ld ...";
+"TABLET_LOWERCASE"="máy tính bảng";
+"TEXT_TRACKS_TITLE"="Phụ đề";
+"TRACK_NAME_CLOSED_CAPTIONS"="Phụ đề chi tiết";
+"WIFI_ERROR_DESCRIPTION"="Đảm bảo %@ và thiết bị truyền cùng sử dụng một mạng Wi-Fi";
+"WIFI_ERROR_TITLE"="Kiểm tra mạng Wi-Fi của bạn";

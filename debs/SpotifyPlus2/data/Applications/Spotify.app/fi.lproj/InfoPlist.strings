@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Antaa sinun toistaa tuomaasi musiikkia ja podcasteja Spotifyssa.";
+"NSBluetoothAlwaysUsageDescription"="Tämän avulla voit käyttää Spotifyta ulkoisten lisälaitteiden kanssa.";
+"NSBluetoothPeripheralUsageDescription"="Tämän avulla voit käyttää Spotifyta ulkoisten lisälaitteiden kanssa.";
+"NSCameraUsageDescription"="Tällöin voit skannata Spotify-koodeja ja ottaa valokuvia profiiliisi ja soittolistoihisi.";
+"NSFaceIDUsageDescription"="Tämän avulla voit asettaa rajoituksia Face ID:n käytölle.";
+"NSLocalNetworkUsageDescription"="Toiminnon ansiosta voit kuunnella Spotifyta eri laitteilla. Spotify saa samalla pääsyn paikallisiin äänitiedostoihin.";
+"NSMicrophoneUsageDescription"="Tämän avulla voit ohjata Spotifyta äänelläsi.";
+"NSPhotoLibraryAddUsageDescription"="Antamalla luvan voit tallentaa kuvia kuvakirjastoosi.";
+"NSPhotoLibraryUsageDescription"="Tämän avulla voit valita valokuvia kuvakirjastostasi.";
+"NSUserTrackingUsageDescription"="Tietoja käytetään mainonnan ja sisällön kohdentamiseen sinulle.";

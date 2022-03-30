@@ -1,0 +1,11 @@
+"Cancel"="取消";
+"EmmConnectLabel"="关联";
+"EmmConnectText"="要保护您组织的数据，您必须在登录前关联 Device Policy 应用。";
+"EmmConnectTitle"="要关联 Device Policy 应用吗？";
+"EmmErrorTitle"="无法登录帐号";
+"EmmGeneralError"="该设备不符合管理员设置的安全政策。";
+"EmmPasscodeRequired"="您的管理员要求您必须先在此设备上设置密码，然后才能访问此帐号。请设置密码并重试。";
+"OK"="确定";
+"SettingsAppName"="设置";
+"Sign in"="登录";
+"Sign in with Google"="使用 Google 帐号登录";

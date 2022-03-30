@@ -1,0 +1,10 @@
+"NSAppleMusicUsageDescription"="Questo ti permetterà di riprodurre la tua musica importata o i podcast su Spotify.";
+"NSBluetoothAlwaysUsageDescription"="Questa opzione ti permette di utilizzare Spotify con accessori esterni.";
+"NSBluetoothPeripheralUsageDescription"="Questa opzione ti permette di utilizzare Spotify con accessori esterni.";
+"NSCameraUsageDescription"="Ti consente di scansionare i codici Spotify e scattare foto per il tuo profilo e per le tue playlist.";
+"NSFaceIDUsageDescription"="Ti consente di impostare limitazioni di accesso usando Face ID.";
+"NSLocalNetworkUsageDescription"="Ciò ti permette di ascoltare su diversi dispositivi. Spotify avrà così anche l'accesso ai file audio locali.";
+"NSMicrophoneUsageDescription"="Potrai utilizzare i comandi vocali per controllare Spotify.";
+"NSPhotoLibraryAddUsageDescription"="Ti consente di salvare le immagini dalla tua libreria di foto.";
+"NSPhotoLibraryUsageDescription"="Ti consente di selezionare le immagini dalla tua libreria di foto.";
+"NSUserTrackingUsageDescription"="I tuoi dati verranno utilizzati per inviarti annunci o contenuti personalizzati.";
