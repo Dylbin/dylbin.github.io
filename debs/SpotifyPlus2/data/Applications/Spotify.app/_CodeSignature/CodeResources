@@ -339,7 +339,7 @@
 		</data>
 		<key>Frameworks/CydiaSubstrate.framework/CydiaSubstrate</key>
 		<data>
-		YgGII1fwdsT6dBD7aPr+ZrN/TTM=
+		eRZwUD/pnCqnp5VYvFIugMq22fo=
 		</data>
 		<key>Frameworks/CydiaSubstrate.framework/Headers/CydiaSubstrate.h</key>
 		<data>
@@ -351,11 +351,11 @@
 		</data>
 		<key>Frameworks/CydiaSubstrate.framework/_CodeSignature/CodeResources</key>
 		<data>
-		p5XjWpzG08iWFaq2t1Hp3sFyxqU=
+		zVMIGD1Z1/38bV8wW53TK6xTTzk=
 		</data>
 		<key>Frameworks/EncoreFoundation-FW.framework/EncoreFoundation-FW</key>
 		<data>
-		3C8h9OjYuk/eNtrYr/ehAddtvCI=
+		thm7r+p4Q4unsnSY4D/ru3U6tP0=
 		</data>
 		<key>Frameworks/EncoreFoundation-FW.framework/EncoreFoundation.bundle/CircularSp-Arab-Black.otf</key>
 		<data>
@@ -455,15 +455,15 @@
 		</data>
 		<key>Frameworks/EncoreFoundation-FW.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1mXyyMqEqFM0B3n8uplc99HIBwU=
+		dvKNOHdbDkO/M6u5BV9R3PLCbm8=
 		</data>
 		<key>Frameworks/Spotilife.dylib</key>
 		<data>
-		G8ct4jLHgI2682HP/pEf588rmKo=
+		V/Kbynqs2aiF474j9d9Oijic8Ak=
 		</data>
 		<key>Frameworks/libswift_Concurrency.dylib</key>
 		<data>
-		7PFlpEavPKR5LkCRTIoxVLqMIiQ=
+		RXeIPNg7nXp4Bu8Y7Xz9XIZ7868=
 		</data>
 		<key>GoogleCastCoreResources.bundle/CastFrameworkDB.momd/CastFrameworkDB.mom</key>
 		<data>
@@ -3214,7 +3214,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		VlKi//2YxzfUBG0GRB2vabYrYbw=
+		/tmoj6Ox7ZZ3/1PuD53NzY78Q7A=
 		</data>
 		<key>Intents.intentdefinition</key>
 		<data>
@@ -3890,7 +3890,7 @@
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<data>
-		tyILZsgEar2cjl+JOJO6ntU9ZXs=
+		BRWP1WXDHBJWcTDTvxgRvwExryo=
 		</data>
 		<key>en.lproj/AppIntentVocabulary.plist</key>
 		<dict>
@@ -6565,11 +6565,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YgGII1fwdsT6dBD7aPr+ZrN/TTM=
+			eRZwUD/pnCqnp5VYvFIugMq22fo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TTDw6BZRG3x23q2O+V/5Wb73DqmFKM6a09/OBAGbqhw=
+			mXZ5OAHxaBebUvVZiwjVqkERpk/kWhDaDjM3qnA6Ieo=
 			</data>
 		</dict>
 		<key>Frameworks/CydiaSubstrate.framework/Headers/CydiaSubstrate.h</key>
@@ -6598,22 +6598,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p5XjWpzG08iWFaq2t1Hp3sFyxqU=
+			zVMIGD1Z1/38bV8wW53TK6xTTzk=
 			</data>
 			<key>hash2</key>
 			<data>
-			QCuhyAsj8NSDFjl512h3toQY20EXdNFL4cf4JsuVIJI=
+			ZSUl22mqBbsUNqpLsWCAPgadzrHOHqPgEu12dF8LuEA=
 			</data>
 		</dict>
 		<key>Frameworks/EncoreFoundation-FW.framework/EncoreFoundation-FW</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3C8h9OjYuk/eNtrYr/ehAddtvCI=
+			thm7r+p4Q4unsnSY4D/ru3U6tP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/nhas+cKOSCXmzZs/KnYRbCwGPjlmJZn+V2UVxKPKwU=
+			BaWpgchsI8V9XKnRXJaJsUomK8hQ7QeUxx+bXptdGfM=
 			</data>
 		</dict>
 		<key>Frameworks/EncoreFoundation-FW.framework/EncoreFoundation.bundle/CircularSp-Arab-Black.otf</key>
@@ -6884,33 +6884,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1mXyyMqEqFM0B3n8uplc99HIBwU=
+			dvKNOHdbDkO/M6u5BV9R3PLCbm8=
 			</data>
 			<key>hash2</key>
 			<data>
-			2d7EBBqkzGIh/SYHyFxwdLHvrxOHA48pd0ZG+6nWyL0=
+			tQdMkJfOF5QWhfP/lGt/NNc6ltLlI7uDLSep3gaO6v0=
 			</data>
 		</dict>
 		<key>Frameworks/Spotilife.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G8ct4jLHgI2682HP/pEf588rmKo=
+			V/Kbynqs2aiF474j9d9Oijic8Ak=
 			</data>
 			<key>hash2</key>
 			<data>
-			VVHQbwen0TyKyl6W4qr+6t8B7rMuXMhyKSiLbcpX0Cw=
+			Htj34muzf5lZxQfjjcJH/th9ce+pRyG6TNX1Yc24TW0=
 			</data>
 		</dict>
 		<key>Frameworks/libswift_Concurrency.dylib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7PFlpEavPKR5LkCRTIoxVLqMIiQ=
+			RXeIPNg7nXp4Bu8Y7Xz9XIZ7868=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ailW3Q+GehXlAk2t7RB/86VA2UFeGrb/r5Y4FvDpOc=
+			7sMetoIqy9Itc7QWrR94myPpzd2nCTcvrXs7RN5dlJU=
 			</data>
 		</dict>
 		<key>GoogleCastCoreResources.bundle/CastFrameworkDB.momd/CastFrameworkDB.mom</key>
@@ -12936,11 +12936,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tyILZsgEar2cjl+JOJO6ntU9ZXs=
+			BRWP1WXDHBJWcTDTvxgRvwExryo=
 			</data>
 			<key>hash2</key>
 			<data>
-			dZFugxO8ozLnu+MepvuNyidr7c9h2VbKnpvXVjN/cmc=
+			ADcI22urSdW3FmBVlIUhNbK++/66V5EpMxaTArmq82k=
 			</data>
 		</dict>
 		<key>en.lproj/AppIntentVocabulary.plist</key>
@@ -15942,19 +15942,19 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000</real>
+			<real>1000.0</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100</real>
+			<real>1100.0</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010</real>
+			<real>1010.0</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -15964,14 +15964,14 @@
 		<key>.*\.dSYM($|/)</key>
 		<dict>
 			<key>weight</key>
-			<real>11</real>
+			<real>11.0</real>
 		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>2000</real>
+			<real>2000.0</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -15980,43 +15980,43 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000</real>
+			<real>1000.0</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100</real>
+			<real>1100.0</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010</real>
+			<real>1010.0</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20</real>
+			<real>20.0</real>
 		</dict>
 		<key>^PkgInfo$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20</real>
+			<real>20.0</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>
-			<real>20</real>
+			<real>20.0</real>
 		</dict>
 		<key>^version\.plist$</key>
 		<dict>
 			<key>weight</key>
-			<real>20</real>
+			<real>20.0</real>
 		</dict>
 	</dict>
 </dict>

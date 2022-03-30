@@ -35,7 +35,7 @@ SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/Delta.json
 Package: net.nerd.inds
 Version: 1.10.8
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: DylbinTheDev
 Filename: /debs/iNDS.deb
 Size: 8423850
 MD5sum: ab0546a3163064b4af57b5c013a32af1
@@ -52,7 +52,7 @@ SileoDepiction: https://dylbin.github.io/assets/SileoDepictions/iNDS.json
 Package: com.spotify.client
 Version: 8.6.94
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: DylbinTheDev
 Filename: /debs/SpotifyPlus1.deb
 Size: 24575768
 MD5sum: f9b7ab32fe74273644764fec6b279076
@@ -69,12 +69,12 @@ SileoDepiction: https://dylbin.me/assets/SileoDepictions/SpotifyApp.json
 Package: com.spotify.client
 Version: 8.7.12
 Architecture: iphoneos-arm
-Maintainer: DylbinTheDev <dylbin@dylbin.dev>
+Maintainer: DylbinTheDev
 Filename: /debs/SpotifyPlus2.deb
-Size: 31042036
-MD5sum: fe9ffc0b2d5643bb8cfeda8d26165899
-SHA1: f5c8485274e00a0ccb425045b5a02a2e59461378
-SHA256: e82d1c20c2aea1841830c2f75fb14b7e5f5dfc0e5cffaa66310e04db698e7f00
+Size: 45285292
+MD5sum: 8d547b60e33204494123711e0bb12718
+SHA1: cfb272586d28b5c3e3a9de17e74a41ba45c13fb1
+SHA256: be98d6b29a47704b50b8d5edc72b7692846e27239f4e06ed412f3ba027499b1a
 Section: Utilities
 Description: Spotify++ for iOS 10/11/12/13/14/15
 Author: DylbinTheDev & julioverne
