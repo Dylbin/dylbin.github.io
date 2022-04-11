@@ -85,6 +85,24 @@ Depiction: https://dylbin.me/assets/CydiaDepictions/Spotify++/Spotify.html
 SileoDepiction: https://dylbin.me/assets/SileoDepictions/SpotifyApp.json
 
 Package: com.dylbinthedev.mbp
+Version: 10.7
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Filename: /debs/MovieBoxPro10.7.deb
+Size: 53754040
+MD5sum: 1781b67e92f04eba614826aa4215587d
+SHA1: 9a379a69f8d931cdd74fccc4dbd92ec07b047a19
+SHA256: f58e111099b000d612d3501051513eb80699e2a52bfb52659376dce41279aed6
+Section: Multimedia
+Description: MovieBoxPro for iOS 12/13/14/15
+Author: MovieBoxPro Team
+Name: MovieBox Pro
+Depends: firmware (>= 12.0)
+Icon: https://dylbin.me/icons/com.dylbinthedev.mbp.png
+Depiction: https://dylbin.me/assets/CydiaDepictions/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.me/assets/SileoDepictions/MovieBoxPro.json
+
+Package: com.dylbinthedev.mbp
 Version: 10.6
 Architecture: iphoneos-arm
 Maintainer: DylbinTheDev
