@@ -57,12 +57,12 @@
                 },
                 {
                     "title": "Version",
-                    "text": "10.7",
+                    "text": "10.8",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Updated",
-                    "text": "04-11-2022",
+                    "text": "04-21-2022",
                     "class": "DepictionTableTextView"
                 },
                 {
