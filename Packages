@@ -11,6 +11,8 @@ SHA256: 26d5a7d87ea5386f7af0d32e7f0621f5b84ce659cc77fb1ce07e46ce9503a930
 SHA512: cba621223c7007e64f61904259639d237d4fce7df1bf4b999a39c56c1a7169b3b999283ac8cf125e1203355f2c38e7e7da73ff14c8e791e3e0977b97b49598d3
 Description: MovieBoxPro for iOS 12/13/14
 Name: MovieBoxPro
+Icon: ./icons/com.dylicious.mbp.png
+Depiction: ./depictions/cydia/MovieBoxPro/MovieBoxPro.html
 Author: MovieBoxPro Team
 
 Package: com.dylicious.appaddict
@@ -26,5 +28,6 @@ SHA256: caa0824bbc9284050653b74e8fce4d2c134164657dcce78f4358d753a71c9419
 SHA512: 098664ad5b779c2613171f42317cbf4cc48ff1ac9af29bfaa387e876fc2360b4e8468ecfa53b71cc2b8e9df590656014f72096cf5638218cce772cfdb89bd372
 Description: AppAddict Store for iOS 12/13/14
 Name: AppAddict
+Icon: ./icons/com.dylicious.appaddict
 Author: AppAddict Team
 
