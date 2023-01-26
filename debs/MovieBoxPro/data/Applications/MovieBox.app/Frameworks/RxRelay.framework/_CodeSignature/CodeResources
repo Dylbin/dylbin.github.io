@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		BOw+EsqmvzWr1P0kVnul5W95nsk=
+		HmihEaJ9+0V5YZBBsEQP6BJN3Io=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -20,19 +20,19 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -42,14 +42,14 @@
 		<key>.*\.dSYM($|/)</key>
 		<dict>
 			<key>weight</key>
-			<real>11.0</real>
+			<real>11</real>
 		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>2000.0</real>
+			<real>2000</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -58,43 +58,43 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^PkgInfo$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^version\.plist$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>

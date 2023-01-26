@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		P8RhIRdbxoIGqNUhul/52TBVd3o=
+		forwNaD8eh5W8wJqPsD01SFi+c8=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/Base.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
@@ -19,7 +19,27 @@
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/Info.plist</key>
 		<data>
-		NMD/aewcosFJOJNnT0ghwH+8tgQ=
+		OhQ3crCJ8e+OSMJ8VDFz6urzQsw=
+		</data>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		Lp7BZfz6BUnAGIIOQHtLeWhnBAY=
+		</data>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		RnQzZzVLwEXXO9RU3RpkXCE2ykc=
+		</data>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		CKjmP8XFHYV36Oo2n7mEi+XgSg0=
+		</data>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		BS5PhsDnAanglgHnWvQX/JDvYeU=
+		</data>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		3DmI02ZGQvhlZ+IAbU0j/KR+4fQ=
 		</data>
 		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings</key>
 		<dict>
@@ -293,11 +313,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NMD/aewcosFJOJNnT0ghwH+8tgQ=
+			OhQ3crCJ8e+OSMJ8VDFz6urzQsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0GEi/hR241Vl2IT1FrPXLspZn6oBh1h2+PVNsCCoGoo=
+			EQGQtqQKhcoOn+7oNRsQRPk4EzyBW6iDZ7bk5tth4Ao=
+			</data>
+		</dict>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lp7BZfz6BUnAGIIOQHtLeWhnBAY=
+			</data>
+			<key>hash2</key>
+			<data>
+			3hML2gSA/l01nq9DgUqAeajtnHCvAfKndlB05jk3BA8=
+			</data>
+		</dict>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RnQzZzVLwEXXO9RU3RpkXCE2ykc=
+			</data>
+			<key>hash2</key>
+			<data>
+			3wQQ4yTQ6dSzpeJS6NoK2uZGGMQ7+Tfkm2Zdpox9zRA=
+			</data>
+		</dict>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CKjmP8XFHYV36Oo2n7mEi+XgSg0=
+			</data>
+			<key>hash2</key>
+			<data>
+			UoCyNYCHVwPU1fBLOn0VCMh69R6NbwYNZ2/StYuXmDY=
+			</data>
+		</dict>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BS5PhsDnAanglgHnWvQX/JDvYeU=
+			</data>
+			<key>hash2</key>
+			<data>
+			8TVAYBE5lhuGY2URHxIat2R/LQOF+zEtLgWQ1BicfEE=
+			</data>
+		</dict>
+		<key>TOCropViewControllerBundle.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3DmI02ZGQvhlZ+IAbU0j/KR+4fQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			yf1H1EJCGV9Yi0KJWihE/R121qm0uuiV4bkNygpnZrc=
 			</data>
 		</dict>
 		<key>TOCropViewControllerBundle.bundle/ar.lproj/TOCropViewControllerLocalizable.strings</key>
@@ -674,19 +749,19 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -696,14 +771,14 @@
 		<key>.*\.dSYM($|/)</key>
 		<dict>
 			<key>weight</key>
-			<real>11.0</real>
+			<real>11</real>
 		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>2000.0</real>
+			<real>2000</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -712,43 +787,43 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^PkgInfo$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^version\.plist$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>

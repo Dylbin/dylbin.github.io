@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>SF-Compact</string>
+		<key>FontSize</key>
+		<integer>35</integer>
+		<key>FontWeight</key>
+		<string>Regular</string>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#666666</string>
+		<key>TextColor</key>
+		<string>#000000</string>
+		<key>TextYoffset</key>
+		<integer>6</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>SF-Compact</string>
+		<key>FontSize</key>
+		<real>9.5</real>
+		<key>FontWeight</key>
+		<string>Semibold</string>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#000000</string>
+		<key>TextColor</key>
+		<string>#ffffff</string>
+		<key>TextYoffset</key>
+		<integer>-2</integer>
+	</dict>
+	<key>FuzzyBundleIdentifiers</key>
+	<array>
+		<string>com.rileytestut.AltStore</string>
+		<string>org.coolstar.odyssey</string>
+		<string>science.xnu.undecimus</string>
+		<string>com.odysseyteam.taurine.png</string>
+	</array>
+	<key>IB-MaskIcons</key>
+	<true/>
+	<key>PackageName</key>
+	<string>Junipero Deluxe</string>
+</dict>
+</plist>

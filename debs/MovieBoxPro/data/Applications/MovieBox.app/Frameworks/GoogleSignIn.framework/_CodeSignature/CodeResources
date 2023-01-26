@@ -6,11 +6,31 @@
 	<dict>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		Ou5rUlQ6zY7tgjUkEg+5LTUnPO8=
+		uzKwzhym19mimld1wjhVATL9J6E=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
 		RzJ98PNefNfIZFh0iXp0SWl1RK4=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		2qeY82BSlGx7hA5oP2sGjJ1Uz/s=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		WF40FjUyM6uDTCFEm+BQnHa3LFI=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		RDvThjOBLQnif3AhhMpGOFn/a7c=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		Qhb74FbnfeuJ0jvq6lCwsuLRYKI=
+		</data>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		Jk+lUPG7lZgQFcde1iPcGREvIg4=
 		</data>
 		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
 		<dict>
@@ -368,7 +388,7 @@
 		</dict>
 		<key>Info.plist</key>
 		<data>
-		pE1+lONpcDNgr8Tr2kkMjFoC0Lg=
+		IBvPoWugyoEl6xmMKzckm8FPntE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -377,11 +397,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ou5rUlQ6zY7tgjUkEg+5LTUnPO8=
+			uzKwzhym19mimld1wjhVATL9J6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			cFYnwRFO2xU8F824NTLCDLI1bLHA+ROYJcYvZ0G0E80=
+			O83kJ/np8czJwN//c0DicItt+67Uiojc1C4ChFhq/pE=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
@@ -393,6 +413,61 @@
 			<key>hash2</key>
 			<data>
 			WU10pJ4we+fMnh7l8QI2hOaCDPEbzJaL7lkDkeGtWlo=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2qeY82BSlGx7hA5oP2sGjJ1Uz/s=
+			</data>
+			<key>hash2</key>
+			<data>
+			X5Y5YwkiTLo8AHC0BTVmz5pMlbjMIUQ/qyOgkbO8qQA=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WF40FjUyM6uDTCFEm+BQnHa3LFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			329Wmr7JWzGhGs1/QI7QgTna22KI/tGlDazMvfu10tw=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RDvThjOBLQnif3AhhMpGOFn/a7c=
+			</data>
+			<key>hash2</key>
+			<data>
+			D65E+bHmymW+/rOSmARuhQIK0Z//UD/gw+1XuNrCG4k=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qhb74FbnfeuJ0jvq6lCwsuLRYKI=
+			</data>
+			<key>hash2</key>
+			<data>
+			2zCixoHyiYx2Ub6g9ytFQUanb6FE6+1z6Hh0Bj51Trs=
+			</data>
+		</dict>
+		<key>GoogleSignIn.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jk+lUPG7lZgQFcde1iPcGREvIg4=
+			</data>
+			<key>hash2</key>
+			<data>
+			42VHrtP1rbxNiZPu8VuLv+NZNCJpwnOrtLU57pLQ02Y=
 			</data>
 		</dict>
 		<key>GoogleSignIn.bundle/ar.lproj/GoogleSignIn.strings</key>
@@ -932,19 +1007,19 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -954,14 +1029,14 @@
 		<key>.*\.dSYM($|/)</key>
 		<dict>
 			<key>weight</key>
-			<real>11.0</real>
+			<real>11</real>
 		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>2000.0</real>
+			<real>2000</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -970,43 +1045,43 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.0</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.0</real>
+			<real>1100</real>
 		</dict>
 		<key>^Base\.lproj/</key>
 		<dict>
 			<key>weight</key>
-			<real>1010.0</real>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^PkgInfo$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 		<key>^version\.plist$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.0</real>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>

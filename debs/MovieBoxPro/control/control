@@ -1,0 +1,9 @@
+Package: me.dylicious.mbp
+Version: 11.8
+Name: MovieBoxPro
+Section: Multimedia
+Description: MovieBoxPro for iOS 12/13/14/15/16
+Architecture: iphoneos-arm
+Author: MoiveBoxPro Team
+Maintainer: Dylicious
+Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png

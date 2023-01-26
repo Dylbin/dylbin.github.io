@@ -1,0 +1,9 @@
+Package: me.dylicious.spotilife
+Name: Spotilife
+Version: 1.8
+Description: Enable Spotify Premium Features on iOS 12 - 16
+Author: julioverne & Dylicious
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Maintainer: Dylicious

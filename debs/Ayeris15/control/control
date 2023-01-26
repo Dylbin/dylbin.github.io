@@ -1,0 +1,11 @@
+Package: me.dylicious.ayeris15
+Name: Ayeris15
+Version: 1.0.4
+Description: A legendary theme for iOS
+Author: Surenix <surenix@surenix.me>
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Icon: file:///Library/Themes/ayeris.theme/IconBundles/ayeris-Icon.png
+Maintainer: Dylicious
+

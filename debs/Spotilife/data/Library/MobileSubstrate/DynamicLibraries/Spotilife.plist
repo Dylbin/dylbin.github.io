@@ -1,0 +1,12 @@
+{
+	Filter = {
+		Bundles = (
+			"com.spotify.client",
+			"com.spotify.stations",
+		);
+		Executables = (
+			"Spotify",
+			"Stations",
+		);
+	};
+}
