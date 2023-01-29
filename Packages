@@ -13,6 +13,7 @@ Description: MovieBoxPro for iOS 12/13/14/15/16
 Name: MovieBoxPro
 Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
 Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
+SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
 Author: MovieBoxPro Team
 
 Package: me.dylicious.junipero
@@ -27,6 +28,7 @@ SHA1: e65aa76bc095f8c1c7c2607ce814339d8e377eec
 SHA256: c5b733a600046a4e6a35627b475921893aeefd9e3c0d96b259a0a353e1db1812
 SHA512: c2c8f7c81d2a2439645ef4f5d0d0a448e33f6cb91e893bacedc944880d51b8f51a6865ab4db8a10467374572b07180d163838ae4364b5cbed8813681b83b56c0
 Description: A stunning new look for iOS
+Depends: com.spark.snowboard | com.anemonetheming.anemone
 Name: Junipero Deluxe
 Icon: https://dylbin.github.io/icons/me.dylicious.junipero.png
 Author: xerusdesign
@@ -45,7 +47,7 @@ SHA512: 65dea5c02ec2e9379f05d1321df25a1a1352d2a4e9a09ba5c0da830890bbb957bfe95dd7
 Description: A legendary theme for iOS
 Name: Ayeris15
 Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
-Icon: file:///Library/Themes/Ayeris15.theme/IconBundles/ayeris-Icon.png
+Icon: https://dylbin.github.io/icons/me.dylicious.ayeris15.png
 Author: Surenix <surenix@surenix.me>
 
 Package: me.dylicious.spotilife
