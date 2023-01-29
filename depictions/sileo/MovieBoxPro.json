@@ -1,0 +1,78 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tintColor": "#363535",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "MovieBoxPro",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "The best application for movies & tv shows for iOS 12 and higher"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": ""
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "MovieBoxPro can stream up to 8K HDR quality with 12-bit color depth and uses H264 encoding. High streaming speeds.",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "11.8",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "01-29-2023",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "12.0 - 16.3",
+                    "class": "DepictionTableTextView",
+                    "title": "iOS"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "MovieBoxPro Team",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}
