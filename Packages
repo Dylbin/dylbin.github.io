@@ -64,4 +64,5 @@ SHA512: 2a99dd2210911a91ed6036b24df3297eada11ea96a3cc15932bde421b992f7d504a7cec2
 Description: Enable Spotify Premium Features on iOS 12 - 16
 Name: Spotilife
 Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Author: julioverne & Dylicious
