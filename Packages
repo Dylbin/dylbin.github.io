@@ -1,14 +1,14 @@
 Package: me.dylicious.mbp
-Version: 11.8
+Version: 12.2
 Section: Multimedia
 Maintainer: Dylicious
 Architecture: iphoneos-arm
 Filename: ./debs/MovieBoxPro.deb
-Size: 41040818
-MD5sum: fb8dfa52333e17de9ca1274565252247
-SHA1: 22e0c5f86002a85fbe21ba4b4873c2fa7504cb41
-SHA256: da562621afb3073cf122277f8a2417ef2ff2c1ccc9e9a588b6826b68b5e42182
-SHA512: f358c88afe076d51c2a0be191c289871258ebd553438b15ba4b12bfcb0de2f680c4c825cc7e25ada630b322944097a871caa64a78ee71611a16b47a40ff23658
+Size: 37263196
+MD5sum: c926f95b17348ec7bdbfaa16a4ef605b
+SHA1: f24f445eea4ab19df2d4df3fdaef4bdcf92ce5d5
+SHA256: 53dc1dd4a4b0046073d3941f7b0939a0360163e5e6a71f3befd7294d97e9c5ca
+SHA512: bcb138048b959fc03c9cf6438b639b1bff97f2ade6547ecd613948c22c998cfeba75d366196e25cb3b601f0fb8260ad91c14b1849812a30bf1e6565b5636eeac
 Description: MovieBoxPro for iOS 12/13/14/15/16
 Name: MovieBoxPro
 Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
