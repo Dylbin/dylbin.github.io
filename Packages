@@ -66,3 +66,21 @@ Name: Spotilife
 Depends: mobilesubstrate
 Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Author: julioverne & Dylicious
+
+Package: com.uckermark.not-a-bypass
+Version: 1.1.4
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/NotABypass.deb
+Size: 19377680
+MD5sum: c5b2eccc09486ce99dc430d896e8e621
+SHA1: 4d89309b333b74be44e5993cda2d133acade27ab
+SHA256: 2e36dc355f2cff4d61b18478af655ff8f214ec0daa62550662b2e718ad87064e
+SHA512: 23ecb991bbbcdcd4ad23d01c4b112243ec43b9e757ce481bf34ac31da7fb0a8da3801675f798422b4c9c6a7184d097208d863bd24bf56141c1a72b9d8ed62530
+Description: Global jailbreak detection bypass
+Name: Not A Bypass
+Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
+Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
+Icon: https://dylbin.github.io/icons/com.uckermark.not-a-bypass.png
+Author: Uckermark
