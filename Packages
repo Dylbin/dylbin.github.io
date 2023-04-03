@@ -84,3 +84,19 @@ Depends: firmware (>= 13.0), com.ex.substitute (>= 2.0)
 Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
 Icon: https://dylbin.github.io/icons/com.uckermark.not-a-bypass.png
 Author: Uckermark
+
+Package: com.mo.streamer.ios
+Version: 1.2.12
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/Streamer-iOS.deb
+Size: 9039392
+MD5sum: 51e98d922c25aa0fc2511d308da37373
+SHA1: cf7d8e4504c4ba156d80feeff2ffe7d8b0ac42e8
+SHA256: 55819007d099b4fcac8c8fa9a2a1742fbbc3d4854a96ce8ee10dffac07599ae8
+SHA512: 7f3adf5cc27f105ab739258b770c4d9207cbd25d38d797d7433ee9547c0b18bf825044df3a38d43d0d4052c7bb22de7094c09ba192b14d382ceca1497254d553
+Description: App for Streaming Movies and TV shows on iOS and tvOS
+Name: Streamer-iOS
+Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
+Author: mo7amedfouad
