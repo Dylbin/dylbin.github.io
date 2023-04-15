@@ -37,11 +37,15 @@
             </div>
         </div>
         <p>Add my repo by clicking on the package manager you use.</p>
-        <p>Only works on iOS / iPadOS devices.</p>    
+        <p>Only works on jailbroken iOS devices.</p>    
         <br>
-        <h3>Notes</h3>
-        <p>Repo for tvOS will be coming in the future, supporting tvOS 10 users using backr00m to checkra1n users on tvOS 12 and above.</p>
-        <p>Webpage is under construction, will update when I figure out what to put here...</p>    
+        <h3>Jailbreaking on iOS 15 & 16</h3>
+        <p>palera1n jailbreaks any iOS/iPadOS device with an arm64 (arm64e excluded) on iOS 15+, utilizing the checkm8 bootROM exploit.</p>
+        <p>palera1n is able to jailbreak the device in fakefs-rootful mode, where / is writable, as well as rootless mode, where / cannot be written to.</p>
+        <p>Due to the nature of the checkm8 exploit, palera1n is semi-tethered. That is, you must run the palera1n tool after the device reboot in order to enter the jailbroken state. However, it is not required for the device to boot.</p>
+        <p>On A11 devices, that is, iPhone 8, iPhone 8 Plus and iPhone X, the passcode cannot be used.</p>
+        <p>On iOS 16, the passcode must be off since restore, and Reset All Contents and Settings from settings app counts as a restore. A backup may be used in this case.</p>
+        <p>iOS 15.0 requires DER entitlements, and iOS 15.1 requires hash agility in code signatures. As a result, binaries with the old code signature format need to be resigned with a recent version of the Procursus fork of ldid(1) before they can be ran on a device jailbroken with palera1n.</p>
     </div>
 
 
