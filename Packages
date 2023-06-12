@@ -67,6 +67,23 @@ Depends: mobilesubstrate
 Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Author: julioverne & Dylicious
 
+Package: me.dylicious.spotilife.rootless
+Version: 1.8-rootless
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm
+Filename: ./debs/SpotilifeRootless.deb
+Size: 111048
+MD5sum: a64aec3802969052d27d66ce03002fdc
+SHA1: 5396f4fba8d07816fe6bcfd5a3bba2fc3be1810d
+SHA256: 4623e5774e5d56980bd72496f4b246d876504835e8510a42334b93fd2d7c6fcf
+SHA512: 2b592239badc0abb0d41d8d2cb6576e06a1e5ad7a20287dc6e60c4e37ef761cc7a4d38c75fec72754fb0a71940eb4a2f740e3177a5db0779161d8bca1f36a2bb
+Description: Enable Spotify Premium Features on iOS 12 - 16
+Name: Spotilife
+Depends: mobilesubstrate
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
+Author: julioverne & Dylicious
+
 Package: com.uckermark.not-a-bypass
 Version: 1.1.4
 Section: Tweaks
