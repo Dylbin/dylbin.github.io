@@ -136,6 +136,22 @@ Name: Streamer-iOS
 Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
 Author: mo7amedfouad
 
+Package: com.mo.streamer.ios.rootless
+Version: 1.2.17-rootless
+Section: Multimedia
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/Streamer-iOS-Rootless.deb
+Size: 9750812
+MD5sum: ce95a2c8d978354e88a8dd5410ac72f5
+SHA1: cf43e4d6b3acc7d4821a17366db101c0387c2ea8
+SHA256: a8c7072f9367e82e5c5b9391610e77bd06400bca220092663e2909887fc74e6d
+SHA512: 66fdcee099b75e8a46bf0f6e065072a9973d5315af578fda9c3fad32a880a4e4827de54b1812c9c5ab5dab94ba35d9191ab666d63ea9f857ced4be6dc8c64cd8
+Description: App for Streaming Movies and TV shows on iOS and tvOS
+Name: Streamer-iOS
+Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
+Author: mo7amedfouad
+
 Package: com.bandarhl.BHTwitter.rootless
 Version: 3.9.1-rootless
 Section: Tweaks
