@@ -71,7 +71,7 @@ Package: me.dylicious.spotilife.rootless
 Version: 1.8-rootless
 Section: Tweaks
 Maintainer: Dylicious
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/SpotilifeRootless.deb
 Size: 111048
 MD5sum: a64aec3802969052d27d66ce03002fdc
