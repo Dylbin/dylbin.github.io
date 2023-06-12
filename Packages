@@ -167,3 +167,19 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Icon: https://dylbin.github.io/icons/com.bandarhl.BHTwitter.rootless.png
 Author: BandarHelal
+
+Package: me.dylicious.saily.rootless
+Version: 2.1-rootless
+Section: Packaging
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/SailyRootless.deb
+Size: 3531504
+MD5sum: e251b2de89ff1101ca11ea1b0963299a
+SHA1: 794e9dae16ebf0271f9b400bbd2d26b537c1d7ce
+SHA256: f9893d966655a2b71e4f9406879053a9c9b69e91f70768e21d3996df24fc4ecd
+SHA512: b2669ea44bc301d290801965dfaa63544f23fe5510c0a0d980621b5910b4c5a969af90175ef82b29f157533df919645d2b7a54b7f0db129ac622c9b00c364aa0
+Description: Modern. Fast. Beautiful. Rootless.
+Name: Saily
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Author: Saily Team
