@@ -17,7 +17,7 @@ SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
 Author: MovieBoxPro Team
 
 Package: me.dylicious.mbp.rootless
-Version: 12.5
+Version: 12.5-rootless
 Section: Multimedia
 Maintainer: Dylicious
 Architecture: iphoneos-arm64
