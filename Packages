@@ -135,3 +135,19 @@ Description: App for Streaming Movies and TV shows on iOS and tvOS
 Name: Streamer-iOS
 Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
 Author: mo7amedfouad
+
+Package: com.bandarhl.BHTwitter.rootless
+Version: 3.9.1-rootless
+Section: Tweaks
+Maintainer: Dylicious
+Architecture: iphoneos-arm64
+Filename: ./debs/BHTwitterRootless.deb
+Size: 769768
+MD5sum: 69f9fdd6e5d38eba4fc29df4c27f025d
+SHA1: 7df4eff6371137b13bc2805ca58a7355ae14d69e
+SHA256: f903ce39a81be3969cbc9cad3b3f6f44bdffa543742cbf182b10d0ca691df6ff
+SHA512: bb0fb3ce897ae90e640b79a348929ce3dbfb7f598aaaf60059d0ed3c1e48f12f99dc205e2bf2bc138f768b70538dde5d3f6ffbc135a5352eb4c588592bc469b3
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Icon: https://dylbin.github.io/icons/com.bandarhl.BHTwitter.rootless.png
+Author: BandarHelal
