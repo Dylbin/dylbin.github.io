@@ -76,7 +76,7 @@ Size: 127026
 MD5sum: b07e4b5779d8493e67c2737b5fc0a200
 SHA1: 35c87e28f56ef559bf99bf1500e6910221fb411a
 SHA256: dda8793a490b3d16a10605f0e1504a45ec12c3a9ec71c6e7ad48b2e215230d85
-Description: Enable Spotify Premium Features on iOS 12 - 16
+Description: Enable Spotify Premium Features on iOS 10 - 14ish
 Name: Spotilife
 Depends: mobilesubstrate
 Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
@@ -92,7 +92,7 @@ Size: 111048
 MD5sum: a64aec3802969052d27d66ce03002fdc
 SHA1: 5396f4fba8d07816fe6bcfd5a3bba2fc3be1810d
 SHA256: 4623e5774e5d56980bd72496f4b246d876504835e8510a42334b93fd2d7c6fcf
-Description: Enable Spotify Premium Features on iOS 12 - 16
+Description: Enable Spotify Premium Features on iOS 10 - 14ish
 Name: Spotilife (Rootless)
 Depends: mobilesubstrate
 Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
@@ -259,3 +259,67 @@ Section: Tweaks
 Description: blocks downloading accessory firmware alert.
 Author: rA9stuff
 Name: accessoryalertblocker
+
+Package: com.eevee.spotify
+Version: 5.5
+Architecture: iphoneos-arm
+Maintainer: Dylicious
+Depends: dev.theos.orion (>= 1.0.0), firware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Installed-Size: 2924
+Filename: ./debs/EeveeSpotify.deb
+Size: 587804
+MD5sum: 40e8d458147c44c9b27118fed4127671
+SHA1: eefddcb3b31f0c3dddc037c08f176cdaa21030a0
+SHA256: 0a886fcc08ff9f44e9f4b7d0f5a1e5ffbe38442149e59658ba539d3b3f2a462e
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
+Author: Eevee
+Name: EeveeSpotify
+
+Package: com.eevee.spotify
+Version: 5.5
+Architecture: iphoneos-arm64
+Maintainer: Dylicious
+Depends: dev.theos.orion (>= 1.0.0), firware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Installed-Size: 2924
+Filename: ./debs/EeveeSpotifyRootless.deb
+Size: 587804
+MD5sum: 3e7c4d2e056309a1f98e3cb58bb94739
+SHA1: 05d55bc91823ed1f84a21dfe630f92c95e96a056
+SHA256: d444f6ddb509702c380319edc59f38b5046d498dff3a8699dd4b6bde8d53e88f
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
+Author: Eevee
+Name: EeveeSpotify (Rootless)
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.28.1
+Architecture: iphoneos-arm
+Maintainer: Dylicious
+Installed-Size: 10028
+Filename: ./debs/SwiftProtobuf.deb
+Size: 1430840
+MD5sum: 5c2db88887562db4fac2041a49e707c0
+SHA1: fb7ce58e06f99e6a976dc876e209e603b19f5d81
+SHA256: 568a026e1820b3214cd780fd2bbe69c1d689f176c409fb146fe29e7707e51aae
+Section: System
+Tag: role::developer
+Description: Plugin and runtime library for using protobuf with Swift
+Author: eevee
+Name: SwiftProtobuf
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.28.1
+Architecture: iphoneos-arm64
+Maintainer: Dylicious
+Installed-Size: 10028
+Filename: ./debs/SwiftProtobufRootless.deb
+Size: 1429912
+MD5sum: 2ae206a1a86ee7fa04af6038a8c41fd0
+SHA1: a4e5e847b4fa7ec05d34cff0f41b174bb9199b43
+SHA256: 2832730603d8f880405fd0bac4f5f86d8f4ceebd9e98253aa072237e060eb48d
+Section: System
+Tag: role::developer
+Description: Plugin and runtime library for using protobuf with Swift
+Author: eevee
+Name: SwiftProtobuf (Rootless)
