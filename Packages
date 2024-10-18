@@ -1,15 +1,15 @@
 Package: me.dylicious.mbp
-Version: 12.2
+Version: 14.0
 Section: Multimedia
 Maintainer: Dylicious
 Architecture: iphoneos-arm
-Filename: ./debs/MovieBoxPro.deb
-Size: 37263196
-MD5sum: c926f95b17348ec7bdbfaa16a4ef605b
-SHA1: f24f445eea4ab19df2d4df3fdaef4bdcf92ce5d5
-SHA256: 53dc1dd4a4b0046073d3941f7b0939a0360163e5e6a71f3befd7294d97e9c5ca
-SHA512: bcb138048b959fc03c9cf6438b639b1bff97f2ade6547ecd613948c22c998cfeba75d366196e25cb3b601f0fb8260ad91c14b1849812a30bf1e6565b5636eeac
-Description: MovieBoxPro for iOS 12/13/14/15/16
+Filename: ./debs/MovieBoxPro14.deb
+Size: 24542452
+MD5sum: b2fdd188aa1777da518cb58569194171
+SHA1: ecaecd84705500dec0a704d198fb754133f7a2c3
+SHA256: a08bb25b3a9bb90eecabc63b68232f3a33cf8d3f0d1afc96c71c8a4875f739fb
+SHA512: e52b192bcc6474dc0574d6639ac4ee904dcd5060442983744fd03dabb03f41084b73770b6b6ad888d71fa313870c230654b1e492de24a482036531f356b6ac8a
+Description: MovieBoxPro for iOS 12/13/14/15/16/17/18
 Name: MovieBoxPro
 Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
 Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
@@ -17,20 +17,20 @@ SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
 Author: MovieBoxPro Team
 
 Package: me.dylicious.mbp.rootless
-Version: 12.5-rootless
+Version: 14.0-rootless
 Section: Multimedia
 Maintainer: Dylicious
 Architecture: iphoneos-arm64
 Filename: ./debs/MovieBoxProRootless.deb
-Size: 37532276
-MD5sum: b7096ecaff1730328772b3be6652d0c0
-SHA1: df9ef845178d99bb957051784ee2644d49c9110b
-SHA256: bbc41cfb764aa78e03131bd75fda0e34d26fcddb68e690260f687d47ed858b6e
-SHA512: ff8770bc91390346224caa31109b8aaa90b6ac5e5a373806bcaea8aac178cab143c148d938576eaa7e98ba4bf0a0e1400323ebd39cafc5b241c059c3c661f184
-Description: MovieBoxPro for iOS 15/16/17 rootless jailbreaks.
+Size: 24546352
+MD5sum: c841a59d4da9838fe7dfa197c6de2b1a
+SHA1: 6911b98e4e4a39166713b5e359221bf5f819bbe1
+SHA256: 6731044ea47f80f4948d05f4c5afe68fe6bb5eb6a9770486dcd0fb66463cb196
+SHA512: 8a807855cf7e6ddec922318a07822b10fd128d66708c038f5092f93d1d8de8489c7ccdc02af2d5b415c305e6614fffd52d363ee35ef15c59a39f428f99824bba
+Description: MovieBoxPro for iOS 15/16/17/18 rootless jailbreaks.
 Name: MovieBoxPro (Rootless)
 Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
-Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
+Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro-Rootless.html
 SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
 Author: MovieBoxPro Team
 
