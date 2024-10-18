@@ -28,7 +28,7 @@ SHA1: df9ef845178d99bb957051784ee2644d49c9110b
 SHA256: bbc41cfb764aa78e03131bd75fda0e34d26fcddb68e690260f687d47ed858b6e
 SHA512: ff8770bc91390346224caa31109b8aaa90b6ac5e5a373806bcaea8aac178cab143c148d938576eaa7e98ba4bf0a0e1400323ebd39cafc5b241c059c3c661f184
 Description: MovieBoxPro for iOS 15/16/17 rootless jailbreaks.
-Name: MovieBoxPro
+Name: MovieBoxPro (Rootless)
 Icon: https://dylbin.github.io/icons/me.dylicious.mbp.png
 Depiction: https://dylbin.github.io/depictions/cydia/MovieBoxPro/MovieBoxPro.html
 SileoDepiction: https://dylbin.github.io/depictions/sileo/MovieBoxPro.json
@@ -44,7 +44,6 @@ Size: 7998966
 MD5sum: 56801de761959498670cc1d9bac18f55
 SHA1: e65aa76bc095f8c1c7c2607ce814339d8e377eec
 SHA256: c5b733a600046a4e6a35627b475921893aeefd9e3c0d96b259a0a353e1db1812
-SHA512: c2c8f7c81d2a2439645ef4f5d0d0a448e33f6cb91e893bacedc944880d51b8f51a6865ab4db8a10467374572b07180d163838ae4364b5cbed8813681b83b56c0
 Description: A stunning new look for iOS
 Depends: com.spark.snowboard | com.anemonetheming.anemone
 Name: Junipero Deluxe
@@ -61,7 +60,6 @@ Size: 9957152
 MD5sum: 095fcd6cff1c468fb6cefd63d4dd5d68
 SHA1: 763259669ea7b2674f216fe1d4697d33b105180b
 SHA256: 9c43f1e4ac7ab942157df58e9c4afc58335c20dbd0dcf1c85af5711a3c0d07b9
-SHA512: 65dea5c02ec2e9379f05d1321df25a1a1352d2a4e9a09ba5c0da830890bbb957bfe95dd7e3efb1c388700b6e6ab0b27a48a6a3cd1329416743e9133473cbe138
 Description: A legendary theme for iOS
 Name: Ayeris15
 Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
@@ -78,7 +76,6 @@ Size: 127026
 MD5sum: b07e4b5779d8493e67c2737b5fc0a200
 SHA1: 35c87e28f56ef559bf99bf1500e6910221fb411a
 SHA256: dda8793a490b3d16a10605f0e1504a45ec12c3a9ec71c6e7ad48b2e215230d85
-SHA512: 2a99dd2210911a91ed6036b24df3297eada11ea96a3cc15932bde421b992f7d504a7cec2a1a282a5db37c25bc3542a5fd50266c6a1a94da76de0d5e2172f2ffd
 Description: Enable Spotify Premium Features on iOS 12 - 16
 Name: Spotilife
 Depends: mobilesubstrate
@@ -95,9 +92,8 @@ Size: 111048
 MD5sum: a64aec3802969052d27d66ce03002fdc
 SHA1: 5396f4fba8d07816fe6bcfd5a3bba2fc3be1810d
 SHA256: 4623e5774e5d56980bd72496f4b246d876504835e8510a42334b93fd2d7c6fcf
-SHA512: 2b592239badc0abb0d41d8d2cb6576e06a1e5ad7a20287dc6e60c4e37ef761cc7a4d38c75fec72754fb0a71940eb4a2f740e3177a5db0779161d8bca1f36a2bb
 Description: Enable Spotify Premium Features on iOS 12 - 16
-Name: Spotilife
+Name: Spotilife (Rootless)
 Depends: mobilesubstrate
 Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Author: julioverne & Dylicious
@@ -183,3 +179,83 @@ Description: Modern. Fast. Beautiful. Rootless.
 Name: Saily
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Author: Saily Team
+
+Package: ipwnderlite64
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm
+Filename: ./debs/iPwnderLite64.deb
+Size: 22390
+MD5sum: d8adab1018a0fb283d2a3d7cbd6f1276
+SHA1: 3e8d381bb8ab4276fd9ab61feba159b58cea3c1c
+SHA256: 3c7354bbf06977b38371bcd525230c11d8c919caf397a94b775bdd6d0c4d0554
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (64-bit, iOS 11+)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: ipwnderlite32
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 9.0), firmware (<< 11.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm
+Filename: ./debs/iPwnderLite32.deb
+Size: 22882
+MD5sum: 56b35989d96bd89cc913575866cbe7b8
+SHA1: 69a2d2fa9f78b13af7c2794c2560e6a98f5f9253
+SHA256: 5a092523f82b8a6fe7bfb307eef8da359d78676618c0eb8bbe8ca09195cf15a0
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (32-bit)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: ipwnderlite
+Version: 1.0.63
+Section: System
+Maintainer: Dylicious
+Depends: firmware (>= 9.0), curl, com.ra9stuff.accessoryalertblocker
+Conflicts: ipwnderlite
+Architecture: iphoneos-arm64
+Filename: ./debs/iPwnderLite64-Rootless.deb
+Size: 22400
+MD5sum: 24305239612509dd084443e0c02de74d
+SHA1: 7c499bfcb85007470619d4e4b8746a3cadbb8ddd
+SHA256: db621c55f04701da808a3f3af5429cebb19fe58246ac21641c062b8c70eec497
+Description: a tool to exploit the checkm8 BootROM exploit on A4-A11 chipsets.
+Name: iPwnder Lite (64-bit, Rootless)
+Author: SakuRdev, dora2ios & Dylicious
+
+Package: com.ra9stuff.accessoryalertblocker
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: rA9stuff
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Accessoryalertblocker-Rootless.deb
+Size: 4970
+MD5sum: c585aca0c818a74d52b2e045b29d9fd2
+SHA1: ab44734d1b78494d2bbf3d61c5e79f6959aa4d79
+SHA256: a38c9303115330e1abc471bc21136622c532255c4a1a35dfd82143255a656760
+Section: Tweaks
+Description: blocks downloading accessory firmware alert.
+Author: rA9stuff
+Name: accessoryalertblocker (rootless)
+
+Package: com.ra9stuff.accessoryalertblocker
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: rA9stuff
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/Accessoryalertblocker.deb
+Size: 4908
+MD5sum: fd284f54ce49e93397e462947f5f1ad2
+SHA1: 3518e993db934723dfaaf5b7fd83f3d49b10c4c1
+SHA256: a5663a19248dce79aa74b7f23b75b3dc893260012cfa9ff908675721da0f9844
+Section: Tweaks
+Description: blocks downloading accessory firmware alert.
+Author: rA9stuff
+Name: accessoryalertblocker
