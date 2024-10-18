@@ -264,7 +264,7 @@ Package: com.eevee.spotify
 Version: 5.5
 Architecture: iphoneos-arm
 Maintainer: Dylicious
-Depends: dev.theos.orion (>= 1.0.0), firware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Installed-Size: 2924
 Filename: ./debs/EeveeSpotify.deb
 Size: 587804
@@ -280,7 +280,7 @@ Package: com.eevee.spotify
 Version: 5.5
 Architecture: iphoneos-arm64
 Maintainer: Dylicious
-Depends: dev.theos.orion (>= 1.0.0), firware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Installed-Size: 2924
 Filename: ./debs/EeveeSpotifyRootless.deb
 Size: 587804
