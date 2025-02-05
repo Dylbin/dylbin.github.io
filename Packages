@@ -116,54 +116,6 @@ Pre-Depends: coreutils-bin, dpkg (>= 1.17.11)
 Icon: https://dylbin.github.io/icons/com.uckermark.not-a-bypass.png
 Author: Uckermark
 
-Package: com.mo.streamer.ios
-Version: 1.2.12
-Section: Multimedia
-Maintainer: Dylicious
-Architecture: iphoneos-arm
-Filename: ./debs/Streamer-iOS.deb
-Size: 9039392
-MD5sum: 51e98d922c25aa0fc2511d308da37373
-SHA1: cf7d8e4504c4ba156d80feeff2ffe7d8b0ac42e8
-SHA256: 55819007d099b4fcac8c8fa9a2a1742fbbc3d4854a96ce8ee10dffac07599ae8
-SHA512: 7f3adf5cc27f105ab739258b770c4d9207cbd25d38d797d7433ee9547c0b18bf825044df3a38d43d0d4052c7bb22de7094c09ba192b14d382ceca1497254d553
-Description: App for Streaming Movies and TV shows on iOS and tvOS
-Name: Streamer-iOS
-Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
-Author: mo7amedfouad
-
-Package: com.mo.streamer.ios.rootless
-Version: 1.2.17-rootless
-Section: Multimedia
-Maintainer: Dylicious
-Architecture: iphoneos-arm64
-Filename: ./debs/Streamer-iOS-Rootless.deb
-Size: 9750812
-MD5sum: ce95a2c8d978354e88a8dd5410ac72f5
-SHA1: cf43e4d6b3acc7d4821a17366db101c0387c2ea8
-SHA256: a8c7072f9367e82e5c5b9391610e77bd06400bca220092663e2909887fc74e6d
-SHA512: 66fdcee099b75e8a46bf0f6e065072a9973d5315af578fda9c3fad32a880a4e4827de54b1812c9c5ab5dab94ba35d9191ab666d63ea9f857ced4be6dc8c64cd8
-Description: App for Streaming Movies and TV shows on iOS and tvOS
-Name: Streamer-iOS
-Icon: https://dylbin.github.io/icons/com.mo.streamer.ios.png
-Author: mo7amedfouad
-
-Package: com.bandarhl.BHTwitter.rootless
-Version: 3.9.1-rootless
-Section: Tweaks
-Maintainer: Dylicious
-Architecture: iphoneos-arm64
-Filename: ./debs/BHTwitterRootless.deb
-Size: 769768
-MD5sum: 69f9fdd6e5d38eba4fc29df4c27f025d
-SHA1: 7df4eff6371137b13bc2805ca58a7355ae14d69e
-SHA256: f903ce39a81be3969cbc9cad3b3f6f44bdffa543742cbf182b10d0ca691df6ff
-SHA512: bb0fb3ce897ae90e640b79a348929ce3dbfb7f598aaaf60059d0ed3c1e48f12f99dc205e2bf2bc138f768b70538dde5d3f6ffbc135a5352eb4c588592bc469b3
-Description: Awesome tweak for Twitter
-Name: BHTwitter
-Icon: https://dylbin.github.io/icons/com.bandarhl.BHTwitter.rootless.png
-Author: BandarHelal
-
 Package: me.dylicious.saily.rootless
 Version: 2.1-rootless
 Section: Packaging
