@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "",
+    "headerImage": "https://dylbin.github.io/icons/MovieBoxBanner.png",
     "class": "DepictionTabView",
     "tintColor": "#363535",
     "tabs": [
