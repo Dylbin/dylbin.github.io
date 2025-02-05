@@ -261,47 +261,47 @@ Author: rA9stuff
 Name: accessoryalertblocker
 
 Package: com.eevee.spotify
-Version: 5.5
+Version: 5.8.6
 Architecture: iphoneos-arm
 Maintainer: Dylicious
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Installed-Size: 2924
+Installed-Size: 1596
 Filename: ./debs/EeveeSpotify.deb
-Size: 587804
-MD5sum: 40e8d458147c44c9b27118fed4127671
-SHA1: eefddcb3b31f0c3dddc037c08f176cdaa21030a0
-SHA256: 0a886fcc08ff9f44e9f4b7d0f5a1e5ffbe38442149e59658ba539d3b3f2a462e
+Size: 397122
+MD5sum: 0de1d45352ca2c9ed9339989884f829e
+SHA1: b78c031922b161d207b006304d773a7e5cabf34e
+SHA256: 85cd8c11f9727ce8f6990508e765fa08a1d79641ef43bca282b1fd39d8ee7248
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
 Author: Eevee
 Name: EeveeSpotify
 
 Package: com.eevee.spotify
-Version: 5.5
+Version: 5.8.6
 Architecture: iphoneos-arm64
 Maintainer: Dylicious
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
-Installed-Size: 2924
+Installed-Size: 1596
 Filename: ./debs/EeveeSpotifyRootless.deb
-Size: 587804
-MD5sum: 3e7c4d2e056309a1f98e3cb58bb94739
-SHA1: 05d55bc91823ed1f84a21dfe630f92c95e96a056
-SHA256: d444f6ddb509702c380319edc59f38b5046d498dff3a8699dd4b6bde8d53e88f
+Size: 397734
+MD5sum: 4af9bf7444d0ed881f15fbce1030b3b8
+SHA1: a1a0503f17b26dc8574e6c04dc766110d53f9d5f
+SHA256: a8c95693ff3f1e8078ae858fac19c3bc03eb42b58d40c07fe8304c36a77763a3
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
 Author: Eevee
 Name: EeveeSpotify (Rootless)
 
 Package: org.swift.protobuf.swiftprotobuf
-Version: 1.28.1
+Version: 1.28.2
 Architecture: iphoneos-arm
 Maintainer: Dylicious
 Installed-Size: 10028
 Filename: ./debs/SwiftProtobuf.deb
-Size: 1430840
-MD5sum: 5c2db88887562db4fac2041a49e707c0
-SHA1: fb7ce58e06f99e6a976dc876e209e603b19f5d81
-SHA256: 568a026e1820b3214cd780fd2bbe69c1d689f176c409fb146fe29e7707e51aae
+Size: 1429922
+MD5sum: d5dfedcf8c7d97c404c0fbd6a35c92ab
+SHA1: 0e3f7ab2c945717a7e0ec6dd523ff8eb3ed2c5c5
+SHA256: ea7cdcd0003515215985003fd7f04544b50733c9c5a31150455436f7f6d11223
 Section: System
 Tag: role::developer
 Description: Plugin and runtime library for using protobuf with Swift
@@ -309,15 +309,15 @@ Author: eevee
 Name: SwiftProtobuf
 
 Package: org.swift.protobuf.swiftprotobuf
-Version: 1.28.1
+Version: 1.28.2
 Architecture: iphoneos-arm64
 Maintainer: Dylicious
-Installed-Size: 10028
+Installed-Size: 10056
 Filename: ./debs/SwiftProtobufRootless.deb
-Size: 1429912
-MD5sum: 2ae206a1a86ee7fa04af6038a8c41fd0
-SHA1: a4e5e847b4fa7ec05d34cff0f41b174bb9199b43
-SHA256: 2832730603d8f880405fd0bac4f5f86d8f4ceebd9e98253aa072237e060eb48d
+Size: 1430994
+MD5sum: b87fee9f13f061a7e24bec3528847c52
+SHA1: 746b5e5c7fc9df2c4ec9f4cea6643c8bcfccfe80
+SHA256: 97cc0507077235567b628ce4aa7acae8b2cae7b5dea3411abe188f1cfc6e6d66
 Section: System
 Tag: role::developer
 Description: Plugin and runtime library for using protobuf with Swift
