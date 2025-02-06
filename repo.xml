@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://twitter.com/dylicious999</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>Follow me on GitHub</name>
+            <url>https://github.com/Dylbin</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
