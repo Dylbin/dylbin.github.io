@@ -1,0 +1,3 @@
+#!/bin/sh
+/bin/mkdir -m 700 /private/var/tmp/launchd
+/bin/mv /private/var/evasi0n/sock /private/var/tmp/launchd/sock

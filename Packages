@@ -275,3 +275,123 @@ Tag: role::developer
 Description: Plugin and runtime library for using protobuf with Swift
 Author: eevee
 Name: SwiftProtobuf (Rootless)
+
+Package: io.pangu.fuxiqin9
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Pangu <axe@pangu.io>
+Depends: coreutils-bin, firmware (>= 9.0), firmware (<= 9.1)
+Filename: debs/Pangu9.deb
+Size: 208682
+MD5sum: bd3016250078ec73f159e44595dc06d1
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: https://cydia.saurik.com/info/io.pangu.fuxiqin9/
+Name: Pangu 9.0-9.1 Untether
+
+Package: io.pangu.xuanyuansword8
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Pangu <axe@pangu.io>
+Depends: coreutils-bin, firmware (>= 8.0), firmware (<< 8.2)
+Filename: debs/Pangu8.deb
+Size: 457432
+MD5sum: a08eec22eabc8e4eb3f1055e795967e8
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: https://cydia.saurik.com/info/io.pangu.xuanyuansword8/
+Name: Pangu 8.0-8.1.x Untether
+
+Package: com.evad3rs.evasi0n
+Version: 0.4-1
+Architecture: iphoneos-arm
+Maintainer: evad3rs <info@evad3rs.com>
+Depends: coreutils-bin, firmware (>= 6.0), firmware (<= 6.1.2)
+Filename: debs/evasi0n.deb
+Size: 98678
+MD5sum: cb193d8cf0eea61ac62d68fff3a55902
+Section: System
+Priority: optional
+Description: untethered jailbreak based on planetbeing and nikias exploits
+Author: evad3rs <info@evad3rs.com>
+Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n/
+Name: evasi0n 6.0-6.1.2 Untether
+
+Package: com.evad3rs.evasi0n7
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: evad3rs <info@evad3rs.com>
+Depends: coreutils-bin, firmware (>= 7.0), firmware (<= 7.1)
+Filename: debs/evasi0n7.deb
+Size: 156658
+MD5sum: 1c924f4fb095c49511a5f089091bf80d
+Section: System
+Priority: optional
+Description: untethered jailbreak based on evad3rs exploits
+Author: evad3rs <info@evad3rs.com>
+Depiction: https://cydia.saurik.com/info/com.evad3rs.evasi0n7/
+Name: evasi0n 7.x Untether
+
+Package: com.chronic-dev.greenpois0n.rocky-racoon
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: Chronic Dev Team <info@chronic-dev.com>
+Depends: coreutils-bin, firmware (= 5.1.1), lzma, cy+model.iphone (= 2.1) | cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipod (= 4.1) | cy+model.ipad (= 1.1) | cy+model.ipad (= 2.1) | cy+model.ipad (= 2.2) | cy+model.ipad (= 2.3) | cy+model.ipad (= 2.4) | cy+model.ipad (= 3.1) | cy+model.ipad (= 3.2) | cy+model.ipad (= 3.3)
+Filename: debs/RockyRacoon.deb
+Size: 236562
+MD5sum: 3ab8fa97b5a7bbdb8e16a04d8619a7a6
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pod2g and planetbeing exploits
+Author: Chronic-Dev Team <info@chronic-dev.com>
+Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.rocky-racoon/
+Name: Rocky Racoon 5.1.1 Untether
+
+Package: taiguntether83x
+Version: 2.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.1.3), firmware (<= 8.4), uikittools (>= 1.1.10)
+Breaks: taiguicache (<< 2.0), cydia (<< 1.1.19)
+Filename: debs/TaigUntether.deb
+Size: 96784
+MD5sum: e372f4c35ecfd6408ab4d5643e675a44
+Section: System
+Priority: important
+Description: taig untether jailbreak for ios8.1.3-ios8.4
+Author: TaiG
+Depiction: https://cydia.saurik.com/info/taiguntether83x/
+Name: TaiG 8.1.3-8.x Untether
+
+Package: com.ih8sn0w-squiffy-winocm.p0sixspwn
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: iH8sn0w, SquiffyPwn, winocm
+Installed-Size: 88
+Depends: firmware(>= 6.1.3), firmware (<< 7.0)
+Filename: debs/p0sixspwn.deb
+Size: 24748
+MD5sum: ab8d468fa8501539a8f327131eedd710
+Section: System
+Description: A drama free 6.1.3/6.1.4/6.1.5/6.1.6 untether.
+Author: iH8sn0w, SquiffyPwn, winocm
+Depiction: https://cydia.saurik.com/info/com.ih8sn0w-squiffy-winocm.p0sixspwn/
+Name: p0sixspwn
+
+Package: com.chronic-dev.greenpois0n.corona
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: Chronic Dev Team <info@chronic-dev.com>
+Depends: coreutils-bin, firmware (= 5.0) | firmware (= 5.0.1), cy+model.iphone (= 2.1) | cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipod (= 4.1) | cy+model.ipad (= 1.1) | cy+model.ipad (= 2.1) | cy+model.ipad (= 2.2) | cy+model.ipad (= 2.3)
+Filename: debs/Corona.deb
+Size: 102934
+MD5sum: 97e871eb40d78659930a029a4244744e
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pod2g's exploit
+Author: Chronic-Dev Team <info@chronic-dev.com>
+Depiction: https://cydia.saurik.com/info/com.chronic-dev.greenpois0n.corona/
+Name: Corona 5.0.1 Untether
