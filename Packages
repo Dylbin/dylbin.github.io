@@ -50,21 +50,21 @@ Name: Junipero Deluxe
 Icon: https://dylbin.github.io/icons/me.dylicious.junipero.png
 Author: xerusdesign
 
-Package: me.dylicious.ayeris15
-Version: 1.0.4
+Package: me.dylicious.ayeris
+Version: 1.5
 Section: Themes
 Maintainer: Dylicious
 Architecture: iphoneos-arm
-Filename: ./debs/Ayeris15.deb
-Size: 9957152
-MD5sum: 095fcd6cff1c468fb6cefd63d4dd5d68
-SHA1: 763259669ea7b2674f216fe1d4697d33b105180b
-SHA256: 9c43f1e4ac7ab942157df58e9c4afc58335c20dbd0dcf1c85af5711a3c0d07b9
+Filename: ./debs/ayeris.deb
+Size: 8766054
+MD5sum: fdc79970f37aa5c92ae0eaafa264a780
+SHA1: 735b183e955d14d74962da5cb3f4162da5c46c7e
+SHA256: 834f1e3234a2959c43a6c16b9c7e87741471d3001be6315158304c46a851027b
 Description: A legendary theme for iOS
-Name: Ayeris15
-Depends: com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone | com.artikus.neonboard | winterboard
+Name: ayeris
+Depends: com.anemonetheming.anemone | com.spark.snowboard
 Icon: https://dylbin.github.io/icons/me.dylicious.ayeris15.png
-Author: Surenix <surenix@surenix.me>
+Author: Dylicious
 
 Package: me.dylicious.spotilife
 Version: 1.8
