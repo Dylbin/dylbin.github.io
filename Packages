@@ -399,25 +399,6 @@ Name: Corona 5.0.1 Untether
 Package: ellekit
 Name: ElleKit
 Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Author: Evelyn
-Section: Tweak Injection
-Priority: optional
-Icon: https://ellekit.space/logos/logo.png
-Description: ElleKit tweak injection libraries and loader
-Size: 353080
-Filename: debs/ElleKitRootful.deb
-MD5sum: a0c56c27d2bd4277dfa72bc0a72d42fd
-SHA1: c46de29f16c8cf76523ab8dc555fee5c684b800e
-SHA256: 4b412c334ff4b0a6e2baf121a3ca99ed467efd736b8605568eb2833f16b2f56c
-
-Package: ellekit
-Name: ElleKit
-Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
