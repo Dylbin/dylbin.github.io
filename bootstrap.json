@@ -49,15 +49,9 @@
               "filePath": "/Applications/Sileo.app"
             },
             {
-              "name": "Zebra",
-              "uri": "https://static.palera.in/zebra.deb",
-              "icon": "https://palera.in/assets-config/zeeb.png",
-              "filePath": "/Applications/Zebra.app"
-            },
-            {
-              "name": "Saily"
-              "uri": "https://dylbin.github.io/debs/Saily.deb"
-              "icon": "https://dylbin.github.io/icons/saily.png"
+              "name": "Saily",
+              "uri": "https://dylbin.github.io/debs/Saily.deb",
+              "icon": "https://dylbin.github.io/icons/saily.png",
               "filePath": "/Applications/Saily.app"
             }
           ],
@@ -70,12 +64,6 @@
             },
             {
               "Types": "deb",
-              "URIs": "https://ellekit.space",
-              "Suites": "./",
-              "Components": ""
-            },
-            {
-              "Types": "deb"
               "URIs": "https://dylbin.github.io",
               "Suites": "./",
               "Components": ""
@@ -126,15 +114,9 @@
               "filePath": "/var/jb/Applications/Sileo.app"
             },
             {
-              "name": "Zebra",
-              "uri": "https://static.palera.in/rootless/zebra.deb",
-              "icon": "https://palera.in/assets-config/zeeb.png",
-              "filePath": "/var/jb/Applications/Zebra.app"
-            },
-            {
-              "name": "Saily"
-              "uri": "https://dylbin.github.io/debs/Saily.deb"
-              "icon": "https://dylbin.github.io/icons/saily.png"
+              "name": "Saily",
+              "uri": "https://dylbin.github.io/debs/Saily.deb",
+              "icon": "https://dylbin.github.io/icons/saily.png",
               "filePath": "/var/jb/Applications/Saily.app"
             }
           ],
@@ -147,12 +129,6 @@
             },
             {
               "Types": "deb",
-              "URIs": "https://ellekit.space",
-              "Suites": "./",
-              "Components": ""
-            },
-            {
-              "Types": "deb"
               "URIs": "https://dylbin.github.io",
               "Suites": "./",
               "Components": ""
