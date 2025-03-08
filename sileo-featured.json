@@ -4,9 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://dylbin.github.io/icons/MovieBoxBanner.png",
-        "title": "MovieBoxPro",
-        "package": "me.dylicious.mbp.rootless",
+        "url": "https://dylbin.github.io/icons/SailyBanner.png",
+        "title": "Saily",
+        "package": "me.dylicious.saily.rootless",
         "hideShadow": false
     }
   ]
