@@ -129,7 +129,7 @@ SHA256: f9893d966655a2b71e4f9406879053a9c9b69e91f70768e21d3996df24fc4ecd
 SHA512: b2669ea44bc301d290801965dfaa63544f23fe5510c0a0d980621b5910b4c5a969af90175ef82b29f157533df919645d2b7a54b7f0db129ac622c9b00c364aa0
 Description: Modern. Fast. Beautiful. Rootless.
 Name: Saily
-Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Icon: https://dylbin.github.io/icons/Saily.png
 Author: Saily Team
 
 Package: ipwnderlite64
@@ -226,6 +226,7 @@ SHA256: 85cd8c11f9727ce8f6990508e765fa08a1d79641ef43bca282b1fd39d8ee7248
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
 Author: Eevee
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Name: EeveeSpotify
 
 Package: com.eevee.spotify
@@ -242,6 +243,7 @@ SHA256: a8c95693ff3f1e8078ae858fac19c3bc03eb42b58d40c07fe8304c36a77763a3
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife. Works on iOS 14 - 18
 Author: Eevee
+Icon: https://dylbin.github.io/icons/me.dylicious.spotilife.png
 Name: EeveeSpotify (Rootless)
 
 Package: org.swift.protobuf.swiftprotobuf
