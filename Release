@@ -3,6 +3,6 @@ Label: Dylicious Repo
 Suite: stable
 Version: 2.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A very dylicious iOS repository
