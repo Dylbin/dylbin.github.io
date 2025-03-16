@@ -21,17 +21,6 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot0",
-                            "url": ""
-                        }
-                    ],
-                    "itemSize": "{160, 275.41333333333336}",
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6
-                },
-                {
                     "markdown": "AppSync Unified is a tweak that allows users to freely install ad-hoc signed, fakesigned, unsigned, or expired IPA app packages on their iOS devices that iOS would otherwise consider invalid.",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
