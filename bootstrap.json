@@ -47,12 +47,6 @@
               "uri": "https://static.palera.in/sileo.deb",
               "icon": "https://palera.in/assets-config/sileo.png",
               "filePath": "/Applications/Sileo.app"
-            },
-            {
-              "name": "Saily",
-              "uri": "https://dylbin.github.io/debs/Saily.deb",
-              "icon": "https://dylbin.github.io/icons/saily.png",
-              "filePath": "/Applications/Saily.app"
             }
           ],
           "repositories": [
@@ -112,12 +106,6 @@
               "uri": "https://static.palera.in/rootless/sileo.deb",
               "icon": "https://palera.in/assets-config/sileo.png",
               "filePath": "/var/jb/Applications/Sileo.app"
-            },
-            {
-              "name": "Saily",
-              "uri": "https://dylbin.github.io/debs/Saily.deb",
-              "icon": "https://dylbin.github.io/icons/saily.png",
-              "filePath": "/var/jb/Applications/Saily.app"
             }
           ],
           "repositories": [
