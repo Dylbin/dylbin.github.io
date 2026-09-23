@@ -405,3 +405,35 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://dylbin.github.io/depictions/cydia/AppSyncUnified/AppSyncUnified.html
 SileoDepiction: https://dylbin.github.io/depictions/sileo/AppSyncUnified.json
 Name: AppSync Unified
+
+Package: lol.sep.turdusmerula
+Name: turdus merula
+Version: 1.3
+Architecture: iphoneos-arm64
+Description: meow
+Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
+Maintainer: kok3shi
+Author: Clarity, kok3shidoll, Mineek
+Filename: debs/TurdusMerulaRootless.deb
+Section: Development
+Size: 2158416
+MD5sum: 84eb2dd86ec7de80acab9402b2e17c19
+SHA1: e145db1225240e584a6de0f978115775499ce8ac
+SHA256: 884a30897413accb9655fed3c2e7832ef35feb31a72d93075a79852cbaa0938c
+Depends: firmware (>= 15.0), cy+cpu.arm64, usbmuxd
+
+Package: lol.sep.turdusmerula
+Name: turdus merula
+Version: 1.3
+Architecture: iphoneos-arm64
+Description: meow
+Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
+Maintainer: kok3shi
+Author: Clarity, kok3shidoll, Mineek
+Filename: debs/TurdusMerulaRootful.deb
+Section: Development
+Size: 2623538
+MD5sum: 473a3fc40f085b0fcb9d377fae68b7af
+SHA1: 5d1ec8ab28a2059b5559f3660623aaadabf6171e
+SHA256: 5f8dfdde9bdafae58872df37280088d67fe7ed5ba4b41406a41fd1d5848c2cd6
+Depends: firmware (>= 14.0), cy+cpu.arm64, usbmuxd
